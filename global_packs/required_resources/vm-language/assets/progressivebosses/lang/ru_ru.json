@@ -1,0 +1,24 @@
+{
+  "item.progressivebosses.nether_star_shard": "Осколок звезды незера",
+  "item.progressivebosses.elder_guardian_spike": "Шип древнего стража",
+
+  "entity.progressivebosses.wither_minion": "Визер-прислужник",
+  "death.attack.progressivebosses:wither_charge_attack": "%1$s был атакован %2$s.",
+
+  "entity.progressivebosses.larva": "Личинка дракона",
+  "progressivebosses:dragon_minion": "Прислужник дракона",
+  "death.attack.progressivebosses:dragon_fireball": "%1$s был уничтожен взрывом %2$s.",
+
+  "progressivebosses:elder_minion": "Старший прислужник",
+
+  "progressivebosses:command.player_get_wither_difficulty": "%s призвал %d визеров.",
+  "progressivebosses:command.player_get_dragon_difficulty": "%s убил %d драконов.",
+  "progressivebosses:command.player_set_boss_difficulty": "Задал %s %s сложность на %d.",
+  "progressivebosses:command.player_add_boss_difficulty": "Добавил %d сложность %s на %s (теперь %d).",
+  "progressivebosses:command.summoned_entity": "Призвал %s со сложностью %d.",
+  "progressivebosses:command.summon_invalid_entity": "Существо %s недопустимо.",
+
+  "dragon.first_killed": "Поздравляю с первым убийством Дракона. Знай, что с каждым убитым Драконом будет сложнее убить следующего.",
+  "wither.first_summon": "Ты породил первого Визера. Знай, что с каждым порождённым Визером будет сложнее убить следующего.",
+  "elder_guardian.approach": "Похоже, что ты приближаешься к Океанскому монументы, до тех пор, пока ты не одолеешь всех Древних стражей ... или, если только ты не спасёшься бегством ... ты не сможешь разрушать блоки."
+}
