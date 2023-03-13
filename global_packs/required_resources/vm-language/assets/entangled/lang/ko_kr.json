@@ -1,0 +1,23 @@
+{
+  "block.entangled.block": "얽힌 블록",
+  "item.entangled.item": "얽힌 바인더",
+  "entangled.entangled_block.info.ranged_same_dimension": "최대 %d 블록 떨어진 동일한 차원의 블록에 바인딩할 수 있습니다.",
+  "entangled.entangled_block.info.infinite_same_dimension": "동일한 차원의 블록에 바인딩할 수 있습니다.",
+  "entangled.entangled_block.info.ranged_other_dimension": "최대 %d 블록 떨어진 블록 또는 다른 차원의 블록에 바인딩할 수 있습니다.",
+  "entangled.entangled_block.info.infinite_other_dimension": "다른 블록에 바인딩할 수 있습니다.",
+  "entangled.entangled_block.info.bound": "%5$s의 (%2$d, %3$d, %4$d)에 있는 %1$s에 바인딩됨",
+  "entangled.entangled_block.unbind": "블록 바인딩 해제!",
+  "entangled.entangled_block.no_selection": "블록 선택되어있지 않음!",
+  "entangled.entangled_block.self": "자기자신에 바인딩할 수 없음!",
+  "entangled.entangled_block.bind": "블록 바인딩!",
+  "entangled.entangled_block.wrong_dimension": "대상 블록은 동일한 차원에 있어야 합니다!",
+  "entangled.entangled_block.too_far": "대상 블록이 너무 멀리 있습니다!",
+  "entangled.entangled_binder.info": "얽힌 블록을 다른 블록들에 바인딩할 수 있습니다.",
+  "entangled.entangled_binder.info.target.unknown": "%4$s의 (%1$d, %2$d, %3$d)에 있는 블록에 연결됨",
+  "entangled.entangled_binder.info.target.known": "%5$s의 (%2$d, %3$d, %4$d)에 있는 %1$s에 연결됨",
+  "entangled.entangled_binder.select": "블록 선택!",
+  "entangled.entangled_binder.clear": "연결 해제!",
+  "entangled.waila.bound_same_dimension": "(%2$d, %3$d, %4$d)에 있는 %1$s에 바인딩됨",
+  "entangled.waila.bound_other_dimension": "%5$s의 (%2$d, %3$d, %4$d)에 있는 %1$s에 바인딩됨",
+  "entangled.waila.unbound": "바인딩 되어있지 않음"
+}
