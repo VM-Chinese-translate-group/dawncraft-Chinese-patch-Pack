@@ -1,0 +1,116 @@
+{
+  "danny_commands.force_phase.same_phase": "World phase is %s already!",
+  "danny_commands.force_phase.success": "Changed world phase from %s to %s",
+  "argument.dannys_expansion.phase.invalid_reference": "Couldn't find phase \"%s\"",
+  "argument.dannys_expansion.phase_ordinal.negative_ordinal": "Phase ordinal cannot be negative: %s",
+  "argument.dannys_expansion.phase_ordinal.out_of_bounds_ordinal": "Phase ordinal is out of bounds: %s",
+
+  "container.workbench": "Workbench",
+  "container.engineering_station": "Engineering Station",
+  "container.lazy_workstation.filter": "Filter",
+  "container.lazy_workstation.search_bar": "Search",
+  "container.danny_accessories": "Accessories",
+
+  "ingredient_tooltip.tag": "Any from @tag",
+  "ingredient_tooltip.tag_content_hidden": "Press @key to show contents from @tag",
+
+  "danny_options.credits": "Credits",
+  "danny_options.generation.title": "Generation",
+  "danny_options.links": "Links",
+  "danny_options.main.title": "Danny's Expansion Options",
+  "danny_options.mob_natural_generation.title": "Mob Natural Generation",
+  "danny_options.mob_spawn.title_suffix": "Spawn Configuration",
+  "danny_options.mob_spawn.biomes": "Biomes",
+  "danny_options.mob_spawn.biome_dictionaries": "Biome Dictionaries",
+  "danny_options.mob_spawn.blacklisted_biomes": "Blacklisted Biomes",
+  "danny_options.mob_spawn.blacklisted_biome_dictionaries": "Blacklisted Dictionaries",
+  "danny_options.structures.title": "Structures",
+
+  "death.attack.cursed_flames": "%1$s got burnt in cursed flames",
+  "death.attack.cursed_flames.player": "%1$s got burnt in cursed flames whilst fighting %2$s",
+  "death.attack.spores": "%1$s got consumed by spores",
+  "death.attack.spores.player": "%1$s got consumed by spores whilst fighting %2$s",
+
+  "effect.dannys_expansion.cursed_flames": "Cursed Flames",
+  "effect.dannys_expansion.spores": "Spores",
+  "effect.dannys_expansion.yellow_foam": "Yellow Foam",
+  "effect.dannys_expansion.venom": "Venom",
+
+  "itemGroup.dannys_expansion": "Danny's Expansion",
+
+  "description.dannys_expansion.antique_armor": "Press 3 times in one direction to do a dash attack.",
+  "description.dannys_expansion.spore_bomb": "Creates a spore cloud on detonation.",
+  "description.dannys_expansion.blue_slime": "Summons a mountable slime.",
+
+  "description.dannys_expansion.gun": "Gun",
+  "description.dannys_expansion.bow": "Bow",
+  "description.dannys_expansion.arrow": "Arrow",
+  "description.dannys_expansion.accessory": "Accessory",
+
+  "description.dannys_expansion.hold_key_for_info": "Press @in< For More Information.",
+  "description.dannys_expansion.statistics": "@in< Statistics:",
+  "description.dannys_expansion.hidden_data": "Hidden Data:",
+
+  "description.dannys_expansion.shoot_delay": "@in< Shoot Delay",
+  "description.dannys_expansion.damage": "@in< Damage",
+  "description.dannys_expansion.rate_of_fire": "@in< Rate Of Fire",
+  "description.dannys_expansion.additional_bullet_speed": "@in< Additional Bullet Speed",
+  "description.dannys_expansion.bullet_speed_multiplier": "@in< Bullet Speed Multiplier",
+  "description.dannys_expansion.recoil": "@in< Recoil",
+  "description.dannys_expansion.max_recoil": "@in< Max Recoil",
+  "description.dannys_expansion.scoping_zoom": "@in< Scoping Zoom",
+  "description.dannys_expansion.scoping_sens_multiplier": "@in< Scoping Sensibility Multiplier",
+  "description.dannys_expansion.scoping_movement": "@in< Scoping Movement Multiplier",
+  "description.dannys_expansion.pellet_count": "@in< Pellets Per Shoot",
+  "description.dannys_expansion.pellet_dispersion": "@in< Pellet Dispersion",
+  "description.dannys_expansion.arrow_damage_factor": "@in< Arrow Damage Factor",
+  "description.dannys_expansion.arrow_speed_factor": "@in< Arrow Speed Factor",
+  "description.dannys_expansion.nock_time": "@in< Nock Time",
+  "description.dannys_expansion.nock_zoom": "@in< Nock Zoom",
+  "description.dannys_expansion.nock_movement_speed": "@in< Nock Movement Speed",
+
+  "description.dannys_expansion.accessory_base.melee_damage_modifier": "@mod< Melee Damage",
+  "description.dannys_expansion.accessory_base.melee_knockback_modifier": "@mod< Melee Knockback",
+  "description.dannys_expansion.accessory_base.melee_speed_modifier": "@mod< Melee Speed",
+
+  "description.dannys_expansion.accessory_base.gun_accuracy_modifier": "@mod< Gun Accuracy",
+  "description.dannys_expansion.accessory_base.gun_cadence_modifier": "@mod< Gun Cadence",
+  "description.dannys_expansion.accessory_base.gun_damage_mlt_modifier": "@mod<% Gun Damage",
+  "description.dannys_expansion.accessory_base.gun_damage_add_modifier": "@mod< Gun Damage",
+  "description.dannys_expansion.accessory_base.bullet_speed_modifier": "@mod<% Bullet Speed",
+  "description.dannys_expansion.accessory_base.archery_speed_modifier": "@mod< Bow Recharge Speed",
+  "description.dannys_expansion.accessory_base.archery_damage_mlt_modifier": "@mod<% Archery Damage",
+  "description.dannys_expansion.accessory_base.archery_damage_add_modifier": "@mod< Archery Damage",
+  "description.dannys_expansion.accessory_base.arrow_speed_modifier": "@mod<% Arrow Speed",
+
+  "description.dannys_expansion.accessory_base.movement_speed_modifier": "@mod<% movement speed",
+  "description.dannys_expansion.accessory_base.knockback_resistance_modifier": "@mod< knockback_resistance",
+  "description.dannys_expansion.accessory_base.armor_modifier": "@mod< armor",
+  "description.dannys_expansion.accessory_base.luck_modifier": "@mod< luck",
+
+  "description.dannys_expansion.accessories.ayerstone": "5.00% chance of performing a special sand attack when attacking a mob directly.",
+
+  "description.dannys_expansion.accessories.ebbewel": "Provides you with 3 small impulses when swimming, when you use at least one impulse, you can wait a 3 seconds cooldown out of water to recharge them fully.",
+
+  "description.dannys_expansion.accessories.klifour_talisman": "Makes Klifour have a neutral behaviour towards you, meaning that they wont attack you on sight, however if you hurt a Klifour they will start attacking you anyway.",
+
+  "description.dannys_expansion.accessories.sand_necklace": "Spawns a soul that punches away enemies targeting you.",
+
+  "description.dannys_expansion.unstable": "[Unstable]",
+
+  "description.dannys_expansion.design.dyable": "Dyable",
+
+  "description.dannys_expansion.pet_name": "Name",
+  "description.dannys_expansion.pet_health": "Health",
+  "description.dannys_expansion.pet_owner": "Owner",
+  "description.dannys_expansion.gun_damage": "Damage",
+  "description.dannys_expansion.gun_cooldown": "Cooldown",
+  "description.dannys_expansion.text1": "Press",
+  "description.dannys_expansion.text2": "to show info.",
+  "description.dannys_expansion.full_set": "(On full set)",
+  "description.dannys_expansion.material": "Material",
+  "description.dannys_expansion.kite": "Place it on a fence!",
+  "key.categories.dannys_expansion": "Danny's Expansion",
+  "key.dannys_expansion.mount_ability": "Mount Ability",
+
+  "datagenerated.starts": "Down Here",
