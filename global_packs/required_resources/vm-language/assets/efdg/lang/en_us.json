@@ -1,0 +1,7 @@
+{
+	"skill.epicfight.earthquake" : "Earthquake",
+	"skill.epicfight.earthquake.tooltip" : "Rise your greatswords and slam them on the ground.\nDuring the animation, you have superarmor that prevent stun.",
+
+	"skill.epicfight.dualgreatsword" : "Dual greatswords",
+	"skill.epicfight.dualgreatsword.tooltip" : "A skill for the strongest of all characters (which is steve).\nAllows you to dual-wield greatswords."
+}

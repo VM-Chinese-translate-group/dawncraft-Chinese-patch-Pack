@@ -1,0 +1,6 @@
+{
+  "entity.humancompanions.knight": "Rycerz",
+  "entity.humancompanions.archer": "Łucznik",
+  "entity.humancompanions.archer": "Kusznik",
+  "container.humancompanions.companion_inventory": "Ekwipunek Kompana"
+}
