@@ -1,0 +1,45 @@
+{
+  "parent": "root.json",
+  "text": "storage_clouds.txt",
+  "title": "The Storage in our Clouds",
+  "entity_buttons": [
+  ],
+  "linked_page_buttons": [
+  ],
+  "images": [
+  ],
+  "item_renders": [
+  ],
+  "recipes": [
+    {
+      "recipe": "cloudstorage:balloon",
+      "shapeless": false,
+      "x": 20,
+      "y": 90,
+      "page": 0,
+      "scale": 1.2
+    },
+    {
+      "recipe": "cloudstorage:cloud_chest",
+      "shapeless": false,
+      "x": 210,
+      "y": 49,
+      "page": 0,
+      "scale": 1.2
+    },
+    {
+      "recipe": "cloudstorage:static_cloud_chest",
+      "shapeless": false,
+      "x": 20,
+      "y": 40,
+      "page": 2,
+      "scale": 1.2
+    }
+  ],
+  "tabula_renders": [
+
+  ],
+  "entity_renders": [
+  ]
+}
+

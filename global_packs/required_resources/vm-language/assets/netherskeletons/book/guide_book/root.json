@@ -1,0 +1,59 @@
+{
+  "parent": "",
+  "text": "root.txt",
+  "title": "Cloud Storage",
+  "entity_buttons": [
+  ],
+  "linked_page_buttons": [
+    {
+      "linked_page": "mobs_and_materials.json",
+      "text": "Of Mobs and Materials",
+      "x": 290,
+      "y": 94,
+      "page": 0
+    },
+    {
+      "linked_page": "storage_clouds.json",
+      "text": "The Storage in our Clouds",
+      "x": 290,
+      "y": 116,
+      "page": 0
+    },
+    {
+      "linked_page": "balloon_salesman.json",
+      "text": "Death of a Salesman",
+      "x": 290,
+      "y": 138,
+      "page": 0
+    },
+    {
+      "linked_page": "balloon_buddy.json",
+      "text": "All You Need is Friends",
+      "x": 290,
+      "y": 160,
+      "page": 0
+    }
+  ],
+  "images": [
+
+  ],
+  "item_renders": [
+    {
+      "item" : "cloudstorage:balloon",
+      "item_tag": "{3DRender:2}",
+      "x": 25,
+      "y": 14,
+      "page" : 0,
+      "scale": 2.75
+    }
+  ],
+  "recipes": [
+
+  ],
+  "tabula_renders": [
+
+  ],
+  "entity_renders": [
+  ]
+}
+

@@ -1,0 +1,19 @@
+{
+"item.darkersouls.dragonslayer_swordspear" : "Dragonslayer's Swordspear",
+"item.darkersouls.dragonslayer_spear" : "Dragonslayer's Spear",
+"item.darkersouls.storm_curved_sword" : "Storm Curved Sword",
+"item.darkersouls.lightning" : "Lightning Spear",
+"item.darkersouls.crown_of_tempest" : "Crown of Tempest",
+"item.darkersouls.nameless_king_chestplate" : "Golden Chestplate",
+"item.darkersouls.nameless_king_leggings" : "Gown of Tempest",
+"item.darkersouls.golden_greaves" : "Golden Greaves",
+"item.darkersouls.great_belfry" : "Great Bell",
+"item.darkersouls.nameless_king_spawn_egg" : "Nameless King Spawn Egg",
+"entity.darkersouls.nameless_king" : "Nameless King",
+"entity.darkersouls.lightning_projectile" : "Lightning",
+"entity.darkersouls.wind_no_collision" : "Wind",
+"itemGroup.darksoulsentities" : "Darker Souls - Entities",
+"itemGroup.darksoulsweapons" : "Darker Souls - Weapons",
+"itemGroup.darksoulsarmour" : "Darker Souls - Armour",
+"itemGroup.darksoulsmagic" : "Darker Souls - Spells"
+}

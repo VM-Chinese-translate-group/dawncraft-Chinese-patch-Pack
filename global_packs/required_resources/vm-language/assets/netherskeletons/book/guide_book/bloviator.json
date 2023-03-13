@@ -1,0 +1,33 @@
+{
+  "parent": "mobs_and_materials.json",
+  "text": "bloviator.txt",
+  "title": "Bloviator",
+  "entity_buttons": [
+  ],
+  "linked_page_buttons": [
+  ],
+  "images": [
+  ],
+  "item_renders": [
+  ],
+  "recipes": [
+
+  ],
+  "tabula_renders": [
+
+  ],
+  "entity_renders": [
+    {
+      "entity": "cloudstorage:bloviator",
+      "x": 110,
+      "y": 103,
+      "page" : 0,
+      "scale": 1.1,
+      "rot_x": 30,
+      "rot_y": 225,
+      "rot_z": 0,
+      "follow_cursor": false
+    }
+  ]
+}
+

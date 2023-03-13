@@ -1,0 +1,41 @@
+{
+  "parent": "mobs_and_materials.json",
+  "text": "badloon.txt",
+  "title": "Badloon",
+  "entity_buttons": [
+  ],
+  "linked_page_buttons": [
+  ],
+  "images": [
+  ],
+  "item_renders": [
+    {
+      "item" : "cloudstorage:balloon_buddy",
+      "item_tag": "{3DRender:2,Personality:1}",
+      "x": 25,
+      "y": 14,
+      "page" : 0,
+      "scale": 2.75
+    }
+  ],
+  "recipes": [
+
+  ],
+  "tabula_renders": [
+
+  ],
+  "entity_renders": [
+    {
+      "entity": "cloudstorage:badloon_hand",
+      "x": 90,
+      "y": 110,
+      "page" : 0,
+      "scale": 1.0,
+      "rot_x": 35,
+      "rot_y": 225,
+      "rot_z": 0,
+      "follow_cursor": false
+    }
+  ]
+}
+
