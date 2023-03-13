@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 15,
+  "icon": "minecraft:cod",
+  "start": {
+    "title": {
+      "text": "Hunting Request"
+    },
+    "description": {
+      "text": "God bless you. Please help me hunt down those disgusting, vile creatures in the ocean. Biologists call them sharks. I call them the devils of the sea. Whilst at sea, I saw... I saw them tore my sister apart, limb by limb. Please help me take revenge, kill those nasty creatures and bring me back their tooth as a trophy."
+    }
+  }
+}

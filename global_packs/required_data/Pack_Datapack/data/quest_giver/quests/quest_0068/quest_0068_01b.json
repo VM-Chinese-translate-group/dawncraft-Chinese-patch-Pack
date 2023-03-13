@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 8,
+  "icon": "minecraft:leather",
+  "start": {
+    "title": {
+      "text": "help"
+    },
+    "description": {
+      "text": "Fantastic. Could you cook a dish called $(red)Honey Glaze Ham$()? Me and my friends are dying to taste this dish again."
+    }
+  }
+}

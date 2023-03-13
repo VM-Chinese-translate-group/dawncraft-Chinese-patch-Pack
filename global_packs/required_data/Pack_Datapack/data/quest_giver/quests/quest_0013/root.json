@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:white_wool",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "Do you want me to teach you how to use the grindstone? It'll cost 10 emeralds."
+    }
+  }
+}

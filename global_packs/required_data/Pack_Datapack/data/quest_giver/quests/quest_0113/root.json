@@ -1,0 +1,12 @@
+{
+  "reputation": 19,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "Hey Adventurer. Could you investigate something for me?"
+    }
+  }
+}

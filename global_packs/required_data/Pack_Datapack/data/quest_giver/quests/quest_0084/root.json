@@ -1,0 +1,12 @@
+{
+  "reputation": 5,
+  "icon": "minecraft:iron_axe",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "Hey there, I need a netherite ingot to make tools. Would you happen to have one that you can spare? I'll pay for it, of course."
+    }
+  }
+}

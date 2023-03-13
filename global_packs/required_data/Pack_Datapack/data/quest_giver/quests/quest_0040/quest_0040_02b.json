@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0040_01",
+  "reputation": 15,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "Map"
+    },
+    "description": {
+      "text": "Back for more, ey? Well, got another challenge for you, hunt down the reptilian beasts called crocodiles and bring me their scute. These creatures reside in swamp biomes. Be careful though, these creatures are ridiculously strong."
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:stone",
+  "start": {
+    "title": {
+      "text": "Learn How to Use the Stonecutter"
+    },
+    "description": {
+      "text": "hm.. alright. Give me 15 Emeralds if you want to learn how to use the stonecutter."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "There you go!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 15
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add woodcutting level 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

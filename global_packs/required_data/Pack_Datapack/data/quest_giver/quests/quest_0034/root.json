@@ -1,0 +1,12 @@
+{
+	"reputation": 7,
+	"icon": "minecraft:beef",
+	"start": {
+		"title": {
+			"text": "Hey there"
+		},
+		"description": {
+			"text": "Hello kind sir. My spouse has been asking me to cook a dish called \"$(yellow)stuffed pumpkin$()\" and I'm too embarrassed to admit that I don't know how to make it... Can you cook one for me?"
+		}
+	}
+}

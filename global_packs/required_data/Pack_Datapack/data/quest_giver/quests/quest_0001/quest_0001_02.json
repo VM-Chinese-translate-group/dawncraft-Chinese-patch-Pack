@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:quest_0001_02b",
+  "reputation": 5,
+  "icon": "minecraft:iron_helmet",
+  "start": {
+    "title": {
+      "text": "Hello again!"
+    },
+    "description": {
+      "text": "Hello again! Have you fetched the paper for me yet? I want to draw you a map."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Here."
+    },
+    "description": {
+      "text": "Here. There is a house infested by those sick and deluded hunters... One of my good friends have tracked down their location and marked it down in the map here. I'm sure they've been stocking up on loots they got from their enemies... Kill them and get their loot. If you could, look for a necklace they've stolen from me. They like to hide things under the table. See if you can find it, I'll do my best to repay you if you could ever return that necklace to me!"
+    }
+  },
+  "tasks": [
+     {
+      "item": {
+	 "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "amount": 1
+     }
+  ],
+  "rewards": [
+  {
+      "command": "/loot give @p loot minecraft:armorer1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

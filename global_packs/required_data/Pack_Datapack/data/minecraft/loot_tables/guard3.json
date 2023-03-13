@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:gift",
+	"pools": [{
+		"rolls": 1.0,
+		"bonus_rolls": 0.0,
+		"entries": [{
+			"type": "minecraft:item",
+			"name": "minecraft:map",
+			"functions": [{
+					"function": "minecraft:exploration_map",
+					"destination": "custom:cave_dwelling",
+					"decoration": "red_x",
+					"zoom": 1,
+					"skip_existing_chunks": false
+				},
+				{
+					"function": "minecraft:set_name",
+					"name": "Guard's Map"
+				},
+				{
+					"function": "minecraft:set_lore",
+					"lore": [{
+						"text": "The whereabouts of a monster underground. Dig deep and defeat the monster."
+					}]
+				}
+			]
+		}]
+	}]
+}

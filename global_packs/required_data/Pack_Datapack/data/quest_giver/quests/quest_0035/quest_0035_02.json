@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:quest_0035_02b",
+  "reputation": 35,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "Incendium"
+    },
+    "description": {
+      "text": "Remember, the Ash Barrens in the Nether. Come back to me after you visit there."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Finished"
+    },
+    "description": {
+      "text": "That is fascinating... Thank you for telling me about that place. Here's your reward. Well, off you go now... I've got an important decision to make."
+    }
+  },
+  "tasks": [
+    {
+		"id": "afptweaks:advancement",
+		"advancement": "custom:scarlet_rot"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 5
+    }
+  ]
+}

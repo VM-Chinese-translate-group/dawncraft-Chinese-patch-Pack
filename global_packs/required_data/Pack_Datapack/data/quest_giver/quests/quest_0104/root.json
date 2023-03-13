@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:bow",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "Hey there, can you get $(red)16 arrows$() from the local fletcher? I'll pay you back for it."
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 52,
+  "icon": "minecraft:ender_pearl",
+  "start": {
+    "title": {
+      "text": "help"
+    },
+    "description": {
+      "text": "There's a dish called End Delight. It's a dish that can only be made with ingredients found in the End Dimension... Please gather all the resources and cook one for me."
+    }
+  }
+}

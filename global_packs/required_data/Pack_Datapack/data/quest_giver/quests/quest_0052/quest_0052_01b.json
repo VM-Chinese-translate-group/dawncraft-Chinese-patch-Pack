@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 1,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "Hello"
+    },
+    "description": {
+      "text": "Me and my frend's hats are a bit broken in. We wanna make a new hat you see... Could you get me a $(red)bale of straw$()?"
+    }
+  }
+}

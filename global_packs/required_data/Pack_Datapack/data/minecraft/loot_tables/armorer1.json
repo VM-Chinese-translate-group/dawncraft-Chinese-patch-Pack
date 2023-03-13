@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:gift",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+			"type": "minecraft:item",
+			"name": "minecraft:map",
+			"functions":  [
+				{
+				"function": "minecraft:exploration_map",
+				"destination": "custom:armorer_dungeon",
+				"decoration": "red_x",
+				"zoom": 1,
+				"skip_existing_chunks": false
+				},
+            			{
+            			"function": "minecraft:set_name",
+             			 "name": "Armorer's Map"
+            			},
+            			{
+              			"function": "minecraft:set_lore",
+              			"lore": [
+               			 {
+                 		 "text": "A Map Given by the Armorer to retrieve his necklace."
+                		}
+              			]
+            			}
+			]
+        	}
+  	  ]
+       }
+   ]
+}

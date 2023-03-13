@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:leather",
+  "start": {
+    "title": {
+      "text": "help"
+    },
+    "description": {
+      "text": "Could you fetch me a piece of rabbit hide?"
+    }
+  }
+}

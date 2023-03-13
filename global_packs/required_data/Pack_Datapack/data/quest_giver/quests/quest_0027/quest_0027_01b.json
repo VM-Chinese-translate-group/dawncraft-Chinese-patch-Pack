@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 20,
+  "icon": "minecraft:iron_ingot",
+  "start": {
+    "title": {
+      "text": "Spirit Hunting"
+    },
+    "description": {
+      "text": "Spirits manifest in the dimension in many forms. Sometimes they possess items, swords, and even armor! See if you can hunt down $(red)5 possessed... or hollow armor$(), whatever you wanna call it, and I'll give you a rewaard for your bravery. How does that sound?"
+    }
+  }
+}

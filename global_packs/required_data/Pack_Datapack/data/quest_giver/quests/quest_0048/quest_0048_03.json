@@ -1,0 +1,34 @@
+{
+  "parent": "quest_giver:quest_0048_03b",
+  "reputation": 25,
+  "icon": "minecraft:brewing_stand",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "Kill 3 regular village guards and come back to me. Don't let others see you. If your reputation gets too low I won't talk to you... For obvious reasons."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Hahaha... You vile man. Here, this is how you use it. Stay mischievous."
+    }
+  },
+  "tasks": [
+    {
+      "entity": "guardvillagers:guard",
+      "id": "quest_giver:kill",
+      "times": 3
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add slayer level 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "parent": "quest_giver:quest_0014_11",
+  "reputation": 10,
+  "icon": "minecraft:ender_pearl",
+  "start": {
+    "title": {
+      "text": "The End... is just the Beginning??"
+    },
+    "description": {
+      "text": "If you must know... The deity who corrupted the ender dragon... He's still very much alive. But that being is simply too powerful, even for you. The map to reach him is held by the ender guardian. As for the whereabouts of the ender guardian... Our enderians may have a clue. I do not advise you to pursue this. You've done more than enough."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "The True Ending"
+    },
+    "description": {
+      "text": "I.... I'm sorry I doubted you. You are, truly, one of a kind.                                      - End of Dialogue -"
+    }
+  },
+  "tasks": [
+    {
+		"id": "afptweaks:advancement",
+		"advancement": "simple_mobs:killelementaldeity"
+    }
+  ],
+  "rewards": [
+  ]
+}

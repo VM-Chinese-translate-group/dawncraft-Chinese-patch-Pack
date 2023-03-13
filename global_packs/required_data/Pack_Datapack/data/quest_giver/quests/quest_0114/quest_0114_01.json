@@ -1,0 +1,48 @@
+{
+  "parent": "quest_giver:quest_0114_01b",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "Forgot already? Defeat the Ghost of Captain Cornelia with your melee. Then come to me to claim your reward."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Mad man! You've actually done it! Here, take your reward. Heard you guys like diamonds right? Take some!"
+    }
+  },
+  "tasks": [
+    {
+      "entity": "ob_aquamirae:captain_cornelia",
+      "id": "quest_giver:kill",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 2
+    },
+    {
+      "item": {
+        "item": "minecraft:diamond"
+      },
+      "id": "quest_giver:item",
+      "times": 4
+    },
+    {
+      "command": "/advancement grant @p only custom:trade_oceanographer",
+      "id": "quest_giver:command"
+    }
+  ]
+}

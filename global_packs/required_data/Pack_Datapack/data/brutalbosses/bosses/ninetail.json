@@ -1,0 +1,10 @@
+{
+	"entity": "simple_mobs:nine_tails",
+	"name": "Nine tails",
+	"namevisible": false,
+  	"ai-goals": {                                      
+    	    "brutalbosses:aftercombatregen": {                
+      	    "amount": 1
+    		}                    
+  	}	
+}

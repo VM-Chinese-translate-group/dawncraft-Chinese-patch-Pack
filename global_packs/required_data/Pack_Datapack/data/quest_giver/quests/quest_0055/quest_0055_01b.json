@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 4,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "Spices seem to be the new craze in this village... I'm looking to grow the hottest pepper known and make a profit, haha! Have you heard of a kind of pepper called 'ghost pepper' that can be found the Nether? Well, I need you to collect $(red)3 of those ghost peppers$() and bring them to me."
+    }
+  }
+}

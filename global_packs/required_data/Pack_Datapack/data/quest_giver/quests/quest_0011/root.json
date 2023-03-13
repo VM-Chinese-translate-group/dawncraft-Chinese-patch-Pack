@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:white_wool",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "Do you want to learn how to use the loom? I can teach you for 10 emeralds."
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "reputation": 37,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "Hey comrade. I need your help on something important."
+    }
+  }
+}

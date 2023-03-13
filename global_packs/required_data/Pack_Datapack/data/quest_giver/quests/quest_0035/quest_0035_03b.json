@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0035_02b",
+  "reputation": 35,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "Sword"
+    },
+    "description": {
+      "text": "Inquisitive are we? Well, the truth is... My brother was a wandering trader, a peculiar one. He enjoyed traversing through the Nether dimension... Even though he knew how dangerous it was. One day he left and... never returned. He left a note telling us he's going to a castle in the ash barrens. I was going to go there myself to find out if he's really dead or not, but I'm afraid I'll never return as well. After all, it's been months since his last departure, all I want is a proper closure... He had an artifact called $(light_blue)'Chilling Sword'$(). Do you think you can go to that castle and see if you can find this weapon?"
+    }
+  }
+}

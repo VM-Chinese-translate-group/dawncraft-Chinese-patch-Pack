@@ -1,0 +1,12 @@
+{
+  "reputation": 15,
+  "icon": "minecraft:cod",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "Adventurer, please help me with something. I beg you."
+    }
+  }
+}

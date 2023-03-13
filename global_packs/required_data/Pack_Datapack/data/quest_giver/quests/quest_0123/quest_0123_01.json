@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0123_01b",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "Sculk"
+    },
+    "description": {
+      "text": "Oh you're back! Did you get the $(red)Sculk Sensors$() yet?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "This... looks so bizarre. Did you run into the Warden? Well, I'm guessing that you didn't, seeing as you're still alive. Anyway, here's your reward. This item should keep you safe from the mundane slimes."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "wildbackport:sculk_shrieker"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "dannys_expansion:gelatinous_diplomacy"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    },
+    {
+      "command": "/advancement grant @p only custom:trade_miner",
+      "id": "quest_giver:command"
+    }
+  ]
+}

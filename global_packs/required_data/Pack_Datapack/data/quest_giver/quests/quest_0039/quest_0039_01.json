@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 45,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "Foreign Outlaws"
+    },
+    "description": {
+      "text": "Can you fetched me a piece of paper for me? I'll draw you a map."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Here."
+    },
+    "description": {
+      "text": "Here, the group of foreign outlaws built a place where the marker is. Go and take out the leader."
+    }
+  },
+  "tasks": [
+     {
+      "item": {
+	 "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "amount": 1
+     }
+  ],
+  "rewards": [
+  {
+      "command": "/loot give @p loot minecraft:cartographer1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

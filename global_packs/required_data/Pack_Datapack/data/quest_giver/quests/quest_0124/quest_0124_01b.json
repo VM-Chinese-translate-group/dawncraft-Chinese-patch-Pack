@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 15,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "An Impossible Task!"
+    },
+    "description": {
+      "text": "Finally, someone to talk to! Let me tell you something: There is a giant Rootless Floating Palace somewhere in this realm. Few people know about it, let alone its whereabouts... and lucky for you, I happen to be the on in a million. I'll tell you what. If you ever get the chance to be blessed by an Orca, let me know exactly how it happened, and how it made you feel. Do that, and I'll tell you where the palace is, for free! A powerful sorcerer resides in that palace, and concealed its treasure deep within the core within. As an adventurer, this must sound enticing to you ey?" 
+    }
+  }
+}

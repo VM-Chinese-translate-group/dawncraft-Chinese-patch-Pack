@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:stone",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "Wanna learn how to use the stonecutter? It'll be only 10 emeralds!"
+    }
+  }
+}

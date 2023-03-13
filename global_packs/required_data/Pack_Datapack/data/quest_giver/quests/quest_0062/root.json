@@ -1,0 +1,12 @@
+{
+  "reputation": 12,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "I heard that there is a type of terrestrial bird in desert biomes with excellent feathers for arrow making. Do you think you can hunt 2 of them down and bring me their drops?."
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+	"entity": "simple_mobs:corrupted_ogre",
+	"name": "Corrupted Ogre, the eye holder",
+	"namevisible": false,
+  	"ai-goals": {                                      
+    	    "brutalbosses:aftercombatregen": {                
+      	    "amount": 1
+    		}                    
+  	}	
+}

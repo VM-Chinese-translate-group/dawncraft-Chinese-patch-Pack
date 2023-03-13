@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "A Little Help"
+    },
+    "description": {
+      "text": "Good man! Could you somehow get me an $(red)iron knife$()? Mine just broke..."
+    }
+  }
+}

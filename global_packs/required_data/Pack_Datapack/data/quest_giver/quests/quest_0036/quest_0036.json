@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "A Friendly Chat"
+    },
+    "description": {
+      "text": "Did you know that the cutting board can be used with a knife to cut down most food ingredients into smaller ingredients? It's worth experimenting a bit with not only food, but other resources such as logs or equipments!"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "reputation": 13,
+  "icon": "minecraft:iron_axe",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "Hey traveller, you seem to be good at retrieving things! Wanna help me out?"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0118_01b",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "Dragon Heart"
+    },
+    "description": {
+      "text": "Don't ask me why. It's none of your concern, kiddo. Just get me the $(red)Fire Dragon Heart$()."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Knew I could count on ya. Here ya go."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "simple_mobs:firedragon_heart"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "paraglider:spirit_orb"
+      },
+      "id": "quest_giver:item",
+      "times": 2
+    },
+    {
+      "command": "/advancement grant @p only custom:trade_miner",
+      "id": "quest_giver:command"
+    }
+  ]
+}

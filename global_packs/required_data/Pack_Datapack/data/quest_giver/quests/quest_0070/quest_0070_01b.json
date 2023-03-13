@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 14,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "Fetching Request"
+    },
+    "description": {
+      "text": "Could you help me retrieve 4 squid ink sacs?"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:brewing_stand",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "Hey Adventurer, can you get me $(red)5 zombie flesh$()? I need it to prepare potions."
+    }
+  }
+}

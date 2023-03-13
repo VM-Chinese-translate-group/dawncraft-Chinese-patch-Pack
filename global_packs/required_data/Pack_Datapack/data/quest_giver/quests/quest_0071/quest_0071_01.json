@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 40,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "Retrieving a Precious Item"
+    },
+    "description": {
+      "text": "Please get me a piece of paper so I can draw you a map."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Here."
+    },
+    "description": {
+      "text": "Sorry for the trouble. Here is the place I want you to go. There is a book there that belonged to me. That place used to be a temple filled with scholars from all around the dimension, but I don't know how it is now. Please proceed with caution, and bring me my book."
+    }
+  },
+  "tasks": [
+     {
+      "item": {
+	 "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+     }
+  ],
+  "rewards": [
+  {
+      "command": "/loot give @p loot minecraft:librarian1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

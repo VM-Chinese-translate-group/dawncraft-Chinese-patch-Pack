@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 37,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "An Urgent Request"
+    },
+    "description": {
+      "text": "Evil is coming. Can you help me get 16 iron ingot? I need to make more weapons for the guards... We're not prepared."
+    }
+  }
+}

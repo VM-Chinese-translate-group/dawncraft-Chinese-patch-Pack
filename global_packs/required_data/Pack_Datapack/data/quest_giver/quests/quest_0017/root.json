@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:poppy",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "Can you get me $(red)1 Soul Weed$()? It can be found in the Nether Dimension."
+    }
+  }
+}

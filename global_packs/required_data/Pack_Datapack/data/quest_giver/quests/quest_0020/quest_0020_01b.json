@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "help"
+    },
+    "description": {
+      "text": "An adventurer like yourself asked me for a favor a while ago. I couldn't really help him... But maybe you can. Bring me a piece of paper. I'll draw you a map to his location."
+    }
+  }
+}

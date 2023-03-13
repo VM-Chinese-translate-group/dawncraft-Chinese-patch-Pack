@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:quest_0019_01b",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "Could you fetch me a piece of paper? I'll draw you a map."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Here you go. Please tell it that I send my regards. I wouldn't be here without it."
+    }
+  },
+  "tasks": [
+     {
+      "item": {
+	 "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+     }
+  ],
+  "rewards": [
+  {
+      "command": "/loot give @p loot minecraft:miner1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

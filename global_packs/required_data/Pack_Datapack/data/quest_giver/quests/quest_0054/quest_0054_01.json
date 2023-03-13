@@ -1,0 +1,30 @@
+{
+  "parent": "quest_giver:quest_0054_01b",
+  "reputation": 5,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "Did you get the $(red)iron hoe$()?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Oh you got it for us... I'm very grateful for that. I feel bad for asking for another favor... But do you think you can make $(red)2 loaves of bread$() for us? We're only good at growing and harvesting you see. You can use the wheat in our farm for that!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:iron_hoe"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ]
+}

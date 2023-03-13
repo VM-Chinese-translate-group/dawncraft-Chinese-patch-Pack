@@ -1,0 +1,39 @@
+{
+  "parent": "quest_giver:quest_0094_01b",
+  "reputation": 52,
+  "icon": "minecraft:ender_pearl",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "Come back to me once you've made the dish $(red)End Delight$(). I'll pay you handsomely for it."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "This flavor...! Just like my ma's cooking... Thank you adventurer, you have no idea how grateful I am for this. Here, take this. It's a katana forged with ender power. I doubt there's a weapon out there stronger than this one."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "nourished_end:end_delight"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+     }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "scattered_weapons:darkkatana"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 4,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "A Bizarre Request"
+    },
+    "description": {
+      "text": "Could I have 1 of your $(red)spirit orbs$()?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "The structure of this is too complicated... Would you mind giving me another one of these?"
+    }
+  },
+  "tasks": [
+     {
+      "item": {
+	 "item": "paraglider:spirit_orb"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+     }
+  ]
+}

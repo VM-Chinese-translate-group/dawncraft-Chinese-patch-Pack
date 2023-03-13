@@ -1,0 +1,37 @@
+{
+  "parent": "quest_giver:quest_0124_01b",
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "An Impossible Task!"
+    },
+    "description": {
+      "text": "Did you receive the blessing of the Orca already?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Interesting... so that's how it's done. You're a fascinating fellow. I'm glad I ran into you! Now I must go... God spede you."
+    }
+  },
+  "tasks": [
+    {
+		"id": "afptweaks:advancement",
+		"advancement": "alexsmobs:alexsmobs/orcas_might"
+    }
+  ],
+  "rewards": [
+   {
+      "command": "/loot give @p loot minecraft:hunter1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/addreputation reputation:village @p 3",
+      "id": "quest_giver:command"
+    }
+  ]
+}

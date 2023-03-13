@@ -1,0 +1,10 @@
+{
+	"entity": "simple_mobs:giant",
+	"name": "Giant",
+	"namevisible": false,
+  	"ai-goals": {                                      
+    	    "brutalbosses:aftercombatregen": {                
+      	    "amount": 1
+    	}                    
+  }	
+}

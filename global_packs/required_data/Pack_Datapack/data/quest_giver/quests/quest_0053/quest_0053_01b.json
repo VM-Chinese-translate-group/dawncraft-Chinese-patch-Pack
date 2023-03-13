@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "Hello"
+    },
+    "description": {
+      "text": "Great, could you get me $(red)2 onions$()?"
+    }
+  }
+}

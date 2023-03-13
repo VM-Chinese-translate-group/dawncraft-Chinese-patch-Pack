@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:brewing_stand",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "Hey there, could you help me get $(red)5 spider eyes$()?"
+    }
+  }
+}

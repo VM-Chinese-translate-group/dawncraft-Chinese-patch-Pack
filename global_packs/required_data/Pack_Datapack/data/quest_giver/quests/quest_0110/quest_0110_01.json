@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:quest_0110_01b",
+  "reputation": 16,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "Hello again!"
+    },
+    "description": {
+      "text": "Brave man. Please give me a piece of paper so I can show you where the creature is at."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Here."
+    },
+    "description": {
+      "text": "Here, the cleric is the one who provided us with this information though. So I'm not sure if it's completely accurate. Either way, find this creature, kill it, and bring back whatever it drops."
+    }
+  },
+  "tasks": [
+     {
+      "item": {
+	 "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "amount": 1
+     }
+  ],
+  "rewards": [
+  {
+      "command": "/loot give @p loot minecraft:guard3",
+      "id": "quest_giver:command"
+    }
+  ]
+}

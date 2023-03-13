@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0053_04",
+  "reputation": 0,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "Well... Why are you still here? Are you expecting some kind of reward?"
+    }
+  }
+}

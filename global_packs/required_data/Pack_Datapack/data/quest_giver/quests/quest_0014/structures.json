@@ -1,0 +1,29 @@
+{
+  "parent": "quest_giver:quest_0014_01",
+  "reputation": 10,
+  "icon": "minecraft:compass",
+  "start": {
+    "title": {
+      "text": "The Unattended Eyes"
+    },
+    "description": {
+      "text": "To the best of my knowledge, there are currently 7 eyes that are unattended by eye holders. The ones that can be found in structures include the Cursed and the Old. As for the others... I think most of them can be crafted with the life forces in our realm, while a few of them may have been stolen by sentient beasts. The locals around may know more about that than I do. However, I do know that the clerics are currently in possession of the Evil Eye."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "The Unattended Eyes"
+    },
+    "description": {
+      "text": "I think there's no need to look for the eyes anymore?"
+    }
+  },
+  "tasks": [
+    {
+		"id": "afptweaks:advancement",
+		"advancement": "minecraft:end/kill_dragon"
+    }
+  ],
+  "rewards": [
+  ]
+}

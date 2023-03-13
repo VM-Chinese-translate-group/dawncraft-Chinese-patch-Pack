@@ -1,0 +1,12 @@
+{
+  "reputation": 45,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "I've heard information of a group of foreign outlaws from the east side that recently came and started pillaging villages. If you can fetched me a piece of paper for me, I can draw you a map to pinpoint their location for you."
+    }
+  }
+}

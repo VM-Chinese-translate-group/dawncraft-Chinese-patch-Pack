@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 15,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "Exterminate"
+    },
+    "description": {
+      "text": "There is a new type of evil manifesting in the dimension. These half man, half beasts are called $(red)silver beasts$(). You can find them wandering around at night. Exterminate 2 of these unholy creatures, and come back to me."
+    }
+  }
+}

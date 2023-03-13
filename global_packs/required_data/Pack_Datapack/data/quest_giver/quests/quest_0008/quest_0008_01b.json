@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 13,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "help"
+    },
+    "description": {
+      "text": "I've heard good things about your work. I need you to collect some exotic goods, specifically: $(red)lion hide$(). I need 4 of those. Come back when you've got the goods."
+    }
+  }
+}

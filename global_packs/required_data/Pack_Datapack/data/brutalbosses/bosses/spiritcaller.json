@@ -1,0 +1,10 @@
+{
+	"entity": "illageandspillage:spiritcaller",
+	"name": "Spirit Caller",
+	"namevisible": false,
+  	"ai-goals": {                                      
+    	    "brutalbosses:aftercombatregen": {                
+      	    "amount": 1
+    		}                    
+  	}	
+}

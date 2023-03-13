@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0086_01",
+  "reputation": 37,
+  "icon": "minecraft:iron_axe",
+  "start": {
+    "title": {
+      "text": "help"
+    },
+    "description": {
+      "text": "Great. I need you to exterminate any pillager that you can find. We need to distract them so they won't have as much time planning their attack... Come back to me after you've killed 5."
+    }
+  }
+}

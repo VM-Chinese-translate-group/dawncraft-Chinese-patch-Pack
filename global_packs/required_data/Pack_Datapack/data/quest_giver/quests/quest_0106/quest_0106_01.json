@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 14,
+  "icon": "minecraft:log",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "I need an $(red)Iron Axe$() to work!"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Thanks. Here, is 4 emeralds enough?"
+    }
+  },
+  "tasks": [
+     {
+      "item": {
+	 "item": "minecraft:iron_axe"
+      },
+      "id": "quest_giver:gift",
+      "amount": 1
+     }
+  ],
+  "rewards": [
+    {
+      "command": "/addreputation reputation:village @p 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 2
+    }
+  ]
+}

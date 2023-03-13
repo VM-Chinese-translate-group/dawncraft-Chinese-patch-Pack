@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "Arrow Craftsmanship"
+    },
+    "description": {
+      "text": "Did you know that spruce wood is the best for making the shaft of an arrow? Well doesn't matter either way. Could you get me some of those logs? I need at least 4."
+    }
+  }
+}

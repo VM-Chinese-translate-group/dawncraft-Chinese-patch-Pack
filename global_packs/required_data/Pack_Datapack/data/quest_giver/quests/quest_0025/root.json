@@ -1,0 +1,12 @@
+{
+  "reputation": 12,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "Extermination Task"
+    },
+    "description": {
+      "text": "Adventurer... Interested in an extermination task?"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+	"parent": "quest_giver:quest_0014_01b",
+	"reputation": 5,
+	"icon": "minecraft:enchanted_book",
+	"start": {
+		"title": {
+			"text": "The Basic Skill"
+		},
+		"description": {
+			"text": "Come back after you've fulfilled the requirements - $(red)Kill 10 pillagers$()."
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "The Basic Skill"
+		},
+		"description": {
+			"text": "Here, just open the book and learn the skill. If you want to get more skillbooks, I'd suggest doing some of the guard's request. Good luck on your journey."
+		}
+	},
+	"tasks": [{
+		"entity": "minecraft:pillager",
+		"id": "quest_giver:kill",
+		"times": 10
+	}],
+	"rewards": [{
+		"command": "/give @p epicfight:skillbook{skill:\"epicfight:roll\"}",
+		"id": "quest_giver:command"
+	}]
+}

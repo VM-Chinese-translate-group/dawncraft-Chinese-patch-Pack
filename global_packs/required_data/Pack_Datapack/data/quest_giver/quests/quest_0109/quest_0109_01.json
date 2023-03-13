@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:quest_0109_01b",
+  "reputation": 6,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "Hello again!"
+    },
+    "description": {
+      "text": "If you're ready to save the kid. Give me a piece of paper, I'll draw you a map."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Here."
+    },
+    "description": {
+      "text": "The scoundrel have set up base here. The kid must be still with them... Please hurry. Bring him back to us!"
+    }
+  },
+  "tasks": [
+     {
+      "item": {
+	 "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "amount": 1
+     }
+  ],
+  "rewards": [
+  {
+      "command": "/loot give @p loot minecraft:guard2",
+      "id": "quest_giver:command"
+    }
+  ]
+}

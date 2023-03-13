@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 35,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "Knife Sharpening"
+    },
+    "description": {
+      "text": "I'm looking for good sharpening stones for my knife. I've heard good things about a material underground called deepslate that's perfect for sharpening. Can you get me $(red)3 of those deepslate stones$()?"
+    }
+  }
+}

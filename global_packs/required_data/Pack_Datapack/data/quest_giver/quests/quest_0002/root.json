@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "Got time?"
+    },
+    "description": {
+      "text": "Got time? Adventurer, can you fetch me something?"
+    }
+  }
+}

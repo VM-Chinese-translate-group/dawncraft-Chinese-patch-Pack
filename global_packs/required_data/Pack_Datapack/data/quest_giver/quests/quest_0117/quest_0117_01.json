@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:iron_axe",
+  "start": {
+    "title": {
+      "text": "An Offer"
+    },
+    "description": {
+      "text": "25 Emeralds, and I'll teach you how to dual wield greatswords."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Nice doing business with you. Be careful not to break your back though."
+    }
+  },
+  "tasks": [
+     {
+      "item": {
+	 "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "amount": 25
+     }
+  ],
+  "rewards": [
+    {
+      "command": "/give @p epicfight:skillbook{skill:"epicfight:dualgreatsword"}",
+      "id": "quest_giver:command"
+    }
+  ]
+}

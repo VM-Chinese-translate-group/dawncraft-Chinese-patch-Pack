@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:quest_0024_01b",
+  "reputation": 6,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "Hello again!"
+    },
+    "description": {
+      "text": "Ah, almost forgot. Can you get me a piece of paper? I'll mark down the location of their hideout."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Here."
+    },
+    "description": {
+      "text": "Here. Please hurry! We don't know what they're planning to do with the kid."
+    }
+  },
+  "tasks": [
+     {
+      "item": {
+	 "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "amount": 1
+     }
+  ],
+  "rewards": [
+  {
+      "command": "/loot give @p loot minecraft:guard1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:gift",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+			"type": "minecraft:item",
+			"name": "minecraft:map",
+			"functions":  [
+				{
+				"function": "minecraft:exploration_map",
+				"destination": "custom:father_church",
+				"decoration": "red_x",
+				"zoom": 1,
+				"skip_existing_chunks": false
+				},
+				{
+					"function": "minecraft:set_name",
+					"name": "Location of the Father"
+				},
+				{
+					"function": "minecraft:set_lore",
+					"lore": [{
+						"text": "Father Gascoigne's whereabouts."
+					}]
+				}
+			]
+        	}
+  	  ]
+       }
+   ]
+}

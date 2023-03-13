@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "10 emeralds and I'll teach you how to use the cartography table."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Here ya go."
+    },
+    "description": {
+      "text": "Don't get intimidated by the equipments on the table, you'll get the hang of it!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 10
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add sailing level 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

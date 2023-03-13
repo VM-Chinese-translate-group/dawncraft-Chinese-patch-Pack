@@ -1,0 +1,39 @@
+{
+  "parent": "quest_giver:quest_0115_01b",
+  "reputation": 10,
+  "icon": "minecraft:iron_axe",
+  "start": {
+    "title": {
+      "text": "An Offer"
+    },
+    "description": {
+      "text": "6 Emeralds if you want me to show you where the Monstrosity is in the Nether Dimension."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Here you go, happy hunting! Remember, this map will only work if you open it in the Nether. Rolling this map open here will only give you a blank map. Sure is confusing, ey?"
+    }
+  },
+  "tasks": [
+     {
+      "item": {
+	 "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "amount": 6
+     }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "simple_mobs:rolled_map_1"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

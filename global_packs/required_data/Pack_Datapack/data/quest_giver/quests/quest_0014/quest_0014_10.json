@@ -1,0 +1,29 @@
+{
+  "parent": "quest_giver:quest_0014_09",
+  "reputation": 10,
+  "icon": "minecraft:ender_pearl",
+  "start": {
+    "title": {
+      "text": "The End of the Road"
+    },
+    "description": {
+      "text": "I have no more information to give you my friend. Follow your calling."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "The End... is just the Beginning??"
+    },
+    "description": {
+      "text": "So... you have defeated the dragon. I suppose that would make you the new ruler of the realm. Congratulations, brave conqueror. You have done... everything you could. Now, if you would excuse me."
+    }
+  },
+  "tasks": [
+    {
+		"id": "afptweaks:advancement",
+		"advancement": "minecraft:end/kill_dragon"
+    }
+  ],
+  "rewards": [
+  ]
+}

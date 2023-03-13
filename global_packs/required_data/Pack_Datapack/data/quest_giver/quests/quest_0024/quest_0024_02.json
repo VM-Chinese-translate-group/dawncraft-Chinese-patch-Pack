@@ -1,0 +1,34 @@
+{
+  "parent": "quest_giver:quest_0024_01",
+  "reputation": 6,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "Lost Child"
+    },
+    "description": {
+      "text": "Please go save the child, and bring him back here."
+    }
+
+  },
+  "complete": {
+    "title": {
+      "text": "Lost Child: Complete"
+    },
+    "description": {
+      "text": "You're a hero for what you did, adventurer. We will never forget what you've done for us. Here, I'll teach you a new combat skill - Berserker."
+    }
+  },
+  "tasks": [
+    {
+      "id": "afptweaks:follow_quest",
+       "structure": "#minecraft:village"
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/give @p epicfight:skillbook{skill:\"epicfight:berserker\"}",
+      "id": "quest_giver:command"
+    }
+  ]
+}

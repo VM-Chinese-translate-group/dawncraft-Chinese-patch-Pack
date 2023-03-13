@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 4,
+  "icon": "minecraft:cod",
+  "start": {
+    "title": {
+      "text": "Time Tracking"
+    },
+    "description": {
+      "text": "I heard there are things that help you keep track of time. Those are called... what was it, oh right - $(red)Hourglass$()! Can you get me one of those?"
+    }
+  }
+}

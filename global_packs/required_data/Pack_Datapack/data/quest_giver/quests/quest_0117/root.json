@@ -1,0 +1,12 @@
+{
+  "reputation": 5,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "An Offer"
+    },
+    "description": {
+      "text": "I got an interesting skill I can teach you - Dual Greatsword Holding. That'll cost you 25 Emeralds though."
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+	"entity": "simple_mobs:knight_4",
+	"name": "Knight Rober, the Primordial One",
+  	"gear": {
+    	   "mainhand": "{id: \"magistuarmory:netherite_katzbalger\", Count: 1b, tag: {Damage: 0}}",
+    	   "offhand": "{id: \"magistuarmory:netherite_katzbalger\", Count: 1b, tag: {Damage: 0}}",
+    	   "chestplate": "{id: \"magistuarmory:wingedhussar_chestplate\", Count: 1b, tag: {Damage: 0}}",
+    	   "helmet": "{id: \"magistuarmory:ceremonialarmet\", Count: 1b, tag: {Damage: 0}}",
+    	   "leggings": "{id: \"magistuarmory:maximilian_leggings\", Count: 1b, tag: {Damage: 0}}",
+    	   "feet": "{id: \"magistuarmory:ceremonial_boots\", Count: 1b, tag: {Damage: 0}}"
+  	},
+  	"ai-goals": {                                      
+    	    "brutalbosses:aftercombatregen": {                
+      	    "amount": 1
+    		}                    
+  	},
+	"showbossbar": false,
+	"namevisible": false
+}

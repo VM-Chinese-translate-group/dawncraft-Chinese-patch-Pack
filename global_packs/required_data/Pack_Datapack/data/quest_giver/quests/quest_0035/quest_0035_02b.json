@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0035_01",
+  "reputation": 35,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "Incendium"
+    },
+    "description": {
+      "text": "Ah, back so early? Well, have you been to the nether? There is a biome called Ash Barrens in the Nether. See if you can find a castle there, even if you cannot, come back to me. I want to know what that place is like, please."
+    }
+  }
+}

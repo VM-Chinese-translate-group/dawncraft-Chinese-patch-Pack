@@ -1,0 +1,12 @@
+{
+  "reputation": 3,
+  "icon": "minecraft:redstone",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "Hello there, I'm missing some parts to repair my machine. Can you get me $(red)a lever and a copper wrench$()?"
+    }
+  }
+}

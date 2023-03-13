@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:smoker",
+  "start": {
+    "title": {
+      "text": "Learn How to Use the Smoker"
+    },
+    "description": {
+      "text": "Hm... You want to learn how to use the smoker? Alright, I'll charge you 18 emeralds for that."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Here ya go."
+    },
+    "description": {
+      "text": "Wasn't that difficult now was it?"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 18
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add cooking level 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

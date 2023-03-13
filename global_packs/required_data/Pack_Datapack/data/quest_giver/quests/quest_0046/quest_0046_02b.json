@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0046_01",
+  "reputation": 15,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "Exterminate"
+    },
+    "description": {
+      "text": "Hello again, my next contract for you, is to exterminate orcs that roam around our land. These humanoid monsters have set up camps everywhere. I'm sure you've seen a few. Retrieve at least 6 orcs teeth and bring them to me as proof."
+    }
+  }
+}

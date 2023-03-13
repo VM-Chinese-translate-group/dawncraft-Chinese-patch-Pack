@@ -1,0 +1,30 @@
+{
+  "parent": "quest_giver:quest_0113_01",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "Hello again!"
+    },
+    "description": {
+      "text": "Did you get the  $(red)gem$()? You might have to exterminate the creature to get it."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Here."
+    },
+    "description": {
+      "text": "Wow... this is amazing. This is simply... astonishing. I will need some time with this. Can you bring me a wooden stick? I Think I might be able to make you something special."
+    }
+  },
+  "tasks": [
+     {
+      "item": {
+	 "item": "simple_mobs:gem_item"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+     }
+  ]
+}

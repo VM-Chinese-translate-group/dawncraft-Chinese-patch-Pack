@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0014_08",
+  "reputation": 10,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "The End of the Road"
+    },
+    "description": {
+      "text": "The fire giant had disappeared from our realm many moons ago. We were able to extract a knot of his hair before he left. The great clerics enchanted magic into the item, which should theoretically allow you to summon the giant should you offer the item at the altar. If you ever lose the hair knot, combine a fire charge with a basic fire resistance potion in a brewing stand to re-summon the item."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "The End of the Road"
+    },
+    "description": {
+      "text": "Well, I'm speechless... This is it adventurer. You have defeated all the eyeholders. If you have acquired 12 eyes already, look for the gateway into the End. God spede you."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:corrupted_eye"
+      },
+      "id": "quest_giver:item_pickup",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/addreputation reputation:village @p 10",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "simple_mobs:giant_knot"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

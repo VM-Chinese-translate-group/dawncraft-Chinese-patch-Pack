@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 6,
+  "icon": "minecraft:bow",
+  "start": {
+    "title": {
+      "text": "Extermination Task"
+    },
+    "description": {
+      "text": "Have you ever come across creatures that are half-eagle, half-horse? They are called Griffins. These beasts have been pillaging my bee farms and terrifying my family. Can you help me exterminate the closest Griffin you can find around this village and bring me its feather? Don't worry, I'll pay you handsomely... I know how much risk you're taking to take on such a creature."
+    }
+  }
+}

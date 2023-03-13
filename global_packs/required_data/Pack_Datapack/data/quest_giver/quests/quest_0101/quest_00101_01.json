@@ -1,0 +1,47 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:poppy",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "Did you get the $(red)Rafflesia$() yet?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Thanks a lot."
+    }
+  },
+  "tasks": [
+     {
+      "item": {
+	 "item": "habitat:rafflesia"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+     }
+  ],
+  "rewards": [
+    {
+      "command": "/advancement grant @p only custom:trade_florist",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/addreputation reputation:village @p 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

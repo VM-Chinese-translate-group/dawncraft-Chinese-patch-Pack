@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 7,
+  "icon": "minecraft:brewing_stand",
+  "start": {
+    "title": {
+      "text": "Advice"
+    },
+    "description": {
+      "text": "Just a word of advice... Though most of the folks here are nice and all, some of them... not so much. Don't believe in everything people say, yea?"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:cod",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "10 Emeralds for learning how to use the fletching table, pretty cheap right?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Here you go. Have fun making arrows!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 10
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add archery level 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

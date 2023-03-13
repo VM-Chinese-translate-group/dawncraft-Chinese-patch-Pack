@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 5,
+  "icon": "minecraft:wooden_sword",
+  "start": {
+    "title": {
+      "text": "Did you know?"
+    },
+    "description": {
+      "text": "Did you know? There are new faces in the dimension. Rumors have it that these man wear fabulous armor and unbreakable swords. I've had a chance to look at some of their armor design... Beautiful, but not practical. A decent hammer can smash through it with ease, haha!"
+    }
+  }
+}

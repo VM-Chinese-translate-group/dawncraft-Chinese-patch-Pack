@@ -1,0 +1,30 @@
+{
+  "parent": "quest_giver:quest_0053_02",
+  "reputation": 0,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "So, did you get the $(red)4 sweet berries$()?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "You've been great, young man. Do me another favor? I need 2 beetroots... I promise it's the last thing I'll ask."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:sweet_berries"
+      },
+      "id": "quest_giver:gift",
+      "times": 4
+    }
+  ]
+}

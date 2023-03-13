@@ -1,0 +1,12 @@
+{
+  "reputation": 7,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "Hey boy."
+    },
+    "description": {
+      "text": "Hey adventurer. Lend an ear?"
+    }
+  }
+}

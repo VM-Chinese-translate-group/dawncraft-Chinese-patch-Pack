@@ -1,0 +1,39 @@
+{
+  "parent": "quest_giver:quest_0116_01b",
+  "reputation": 10,
+  "icon": "minecraft:iron_axe",
+  "start": {
+    "title": {
+      "text": "An Offer"
+    },
+    "description": {
+      "text": "4 Emeralds, and I'll show you where you can find the materials needed to summon Ignis."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Here it is. Don't summon that abomination near this village. And remember, this map will only work if you open it in the Nether. Rolling this map open here will only give you a blank map. Don't ask me why... I have no clue."
+    }
+  },
+  "tasks": [
+     {
+      "item": {
+	 "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "amount": 4
+     }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "simple_mobs:rolled_map_2"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

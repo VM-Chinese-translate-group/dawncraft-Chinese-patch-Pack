@@ -1,0 +1,12 @@
+{
+  "reputation": 48,
+  "icon": "minecraft:stone",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "If you ever get to the end dimension. Could you get me an $(red)end stone$()?"
+    }
+  }
+}

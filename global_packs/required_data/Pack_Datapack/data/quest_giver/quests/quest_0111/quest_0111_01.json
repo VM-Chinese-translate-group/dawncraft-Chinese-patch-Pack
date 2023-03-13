@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:quest_0111_01b",
+  "reputation": 13,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "Hello again!"
+    },
+    "description": {
+      "text": "Bring me a piece of paper, I'll show you where it is on the paper."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Here."
+    },
+    "description": {
+      "text": "Here, it's rather easy to spot once you get close. Good luck, and bring me whatever it drops."
+    }
+  },
+  "tasks": [
+     {
+      "item": {
+	 "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "amount": 1
+     }
+  ],
+  "rewards": [
+  {
+      "command": "/loot give @p loot minecraft:guard4",
+      "id": "quest_giver:command"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+	"entity": "simple_mobs:skeletonlord",
+	"name": "Lord of Sorcery, the Skeleton Overlord",
+	"namevisible": false,
+	"showbossbar": false,
+  	"ai-goals": {                                      
+    	    "brutalbosses:aftercombatregen": {                
+      	    "amount": 1
+    		}                    
+  	}	
+}

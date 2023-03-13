@@ -1,0 +1,9 @@
+{
+	"entity": "simple_mobs:cave_dweller",
+	"name": "Cave Dweller",
+  	"ai-goals": {                                      
+    	    "brutalbosses:aftercombatregen": {                
+      	    "amount": 1
+    	}                    
+  }	
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 5,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "Our equipments are a bit broken in... do you think you can get us an $(red)iron hoe$()?"
+    }
+  }
+}

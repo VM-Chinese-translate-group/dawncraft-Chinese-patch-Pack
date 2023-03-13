@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:quest_0083_01b",
+  "reputation": 13,
+  "icon": "minecraft:iron_axe",
+  "start": {
+    "title": {
+      "text": "A Precious Item"
+    },
+    "description": {
+      "text": "Please get me a piece of $(red)paper$()."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Here ya go, please return to me my beloved axe. It was my finest work yet."
+    }
+  },
+  "tasks": [
+     {
+      "item": {
+	 "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+     }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:toolsmith1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

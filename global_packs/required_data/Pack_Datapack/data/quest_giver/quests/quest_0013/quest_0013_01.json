@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:white_wool",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "Give me 10 emeralds and I'll teach you how to use the grindstone! Cheap right?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "There you go! Easy right?"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 10
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add excavation level 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

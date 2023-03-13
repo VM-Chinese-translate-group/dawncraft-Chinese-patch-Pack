@@ -1,0 +1,12 @@
+{
+  "reputation": 5,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "An Offer"
+    },
+    "description": {
+      "text": "Hey fellow adventurer! I got an offer for you."
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "reputation": 12,
+  "icon": "minecraft:log",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "Hey young man, want to learn some combat skills?"
+    }
+  }
+}
