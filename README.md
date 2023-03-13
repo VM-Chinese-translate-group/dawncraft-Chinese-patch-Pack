@@ -1,7 +1,7 @@
-# Modpack Name 汉化补丁
+# DawnCraft 汉化补丁
 CurseForge|Modrinth|Modpack Version|Status
 :-|:-|:-|:-
-[Modpack]()|[Modpack]()|Version|*Active*|
+[Modpack](https://www.curseforge.com/minecraft/modpacks/dawn-craft)|[Modpack]()|1.0 Beta|*Active*|
 # 作者
 查看贡献者列表以获得完整列表
 # 鸣谢
