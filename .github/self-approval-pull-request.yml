@@ -1,0 +1,10 @@
+self_approval_comments:
+  - "我已自我审查！"
+  - "Self-Review!"
+  - "Approve!"
+  - "SA"
+  - "已经自审"
+  - "自审完成"
+from_author: []
+apply_labels: 
+  - "previous approve"
