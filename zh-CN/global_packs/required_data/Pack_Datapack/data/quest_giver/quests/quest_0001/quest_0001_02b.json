@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0001_01",
+  "reputation": 5,
+  "icon": "minecraft:wooden_sword",
+  "start": {
+    "title": {
+      "text": "Come to think of it..."
+    },
+    "description": {
+      "text": "Come to think of it... There's a way for me to repay you. Can you fetch me a piece of paper so I can draw you a map?"
+    }
+  }
+}
