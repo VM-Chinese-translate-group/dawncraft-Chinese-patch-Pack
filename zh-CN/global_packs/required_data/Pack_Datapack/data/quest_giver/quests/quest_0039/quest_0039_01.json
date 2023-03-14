@@ -4,18 +4,18 @@
   "icon": "minecraft:paper",
   "start": {
     "title": {
-      "text": "Foreign Outlaws"
+      "text": "异域亡命之徒"
     },
     "description": {
-      "text": "Can you fetched me a piece of paper for me? I'll draw you a map."
+      "text": "你能帮我拿一张纸吗？我给你画一张地图。"
     }
   },
   "complete": {
     "title": {
-      "text": "Here."
+      "text": "给你。"
     },
     "description": {
-      "text": "Here, the group of foreign outlaws built a place where the marker is. Go and take out the leader."
+      "text": "在这里，那群外国逃犯在标记的位置建了一个场所。去干掉那个头目。"
     }
   },
   "tasks": [
