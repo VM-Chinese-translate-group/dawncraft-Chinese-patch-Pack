@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "help"
+    },
+    "description": {
+      "text": "Thanks a lot... I was on a trip with my family, until we came across this... wolf. But it didn't act like one. If anything it behaved more like... a man. It ran to us as soon as it laid eyes on us, and.. well, I'm the only one who made it out alive. That was 2 years ago, but I still remember the place where it happened. Please, exterminate this creature. Avenge my family."
+    }
+  }
+}
