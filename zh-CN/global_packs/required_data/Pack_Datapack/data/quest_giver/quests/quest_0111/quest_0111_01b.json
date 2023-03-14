@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 13,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "help"
+    },
+    "description": {
+      "text": "There is a man-eating $(red)Giant$() living near us. Some of our villagers and guards have already been killed by him. The guards, including me, are too intimidated by its sheer size. But as far as we know, it's not too strong or intelligent. I believe you'll be able to take him on."
+    }
+  }
+}
