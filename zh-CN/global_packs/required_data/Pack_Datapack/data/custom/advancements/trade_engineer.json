@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Engineer Trade Scroll Obtained!",
+            "text": "工程师交易卷轴以获得！",
             "color": "blue",
             "bold": true
         },
         "description": {
-            "text": "Obtained Trade Scroll for Engineer."
+            "text": "获得工程师交易卷轴。"
         },
         "icon": {
             "item": "minecraft:paper"
