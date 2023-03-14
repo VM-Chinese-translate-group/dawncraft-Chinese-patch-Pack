@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 14,
+  "icon": "minecraft:cod",
+  "start": {
+    "title": {
+      "text": "A Curious Request"
+    },
+    "description": {
+      "text": "Great. Basically, an Oceanographer told me that there are these creatures out in the sea called guardians with spikes coming out of them... I find that hard to believe as I've never encountered anything like this for my whole life around the coastline. If you ever come across one and decide to kill it, could you give me one of their $(red)spikes$() as proof of their existence? I heard from the Oceanographer that only the big one drops its spike on death though."
+    }
+  }
+}
