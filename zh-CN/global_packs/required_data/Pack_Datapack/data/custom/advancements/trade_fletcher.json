@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "制箭师交易卷轴",
+            "text": "制箭师交易卷轴以获得！",
             "color": "blue",
             "bold": true
         },
         "description": {
-            "text": "获得制箭师交易卷轴"
+            "text": "获得制箭师交易卷轴。"
         },
         "icon": {
             "item": "minecraft:paper"
