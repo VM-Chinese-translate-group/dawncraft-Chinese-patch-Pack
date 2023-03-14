@@ -1,0 +1,12 @@
+{
+  "reputation": 14,
+  "icon": "minecraft:heart_of_the_sea",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "Hello adventurer. Could you get me something from the Ocean?"
+    }
+  }
+}
