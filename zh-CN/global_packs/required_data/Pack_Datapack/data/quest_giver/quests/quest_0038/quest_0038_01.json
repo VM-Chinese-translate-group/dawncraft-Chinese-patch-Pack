@@ -4,18 +4,18 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Exploration!"
+      "text": "探索!"
     },
     "description": {
-      "text": "Return to me when you finish travelling to these 3 biomes: Ancient Sand, Volcanic Peaks, White Mesa"
+      "text": "当你去过这三个生物群系之后再来：古代海沙，火山尖峰，白色台地"
     }
   },
   "complete": {
     "title": {
-      "text": "Finished"
+      "text": "完成"
     },
     "description": {
-      "text": "Thank you for your detailed explanations. I think I will be able to draw them based on your description. Here, take your reward."
+      "text": "谢谢你详细的解释。我想根据你的描述，我能够将它们画出来。来，拿着你的奖励。"
     }
   },
   "tasks": [
