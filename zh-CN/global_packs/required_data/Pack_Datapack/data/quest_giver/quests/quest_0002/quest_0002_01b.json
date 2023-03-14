@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "A Favor"
+    },
+    "description": {
+      "text": "Good man! It's been a while since our hunters caught any rabbit... I would be grateful if you could spare me any $(red)rabbit foot$() you have."
+    }
+  }
+}
