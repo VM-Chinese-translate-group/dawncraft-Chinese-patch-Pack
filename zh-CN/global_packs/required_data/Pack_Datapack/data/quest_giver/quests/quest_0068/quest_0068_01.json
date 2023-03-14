@@ -4,7 +4,7 @@
 	"icon": "minecraft:leather",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "那么？"
 		},
 		"description": {
 			"text": "How goes the preparation of $(red)Honey Glaze Ham$()? "
