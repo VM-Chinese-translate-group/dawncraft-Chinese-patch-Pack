@@ -9,8 +9,8 @@ CurseForge|Modrinth|Modpack Version|Status
 # 仓库统计数据
   ![Alt]()
 
-#翻译工作平台
-[crowdin](https://zh.crowdin.com/project/dawncraft-chinese-patch-pack)
+# 翻译工作平台  
+  [crowdin](https://zh.crowdin.com/project/dawncraft-chinese-patch-pack)
 # 关于我们
   [![Website](https://shields.io/website?up_message=vmct-cn.top&url=http://vmct-cn.top&label=Website)](http://vmct-cn.top)
   [![Bilibili](https://shields.io/website?up_message=Space&url=https://space.bilibili.com/2085089798/&label=Bilibili)](https://space.bilibili.com/2085089798/)
