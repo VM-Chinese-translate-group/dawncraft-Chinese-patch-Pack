@@ -1,0 +1,12 @@
+{
+  "reputation": 35,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "Hey"
+    },
+    "description": {
+      "text": "You there! Give me a hand wou'cha?"
+    }
+  }
+}
