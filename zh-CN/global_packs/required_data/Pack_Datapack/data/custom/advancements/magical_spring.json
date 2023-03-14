@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Magical Spring!",
+            "text": "神奇的春天！",
             "color": "yellow",
             "bold": true
         },
         "description": {
-            "text": "Found biome Haze Mountain."
+            "text": "发现生物群系阴霾山。"
         },
         "icon": {
             "item": "minecraft:potion"
