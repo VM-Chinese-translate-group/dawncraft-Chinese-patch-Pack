@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 5,
+  "icon": "minecraft:enchanted_book",
+  "start": {
+    "title": {
+      "text": "The Basic Skill"
+    },
+    "description": {
+      "text": "Ah... I don't think you'll be able to find the eyes in your current conditions. Come back to me once you've killed $(red)10 pillagers$(). I'll give you the most important skill you can get in this dimension."
+    }
+  }
+}
