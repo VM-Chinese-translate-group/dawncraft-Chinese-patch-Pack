@@ -4,7 +4,7 @@
   "icon": "minecraft:log",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那么？"
     },
     "description": {
       "text": "Did you get a piece of $(red)Purple Archwood Log$() yet?"
@@ -12,7 +12,7 @@
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感謝！"
     },
     "description": {
       "text": "Thanks. Here's your reward."
