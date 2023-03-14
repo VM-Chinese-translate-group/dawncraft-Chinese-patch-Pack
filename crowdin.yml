@@ -6,4 +6,6 @@ files:
   - source: /global_packs/required_resources/vm-language/assets/
     ignore:
       - dawncraft-quest
+      - ob
+      - netherskeletons/book
     translation: '%original_path%/zh_cn.json'
