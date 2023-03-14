@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Florist Trade Scroll Obtained!",
+            "text": "花贩交易卷轴以获得！",
             "color": "blue",
             "bold": true
         },
         "description": {
-            "text": "Obtained Trade Scroll for Florist."
+            "text": "已获得花贩交易卷轴。"
         },
         "icon": {
             "item": "minecraft:paper"
