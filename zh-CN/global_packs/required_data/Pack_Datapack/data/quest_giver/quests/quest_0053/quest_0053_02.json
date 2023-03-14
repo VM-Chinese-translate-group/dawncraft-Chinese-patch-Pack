@@ -1,0 +1,30 @@
+{
+  "parent": "quest_giver:quest_0053_01",
+  "reputation": 0,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "Did you get the $(red)2 melon seeds$()?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Get me 4 sweet berries as well? Villagers like myself can't risk going into the woods to collect these.   *You hear the villager chuckle as he finishes his sentence.*"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:melon_seeds"
+      },
+      "id": "quest_giver:gift",
+      "times": 2
+    }
+  ]
+}
