@@ -3,7 +3,7 @@
   "icon": "minecraft:redstone",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "嘿！"
     },
     "description": {
       "text": "Can you give me $(red)10 Redstone Dust$()? I'll pay for it of course."
