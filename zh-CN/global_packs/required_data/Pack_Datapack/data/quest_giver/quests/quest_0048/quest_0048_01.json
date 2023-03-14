@@ -4,7 +4,7 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那么？"
     },
     "description": {
       "text": "I need your help retrieving a witch hat, any one would do. Witches seldom drop it."
@@ -12,7 +12,7 @@
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感謝！"
     },
     "description": {
       "text": "YOU FOOL! NOW LETS BRING DOOM UPON THIS VILLAGE! I TAKE GLORY IN MY SACRIFICE IF IT MEANT BRINGING THIS VILLAGE TO ITS END!"
