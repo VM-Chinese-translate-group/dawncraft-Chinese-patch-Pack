@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "Advice"
+    },
+    "description": {
+      "text": "As an ambitious farmer, my goal in life is to be an expert in growing different vegetations! However I've only had experience with wheat and potatoes... Would you help me find some pumpkin seeds? I will begin my ambitious conquest from there!"
+    }
+  }
+}
