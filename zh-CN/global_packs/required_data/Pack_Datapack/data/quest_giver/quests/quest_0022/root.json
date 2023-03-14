@@ -1,0 +1,12 @@
+{
+  "reputation": 6,
+  "icon": "minecraft:log",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "Hey boy, can you get me a piece of $(red)Purple Vexing Archwood Log$()?"
+    }
+  }
+}
