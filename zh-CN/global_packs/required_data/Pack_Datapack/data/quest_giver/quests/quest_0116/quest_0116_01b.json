@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 5,
+  "icon": "minecraft:iron_axe",
+  "start": {
+    "title": {
+      "text": "An Offer"
+    },
+    "description": {
+      "text": "Did you hear about a legendary being - Ignis? I heard that it's ever stronger than... the Fire Giant. If you want to summon it, you'll need to obtain certain materials in the Nether Dimension. I can show you where these materials can be found... for a price. 4 Emeralds to be exact."
+    }
+  }
+}
