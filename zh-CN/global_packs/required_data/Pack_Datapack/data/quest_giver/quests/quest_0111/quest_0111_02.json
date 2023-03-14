@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:quest_0111_01",
+  "reputation": 13,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "Did you exterminate the cave dweller yet? If so bring me its drops."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Good job! This is one of its eye alright... Let's see, I'll teach you the combat skill - Guard, as payment. It's one of the most important skills one could learn in this dimension."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "simple_mobs:giant_eye_fragment"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/give @p epicfight:skillbook{skill:\"epicfight:guard\"}",
+      "id": "quest_giver:command"
+    }
+  ]
+}
