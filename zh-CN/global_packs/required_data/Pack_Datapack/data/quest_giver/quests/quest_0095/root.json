@@ -3,7 +3,7 @@
   "icon": "minecraft:redstone",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "嘿！"
     },
     "description": {
       "text": "I teach people how to use $(yellow)Create Machines$() for a price. What do you say?"
