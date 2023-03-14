@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:wooden_sword",
+  "start": {
+    "title": {
+      "text": "Come here!"
+    },
+    "description": {
+      "text": "Come here! Have a chat will ya?"
+    }
+  }
+}
