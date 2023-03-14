@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "Knowledge comes at a cost. In this case it's 15 emeralds for the knowledge of the enchanting table."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "There. Mess around with different bookshelves to find the enchantment you want."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 15
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add magic level 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}
