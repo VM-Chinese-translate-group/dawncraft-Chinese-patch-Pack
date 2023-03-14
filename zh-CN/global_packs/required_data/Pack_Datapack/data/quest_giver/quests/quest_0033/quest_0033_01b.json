@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 7,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "Exotic Meat"
+    },
+    "description": {
+      "text": "Here in the village we usually only get the regular kinds of meat. I've heard that there are creatures called kangaroos that have tender and juicing meat on their tail. Could you get me a piece of their meat? And also I'd like to have a look at their hide as well."
+    }
+  }
+}
