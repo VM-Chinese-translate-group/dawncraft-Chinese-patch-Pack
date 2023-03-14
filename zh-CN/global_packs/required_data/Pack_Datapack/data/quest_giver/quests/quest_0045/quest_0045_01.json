@@ -4,7 +4,7 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那么？"
     },
     "description": {
       "text": "Did yuo get the $(red)5 Blaze Rods$()? No worries, I know how hard it could be."
@@ -12,7 +12,7 @@
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感謝！"
     },
     "description": {
       "text": "Well done. These materials are hard to come by here in the village. I'll use them sparingly. Thanks."
