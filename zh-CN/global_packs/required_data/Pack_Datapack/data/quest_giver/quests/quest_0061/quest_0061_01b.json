@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "Arrow Making"
+    },
+    "description": {
+      "text": "I'm lacking some feathers for arrow making. Can you fetch me $(red)2 feathers$()? I can give you a few of the arrows after I've finished."
+    }
+  }
+}
