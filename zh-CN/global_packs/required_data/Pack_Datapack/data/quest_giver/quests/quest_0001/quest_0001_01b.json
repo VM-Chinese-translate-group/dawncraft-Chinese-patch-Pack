@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 5,
+  "icon": "minecraft:wooden_sword",
+  "start": {
+    "title": {
+      "text": "Fetch Me Something!"
+    },
+    "description": {
+      "text": "I need something! Can you help me fetch $(red)4 iron ingots$()? I'm running out of materials to make armor... I will repay you someday I promise!"
+    }
+  }
+}
