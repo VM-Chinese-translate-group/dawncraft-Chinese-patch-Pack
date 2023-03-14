@@ -12,7 +12,7 @@
   "item.zombie_variants.zombie_yeti_spawn_egg": "僵尸雪人生成蛋",
   "item.zombie_variants.berry_bush_leggings": "浆果灌木装饰紧身裤",
   "item.zombie_variants.cold_dirt_zombie_b_spawn_egg": "Cold Dirt Zombie B Spawn Egg",
-  "item.zombie_variants.snowy_zombie_a_spawn_egg": "Snowy Zombie A Spawn Egg",
+  "item.zombie_variants.snowy_zombie_a_spawn_egg": "雪僵尸生成蛋",
   "item.zombie_variants.icy_eskimo_zombie_b_spawn_egg": "Icy Eskimo Zombie B Spawn Egg",
   "item.zombie_variants.icy_zombie_b_spawn_egg": "Icy Zombie B Spawn Egg",
   "item.zombie_variants.icy_zombie_a_spawn_egg": "Icy Zombie A Spawn Egg",
@@ -28,9 +28,9 @@
   "entity.zombie_variants.cold_dirt_zombie_a": "Cold Dirt Zombie",
   "entity.zombie_variants.cold_zombie_d": "Cold Zombie",
   "entity.zombie_variants.cold_dirt_zombie_b": "Cold Dirt Zombie",
-  "entity.zombie_variants.cold_zombie_c": "Cold Zombie",
-  "entity.zombie_variants.cold_zombie_b": "Cold Zombie",
-  "entity.zombie_variants.cold_zombie_a": "Cold Zombie",
+  "entity.zombie_variants.cold_zombie_c": "冷僵尸",
+  "entity.zombie_variants.cold_zombie_b": "冷僵尸",
+  "entity.zombie_variants.cold_zombie_a": "冷僵尸",
   "item.zombie_variants.berry_bush_helmet": "Berry Bush Helmet",
-  "item.zombie_variants.cold_zombie_b_spawn_egg": "Cold Zombie B Spawn Egg"
+  "item.zombie_variants.cold_zombie_b_spawn_egg": "冷僵尸出生蛋"
 }
