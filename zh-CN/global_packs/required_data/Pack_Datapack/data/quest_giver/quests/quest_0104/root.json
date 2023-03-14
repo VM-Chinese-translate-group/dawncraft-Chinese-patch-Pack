@@ -3,7 +3,7 @@
   "icon": "minecraft:bow",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "嘿！"
     },
     "description": {
       "text": "Hey there, can you get $(red)16 arrows$() from the local fletcher? I'll pay you back for it."
