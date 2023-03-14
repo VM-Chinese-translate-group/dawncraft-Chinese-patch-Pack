@@ -1,0 +1,12 @@
+{
+  "reputation": 2,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "Hey there!"
+    },
+    "description": {
+      "text": "My fellow. This place is boring me to death... Up for a little chat? It'll be worth your while."
+    }
+  }
+}
