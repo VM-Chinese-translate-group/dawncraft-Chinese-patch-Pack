@@ -3,7 +3,7 @@
   "icon": "minecraft:poppy",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "嘿！"
     },
     "description": {
       "text": "Can you get me $(red)1 Soul Weed$()? It can be found in the Nether Dimension."
