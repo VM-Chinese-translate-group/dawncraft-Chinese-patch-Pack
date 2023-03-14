@@ -1,0 +1,12 @@
+{
+  "reputation": 15,
+  "icon": "minecraft:stone",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "Could you get me an $(red)ancient debris$()? I've never had a chance to work with such high quality minerals... I am willing to pay a high price for it!"
+    }
+  }
+}
