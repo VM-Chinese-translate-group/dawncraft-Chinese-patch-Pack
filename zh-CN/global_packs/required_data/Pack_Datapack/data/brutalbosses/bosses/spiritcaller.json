@@ -1,6 +1,6 @@
 {
 	"entity": "illageandspillage:spiritcaller",
-	"name": "Spirit Caller",
+	"name": "精神召唤者",
 	"namevisible": false,
 	"ai-goals": {
 		"brutalbosses:aftercombatregen": {
