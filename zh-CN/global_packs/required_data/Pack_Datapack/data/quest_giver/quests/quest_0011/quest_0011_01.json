@@ -4,7 +4,7 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那么？"
     },
     "description": {
       "text": "Give me 10 emeralds and I'll teach you how to use the loom!"
@@ -12,7 +12,7 @@
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感謝！"
     },
     "description": {
       "text": "There you go!"
