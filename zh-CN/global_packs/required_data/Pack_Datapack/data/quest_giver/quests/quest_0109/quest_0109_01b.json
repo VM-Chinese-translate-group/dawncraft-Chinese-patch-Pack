@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 6,
+  "icon": "minecraft:bow",
+  "start": {
+    "title": {
+      "text": "help"
+    },
+    "description": {
+      "text": "The pillagers who've set up base near our village took away a child... The number of guards in this village are not strong enough to rush in and save the child. If you can help, please fetch me a piece of paper. I'll show you where they are."
+    }
+  }
+}
