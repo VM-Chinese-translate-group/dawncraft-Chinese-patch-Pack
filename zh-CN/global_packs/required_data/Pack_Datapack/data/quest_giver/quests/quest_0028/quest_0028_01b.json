@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:wooden_sword",
+  "start": {
+    "title": {
+      "text": "Great!"
+    },
+    "description": {
+      "text": "They say there is a biome within this dimension in which steams flow above boiling spring water and magical fog covers the entire mountain. Brave adventurer, if you ever come across such a place, please come back and let me know how it really is!"
+    }
+  }
+}
