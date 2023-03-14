@@ -1,0 +1,34 @@
+{
+  "parent": "quest_giver:quest_0014_02",
+  "reputation": 10,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "Road to the Eye Holders"
+    },
+    "description": {
+      "text": "Your first assignment is to exterminate the $(red)Goblin King$(). They can be found on top of their castles."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Road to the Eye Holders"
+    },
+    "description": {
+      "text": "Good job. Seems you're ready to take on the $(red)Ogre$(). Here, the creature dwelling in the marked spot is holding one of the eyes."
+    }
+  },
+  "tasks": [
+    {
+      "entity": "goblinsanddungeons:goblin_king",
+      "id": "quest_giver:kill",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:guildmaster1",
+      "id": "quest_giver:command"
+    }
+  ]
+}
