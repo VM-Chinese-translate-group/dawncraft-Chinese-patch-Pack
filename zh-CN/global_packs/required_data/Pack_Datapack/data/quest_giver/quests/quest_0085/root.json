@@ -1,0 +1,12 @@
+{
+  "reputation": 24,
+  "icon": "minecraft:iron_axe",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "Hey there! Can you help me get some crimson wood stems from the Nether? I'm trying to make tools with special handles."
+    }
+  }
+}
