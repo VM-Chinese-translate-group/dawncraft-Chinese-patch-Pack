@@ -1,0 +1,30 @@
+{
+  "parent": "quest_giver:quest_0053_03",
+  "reputation": 0,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "Hello, did you get the$(red) 2 beetroots$()?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Thanks."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:beetroot"
+      },
+      "id": "quest_giver:gift",
+      "times": 2
+    }
+  ]
+}
