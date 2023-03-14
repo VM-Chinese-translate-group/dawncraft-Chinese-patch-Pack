@@ -4,18 +4,18 @@
   "icon": "minecraft:paper",
   "start": {
     "title": {
-      "text": "Learn How to Use the Cartography Table"
+      "text": "学习如何使用制图台"
     },
     "description": {
-      "text": "Oh... hm, alright. Give me 15 emeralds and I'll teach you how to use it."
+      "text": "哦......嗯，好吧，给我15个绿宝石，我就教你如何使用它。"
     }
   },
   "complete": {
     "title": {
-      "text": "Here ya go."
+      "text": "好了"
     },
     "description": {
-      "text": "Don't get intimidated by the equipments on the table, you'll get the hang of it!"
+      "text": "不要被桌子上的设备吓倒，你会掌握它的！"
     }
   },
   "tasks": [
