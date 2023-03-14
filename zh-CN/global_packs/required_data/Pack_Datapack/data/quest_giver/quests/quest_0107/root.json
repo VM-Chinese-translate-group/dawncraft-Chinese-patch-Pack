@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:log",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "Hey boy, can you get me a piece of $(red)Dusk Log$()? It can be found in the Everdawn dimension."
+    }
+  }
+}
