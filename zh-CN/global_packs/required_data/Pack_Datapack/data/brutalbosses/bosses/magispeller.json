@@ -1,6 +1,6 @@
 {
 	"entity": "illageandspillage:magispeller",
-	"name": "Magispeller",
+	"name": "灾厄术士",
 	"namevisible": false,
 	"ai-goals": {
 		"brutalbosses:aftercombatregen": {
