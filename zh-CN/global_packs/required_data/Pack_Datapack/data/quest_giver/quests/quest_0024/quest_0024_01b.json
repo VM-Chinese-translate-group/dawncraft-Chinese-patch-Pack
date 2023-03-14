@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 6,
+  "icon": "minecraft:bow",
+  "start": {
+    "title": {
+      "text": "help"
+    },
+    "description": {
+      "text": "The pillagers have kidnapped a child from our village... Please go save him and bring him home. The guards here are swarmed with patrol duties, you're our only hope."
+    }
+  }
+}
