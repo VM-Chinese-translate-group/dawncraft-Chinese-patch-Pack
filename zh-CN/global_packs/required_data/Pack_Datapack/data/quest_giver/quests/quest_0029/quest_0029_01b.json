@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:iron_chestplate",
+  "start": {
+    "title": {
+      "text": "Mushroom Stew!"
+    },
+    "description": {
+      "text": "Thank you! I just want to have a taste of a good bowl of $(red)mushroom stew$()."
+    }
+  }
+}
