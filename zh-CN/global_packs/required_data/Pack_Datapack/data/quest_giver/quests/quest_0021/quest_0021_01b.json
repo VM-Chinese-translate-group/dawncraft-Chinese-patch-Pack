@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 14,
+  "icon": "minecraft:bow",
+  "start": {
+    "title": {
+      "text": "help"
+    },
+    "description": {
+      "text": "I need your help retrieving an item called $(red)Heart of the Sea$(). It can often be found in buried treasures, but I lack the experience and expertise an adventurer have to find it. Could you get it for me?"
+    }
+  }
+}
