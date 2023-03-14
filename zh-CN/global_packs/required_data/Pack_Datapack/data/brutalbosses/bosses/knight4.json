@@ -1,6 +1,6 @@
 {
 	"entity": "simple_mobs:knight_4",
-	"name": "Knight Rober, the Primordial One",
+	"name": "骑士罗伯，原始人",
 	"gear": {
 		"mainhand": "{id: \"magistuarmory:netherite_katzbalger\", Count: 1b, tag: {Damage: 0}}",
 		"offhand": "{id: \"magistuarmory:netherite_katzbalger\", Count: 1b, tag: {Damage: 0}}",
