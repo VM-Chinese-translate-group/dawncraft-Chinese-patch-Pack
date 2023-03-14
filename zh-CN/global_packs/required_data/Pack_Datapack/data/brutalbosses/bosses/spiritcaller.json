@@ -1,6 +1,6 @@
 {
 	"entity": "illageandspillage:spiritcaller",
-	"name": "精神召唤者",
+	"name": "唤灵者",
 	"namevisible": false,
 	"ai-goals": {
 		"brutalbosses:aftercombatregen": {
