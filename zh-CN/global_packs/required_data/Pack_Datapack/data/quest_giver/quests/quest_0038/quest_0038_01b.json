@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 13,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "Exploration!"
+    },
+    "description": {
+      "text": "Basically, I need help figuring out what different biomes look like so I can draw them better on the maps. As an adventurer, I thought you perfect for the job! There are 3 biomes I'm currently interested in: The white cliffs, ancient sands, and the volcanic peaks."
+    }
+  }
+}
