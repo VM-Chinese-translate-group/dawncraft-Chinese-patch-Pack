@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 7,
+  "icon": "minecraft:brewing_stand",
+  "start": {
+    "title": {
+      "text": "Advice"
+    },
+    "description": {
+      "text": "Did you know? The FrostMaw snatched the Cold Eye away from the Yeti guarding it! I've heard this story from a couple travelers already, so it must be true... What a chaotic world we live in."
+    }
+  }
+}
