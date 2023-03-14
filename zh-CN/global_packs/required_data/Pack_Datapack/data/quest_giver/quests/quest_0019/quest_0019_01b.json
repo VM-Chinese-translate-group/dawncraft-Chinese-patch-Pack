@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "help"
+    },
+    "description": {
+      "text": "I met a ghost when I was out mining... It was a horrible night with creatures spawning everywhere around me, but this kindred spirit protected me from every monster that came my way. Before I left for the village, the spirit told me to look for adventurers and bring them to him."
+    }
+  }
+}
