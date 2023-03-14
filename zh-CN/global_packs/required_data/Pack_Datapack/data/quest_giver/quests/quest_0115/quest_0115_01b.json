@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 5,
+  "icon": "minecraft:iron_axe",
+  "start": {
+    "title": {
+      "text": "An Offer"
+    },
+    "description": {
+      "text": "When I was in the Nether Dimension, I found a peculiar structure with a monstrous golem dwelling inside. I'll show you where it is on the map if you give me 6 emeralds."
+    }
+  }
+}
