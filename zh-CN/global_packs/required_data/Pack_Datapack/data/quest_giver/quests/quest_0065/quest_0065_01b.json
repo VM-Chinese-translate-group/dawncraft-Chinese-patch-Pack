@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 7,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "Tipped Arrows"
+    },
+    "description": {
+      "text": "I'm trying to make tipped arrows. Can you get me a dozen glowstone dust?"
+    }
+  }
+}
