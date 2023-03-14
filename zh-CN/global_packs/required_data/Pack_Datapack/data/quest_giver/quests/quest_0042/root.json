@@ -1,0 +1,12 @@
+{
+  "reputation": 2,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "Hey there!"
+    },
+    "description": {
+      "text": "If you call yourself an adventurer, you gotta have a compass! Craft a $(red)compass$() and return to me."
+    }
+  }
+}
