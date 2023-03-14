@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0048_02",
+  "reputation": 25,
+  "icon": "minecraft:brewing_stand",
+  "start": {
+    "title": {
+      "text": "Guards"
+    },
+    "description": {
+      "text": "Still want something, 'hero'? Well, want to learn how to use the mixing cauldron? Kill 3 villager guards for me. I need their sacrifice for... Well it's none of your concern. Just kill 3. The quiet ones, don't choose the chatty ones that give you task. And do it quietly... if you can. I don't want to be linked with the murder."
+    }
+  }
+}
