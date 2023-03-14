@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "I'm teaching people how to use the fletching table for a mere 10 emerald. What do you say?"
+    }
+  }
+}
