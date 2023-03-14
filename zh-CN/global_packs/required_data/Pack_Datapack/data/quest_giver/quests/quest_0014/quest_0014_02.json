@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0014_01",
+  "reputation": 10,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "Road to the Eye Holders"
+    },
+    "description": {
+      "text": "Good, seems like you're ready for an adventure! Ready to find your first eye?"
+    }
+  }
+}
