@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Woodworker Trade Scroll Obtained!",
+            "text": "木匠交易卷轴已获得！",
             "color": "blue",
             "bold": true
         },
         "description": {
-            "text": "Obtained Trade Scroll for Woodworker."
+            "text": "获得木匠交易卷轴。"
         },
         "icon": {
             "item": "minecraft:paper"
