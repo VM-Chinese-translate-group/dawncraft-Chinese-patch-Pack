@@ -4,7 +4,7 @@
   "icon": "minecraft:leather",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那么？"
     },
     "description": {
       "text": "Huh? Oh you forgot. I was asking for $(red)4 Lion Hide$()."
@@ -12,7 +12,7 @@
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感謝！"
     },
     "description": {
       "text": "Thanks. Here, happy doing business with you."
