@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "Extermination Request"
+    },
+    "description": {
+      "text": "Creepers are spawning more frequently around here at night... They don't harm us but they scare away our poor lambs. Can you exterminate them at night? I'll give you payments once you've reached 6 kills."
+    }
+  }
+}
