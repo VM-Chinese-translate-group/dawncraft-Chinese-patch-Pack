@@ -1,7 +1,7 @@
 {
-  "danny_commands.force_phase.same_phase": "World phase is %s already!",
-  "danny_commands.force_phase.success": "Changed world phase from %s to %s",
-  "argument.dannys_expansion.phase.invalid_reference": "Couldn't find phase \"%s\"",
+  "danny_commands.force_phase.same_phase": "世界已是%s阶段！",
+  "danny_commands.force_phase.success": "已将世界阶段由%s变为%s",
+  "argument.dannys_expansion.phase.invalid_reference": "无法找到阶段%s",
   "argument.dannys_expansion.phase_ordinal.negative_ordinal": "Phase ordinal cannot be negative: %s",
   "argument.dannys_expansion.phase_ordinal.out_of_bounds_ordinal": "Phase ordinal is out of bounds: %s",
   "container.workbench": "Workbench",
