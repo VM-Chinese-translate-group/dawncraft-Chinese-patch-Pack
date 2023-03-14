@@ -1,38 +1,34 @@
 {
-  "parent": "root.json",
-  "text": "storage_clouds.txt",
-  "title": "The Storage in our Clouds",
+  "parent": "mobs_and_materials.json",
+  "text": "badloon.txt",
+  "title": "Badloon",
   "entity_buttons": [],
   "linked_page_buttons": [],
   "images": [],
-  "item_renders": [],
-  "recipes": [
+  "item_renders": [
     {
-      "recipe": "cloudstorage:balloon",
-      "shapeless": false,
-      "x": 20,
-      "y": 90,
+      "item": "cloudstorage:balloon_buddy",
+      "item_tag": "{3DRender:2,Personality:1}",
+      "x": 25,
+      "y": 14,
       "page": 0,
-      "scale": "1.2"
-    },
-    {
-      "recipe": "cloudstorage:cloud_chest",
-      "shapeless": false,
-      "x": 210,
-      "y": 49,
-      "page": 0,
-      "scale": "1.2"
-    },
-    {
-      "recipe": "cloudstorage:static_cloud_chest",
-      "shapeless": false,
-      "x": 20,
-      "y": 40,
-      "page": 2,
-      "scale": "1.2"
+      "scale": "2.75"
     }
   ],
+  "recipes": [],
   "tabula_renders": [],
-  "entity_renders": []
+  "entity_renders": [
+    {
+      "entity": "cloudstorage:badloon_hand",
+      "x": 90,
+      "y": 110,
+      "page": 0,
+      "scale": "1",
+      "rot_x": 35,
+      "rot_y": 225,
+      "rot_z": 0,
+      "follow_cursor": false
+    }
+  ]
 }
 
