@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:smoker",
+  "start": {
+    "title": {
+      "text": "Hey there!"
+    },
+    "description": {
+      "text": "Hey there! Wanna learn how to use the smoker? It'll set you back around 15 emeralds."
+    }
+  }
+}
