@@ -4,7 +4,7 @@
 	"icon": "minecraft:book",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "那么？"
 		},
 		"description": {
 			"text": "Did you get the chance to gather the $(red)10 pieces of paper$()?"
