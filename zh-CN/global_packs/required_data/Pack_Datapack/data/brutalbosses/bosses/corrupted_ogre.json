@@ -1,6 +1,6 @@
 {
 	"entity": "simple_mobs:corrupted_ogre",
-	"name": "腐化的食人魔，眼睛持有者",
+	"name": "腐化食人魔眼罩",
 	"namevisible": false,
 	"ai-goals": {
 		"brutalbosses:aftercombatregen": {
