@@ -1,6 +1,6 @@
 {
 	"entity": "simple_mobs:skeletonlord",
-	"name": "魔法之王，骷髅领主",
+	"name": "Lord of Sorcery, the Skeleton Overlord",
 	"namevisible": false,
 	"showbossbar": false,
 	"ai-goals": {
