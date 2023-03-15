@@ -1,0 +1,33 @@
+{
+  "parent": "idas:idas_root",
+  "display": {
+    "icon": {
+      "item": "minecraft:wooden_sword"
+    },
+    "title": {
+      "translate": "The Redhorn Guild"
+    },
+    "description": {
+      "translate": "A Refuge and Training Grounds"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 50
+  },
+  "criteria": {
+    "in_redhorn_guild": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "idas:redhorn_guild"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "in_redhorn_guild"
+    ]
+  ]
+}
