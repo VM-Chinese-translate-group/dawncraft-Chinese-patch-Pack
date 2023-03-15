@@ -4,7 +4,7 @@
   "icon": "minecraft:ender_pearl",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那么？"
     },
     "description": {
       "text": "Please let me take a look once you've obtained the $(red)dragon egg$(), it has always been my dream to see one."
