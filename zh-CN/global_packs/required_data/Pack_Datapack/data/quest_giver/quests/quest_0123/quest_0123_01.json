@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Sculk"
+      "text": "幽匿块"
     },
     "description": {
-      "text": "Oh you're back! Did you get the $(red)Sculk Sensors$() yet?"
+      "text": "哦你回来了！你是否得到了 $(red)Sculk Sensors$() 吗？"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感謝！"
     },
     "description": {
-      "text": "This... looks so bizarre. Did you run into the Warden? Well, I'm guessing that you didn't, seeing as you're still alive. Anyway, here's your reward. This item should keep you safe from the mundane slimes."
+      "text": "这... 看起来很奇怪。你遇到典狱长了吗？好吧，我猜你没有，因为你还活着。无论如何，这是你的奖励。此物品应使您免受世俗史莱姆的侵害。"
     }
   },
   "tasks": [
