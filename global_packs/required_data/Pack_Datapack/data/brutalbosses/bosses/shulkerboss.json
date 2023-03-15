@@ -1,0 +1,34 @@
+{
+  "entity": "minecraft:shulker",
+  "name": "Kali the Old",
+  "visualscale": 1.3,
+  "experience": 300,
+  "effects": {
+    "minecraft:resistance": 1,
+    "minecraft:fire_resistance": 1
+  },
+  "attributes": {
+    "generic.max_health": 100,
+    "generic.follow_range": 80,
+    "generic.knockback_resistance": 1
+  },
+  "customattributes": {
+  },
+  "gear": {
+  },
+  "ai-goals": {
+    "brutalbosses:itemshootgoal": {
+      "item": "{id: \"minecraft:nether_star\", Count: 1b}",
+      "projectile_count": 9,
+      "projectile_interval": 100,
+      "damage": 8,
+      "projectile_distance": 20
+    }
+  },
+  "spawnatchest": {
+    "minecraft:chests/end_city_treasure": 5,
+    "minecraft:chests/stronghold_library": 1,
+    "minecraft:chests/simple_dungeon": 1,
+    "totw_additions:chests/end_tower/end_tower_chest": 1
+  }
+}

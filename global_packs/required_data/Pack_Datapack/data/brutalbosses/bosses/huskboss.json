@@ -1,0 +1,54 @@
+{
+  "entity": "minecraft:husk",
+  "name": "Fisk of the Sand",
+  "visualscale": 1.1,
+  "experience": 300,
+  "protect_treasure": true,
+  "effects": {
+    "minecraft:slowness": 1,
+    "minecraft:resistance": 1
+  },
+  "attributes": {
+    "generic.max_health": 100,
+    "generic.follow_range": 50,
+    "generic.attack_damage": 7,
+    "generic.knockback_resistance": 1
+  },
+  "customattributes": {
+    "attack_speed": 0.7
+  },
+  "gear": {
+    "mainhand": "{id: \"minecraft:netherite_sword\", Count: 1b, tag: {Damage: 0}}"
+  },
+  "ai-goals": {
+    "brutalbosses:charge": {},
+    "brutalbosses:aftercombatregen": {
+      "amount": 3
+    }
+  },
+  "spawnatchest": {
+    "minecraft:chests/simple_dungeon": 5,
+    "minecraft:chests/stronghold_crossing": 5,
+    "minecraft:chests/stronghold_corridor": 1,
+    "minecraft:chests/pillager_outpost": 1,
+    "minecraft:chests/buried_treasure": 1,
+    "betterdungeons:skeleton_dungeon/chests/common": 1,
+    "betterdungeons:skeleton_dungeon/chests/middle": 1,
+    "betterdungeons:zombie_dungeon/chests/common": 1,
+    "betterdungeons:zombie_dungeon/chests/special": 5,
+    "betterdungeons:zombie_dungeon/chests/tombstone": 1,
+    "dungeons_plus:chests/leviathan/common": 1,
+    "dungeons_arise:chests/desert_city_big": 1,
+    "dungeons_arise:chests/desert_city_medium": 1,
+    "endrem:chests/hided": 1,
+    "mostructures:pyramid_custom": 1,
+    "graveyard:chests/large_loot": 1,
+    "valhelsia_structures:chests/treasure": 1,
+    "minecraft:chests/abandoned_mineshaft": 1,
+    "dungeoncrawl:chests/stage_3": 1,
+    "dungeons_enhanced:desert_tomb": 1,
+    "dungeons_plus:chests/bigger_dungeon/husk": 2,
+    "dungeons_arise:chests/mining_system/mining_system_treasure": 1,
+    "dungeons_arise:chests/mines_treasure_medium": 1
+  }
+}

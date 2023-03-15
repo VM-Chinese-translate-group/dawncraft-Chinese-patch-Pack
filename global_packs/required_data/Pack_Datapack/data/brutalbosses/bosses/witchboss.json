@@ -1,0 +1,58 @@
+{
+  "entity": "minecraft:witch",
+  "name": "Silvana Heartfire",
+  "visualscale": 1.2,
+  "experience": 500,
+  "protect_treasure": true,
+  "effects": {
+    "minecraft:resistance": 2,
+    "minecraft:glowing": 1,
+    "minecraft:fire_resistance": 1
+  },
+  "attributes": {
+    "generic.max_health": 90,
+    "generic.follow_range": 80,
+    "generic.knockback_resistance": 1
+  },
+  "customattributes": {
+    "dropgear": 6
+  },
+  "gear": {
+    "mainhand": "{id: \"minecraft:enchanted_book\", Count: 1b, tag: {StoredEnchantments: [{lvl: 1s, id: \"minecraft:mending\"}]}}"
+  },
+  "ai-goals": {
+    "brutalbosses:itemshootgoal": {
+      "item": "{id: \"minecraft:fire_charge\", Count: 1b}",
+      "projectile_count": 6,
+      "projectile_interval": 300,
+      "projectile_aoe": true,
+      "lightning": true,
+      "explode": true,
+      "projectile_distance": 35
+    },
+    "brutalbosses:shootfireballs": {
+      "projectile_count": 3,
+      "projectile_interval": 160,
+      "projectile_aoe": true,
+      "projectile_distance": 25
+    },
+    "minecraft:target": {}
+  },
+  "spawnatchest": {
+    "minecraft:chests/simple_dungeon": 1,
+    "minecraft:chests/stronghold_library": 3,
+    "minecraft:chests/jungle_temple": 3,
+    "minecraft:chests/woodland_mansion": 3,
+    "dungeons_enhanced:castle_library": 1,
+    "dungeons_arise:chests/jungle_tree_house/jungle_tree_house_treasure": 1,
+    "dungeons_arise:chests/shiraz_palace/shiraz_palace_library": 1,
+    "dungeons_arise:chests/undead_pirate_ship/undead_pirate_ship_enchants": 1,
+    "endrem:chests/biblio": 1,
+    "illagers_plus:structure/illager_tower_enchanting": 1,
+    "mostructures:jungle_temple_treasure": 1,
+    "dungeoncrawl:chests/stage_5": 1,
+    "dungeons_enhanced:jungle_monument_treasure": 1,
+    "dungeons_arise:chests/mining_system/mining_system_treasure": 1,
+    "dungeons_arise:chests/plague_asylum/plague_asylum_treasure": 1
+  }
+}

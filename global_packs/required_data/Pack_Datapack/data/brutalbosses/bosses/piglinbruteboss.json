@@ -1,0 +1,43 @@
+{
+  "entity": "minecraft:piglin_brute",
+  "name": "Samuel the Pit Master",
+  "visualscale": 1.1,
+  "experience": 500,
+  "protect_treasure": true,
+  "effects": {
+    "minecraft:glowing": 1,
+    "minecraft:strength": 2,
+    "minecraft:fire_resistance": 2,
+    "minecraft:slow_falling": 1,
+    "minecraft:regeneration": 1
+  },
+  "attributes": {
+    "generic.max_health": 100,
+    "generic.follow_range": 50,
+    "generic.attack_damage": 5,
+    "generic.knockback_resistance": 1,
+    "generic.movement_speed": 0.4
+  },
+  "customattributes": {
+    "attack_speed": 0.75
+  },
+  "gear": {
+    "mainhand": "{id:\"minecraft:golden_sword\",Count:1b,tag:{Damage:0, Enchantments:[{lvl:2s,id:\"minecraft:fire_aspect\"}]}}",
+    "helmet": "{id:\"minecraft:netherite_helmet\",Count:1b,tag:{Damage:0}}",
+    "feet": "{id:\"minecraft:netherite_boots\",Count:1b,tag:{Damage:0}}"
+  },
+  "ai-goals": {
+    "minecraft:target": {},
+    "brutalbosses:lavarescue": {}
+  },
+  "spawnatchest": {
+    "minecraft:chests/nether_bridge": 1,
+    "minecraft:chests/bastion_treasure": 5,
+    "minecraft:chests/bastion_other": 1,
+    "minecraft:chests/bastion_bridge": 5,
+    "minecraft:chests/bastion_hoglin_stable": 1,
+    "totw_additions:chests/nether_tower/nether_tower_chest": 1,
+    "infernalexp:chests/desolate_bastion_outpost_chest": 1,
+    "infernalexp:chests/glowstone_canyon_ruin_chest": 1
+  }
+}

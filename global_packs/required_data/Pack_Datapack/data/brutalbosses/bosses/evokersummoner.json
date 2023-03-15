@@ -1,0 +1,83 @@
+{
+  "entity": "minecraft:evoker",
+  "name": "Vouzhul the Darkmaster",
+  "visualscale": 1.1,
+  "experience": 300,
+  "protect_treasure": true,
+  "effects": {
+    "minecraft:resistance": 3
+  },
+  "attributes": {
+    "generic.max_health": 80,
+    "generic.follow_range": 50
+  },
+  "customattributes": {
+    "projectile_damage_bonus": 2,
+    "dropgear": 6,
+    "removespellcastinggoals": 1
+  },
+  "gear": {
+    "mainhand": "{id: \"minecraft:enchanted_book\", Count: 1b, tag: {StoredEnchantments: [{lvl: 1s, id: \"minecraft:mending\"}]}}",
+    "offhand": "{id: \"minecraft:enchanted_book\", Count: 1b, tag: {StoredEnchantments: [{lvl: 1s, id: \"minecraft:fortune\"}]}}"
+  },
+  "ai-goals": {
+    "brutalbosses:aftercombatregen": {
+      "amount": 2
+    },
+    "brutalbosses:shootwitherskulls": {
+      "projectile_count": 5,
+      "projectile_interval": 400,
+      "projectile_distance": 35
+    },
+    "brutalbosses:chasetarget": {
+      "chasedistance": 20
+    },
+    "brutalbosses:summonmobs": {
+      "interval": 400,
+      "maxcount": 10,
+      "ownerdamagepct": 5,
+      "count": 2,
+      "entities": [
+        {
+          "entityid": "minecraft:zombie",
+          "entitynbt": "{Brain: {memories: {}}, HurtByTimestamp: 251, IsBaby: 1b, Attributes: [{Base: 0.0d, Name: \"minecraft:zombie.spawn_reinforcements\"}, {Base: 0.08d, Name: \"forge:entity_gravity\"}, {Base: 0.23000000417232513d, Name: \"minecraft:generic.movement_speed\"}], Invulnerable: 0b, FallFlying: 0b, PortalCooldown: 0, AbsorptionAmount: 0.0f, InWaterTime: -1, FallDistance: 0.0f, CanUpdate: 1b, DeathTime: 0s, ForgeCaps: {\"brutalbosses:bosscap\": {}}, HandDropChances: [0.085f, 0.085f], PersistenceRequired: 0b, UUID: [I; -1356225159, 445793596, -1560838011, 528914832], Motion: [0.0d, -0.0784000015258789d, 0.0d], Health: 18.119999f, LeftHanded: 0b, Air: 300s, OnGround: 1b, Rotation: [88.88051f, 0.0f], HandItems: [{}, {}], ArmorDropChances: [0.085f, 0.085f, 0.085f, 0.085f], Pos: [-59.22638885988113d, 55.0d, 100.53636996754722d], CanBreakDoors: 0b, Fire: -1s, ArmorItems: [{}, {}, {}, {}], CanPickUpLoot: 0b, HurtTime: 0s, DrownedConversionTime: -1}"
+        },
+        {
+          "entityid": "minecraft:skeleton"
+        },
+        {
+          "entityid": "minecraft:husk"
+        },
+        {
+          "entityid": "minecraft:wither_skeleton"
+        },
+        {
+          "entityid": "minecraft:stray"
+        }
+      ]
+    }
+  },
+  "spawnatchest": {
+    "minecraft:chests/simple_dungeon": 1,
+    "minecraft:chests/stronghold_library": 2,
+    "minecraft:chests/stronghold_crossing": 2,
+    "minecraft:chests/stronghold_corridor": 2,
+    "minecraft:chests/woodland_mansion": 3,
+    "minecraft:chests/ruined_portal": 1,
+    "minecraft:chests/pillager_outpost": 2,
+    "minecraft:chests/jungle_temple": 1,
+    "dungeons_arise:chests/bandit_towers/bandit_towers_treasure": 1,
+    "dungeons_arise:chests/illager_fort/illager_fort_treasure": 1,
+    "dungeons_arise:chests/jungle_tree_house/jungle_tree_house_treasure": 1,
+    "endrem:chests/biblio": 1,
+    "illagers_plus:structure/illager_centre": 1,
+    "illagers_plus:structure/fort_rare": 1,
+    "illagers_plus:structure/illager_tower_enchanting": 1,
+    "mostructures:pillager_treasure": 1,
+    "betterstrongholds:chests/common": 1,
+    "dungeoncrawl:chests/stage_5": 1,
+    "dungeons_enhanced:large_dungeon_treasury": 1,
+    "dungeons_arise:chests/mines_treasure_big": 1,
+    "dungeons_arise:chests/scorched_mines/scorched_mines_treasure": 1
+  }
+}

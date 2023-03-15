@@ -1,0 +1,44 @@
+{
+  "entity": "minecraft:mooshroom",
+  "name": "Gowl the Mad",
+  "visualscale": 1.2,
+  "experience": 300,
+  "effects": {
+    "minecraft:resistance": 1,
+    "minecraft:regeneration": 1,
+    "minecraft:fire_resistance": 1
+  },
+  "attributes": {
+    "generic.max_health": 65,
+    "generic.follow_range": 80,
+    "generic.knockback_resistance": 1
+  },
+  "customattributes": {
+    "dropgear": 6
+  },
+  "gear": {
+    "mainhand": "{id: \"minecraft:brown_mushroom\", Count: 64b}"
+  },
+  "ai-goals": {
+    "brutalbosses:charge": {},
+    "minecraft:target": {},
+    "brutalbosses:whirlwind": {},
+    "brutalbosses:meleehit": {
+      "damage": 10,
+      "potiononhit": "minecraft:poison",
+      "cooldown": 30
+    },
+    "brutalbosses:chasetarget": {}
+  },
+  "spawnatchest": {
+    "minecraft:chests/village/village_butcher": 5,
+    "minecraft:chests/jungle_temple": 1,
+    "minecraft:chests/bastion_hoglin_stable": 1,
+    "goblinsanddungeons:chests/camp_loot_table": 1,
+    "dungeons_enhanced:pillager_camp_kitchen": 1,
+    "dungeons_arise:chests/infested_temple/infested_temple_top_treasure": 1,
+    "dungeons_arise:chests/mushroom_house/mushroom_house_treasure": 1,
+    "dungeons_enhanced:chests/monster_maze/treasure": 1,
+    "dungeons_arise:chests/plague_asylum/plague_asylum_treasure": 1
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "entity": "minecraft:stray",
+  "name": "Ewart the Cold",
+  "visualscale": 1.2,
+  "experience": 400,
+  "protect_treasure": true,
+  "effects": {
+    "minecraft:slowness": 2,
+    "minecraft:resistance": 2,
+    "minecraft:fire_resistance": 1
+  },
+  "attributes": {
+    "generic.max_health": 80,
+    "generic.follow_range": 50,
+    "generic.knockback_resistance": 2
+  },
+  "customattributes": {
+    "projectile_damage_bonus": 4,
+    "dropgear": 6
+  },
+  "gear": {
+    "mainhand": "{id:\"minecraft:bow\",Count:1b,tag:{Damage:0, Enchantments:[{lvl:1s,id:\"minecraft:infinity\"},{lvl:4s,id:\"minecraft:power\"}]}}",
+    "helmet": "{id: \"minecraft:turtle_helmet\", Count: 1b, tag: {Damage: 0}}",
+    "offhand": "{id: \"minecraft:tipped_arrow\", Count: 64b, tag: {Potion: \"minecraft:long_turtle_master\"}}"
+  },
+  "ai-goals": {
+    "brutalbosses:aftercombatregen": {
+      "amount": 1
+    },
+    "brutalbosses:itemshootgoal": {
+      "item": "{id: \"minecraft:fire_charge\", Count: 1b}",
+      "projectile_count": 4,
+      "lightning": true,
+      "projectile_interval": 200,
+      "projectile_aoe": true,
+      "projectile_distance": 40
+    }
+  },
+  "spawnatchest": {
+    "minecraft:chests/simple_dungeon": 2,
+    "minecraft:chests/igloo_chest": 5,
+    "minecraft:chests/village/village_snowy_house": 1,
+    "dungeons_arise:chests/illager_corsair/illager_corsair_treasure": 1,
+    "dungeons_arise:chests/thornborn_towers/thornborn_towers_top_treasure": 1,
+    "illagers_plus:structure/ice_castle_rare": 1,
+    "illagers_plus:structure/illager_archer_tower": 1,
+    "mostructures:ice_tower": 1,
+    "mostructures:pirate_ship_cargo_misc": 1,
+    "valhelsia_structures:chests/treasure": 1,
+    "valhelsia_structures:chests/castle_ruin": 1,
+    "valhelsia_structures:chests/spawner_dungeon": 1,
+    "minecraft:chests/abandoned_mineshaft": 1,
+    "betterstrongholds:chests/crypt": 1,
+    "betterstrongholds:chests/common": 1,
+    "dungeoncrawl:chests/stage_3": 1,
+    "dungeons_enhanced:chests/ice_pit/hall": 1,
+    "dungeons_enhanced:large_dungeon_treasury": 1,
+    "dungeons_arise:chests/mining_system/mining_system_treasure": 1,
+    "dungeons_arise:chests/mines_treasure_big": 1,
+    "dungeons_arise:chests/mines_treasure_medium": 1,
+    "stoneholm:crypt": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "entity": "minecraft:guardian",
+  "name": "Esdras the Eager",
+  "visualscale": 1.2,
+  "experience": 400,
+  "effects": {
+  },
+  "attributes": {
+    "generic.max_health": 60,
+    "generic.follow_range": 50,
+    "generic.attack_damage": 10
+  },
+  "customattributes": {
+    "dropgear": 1
+  },
+  "gear": {
+    "mainhand": "{id: \"minecraft:trident\", Count: 1b, tag: {RepairCost: 1, Damage: 0, Enchantments: [{lvl: 3s, id: \"minecraft:riptide\"}]}}"
+  },
+  "ai-goals": {
+    "brutalbosses:aftercombatregen": {
+      "amount": 1
+    },
+    "brutalbosses:whirlwind": {
+      "potiononhit": "minecraft:blindness",
+      "potionduration": 100,
+      "knockback": 4,
+      "cooldown": 300
+    }
+  },
+  "spawnatchest": {
+    "minecraft:chests/underwater_ruin_small": 5,
+    "minecraft:chests/underwater_ruin_big": 5,
+    "minecraft:chests/shipwreck_map": 2,
+    "minecraft:chests/shipwreck_supply": 2,
+    "minecraft:chests/shipwreck_treasure": 2,
+    "minecraft:chests/buried_treasure": 1
+  }
+}

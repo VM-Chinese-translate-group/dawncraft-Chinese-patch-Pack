@@ -1,0 +1,48 @@
+{
+  "entity": "minecraft:drowned",
+  "name": "Sargent the Soaked",
+  "visualscale": 1.3,
+  "experience": 300,
+  "protect_treasure": true,
+  "effects": {
+    "minecraft:dolphins_grace": 6,
+    "minecraft:resistance": 1
+  },
+  "attributes": {
+    "generic.max_health": 90,
+    "generic.follow_range": 50,
+    "generic.attack_damage": 3,
+    "generic.knockback_resistance": 2
+  },
+  "customattributes": {
+    "attack_speed": 0.5,
+    "dropgear": 6
+  },
+  "gear": {
+    "mainhand": "{id: \"minecraft:trident\", Count: 1b, tag: {RepairCost: 1, Damage: 0, Enchantments: [{lvl: 3s, id: \"minecraft:riptide\"}]}}",
+    "chestplate": "{id: \"minecraft:leather_chestplate\", Count: 1b, tag: {Damage: 0}}",
+    "helmet": "{id: \"minecraft:turtle_helmet\", Count: 1b, tag: {RepairCost: 3, Damage: 0, Enchantments: [{lvl: 3s, id: \"minecraft:unbreaking\"}, {lvl: 3s, id: \"minecraft:respiration\"}]}}"
+  },
+  "ai-goals": {
+    "brutalbosses:aftercombatregen": {
+      "amount": 2
+    },
+    "brutalbosses:whirlwind": {
+      "potiononhit": "minecraft:slowness",
+      "potionlevel": 3
+    }
+  },
+  "spawnatchest": {
+    "minecraft:chests/ruined_portal": 1,
+    "minecraft:chests/underwater_ruin_small": 10,
+    "minecraft:chests/underwater_ruin_big": 10,
+    "minecraft:chests/shipwreck_treasure": 10,
+    "minecraft:chests/shipwreck_supply": 10,
+    "minecraft:chests/shipwreck_map": 10,
+    "dungeons_enhanced:castle_spring": 1,
+    "dungeons_plus:chests/warped_garden/common": 1,
+    "dungeons_arise:chests/illager_galley/illager_galley_treasure": 1,
+    "dungeons_arise:chests/typhon/typhon_treasure": 1,
+    "minecraft:chests/buried_treasure": 3
+  }
+}

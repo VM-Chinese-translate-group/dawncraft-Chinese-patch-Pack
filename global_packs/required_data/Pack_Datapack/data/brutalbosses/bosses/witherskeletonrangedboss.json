@@ -1,0 +1,39 @@
+{
+  "entity": "minecraft:wither_skeleton",
+  "name": "Fenire the Fiery",
+  "visualscale": 1.2,
+  "experience": 200,
+  "protect_treasure": true,
+  "effects": {
+    "minecraft:slowness": 2,
+    "minecraft:resistance": 2
+  },
+  "attributes": {
+    "generic.max_health": 60,
+    "generic.follow_range": 50,
+    "generic.knockback_resistance": 2
+  },
+  "customattributes": {
+    "projectile_damage_bonus": 2,
+    "dropgear": 6
+  },
+  "gear": {
+    "mainhand": "{id:\"minecraft:bow\",Count:1b,tag:{Damage:0, Enchantments:[{lvl:1s,id:\"minecraft:flame\"},{lvl:4s,id:\"minecraft:power\"}]}}",
+    "offhand": "{id:\"minecraft:tipped_arrow\",Count:64b,tag:{Potion:\"minecraft:harming\"}}"
+  },
+  "ai-goals": {
+    "brutalbosses:lavarescue": {},
+    "brutalbosses:aftercombatregen": {
+      "amount": 1
+    }
+  },
+  "spawnatchest": {
+    "minecraft:chests/nether_bridge": 3,
+    "dungeons_arise:chests/foundry/foundry_treasure": 1,
+    "illagers_plus:structure/illager_archer_tower": 1,
+    "totw_additions:chests/nether_tower/nether_tower_chest": 1,
+    "infernalexp:chests/desolate_bastion_outpost_chest": 1,
+    "infernalexp:chests/glowstone_canyon_ruin_chest": 1,
+    "dungeons_arise:chests/scorched_mines/scorched_mines_treasure": 1
+  }
+}

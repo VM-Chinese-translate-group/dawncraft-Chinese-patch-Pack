@@ -1,0 +1,45 @@
+{
+  "entity": "minecraft:phantom",
+  "name": "Chrz the quick",
+  "visualscale": 1.5,
+  "experience": 400,
+  "protect_treasure": true,
+  "effects": {
+    "minecraft:resistance": 1,
+    "minecraft:fire_resistance": 1
+  },
+  "attributes": {
+    "generic.max_health": 90,
+    "generic.follow_range": 120,
+    "generic.attack_damage": 10,
+    "generic.knockback_resistance": 1
+  },
+  "customattributes": {
+    "dropgear": 6
+  },
+  "gear": {
+    "mainhand": "{id: \"minecraft:enchanted_book\", Count: 1b, tag: {StoredEnchantments: [{lvl: 1s, id: \"minecraft:slow_fall\"}]}}"
+  },
+  "ai-goals": {
+    "brutalbosses:shootfireballs": {
+      "projectile_count": 7,
+      "projectile_interval": 300,
+      "projectile_distance": 65
+    }
+  },
+  "spawnatchest": {
+    "minecraft:chests/pillager_outpost": 1,
+    "minecraft:chests/ruined_portal": 3,
+    "minecraft:chests/woodland_mansion": 1,
+    "dungeons_arise:chests/abandoned_temple/abandoned_temple_top": 1,
+    "dungeons_arise:chests/heavenly_conqueror/heavenly_conqueror_treasure": 1,
+    "dungeons_arise:chests/small_blimp/small_blimp_treasure": 1,
+    "mostructures:ice_tower": 2,
+    "totw_additions:chests/nether_tower/nether_tower_chest": 3,
+    "totw_additions:chests/end_tower/end_tower_chest": 3,
+    "graveyard:chests/totem_loot": 1,
+    "valhelsia_structures:chests/castle_ruin": 2,
+    "infernalexp:chests/basalt_delta_ruin_chest": 1,
+    "dungeons_arise:chests/aviary/aviary_barrels": 1
+  }
+}

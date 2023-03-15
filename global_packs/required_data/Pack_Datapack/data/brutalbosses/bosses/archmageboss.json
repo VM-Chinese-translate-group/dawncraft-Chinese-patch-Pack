@@ -1,0 +1,69 @@
+{
+  "entity": "minecraft:wandering_trader",
+  "name": "Agizahr the Archmage",
+  "visualscale": 0.7,
+  "experience": 300,
+  "protect_treasure": true,
+  "effects": {
+    "minecraft:slowness": 2,
+    "minecraft:resistance": 3,
+    "minecraft:regeneration": 1,
+    "minecraft:glowing": 1,
+    "minecraft:fire_resistance": 1
+  },
+  "attributes": {
+    "generic.max_health": 70,
+    "generic.follow_range": 80,
+    "generic.knockback_resistance": 1
+  },
+  "customattributes": {
+    "dropgear": 6
+  },
+  "gear": {
+    "mainhand": "{id: \"minecraft:enchanted_book\", Count: 1b, tag: {StoredEnchantments: [{lvl: 1s, id: \"minecraft:mending\"}]}}"
+  },
+  "ai-goals": {
+    "brutalbosses:itemshootgoal": {
+      "item": "{id: \"minecraft:nether_star\", Count: 1b}",
+      "projectile_count": 3,
+      "projectile_interval": 300,
+      "projectile_aoe": true,
+      "lightning": true,
+      "projectile_distance": 20
+    },
+    "brutalbosses:shootwitherskulls": {
+      "projectile_count": 2,
+      "projectile_interval": 230,
+      "projectile_aoe": true,
+      "projectile_distance": 30,
+      "dangerous": true
+    },
+    "brutalbosses:shootfireballs": {
+      "projectile_count": 4,
+      "projectile_interval": 160,
+      "projectile_aoe": true,
+      "projectile_distance": 25
+    },
+    "brutalbosses:shootbigfireballs": {
+      "projectile_count": 1,
+      "projectile_interval": 500,
+      "projectile_aoe": true,
+      "projectile_distance": 40
+    },
+    "minecraft:target": {},
+    "brutalbosses:chasetarget": {
+      "chasedistance": 20
+    }
+  },
+  "spawnatchest": {
+    "minecraft:chests/end_city_treasure": 10,
+    "minecraft:chests/pillager_outpost": 2,
+    "dungeons_arise:chests/shiraz_palace/shiraz_palace_library": 1,
+    "endrem:chests/biblio": 1,
+    "illagers_plus:structure/illager_tower_enchanting": 1,
+    "totw_additions:chests/end_tower/end_tower_chest": 1,
+    "dungeoncrawl:chests/stage_5": 1,
+    "dungeons_arise:chests/mines_treasure_big": 1,
+    "dungeons_arise:chests/plague_asylum/plague_asylum_treasure": 1
+  }
+}

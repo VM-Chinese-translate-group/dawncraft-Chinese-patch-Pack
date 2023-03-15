@@ -1,0 +1,46 @@
+{
+  "entity": "minecraft:chicken",
+  "name": "Evil Chicken",
+  "visualscale": 1.5,
+  "experience": 300,
+  "effects": {
+    "minecraft:slowness": 2,
+    "minecraft:resistance": 1,
+    "minecraft:regeneration": 1,
+    "minecraft:fire_resistance": 1
+  },
+  "attributes": {
+    "generic.max_health": 40,
+    "generic.follow_range": 80,
+    "generic.knockback_resistance": 1
+  },
+  "customattributes": {
+    "dropgear": 6
+  },
+  "gear": {
+    "mainhand": "{id: \"minecraft:enchanted_book\", Count: 1b, tag: {StoredEnchantments: [{lvl: 1s, id: \"minecraft:infinity\"}]}}"
+  },
+  "ai-goals": {
+    "brutalbosses:shootwitherskulls": {
+      "projectile_count": 2,
+      "projectile_interval": 200,
+      "projectile_aoe": true,
+      "projectile_distance": 30,
+      "dangerous": true
+    },
+    "minecraft:target": {},
+    "brutalbosses:chasetarget": {
+      "chasedistance": 20
+    }
+  },
+  "spawnatchest": {
+    "minecraft:chests/simple_dungeon": 1,
+    "minecraft:chests/village/village_armorer": 1,
+    "minecraft:chests/stronghold_corridor": 1,
+    "dungeons_enhanced:castle_prison": 1,
+    "dungeons_arise:chests/heavenly_rider/heavenly_rider_treasure": 1,
+    "dungeons_arise:chests/infested_temple/infested_temple_top_treasure": 1,
+    "graveyard:chests/totem_loot": 1,
+    "dungeons_enhanced:jungle_monument_treasure": 1
+  }
+}

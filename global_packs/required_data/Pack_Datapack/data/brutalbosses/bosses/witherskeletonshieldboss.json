@@ -1,0 +1,40 @@
+{
+  "entity": "minecraft:wither_skeleton",
+  "name": "Veril the Withered",
+  "visualscale": 1.3,
+  "experience": 300,
+  "protect_treasure": true,
+  "effects": {
+    "minecraft:slowness": 1,
+    "minecraft:resistance": 1
+  },
+  "attributes": {
+    "generic.max_health": 120,
+    "generic.follow_range": 50,
+    "generic.attack_damage": 6,
+    "generic.knockback_resistance": 5
+  },
+  "customattributes": {
+    "attack_speed": 0.5
+  },
+  "gear": {
+    "mainhand": "{id:\"minecraft:iron_sword\",Count:1b,tag:{Damage:0, Enchantments:[{lvl:2s,id:\"minecraft:fire_aspect\"}]}}",
+    "offhand": "{id:\"minecraft:shield\",Count:1b,tag:{Damage:0}}"
+  },
+  "ai-goals": {
+    "brutalbosses:shieldmelee": {},
+    "brutalbosses:lavarescue": {},
+    "brutalbosses:aftercombatregen": {
+      "amount": 5
+    }
+  },
+  "spawnatchest": {
+    "minecraft:chests/nether_bridge": 5,
+    "dungeons_arise:chests/foundry/foundry_treasure": 1,
+    "dungeons_arise:chests/illager_corsair/illager_corsair_treasure": 1,
+    "totw_additions:chests/nether_tower/nether_tower_chest": 1,
+    "infernalexp:chests/desolate_bastion_outpost_chest": 1,
+    "dungeons_arise:chests/scorched_mines/scorched_mines_treasure": 1,
+    "stoneholm:crypt": 1
+  }
+}

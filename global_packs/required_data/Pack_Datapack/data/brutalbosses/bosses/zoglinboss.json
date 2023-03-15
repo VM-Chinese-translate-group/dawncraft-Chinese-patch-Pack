@@ -1,0 +1,38 @@
+{
+  "entity": "minecraft:zoglin",
+  "name": "Gork the Big",
+  "visualscale": 1.7,
+  "experience": 400,
+  "effects": {
+    "minecraft:resistance": 2
+  },
+  "attributes": {
+    "generic.max_health": 110,
+    "generic.follow_range": 50,
+    "generic.attack_damage": 10,
+    "generic.knockback_resistance": 10
+  },
+  "customattributes": {
+    "attack_speed": 0.7
+  },
+  "gear": {
+  },
+  "ai-goals": {
+    "brutalbosses:charge": {},
+    "brutalbosses:aftercombatregen": {
+      "amount": 3
+    },
+    "minecraft:target": {},
+    "brutalbosses:whirlwind": {
+      "knockup": true
+    }
+  },
+  "spawnatchest": {
+    "minecraft:chests/nether_bridge": 1,
+    "minecraft:chests/bastion_hoglin_stable": 5,
+    "dungeons_enhanced:stables": 1,
+    "graveyard:chests/large_loot": 1,
+    "valhelsia_structures:chests/spawner_dungeon": 1,
+    "dungeons_enhanced:chests/monster_maze/treasure": 1
+  }
+}

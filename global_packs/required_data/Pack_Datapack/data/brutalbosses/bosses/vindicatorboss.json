@@ -1,0 +1,59 @@
+{
+  "entity": "minecraft:vindicator",
+  "name": "Klaudius Bloodglare",
+  "visualscale": 1.1,
+  "experience": 300,
+  "effects": {
+    "minecraft:resistance": 1,
+    "minecraft:slowness": 1
+  },
+  "attributes": {
+    "generic.max_health": 90,
+    "generic.follow_range": 50,
+    "generic.knockback_resistance": 10
+  },
+  "customattributes": {
+  },
+  "gear": {
+    "mainhand": "{id: \"minecraft:netherite_sword\", Count: 1b, tag: {Damage: 0}}"
+  },
+  "ai-goals": {
+    "minecraft:target": {},
+    "brutalbosses:aftercombatregen": {
+      "amount": 1
+    },
+    "brutalbosses:whirlwind": {
+      "potiononhit": "minecraft:wither",
+      "potionduration": 200,
+      "knockback": 4,
+      "cooldown": 200
+    },
+    "brutalbosses:charge": {}
+  },
+  "spawnatchest": {
+    "minecraft:chests/simple_dungeon": 1,
+    "minecraft:chests/stronghold_crossing": 3,
+    "minecraft:chests/stronghold_corridor": 2,
+    "minecraft:chests/woodland_mansion": 5,
+    "minecraft:chests/pillager_outpost": 5,
+    "betterdungeons:skeleton_dungeon/chests/common": 1,
+    "betterdungeons:skeleton_dungeon/chests/middle": 1,
+    "goblinsanddungeons:chests/keep_loot_table": 1,
+    "dungeons_arise:chests/bandit_towers/bandit_towers_normal": 1,
+    "dungeons_arise:chests/illager_campsite/illager_campsite_map": 1,
+    "dungeons_arise:chests/illager_fort/illager_fort_treasure": 1,
+    "dungeons_arise:chests/illager_galley/illager_galley_treasure": 1,
+    "dungeons_arise:chests/shiraz_palace/shiraz_palace_elite": 1,
+    "dungeons_arise:chests/shiraz_palace/shiraz_palace_treasure": 1,
+    "illagers_plus:structure/ice_castle_rare": 1,
+    "illagers_plus:structure/illager_centre": 1,
+    "illagers_plus:structure/fort_rare": 1,
+    "mostructures:pillager_treasure": 1,
+    "betterstrongholds:chests/common": 1,
+    "dungeoncrawl:chests/stage_4": 1,
+    "dungeons_enhanced:large_dungeon_treasury": 1,
+    "dungeons_plus:chests/bigger_dungeon/husk": 1,
+    "dungeons_arise:chests/mines_treasure_big": 1,
+    "illagers_plus:structure/illager_mine": 1
+  }
+}

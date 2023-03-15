@@ -1,0 +1,53 @@
+{
+  "entity": "minecraft:evoker",
+  "name": "Rumak the Dark",
+  "visualscale": 1.2,
+  "experience": 300,
+  "protect_treasure": true,
+  "effects": {
+    "minecraft:resistance": 1
+  },
+  "attributes": {
+    "generic.max_health": 60,
+    "generic.follow_range": 50
+  },
+  "customattributes": {
+    "projectile_damage_bonus": 2,
+    "dropgear": 6
+  },
+  "gear": {
+    "mainhand": "{id: \"minecraft:enchanted_book\", Count: 1b, tag: {StoredEnchantments: [{lvl: 1s, id: \"minecraft:silk_touch\"}]}}",
+    "offhand": "{id: \"minecraft:enchanted_book\", Count: 1b, tag: {StoredEnchantments: [{lvl: 3s, id: \"minecraft:fortune\"}]}}"
+  },
+  "ai-goals": {
+    "brutalbosses:aftercombatregen": {
+      "amount": 2
+    },
+    "brutalbosses:shootwitherskulls": {
+      "projectile_count": 5,
+      "projectile_interval": 300,
+      "projectile_distance": 35
+    }
+  },
+  "spawnatchest": {
+    "minecraft:chests/stronghold_library": 5,
+    "minecraft:chests/woodland_mansion": 5,
+    "minecraft:chests/pillager_outpost": 5,
+    "minecraft:chests/jungle_temple": 5,
+    "dungeons_enhanced:castle_thron": 1,
+    "dungeons_arise:chests/illager_fort/illager_fort_treasure": 1,
+    "dungeons_arise:chests/jungle_tree_house/jungle_tree_house_treasure": 1,
+    "dungeons_arise:chests/shiraz_palace/shiraz_palace_library": 1,
+    "dungeons_arise:chests/undead_pirate_ship/undead_pirate_ship_enchants": 1,
+    "endrem:chests/biblio": 1,
+    "illagers_plus:structure/illager_centre": 1,
+    "illagers_plus:structure/fort_rare": 1,
+    "illagers_plus:structure/illager_tower_enchanting": 1,
+    "mostructures:pillager_treasure": 1,
+    "dungeoncrawl:chests/stage_5": 1,
+    "dungeons_enhanced:large_dungeon_treasury": 1,
+    "dungeons_arise:chests/mines_treasure_big": 1,
+    "dungeons_arise:chests/plague_asylum/plague_asylum_treasure": 1,
+    "illagers_plus:structure/illager_mine": 1
+  }
+}

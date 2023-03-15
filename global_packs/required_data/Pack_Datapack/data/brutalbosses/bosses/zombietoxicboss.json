@@ -1,0 +1,63 @@
+{
+  "entity": "minecraft:zombie",
+  "name": "Yomach the Toxic",
+  "visualscale": 0.9,
+  "experience": 200,
+  "effects": {
+  },
+  "attributes": {
+    "generic.max_health": 60,
+    "generic.follow_range": 50,
+    "generic.knockback_resistance": 10,
+    "generic.attack_damage": 3
+  },
+  "customattributes": {
+    "dropgear": 1
+  },
+  "gear": {
+    "mainhand": "{id: \"minecraft:crimson_fungus\", Count: 32b}",
+    "chestplate": "{id: \"minecraft:leather_chestplate\", Count: 1b, tag: {Damage: 0}}",
+    "helmet": "{id: \"minecraft:turtle_helmet\", Count: 1b, tag: {Damage: 0}}",
+    "feet": "{id: \"minecraft:leather_boots\", Count: 1b, tag: {Damage: 0}}"
+  },
+  "ai-goals": {
+    "brutalbosses:aftercombatregen": {
+      "amount": 1
+    },
+    "brutalbosses:meleehit": {
+      "potiononhit": "minecraft:poison",
+      "potionduration": 80,
+      "potionlevel": 6,
+      "knockback": 4
+    },
+    "brutalbosses:charge": {},
+    "brutalbosses:chasetarget": {}
+  },
+  "spawnatchest": {
+    "minecraft:chests/simple_dungeon": 5,
+    "minecraft:chests/stronghold_crossing": 1,
+    "minecraft:chests/stronghold_corridor": 1,
+    "minecraft:chests/jungle_temple": 1,
+    "minecraft:chests/ruined_portal": 1,
+    "betterdungeons:skeleton_dungeon/chests/common": 1,
+    "betterdungeons:skeleton_dungeon/chests/middle": 1,
+    "betterdungeons:zombie_dungeon/chests/common": 5,
+    "betterdungeons:zombie_dungeon/chests/special": 5,
+    "betterdungeons:zombie_dungeon/chests/tombstone": 5,
+    "dungeons_arise:chests/abandoned_temple/abandoned_temple_map": 1,
+    "dungeons_arise:chests/eerie/heavenly_challenger/heavenly_challenger_treasure": 1,
+    "dungeons_arise:chests/infested_temple/infested_temple_top_treasure": 1,
+    "dungeons_arise:chests/mushroom_house/mushroom_house_treasure": 1,
+    "endrem:chests/hided": 1,
+    "mostructures:jungle_temple_treasure": 1,
+    "graveyard:chests/large_loot": 1,
+    "valhelsia_structures:chests/treasure": 1,
+    "valhelsia_structures:chests/spawner_dungeon": 1,
+    "minecraft:chests/abandoned_mineshaft": 1,
+    "betterstrongholds:chests/crypt": 1,
+    "dungeoncrawl:chests/stage_3": 1,
+    "dungeons_enhanced:jungle_monument_treasure": 1,
+    "dungeons_enhanced:chests/monster_maze/treasure": 1,
+    "dungeons_arise:chests/mining_system/mining_system_treasure": 1
+  }
+}

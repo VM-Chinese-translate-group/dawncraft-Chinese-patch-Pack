@@ -1,0 +1,54 @@
+{
+  "entity": "minecraft:iron_golem",
+  "name": "Glem the Construct",
+  "visualscale": 1,
+  "experience": 400,
+  "effects": {
+    "minecraft:resistance": 1,
+    "minecraft:weakness": 1,
+    "minecraft:fire_resistance": 1,
+    "minecraft:water_breathing": 1,
+    "minecraft:glowing": 1,
+    "minecraft:slowness": 2
+  },
+  "attributes": {
+    "generic.max_health": 140,
+    "generic.follow_range": 50,
+    "generic.knockback_resistance": 10
+  },
+  "customattributes": {
+  },
+  "gear": {
+  },
+  "ai-goals": {
+    "minecraft:target": {},
+    "brutalbosses:aftercombatregen": {
+      "amount": 2
+    },
+    "brutalbosses:whirlwind": {},
+    "brutalbosses:itemshootgoal": {
+      "item": "{id: \"minecraft:stone_bricks\", Count: 1b}",
+      "projectile_count": 1,
+      "projectilesize": 1.5,
+      "projectile_interval": 300,
+      "damage": 4,
+      "projectile_distance": 20
+    }
+  },
+  "spawnatchest": {
+    "minecraft:chests/stronghold_crossing": 5,
+    "minecraft:chests/stronghold_corridor": 5,
+    "minecraft:chests/woodland_mansion": 1,
+    "betterdungeons:skeleton_dungeon/chests/common": 1,
+    "betterdungeons:skeleton_dungeon/chests/middle": 1,
+    "betterdungeons:zombie_dungeon/chests/common": 1,
+    "betterdungeons:zombie_dungeon/chests/special": 1,
+    "dungeons_arise:chests/eerie/heavenly_challenger/heavenly_challenger_treasure": 1,
+    "dungeons_arise:chests/shiraz_palace/shiraz_palace_elite": 1,
+    "dungeons_arise:chests/thornborn_towers/thornborn_towers_top_treasure": 1,
+    "betterstrongholds:chests/common": 1,
+    "dungeoncrawl:chests/stage_5": 1,
+    "dungeons_enhanced:chests/ice_pit/hall": 1,
+    "dungeons_enhanced:chests/monster_maze/treasure": 1
+  }
+}

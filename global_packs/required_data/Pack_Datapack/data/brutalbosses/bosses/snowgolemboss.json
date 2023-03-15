@@ -1,0 +1,38 @@
+{
+  "entity": "minecraft:snow_golem",
+  "name": "Jack the Cold",
+  "visualscale": 1.2,
+  "experience": 200,
+  "effects": {
+    "minecraft:resistance": 3,
+    "minecraft:fire_resistance": 1,
+    "minecraft:bad_omen": 1
+  },
+  "attributes": {
+    "generic.max_health": 110,
+    "generic.follow_range": 70,
+    "generic.knockback_resistance": 10
+  },
+  "customattributes": {
+    "projectile_damage_bonus": 3
+  },
+  "gear": {
+  },
+  "ai-goals": {
+    "brutalbosses:shootsnowballs": {
+      "projectile_interval": 30,
+      "projectile_distance": 45
+    },
+    "minecraft:target": {},
+    "brutalbosses:aftercombatregen": {},
+    "brutalbosses:chasetarget": {
+      "chasedistance": 20
+    }
+  },
+  "spawnatchest": {
+    "minecraft:chests/village/village_snowy_house": 1,
+    "minecraft:chests/igloo_chest": 2,
+    "dungeons_plus:chests/snowy_temple/common": 1,
+    "dungeons_enhanced:chests/ice_pit/hall": 1
+  }
+}
