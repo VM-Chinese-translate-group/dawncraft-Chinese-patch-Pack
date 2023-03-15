@@ -4,7 +4,7 @@
   "icon": "minecraft:poppy",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那么？"
     },
     "description": {
       "text": "Did you get the $(red)Rafflesia$() yet?"
