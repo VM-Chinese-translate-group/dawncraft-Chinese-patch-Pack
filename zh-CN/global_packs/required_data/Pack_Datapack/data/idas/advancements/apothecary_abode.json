@@ -1,0 +1,33 @@
+{
+  "parent": "idas:idas_root",
+  "display": {
+    "icon": {
+      "item": "minecraft:crimson_fungus"
+    },
+    "title": {
+      "translate": "The Apothecary's Abode"
+    },
+    "description": {
+      "translate": "A vivid and magical yet twisted building among the trees..."
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 50
+  },
+  "criteria": {
+    "in_apothecary_abode": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "idas:apothecary_abode"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "in_apothecary_abode"
+    ]
+  ]
+}
