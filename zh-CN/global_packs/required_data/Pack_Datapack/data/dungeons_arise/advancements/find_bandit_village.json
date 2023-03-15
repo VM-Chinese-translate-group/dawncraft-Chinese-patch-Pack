@@ -1,0 +1,32 @@
+{
+    "display": {
+        "title": {
+            "text": "Rusted Root",
+            "color": "dark_red"
+        },
+        "description": {
+            "text": "Find a Bandit Village"
+        },
+        "icon": {
+            "item": "minecraft:dead_bush"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "location0": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_arise:bandit_village"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "location0"
+        ]
+    ],
+    "parent": "dungeons_arise:wda_root"
+}
