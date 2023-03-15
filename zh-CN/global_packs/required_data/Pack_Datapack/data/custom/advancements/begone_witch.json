@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "消失的女巫！",
+            "text": "Be Gone Witch!",
             "color": "dark_purple",
             "bold": true
         },
         "description": {
-            "text": "击败了女巫突袭。"
+            "text": "Defeated witch raid."
         },
         "icon": {
             "item": "minecraft:potion"
