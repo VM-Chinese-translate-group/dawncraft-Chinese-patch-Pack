@@ -4,7 +4,7 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "那么？"
+      "text": "So?"
     },
     "description": {
       "text": "Get me $(red)20 Emeralds$() first if you'd like to learn about create machineries."
