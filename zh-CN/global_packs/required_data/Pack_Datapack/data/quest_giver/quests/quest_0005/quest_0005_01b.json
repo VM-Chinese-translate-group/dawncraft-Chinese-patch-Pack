@@ -4,7 +4,7 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "Advice"
+      "text": "建议"
     },
     "description": {
       "text": "My precious crops haven't been growing well these days... Do you think you can help me get $(red)8 bones$() so I can some fertilizers?"
