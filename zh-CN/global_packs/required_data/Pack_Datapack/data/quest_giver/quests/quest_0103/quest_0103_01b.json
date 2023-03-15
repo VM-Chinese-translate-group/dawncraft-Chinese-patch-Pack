@@ -4,10 +4,10 @@
   "icon": "minecraft:bow",
   "start": {
     "title": {
-      "text": "help"
+      "text": "帮助"
     },
     "description": {
-      "text": "Great! I need $(red)2 Patches of Hemlock$(). It's too toxic for most animals, but not for the vile beast that I'm hunting..."
+      "text": "伟大！我需要 $(red)2 块铁杉$()。对大多数动物来说，毒性太大了，但对我正在猎杀的邪恶野兽来说却不是......"
     }
   }
 }
