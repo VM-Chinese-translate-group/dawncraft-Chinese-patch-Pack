@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "A Quiet Place",
+            "text": "寂静之地",
             "color": "blue"
         },
         "description": {
-            "text": "Find a Monastery"
+            "text": "找到一座修道院"
         },
         "icon": {
             "item": "minecraft:feather"
