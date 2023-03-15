@@ -1,0 +1,33 @@
+{
+  "parent": "idas:idas_root",
+  "display": {
+    "icon": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "title": {
+      "translate": "Enchanting Tower"
+    },
+    "description": {
+      "translate": "A Cleric's Tower"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "in_enchantingtower": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "idas:enchantingtower"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "in_enchantingtower"
+    ]
+  ]
+}
