@@ -4,18 +4,18 @@
   "icon": "minecraft:smoker",
   "start": {
     "title": {
-      "text": "Learn How to Use the Smoker"
+      "text": "学习如何使用烟熏炉"
     },
     "description": {
-      "text": "Hm... You want to learn how to use the smoker? Alright, I'll charge you 18 emeralds for that."
+      "text": "你……你想学怎么使用烟熏炉对吧？好的，我就收你18个绿宝石。"
     }
   },
   "complete": {
     "title": {
-      "text": "Here ya go."
+      "text": "接好喽。"
     },
     "description": {
-      "text": "Wasn't that difficult now was it?"
+      "text": "也不是很难，对吧？"
     }
   },
   "tasks": [
