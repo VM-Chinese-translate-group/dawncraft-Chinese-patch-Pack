@@ -1,0 +1,32 @@
+{
+    "display": {
+        "title": {
+            "text": "Three Little Birds",
+            "color": "gold"
+        },
+        "description": {
+            "text": "Find an Aviary"
+        },
+        "icon": {
+            "item": "minecraft:phantom_membrane"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "location0": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_arise:aviary"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "location0"
+        ]
+    ],
+    "parent": "dungeons_arise:find_heavenly_challenger"
+}
