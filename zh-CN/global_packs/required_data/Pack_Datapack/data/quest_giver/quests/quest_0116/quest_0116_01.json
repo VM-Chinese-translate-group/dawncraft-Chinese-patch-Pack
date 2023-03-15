@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "An Offer"
+      "text": "一个报价"
     },
     "description": {
-      "text": "4 Emeralds, and I'll show you where you can find the materials needed to summon Ignis."
+      "text": "4个绿宝石，我会告诉你在哪里可以找到召唤伊格尼斯所需的材料。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感謝！"
     },
     "description": {
-      "text": "Here it is. Don't summon that abomination near this village. And remember, this map will only work if you open it in the Nether. Rolling this map open here will only give you a blank map. Don't ask me why... I have no clue."
+      "text": "在这里。不要在这个村庄附近召唤那个可憎的东西。请记住，这张地图只有在您在下界中打开它时才有效。在此处滚动此地图只会给您一张空白地图。不要问我为什么... 我不知道。"
     }
   },
   "tasks": [
