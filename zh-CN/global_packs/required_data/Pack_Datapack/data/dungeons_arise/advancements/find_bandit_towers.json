@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "What Happens in Las Vegas...",
+            "text": "拉斯维加斯发生了什么...",
             "color": "red"
         },
         "description": {
-            "text": "Find the Bandit Towers"
+            "text": "找到强盗塔楼"
         },
         "icon": {
             "item": "minecraft:lantern"
