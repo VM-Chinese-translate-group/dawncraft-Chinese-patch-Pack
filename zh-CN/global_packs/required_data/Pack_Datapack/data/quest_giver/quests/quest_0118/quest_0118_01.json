@@ -4,7 +4,7 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Dragon Heart"
+      "text": "龙之心"
     },
     "description": {
       "text": "Don't ask me why. It's none of your concern, kiddo. Just get me the $(red)Fire Dragon Heart$()."
@@ -15,7 +15,7 @@
       "text": "感謝！"
     },
     "description": {
-      "text": "Knew I could count on ya. Here ya go."
+      "text": "知道我可以指望你。你去吧。"
     }
   },
   "tasks": [
