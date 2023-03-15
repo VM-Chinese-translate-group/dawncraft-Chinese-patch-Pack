@@ -7,7 +7,7 @@
       "text": "又见面了 ！"
     },
     "description": {
-      "text": "Did you get the  $(red)gem$()? You might have to exterminate the creature to get it."
+      "text": "你得到了  $(red)宝石$()吗？你可能需要消灭生物才能得到它。"
     }
   },
   "complete": {
