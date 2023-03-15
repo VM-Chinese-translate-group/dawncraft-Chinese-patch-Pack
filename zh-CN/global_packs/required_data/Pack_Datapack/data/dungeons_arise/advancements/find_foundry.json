@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Iron Maiden",
+            "text": "铁娘子",
             "color": "dark_red"
         },
         "description": {
-            "text": "Find a Foundry "
+            "text": "找到一座铸造厂 "
         },
         "icon": {
             "item": "minecraft:netherite_ingot"
