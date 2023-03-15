@@ -7,15 +7,15 @@
       "text": "那么？"
     },
     "description": {
-      "text": "Did you get the $(red)5 rotten flesh$()?"
+      "text": "你拿到了$(red)5个腐肉吗$()？"
     }
   },
   "complete": {
     "title": {
-      "text": "感謝！"
+      "text": "感谢！"
     },
     "description": {
-      "text": "干得好，你来了。"
+      "text": "干得好，这个给你。"
     }
   },
   "tasks": [
