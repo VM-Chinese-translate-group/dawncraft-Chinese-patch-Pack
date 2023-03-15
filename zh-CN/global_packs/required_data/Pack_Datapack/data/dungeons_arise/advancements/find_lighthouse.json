@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "The Lighthouse",
+            "text": "灯塔",
             "color": "yellow"
         },
         "description": {
-            "text": "Arrive at a Lighthouse"
+            "text": "抵达一座灯塔"
         },
         "icon": {
             "item": "minecraft:redstone_lamp"
