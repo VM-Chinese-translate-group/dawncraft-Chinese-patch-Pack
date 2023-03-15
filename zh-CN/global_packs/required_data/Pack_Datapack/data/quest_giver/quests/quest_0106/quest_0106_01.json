@@ -4,7 +4,7 @@
   "icon": "minecraft:log",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那么？"
     },
     "description": {
       "text": "I need an $(red)Iron Axe$() to work!"
@@ -15,7 +15,7 @@
       "text": "感謝！"
     },
     "description": {
-      "text": "Thanks. Here, is 4 emeralds enough?"
+      "text": "谢谢。这里有4个绿宝石足够吗？"
     }
   },
   "tasks": [
