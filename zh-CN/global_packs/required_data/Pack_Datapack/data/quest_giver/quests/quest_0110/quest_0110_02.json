@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "那么？"
+      "text": "So?"
     },
     "description": {
-      "text": "你已经消灭了穴居人吗？如果这样的话，就会给我带来它的掉落。"
+      "text": "Did you exterminate the cave dweller yet? If so bring me its drops."
     }
   },
   "complete": {
