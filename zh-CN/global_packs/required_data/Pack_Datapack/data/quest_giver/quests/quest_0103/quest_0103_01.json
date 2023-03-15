@@ -4,7 +4,7 @@
   "icon": "minecraft:bow",
   "start": {
     "title": {
-      "text": "那么？"
+      "text": "So?"
     },
     "description": {
       "text": "Did you get the 2 patches of $(red)Hemlock$()?"
