@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "An Offer"
+      "text": "一个报价"
     },
     "description": {
-      "text": "Did you hear about a legendary being - Ignis? I heard that it's ever stronger than... the Fire Giant. If you want to summon it, you'll need to obtain certain materials in the Nether Dimension. I can show you where these materials can be found... for a price. 4 Emeralds to be exact."
+      "text": "你听说过一个传奇人物——伊格尼斯吗？听说它比... 火焰巨人更强大。如果你想召唤它，你需要在幽冥维度中获得某些材料。我可以告诉你在哪里可以找到这些材料...... 要付出一定的代价。确切地说是 4 颗绿宝石。"
     }
   }
 }
