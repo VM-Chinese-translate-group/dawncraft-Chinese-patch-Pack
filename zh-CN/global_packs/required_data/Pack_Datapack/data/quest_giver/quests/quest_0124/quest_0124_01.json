@@ -4,10 +4,10 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "An Impossible Task!"
+      "text": "一个不可能完成的任务！"
     },
     "description": {
-      "text": "Did you receive the blessing of the Orca already?"
+      "text": "您是否已经得到Orca的祝福？"
     }
   },
   "complete": {
