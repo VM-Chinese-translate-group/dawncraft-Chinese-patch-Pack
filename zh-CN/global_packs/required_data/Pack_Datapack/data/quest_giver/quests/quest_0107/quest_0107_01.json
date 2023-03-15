@@ -4,10 +4,10 @@
   "icon": "minecraft:log",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那么？"
     },
     "description": {
-      "text": "Did you get a piece of $(red)Dusk Log$() yet?"
+      "text": "您是否得到了 $(red)Dusk Log$() 的一块？"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感謝！"
     },
     "description": {
-      "text": "Thanks. Here's your reward."
+      "text": "谢谢。这是你的奖励。"
     }
   },
   "tasks": [
