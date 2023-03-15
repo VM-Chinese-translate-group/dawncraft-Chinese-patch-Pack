@@ -1,0 +1,34 @@
+{
+  "parent": "idas:idas_root",
+  "display": {
+    "icon": {
+      "item": "create:brass_ingot"
+    },
+    "title": {
+      "translate": "Tinker's Workshop"
+    },
+    "description": {
+      "translate": "Become the latest test subject of the Tinker..."
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "frame": "challenge",
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "in_tinkers_workshop": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "idas:tinkers_workshop"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "in_tinkers_workshop"
+    ]
+  ]
+}
