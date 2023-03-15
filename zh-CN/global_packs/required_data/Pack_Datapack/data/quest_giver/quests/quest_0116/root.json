@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "An Offer"
+      "text": "一个报价"
     },
     "description": {
-      "text": "Interested in an offer, young man?"
+      "text": "对报价感兴趣，年轻人？"
     }
   }
 }
