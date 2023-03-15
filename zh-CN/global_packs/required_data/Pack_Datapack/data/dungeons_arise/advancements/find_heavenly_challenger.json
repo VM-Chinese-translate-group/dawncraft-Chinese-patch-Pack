@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "The Imperial March",
+            "text": "帝国进行曲",
             "color": "gold"
         },
         "description": {
-            "text": "Find a Heavenly Challenger"
+            "text": "找到天堂挑战者"
         },
         "icon": {
             "item": "minecraft:netherite_chestplate"
