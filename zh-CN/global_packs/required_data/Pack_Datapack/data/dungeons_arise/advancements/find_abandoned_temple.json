@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "失传的言语",
+            "text": "不知...从何说起",
             "color": "aqua"
         },
         "description": {
-            "text": "找到被遗弃的寺庙"
+            "text": "找到一座废弃寺庙"
         },
         "icon": {
             "item": "minecraft:cracked_stone_bricks"
