@@ -4,10 +4,10 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "Knife Sharpening"
+      "text": "临阵磨刀"
     },
     "description": {
-      "text": "I'm looking for good sharpening stones for my knife. I've heard good things about a material underground called deepslate that's perfect for sharpening. Can you get me $(red)3 of those deepslate stones$()?"
+      "text": "我正在找适合我的刀的磨刀石。我听说地下有一种叫做深板岩的材料非常适合磨刀。你能给我弄来$(red)三块深板岩$()吗？"
     }
   }
 }
