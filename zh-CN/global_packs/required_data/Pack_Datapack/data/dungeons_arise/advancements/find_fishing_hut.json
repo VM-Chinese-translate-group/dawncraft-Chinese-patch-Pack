@@ -1,0 +1,32 @@
+{
+    "display": {
+        "title": {
+            "text": "Fishing In The Dark",
+            "color": "dark_blue"
+        },
+        "description": {
+            "text": "Find a Fishing Hut"
+        },
+        "icon": {
+            "item": "minecraft:fishing_rod"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "location0": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_arise:fishing_hut"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "location0"
+        ]
+    ],
+    "parent": "dungeons_arise:find_small_prairie_house"
+}
