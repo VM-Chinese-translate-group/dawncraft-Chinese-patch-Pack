@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "一个报价"
+      "text": "An Offer"
     },
     "description": {
-      "text": "当我在下界时，我发现了一个奇特的结构，里面住着一个可怕的傀儡。如果你给我 6个绿宝石，我会告诉你它在地图上的位置。"
+      "text": "When I was in the Nether Dimension, I found a peculiar structure with a monstrous golem dwelling inside. I'll show you where it is on the map if you give me 6 emeralds."
     }
   }
 }
