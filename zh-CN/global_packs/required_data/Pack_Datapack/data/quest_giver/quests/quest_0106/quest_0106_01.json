@@ -7,7 +7,7 @@
       "text": "那么？"
     },
     "description": {
-      "text": "I need an $(red)Iron Axe$() to work!"
+      "text": "我需要 $(red)铁斧$() 才能工作 ！"
     }
   },
   "complete": {
