@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "An Offer"
+      "text": "一个报价"
     },
     "description": {
-      "text": "6 Emeralds if you want me to show you where the Monstrosity is in the Nether Dimension."
+      "text": "6个绿宝石，如果你想让我告诉你怪物在下界的位置。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感謝！"
     },
     "description": {
-      "text": "Here you go, happy hunting! Remember, this map will only work if you open it in the Nether. Rolling this map open here will only give you a blank map. Sure is confusing, ey?"
+      "text": "来了，打猎愉快！请记住，这张地图只有在下界中打开它时才有效。在此处滚动此地图只会给您一张空白地图。肯定令人困惑，是吗？"
     }
   },
   "tasks": [
