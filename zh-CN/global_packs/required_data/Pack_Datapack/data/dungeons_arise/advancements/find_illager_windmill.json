@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "All Along The Watchtower",
+            "text": "沿着望塔",
             "color": "dark_purple"
         },
         "description": {
-            "text": "Find an Illager Windmill"
+            "text": "找到一座灾厄风车"
         },
         "icon": {
             "item": "minecraft:iron_hoe"
