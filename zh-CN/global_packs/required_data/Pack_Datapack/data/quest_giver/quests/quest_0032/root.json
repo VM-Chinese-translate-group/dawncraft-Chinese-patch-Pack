@@ -3,10 +3,10 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "Got time?"
+      "text": "你有空吗？"
     },
     "description": {
-      "text": "Hey, can you help me out with something? It'll be quick."
+      "text": "嘿，你能帮我做点事吗？很快的。"
     }
   }
 }
