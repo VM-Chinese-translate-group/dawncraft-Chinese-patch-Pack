@@ -3,7 +3,7 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Hey there!"
+      "text": "嘿，这儿！"
     },
     "description": {
       "text": "If you call yourself an adventurer, you gotta have a compass! Craft a $(red)compass$() and return to me."
