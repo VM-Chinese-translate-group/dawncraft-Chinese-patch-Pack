@@ -4,7 +4,7 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "Bucket of Milk!"
+      "text": "牛奶桶"
     },
     "description": {
       "text": "Please hurry up. I'm yearning for a $(red)bucket of milk$()!"
