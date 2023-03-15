@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Stone Free",
+            "text": "石头自由",
             "color": "dark_gray"
         },
         "description": {
-            "text": "Find a Mining System"
+            "text": "找到一个矿井系统"
         },
         "icon": {
             "item": "minecraft:hopper_minecart"
