@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "又见面了 ！"
+      "text": "Hello again!"
     },
     "description": {
-      "text": "还在努力！你拿到木棍了吗？"
+      "text": "Still working on it! Did you get the stick yet?"
     }
   },
   "complete": {
     "title": {
-      "text": "给你。"
+      "text": "Here."
     },
     "description": {
-      "text": "给你。这可能是我迄今为止最好的作品，嘿。"
+      "text": "Here you go. This might be my best work so far, heh."
     }
   },
   "tasks": [
