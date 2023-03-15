@@ -4,18 +4,18 @@
   "icon": "minecraft:pumpkin",
   "start": {
     "title": {
-      "text": "Stuffed Pumpkin"
+      "text": "填馅南瓜"
     },
     "description": {
-      "text": "Have you cooked the $(yellow)stuffed pumpkin$() yet? Don't worry I understand that it takes time!"
+      "text": "你做过$(yellow)填馅南瓜$()吗？烹饪它可能会花一些时间，不过别着急。"
     }
   },
   "complete": {
     "title": {
-      "text": "Finished"
+      "text": "完成"
     },
     "description": {
-      "text": "That smells marvelous! Thank you so much, it will feed my family for days."
+      "text": "闻起来真是棒极了！太感谢你了，这南瓜够我们一家吃不少天了。"
     }
   },
   "tasks": [
