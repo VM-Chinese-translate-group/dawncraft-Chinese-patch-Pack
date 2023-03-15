@@ -4,10 +4,10 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "建议"
+      "text": "建言"
     },
     "description": {
-      "text": "My precious crops haven't been growing well these days... Do you think you can help me get $(red)8 bones$() so I can some fertilizers?"
+      "text": "最近我的庄稼长得不太好... 你能帮我弄到 $(red)8块骨头$()吗，这样我就可以弄些肥料了？"
     }
   }
 }
