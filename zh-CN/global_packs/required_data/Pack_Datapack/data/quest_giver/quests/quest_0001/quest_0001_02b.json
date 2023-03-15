@@ -4,10 +4,10 @@
   "icon": "minecraft:wooden_sword",
   "start": {
     "title": {
-      "text": "Come to think of it..."
+      "text": "过来听听……"
     },
     "description": {
-      "text": "Come to think of it... There's a way for me to repay you. Can you fetch me a piece of paper so I can draw you a map?"
+      "text": "过来听听……有个办法让我能报答你。你能拿张纸让我给你画张地图吗？"
     }
   }
 }
