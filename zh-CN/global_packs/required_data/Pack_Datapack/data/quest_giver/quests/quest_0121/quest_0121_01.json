@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "映射到末影守卫者"
+      "text": "Map to Ender Guardian"
     },
     "description": {
-      "text": "没有什么是免费的，我的朋友。给我5个绿宝石，我会给你指路去末影守护者。"
+      "text": "Nothing is free my friend. Give me 5 emeralds and I'll give you the direction to the Ender Guardian."
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感謝！"
     },
     "description": {
-      "text": "很好，给你。记住，在你真正到达终点之前不要打开这张地图。别说我没警告过你。"
+      "text": "Very good, here you go. Remember, don't open this map until you're actually in the End. Don't say I didn't warn you."
     }
   },
   "tasks": [
