@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "帮助"
+      "text": "help"
     },
     "description": {
-      "text": "在我们附近有一个正在吃 $(red)Giant$() 的人。我们的一些村民和守卫已经被他杀害。 包括我在内的警卫们因为人数太多而受到太多的恐吓。 但就我们所知，我认为你能够把他带上去。"
+      "text": "There is a man-eating $(red)Giant$() living near us. Some of our villagers and guards have already been killed by him. The guards, including me, are too intimidated by its sheer size. But as far as we know, it's not too strong or intelligent. I believe you'll be able to take him on."
     }
   }
 }
