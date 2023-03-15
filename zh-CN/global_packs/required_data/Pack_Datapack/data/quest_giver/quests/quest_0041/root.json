@@ -3,7 +3,7 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Hey there!"
+      "text": "嘿，这儿！"
     },
     "description": {
       "text": "You look like a good cook. Could you cook something for me? There's a dish called $(red)Hamburger$(), do you know how to prepare that dish?"
