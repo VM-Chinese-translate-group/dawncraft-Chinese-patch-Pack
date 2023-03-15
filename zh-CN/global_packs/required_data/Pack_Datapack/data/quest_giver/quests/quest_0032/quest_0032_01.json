@@ -4,18 +4,18 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "A Little Help"
+      "text": "举手之劳"
     },
     "description": {
-      "text": "Hey, u got the knife? Remember, it needs to be made with iron."
+      "text": "嘿，你搞到我要的小刀了吗？记着，我要的可是铁家伙。"
     }
   },
   "complete": {
     "title": {
-      "text": "Done"
+      "text": "已完成"
     },
     "description": {
-      "text": "Nicely done! A fine knife it is, thanks."
+      "text": "干得漂亮！真是把不错的小刀，谢谢你了。"
     }
   },
   "tasks": [
