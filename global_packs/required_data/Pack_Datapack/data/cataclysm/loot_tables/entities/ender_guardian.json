@@ -1,0 +1,52 @@
+{
+	"pools": [{
+			"name": "ender_guardian",
+			"rolls": 1,
+			"entries": [{
+				"type": "minecraft:item",
+				"name": "cataclysm:gauntlet_of_guard",
+				"weight": 1
+			}]
+		},
+		{
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [{
+				"type": "minecraft:item",
+				"name": "minecraft:map",
+				"functions": [{
+						"function": "minecraft:exploration_map",
+						"destination": "custom:skull_island",
+						"decoration": "red_x",
+						"zoom": 1,
+						"skip_existing_chunks": false
+					},
+					{
+						"function": "minecraft:set_name",
+						"name": "The True End's Portal"
+					},
+					{
+						"function": "minecraft:set_lore",
+						"lore": [{
+							"text": "A map leading you to the most powerful being within the realm."
+						}]
+					}
+				]
+			}]
+		},
+		{
+			"name": "disc",
+			"conditions": [{
+				"condition": "random_chance_with_looting",
+				"chance": 0.1,
+				"looting_multiplier": 0.1
+			}],
+			"rolls": 1,
+			"entries": [{
+				"type": "minecraft:item",
+				"name": "cataclysm:music_disc_ender_guardian",
+				"weight": 1
+			}]
+		}
+	]
+}
