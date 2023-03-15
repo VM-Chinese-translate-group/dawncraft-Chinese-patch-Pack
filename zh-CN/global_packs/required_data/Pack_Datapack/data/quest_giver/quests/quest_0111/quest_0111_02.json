@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那么？"
     },
     "description": {
-      "text": "Did you exterminate the cave dweller yet? If so bring me its drops."
+      "text": "你已经消灭了穴居人吗？如果这样的话，就会给我带来它的掉落。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感謝！"
     },
     "description": {
-      "text": "Good job! This is one of its eye alright... Let's see, I'll teach you the combat skill - Guard, as payment. It's one of the most important skills one could learn in this dimension."
+      "text": "干得好！这是它的眼睛之一……让我们看看吧，我会教你战斗技能——守卫，作为付款。 这是在这个层面可以学习的最重要的技能之一。"
     }
   },
   "tasks": [
