@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_helmet",
   "start": {
     "title": {
-      "text": "又见面了 ！"
+      "text": "又见面了！"
     },
     "description": {
-      "text": "你好！你已经为我获取了这张纸了吗？我想绘制一张地图。"
+      "text": "又见面了！你给我带来了纸吗？我想给你绘制一张地图。"
     }
   },
   "complete": {
