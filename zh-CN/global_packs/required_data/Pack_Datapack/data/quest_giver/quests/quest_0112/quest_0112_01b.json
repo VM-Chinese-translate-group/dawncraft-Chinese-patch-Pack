@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "帮助"
+      "text": "help"
     },
     "description": {
-      "text": "多谢。。。我和家人一起旅行，直到我们遇到了这个...... 狼。但它的行为不像一个。如果有的话，它的行为更像... 一个男人。它一看到我们就跑到我们身边，而且.. 好吧，我是唯一一个活着出来的人。那是两年前的事了，但我仍然记得它发生的地方。请消灭这个生物。为我的家人报仇。"
+      "text": "Thanks a lot... I was on a trip with my family, until we came across this... wolf. But it didn't act like one. If anything it behaved more like... a man. It ran to us as soon as it laid eyes on us, and.. well, I'm the only one who made it out alive. That was 2 years ago, but I still remember the place where it happened. Please, exterminate this creature. Avenge my family."
     }
   }
 }
