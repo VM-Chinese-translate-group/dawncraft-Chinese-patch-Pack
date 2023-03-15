@@ -4,18 +4,18 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "Knife Sharpening"
+      "text": "临阵磨刀"
     },
     "description": {
-      "text": "Have you got the $(red)5 deepslate stones$() yet? My blade's going dull."
+      "text": "你带来了$(red)五个深板岩$()吗？我的刀都钝得不行了。"
     }
   },
   "complete": {
     "title": {
-      "text": "Finished"
+      "text": "完成"
     },
     "description": {
-      "text": "Good work! As expected, these rocks contain both coarse and fine grit levels. Thanks a lot! Here, take it, it's your reward."
+      "text": "干的漂亮！正如所料，这些石头的颗粒粗细不一，目数正合适。太感谢你了，拿着吧，这是你应得的。"
     }
   },
   "tasks": [
