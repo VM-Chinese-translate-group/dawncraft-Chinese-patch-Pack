@@ -4,10 +4,10 @@
   "icon": "minecraft:log",
   "start": {
     "title": {
-      "text": "那么？"
+      "text": "So?"
     },
     "description": {
-      "text": "我需要 $(red)铁斧$() 才能工作 ！"
+      "text": "I need an $(red)Iron Axe$() to work!"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感謝！"
     },
     "description": {
-      "text": "谢谢。这里有4个绿宝石足够吗？"
+      "text": "Thanks. Here, is 4 emeralds enough?"
     }
   },
   "tasks": [
