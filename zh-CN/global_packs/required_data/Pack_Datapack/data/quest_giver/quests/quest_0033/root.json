@@ -3,10 +3,10 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "Hey boy."
+      "text": "嘿，那边的少年。"
     },
     "description": {
-      "text": "Hey adventurer. Lend an ear?"
+      "text": "哦，竟然是个冒险家。能听我讲两句吗？"
     }
   }
 }
