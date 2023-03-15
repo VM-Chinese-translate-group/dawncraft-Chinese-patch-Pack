@@ -4,7 +4,7 @@
   "icon": "minecraft:poppy",
   "start": {
     "title": {
-      "text": "那么？"
+      "text": "So?"
     },
     "description": {
       "text": "Did you get the $(red)Orange Ball Cactus$() yet?"
@@ -15,7 +15,7 @@
       "text": "感謝！"
     },
     "description": {
-      "text": "多谢。"
+      "text": "Thanks a lot."
     }
   },
   "tasks": [
