@@ -4,18 +4,18 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "Incendium"
+      "text": "熊熊烈火"
     },
     "description": {
-      "text": "Remember, the Ash Barrens in the Nether. Come back to me after you visit there."
+      "text": "记住，灰烬荒地位于下界。探索那里之后回来找我。"
     }
   },
   "complete": {
     "title": {
-      "text": "Finished"
+      "text": "完成"
     },
     "description": {
-      "text": "That is fascinating... Thank you for telling me about that place. Here's your reward. Well, off you go now... I've got an important decision to make."
+      "text": "真是引人入胜... 谢谢你告诉我有关那个地方的一切。这是你的奖励。好了，你可以先离开了... 我需要做出一个重要的决定。"
     }
   },
   "tasks": [
