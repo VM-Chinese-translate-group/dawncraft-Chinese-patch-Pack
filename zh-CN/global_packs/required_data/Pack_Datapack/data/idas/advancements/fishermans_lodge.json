@@ -1,0 +1,33 @@
+{
+  "parent": "idas:idas_root",
+  "display": {
+    "icon": {
+      "item": "minecraft:cod"
+    },
+    "title": {
+      "translate": "Fisherman's Lodge"
+    },
+    "description": {
+      "translate": "The Fisherman of the Lake"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 50
+  },
+  "criteria": {
+    "in_fishermans_lodge": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "idas:fishermans_lodge"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "in_fishermans_lodge"
+    ]
+  ]
+}
