@@ -7,15 +7,15 @@
       "text": "又见面了 ！"
     },
     "description": {
-      "text": "Brave man. Please give me a piece of paper so I can show you where the creature is at."
+      "text": "勇敢的人。请给我一张纸，让我能向你们展示生物的位置。"
     }
   },
   "complete": {
     "title": {
-      "text": "Here."
+      "text": "给你。"
     },
     "description": {
-      "text": "Here, the cleric is the one who provided us with this information though. So I'm not sure if it's completely accurate. Either way, find this creature, kill it, and bring back whatever it drops."
+      "text": "在这里，神职人员是向我们提供这些信息的人。所以我不确定它是否完全准确。无论哪种方式，找到这个生物，杀死它，并带回它掉落的任何东西。"
     }
   },
   "tasks": [
