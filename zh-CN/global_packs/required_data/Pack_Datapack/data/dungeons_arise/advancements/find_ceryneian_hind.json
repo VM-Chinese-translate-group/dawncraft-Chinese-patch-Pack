@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Who Killed This Thing?",
+            "text": "谁消灭了它？",
             "color": "white"
         },
         "description": {
-            "text": "Find a Ceryneian Hind"
+            "text": "找到一具刻律涅牝鹿尸骨"
         },
         "icon": {
             "item": "minecraft:bone"
