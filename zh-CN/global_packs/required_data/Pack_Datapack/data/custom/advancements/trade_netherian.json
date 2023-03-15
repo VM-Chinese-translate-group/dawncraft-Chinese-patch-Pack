@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "下界合金交易卷轴已获得！",
+            "text": "下界工匠交易卷轴已获得！",
             "color": "blue",
             "bold": true
         },
         "description": {
-            "text": "已获得下界合金交易卷轴。"
+            "text": "已获得下界工匠交易卷轴。"
         },
         "icon": {
             "item": "minecraft:paper"
