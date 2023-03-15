@@ -7,15 +7,15 @@
       "text": "又见面了 ！"
     },
     "description": {
-      "text": "Bring me a piece of paper, I'll show you where it is on the paper."
+      "text": "给我拿一张纸，我告诉你它在纸上的位置。"
     }
   },
   "complete": {
     "title": {
-      "text": "Here."
+      "text": "给你。"
     },
     "description": {
-      "text": "Here, it's rather easy to spot once you get close. Good luck, and bring me whatever it drops."
+      "text": "在这里，一旦你靠近，就很容易被发现。祝你好运，给我带来掉落的任何东西。"
     }
   },
   "tasks": [
