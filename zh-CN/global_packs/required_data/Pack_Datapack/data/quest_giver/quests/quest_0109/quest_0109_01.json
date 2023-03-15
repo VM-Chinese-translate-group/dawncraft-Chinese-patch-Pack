@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "又见面了 ！"
+      "text": "Hello again!"
     },
     "description": {
-      "text": "如果你准备好救孩子，给我一张纸，我会给你绘制一张地图。"
+      "text": "If you're ready to save the kid. Give me a piece of paper, I'll draw you a map."
     }
   },
   "complete": {
     "title": {
-      "text": "给你。"
+      "text": "Here."
     },
     "description": {
-      "text": "流氓在这里建立了基地。这孩子一定还和他们在一起... 请快点。把他带回我们身边！"
+      "text": "The scoundrel have set up base here. The kid must be still with them... Please hurry. Bring him back to us!"
     }
   },
   "tasks": [
