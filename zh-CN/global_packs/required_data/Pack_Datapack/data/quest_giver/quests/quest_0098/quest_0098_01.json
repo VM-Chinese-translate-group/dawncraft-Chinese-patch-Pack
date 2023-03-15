@@ -4,7 +4,7 @@
   "icon": "minecraft:redstone",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那么？"
     },
     "description": {
       "text": "Did you defeat the land golem and obtain his $(red)Golem Eye$() yet?"
