@@ -1,0 +1,32 @@
+{
+    "display": {
+        "title": {
+            "text": "The Imperial March",
+            "color": "gold"
+        },
+        "description": {
+            "text": "Find a Heavenly Challenger"
+        },
+        "icon": {
+            "item": "minecraft:netherite_chestplate"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "location0": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_arise:heavenly_challenger"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "location0"
+        ]
+    ],
+    "parent": "dungeons_arise:find_heavenly_conqueror"
+}

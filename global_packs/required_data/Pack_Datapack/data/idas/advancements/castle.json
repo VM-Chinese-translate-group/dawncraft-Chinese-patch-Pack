@@ -1,0 +1,33 @@
+{
+  "parent": "idas:idas_root",
+  "display": {
+    "icon": {
+      "item": "minecraft:lodestone"
+    },
+    "title": {
+      "translate": "Castle"
+    },
+    "description": {
+      "translate": "Fortress of the Villagers"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "in_castle": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "idas:castle"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "in_castle"
+    ]
+  ]
+}

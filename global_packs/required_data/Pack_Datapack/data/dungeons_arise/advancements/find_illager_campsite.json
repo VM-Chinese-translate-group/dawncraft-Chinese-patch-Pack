@@ -1,0 +1,32 @@
+{
+    "display": {
+        "title": {
+            "text": "People Are Strange",
+            "color": "dark_purple"
+        },
+        "description": {
+            "text": "Find an Illager Campsite"
+        },
+        "icon": {
+            "item": "minecraft:crossbow"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "location0": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_arise:illager_campsite"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "location0"
+        ]
+    ],
+    "parent": "dungeons_arise:find_merchant_campsite"
+}

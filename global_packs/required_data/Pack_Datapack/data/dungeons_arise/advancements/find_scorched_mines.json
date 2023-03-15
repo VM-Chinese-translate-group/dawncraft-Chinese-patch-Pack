@@ -1,0 +1,32 @@
+{
+    "display": {
+        "title": {
+            "text": "Katabasis",
+            "color": "dark_red"
+        },
+        "description": {
+            "text": "Find the Scorched Mines"
+        },
+        "icon": {
+            "item": "minecraft:blaze_powder"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "location0": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_arise:scorched_mines"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "location0"
+        ]
+    ],
+    "parent": "dungeons_arise:wda_root"
+}

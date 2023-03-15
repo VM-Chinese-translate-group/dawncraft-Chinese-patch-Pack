@@ -1,0 +1,34 @@
+{
+  "parent": "idas:idas_root",
+  "display": {
+    "icon": {
+      "item": "alexsmobs:guster_eye"
+    },
+    "title": {
+      "translate": "Labyrinth of the Serpent"
+    },
+    "description": {
+      "translate": "May the fates be on your side..."
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "frame": "challenge",
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "in_labyrinth": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "idas:labyrinth"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "in_labyrinth"
+    ]
+  ]
+}

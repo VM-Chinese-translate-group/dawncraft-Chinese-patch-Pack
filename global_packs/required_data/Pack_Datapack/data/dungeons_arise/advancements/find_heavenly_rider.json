@@ -1,0 +1,32 @@
+{
+    "display": {
+        "title": {
+            "text": "Ride Of The Valkyries",
+            "color": "dark_red"
+        },
+        "description": {
+            "text": "Find a Heavenly Rider"
+        },
+        "icon": {
+            "item": "minecraft:saddle"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "location0": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_arise:heavenly_rider"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "location0"
+        ]
+    ],
+    "parent": "dungeons_arise:wda_root"
+}

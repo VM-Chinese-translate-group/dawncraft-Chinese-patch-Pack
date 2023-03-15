@@ -1,0 +1,32 @@
+{
+    "display": {
+        "title": {
+            "text": "The Lighthouse",
+            "color": "yellow"
+        },
+        "description": {
+            "text": "Arrive at a Lighthouse"
+        },
+        "icon": {
+            "item": "minecraft:redstone_lamp"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "location0": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_arise:lighthouse"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "location0"
+        ]
+    ],
+    "parent": "dungeons_arise:wda_root"
+}

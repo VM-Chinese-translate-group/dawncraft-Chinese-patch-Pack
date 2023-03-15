@@ -1,0 +1,32 @@
+{
+    "display": {
+        "title": {
+            "text": "Smoke On The Water",
+            "color": "dark_purple"
+        },
+        "description": {
+            "text": "Find an Undead Pirate Ship"
+        },
+        "icon": {
+            "item": "minecraft:gunpowder"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "location0": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_arise:undead_pirate_ship"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "location0"
+        ]
+    ],
+    "parent": "dungeons_arise:wda_root"
+}

@@ -1,0 +1,43 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:tropical_fish"
+    },
+    "title": {
+      "text": "You Are A Pirate",
+      "color": "dark_aqua"
+    },
+    "description": {
+      "text": "Find an Illager Corsair or an Illager Galley"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "dungeons_arise:wda_root",
+  "criteria": {
+    "location0": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "location": {
+          "feature": "dungeons_arise:illager_corsair"
+        }
+      }
+    },
+    "location1": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "location": {
+          "feature": "dungeons_arise:illager_galley"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "location0",
+      "location1"
+    ]
+  ]
+}
