@@ -3,10 +3,10 @@
   "icon": "minecraft:blast_furnace",
   "start": {
     "title": {
-      "text": "Hey there!"
+      "text": "嘿，这儿！"
     },
     "description": {
-      "text": "Hey there! Would you like to learn how to use the blast furnace? I'll only charge ya 15 emeralds!"
+      "text": "你好！你想学习如何使用高炉吗？我只收你15个绿宝石。"
     }
   }
 }
