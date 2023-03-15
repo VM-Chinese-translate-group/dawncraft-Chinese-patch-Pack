@@ -7,12 +7,12 @@
       "text": "那么？"
     },
     "description": {
-      "text": "Did you get the $(red)8 bones$()?"
+      "text": "你拿到了$(red)8个骨头$()吗？"
     }
   },
   "complete": {
     "title": {
-      "text": "感謝！"
+      "text": "感谢！"
     },
     "description": {
       "text": "太棒了！现在我的作物比其他农民种的生长得更快！哈哈！非常感谢你，这里是一个绿宝石。"
