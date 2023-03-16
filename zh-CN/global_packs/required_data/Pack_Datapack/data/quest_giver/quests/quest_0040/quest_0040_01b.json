@@ -4,10 +4,10 @@
   "icon": "minecraft:paper",
   "start": {
     "title": {
-      "text": "An Impossible Task!"
+      "text": "一个不可能完成的任务！"
     },
     "description": {
-      "text": "Did you know that there are these gigantic creatures called elephants residing in savanna biomes? Well, some of our kind managed to tame them. Think you can do it? Taming an elephant?"
+      "text": "你知道吗？热带草原上生活着一种叫做大象的巨型生物。我们中有些人成功驯服了它们。你觉得你能做到吗——驯服一头大象？"
     }
   }
 }
