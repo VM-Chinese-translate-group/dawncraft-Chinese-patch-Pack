@@ -7,7 +7,7 @@
       "text": "牛奶桶"
     },
     "description": {
-      "text": "Please hurry up. I'm yearning for a $(red)bucket of milk$()!"
+      "text": "请你快些吧。我急需一桶$(red)牛奶$()"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感谢！"
     },
     "description": {
-      "text": "Yum! Thanks a lot friend."
+      "text": "好喝！非常感谢你，朋友。"
     }
   },
   "tasks": [
