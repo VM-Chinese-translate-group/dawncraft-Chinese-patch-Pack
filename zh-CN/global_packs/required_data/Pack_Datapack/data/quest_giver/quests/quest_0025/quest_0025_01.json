@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "Extermination Task"
+      "text": "清剿任务"
     },
     "description": {
-      "text": "Kill the Griffin, I'll pay you handsomely... But stay safe, please."
+      "text": "斩杀一头狮鹫，我会给你一笔丰厚的报酬... 当然前提是保护好自己。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感谢！"
     },
     "description": {
-      "text": "Oh thank the lords, you've returned! You took so long and the worst thoughts came to my mind... I'm glad you're okay. Here's your reward. Thanks again."
+      "text": "噢，谢天谢地，你终于回来了！你去了太久，我很担心你遭遇了不测... 看到你安然无恙我真的很高兴。这是你应得的报酬。再次感谢你伸出援手。"
     }
   },
   "tasks": [
