@@ -1,6 +1,6 @@
 {
 	"entity": "simple_mobs:nine_tails",
-	"name": "Nine tails",
+	"name": "九尾",
 	"namevisible": false,
 	"ai-goals": {
 		"brutalbosses:aftercombatregen": {
