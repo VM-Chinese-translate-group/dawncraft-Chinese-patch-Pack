@@ -4,10 +4,10 @@
   "icon": "minecraft:paper",
   "start": {
     "title": {
-      "text": "Map"
+      "text": "地图"
     },
     "description": {
-      "text": "Back for more, ey? Well, got another challenge for you, hunt down the reptilian beasts called crocodiles and bring me their scute. These creatures reside in swamp biomes. Be careful though, these creatures are ridiculously strong."
+      "text": "又来了，嗯？好吧，我有另一个挑战给你，去猎捕一种叫做鳄鱼的爬行动物，并把它们的鳞甲带给我。这种生物生活在沼泽生物群系中。不过要小心，鳄鱼极其强壮。"
     }
   }
 }
