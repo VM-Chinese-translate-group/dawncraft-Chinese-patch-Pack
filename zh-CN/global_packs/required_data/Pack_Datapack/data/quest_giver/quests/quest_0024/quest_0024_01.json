@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Hello again!"
+      "text": "又见面了！"
     },
     "description": {
-      "text": "Ah, almost forgot. Can you get me a piece of paper? I'll mark down the location of their hideout."
+      "text": "哦，差点忘了。你能给我一张纸吗？我会在上面标记出他们的藏身之处。"
     }
   },
   "complete": {
