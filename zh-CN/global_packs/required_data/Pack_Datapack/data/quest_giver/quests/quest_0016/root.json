@@ -6,7 +6,7 @@
       "text": "嘿！"
     },
     "description": {
-      "text": "Hello there, I'm missing some parts to repair my machine. Can you get me $(red)a lever and a copper wrench$()?"
+      "text": "你好，我需要一些零件来修理我的机器。你能给我 $(red)1个拉杆和1个铜扳手$() 吗？"
     }
   }
 }
