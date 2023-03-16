@@ -7,7 +7,7 @@
       "text": "奇特的肉"
     },
     "description": {
-      "text": "你拿到了$(red) 袋鼠的肉和皮毛$()？"
+      "text": "你拿到了$(red) 袋鼠的肉和皮$()？"
     }
   },
   "complete": {
