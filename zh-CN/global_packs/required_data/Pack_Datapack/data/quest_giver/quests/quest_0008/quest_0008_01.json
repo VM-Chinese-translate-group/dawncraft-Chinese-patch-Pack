@@ -7,7 +7,7 @@
       "text": "那么？"
     },
     "description": {
-      "text": "Huh? Oh you forgot. I was asking for $(red)4 Lion Hide$()."
+      "text": "啥？哦，你又忘了。我是想要 $(red)4张狮子皮$()。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感谢！"
     },
     "description": {
-      "text": "Thanks. Here, happy doing business with you."
+      "text": "谢谢。交易愉快。"
     }
   },
   "tasks": [
