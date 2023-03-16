@@ -7,7 +7,7 @@
       "text": "那么？"
     },
     "description": {
-      "text": "Knowledge comes at a cost. In this case it's 15 emeralds for the knowledge of the enchanting table."
+      "text": "有付出才有收获。想学习如何使用附魔台的话你得出15个绿宝石。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感谢！"
     },
     "description": {
-      "text": "There. Mess around with different bookshelves to find the enchantment you want."
+      "text": "就是这样。试着换上不同的书架找到你心仪的附魔。"
     }
   },
   "tasks": [
