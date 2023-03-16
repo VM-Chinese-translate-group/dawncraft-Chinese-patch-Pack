@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "寻眼之路"
     },
     "description": {
-      "text": "Good, seems like you're ready for an adventure! Ready to find your first eye?"
+      "text": "很好，看起来你已经准备好冒险了！准备好去找你的第一只眼睛了吗？"
     }
   }
 }
