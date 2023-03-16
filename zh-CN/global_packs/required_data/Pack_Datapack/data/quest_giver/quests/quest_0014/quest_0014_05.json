@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "寻眼之路"
     },
     "description": {
-      "text": "We have very little information on Knight Rober in his current state, but he should be quite weakened since the last war... Oh, remember to bring ender pearls. He has a nasty attack that can only be escaped via teleportation."
+      "text": "我们对于骑士罗伯现在的情况了解甚少，但他应该因为上一次战争而受到了重创... 对了，记得带上末影珍珠。他有一种极其难缠的攻击，只有通过传送才能逃脱。"
     }
   },
   "complete": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "寻眼之路"
     },
     "description": {
-      "text": "Wow, you've defeated Knight Rober huh. Was he tough? Back in the day he was one of the scariest opponent you could face in a duel, guess his age caught up to him finally. Well, the next eye-holder is another human. He's currently living peacefully in his farmhouse... Here's the map to his location."
+      "text": "哇，你竟然战胜了骑士罗伯！他很强对吧？曾几何时，他会是你在战斗中面临的最可怕的对手之一。或许是时间的无情，让他最终败给了你。下一个持有眼睛的也是一位人类。他现在在自己的农舍里过着悠闲的生活……拿着这张地图去找他吧。"
     }
   },
   "tasks": [
