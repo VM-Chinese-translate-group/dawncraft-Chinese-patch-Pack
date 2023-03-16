@@ -7,7 +7,7 @@
       "text": "那么？"
     },
     "description": {
-      "text": "Fetch me a piece of paper? I'll draw you a map."
+      "text": "纸拿来了吗？我来给你画张地图。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感谢！"
     },
     "description": {
-      "text": "Here you go. Say hi to him for me."
+      "text": "拿好了。另外，代我向他问好。"
     }
   },
   "tasks": [
