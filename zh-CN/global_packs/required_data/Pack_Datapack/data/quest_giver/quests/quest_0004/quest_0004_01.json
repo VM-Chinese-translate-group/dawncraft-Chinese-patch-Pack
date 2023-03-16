@@ -7,7 +7,7 @@
       "text": "那么？"
     },
     "description": {
-      "text": "你拿到了$(red)5个腐肉吗$()？"
+      "text": "你拿到了$(red)5个腐肉$()？"
     }
   },
   "complete": {
