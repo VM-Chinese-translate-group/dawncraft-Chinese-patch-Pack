@@ -4,18 +4,18 @@
   "icon": "minecraft:compass",
   "start": {
     "title": {
-      "text": "The Unattended Eyes"
+      "text": "无主之眼"
     },
     "description": {
-      "text": "To the best of my knowledge, there are currently 7 eyes that are unattended by eye holders. The ones that can be found in structures include the Cursed and the Old. As for the others... I think most of them can be crafted with the life forces in our realm, while a few of them may have been stolen by sentient beasts. The locals around may know more about that than I do. However, I do know that the clerics are currently in possession of the Evil Eye."
+      "text": "据我所知，目前有7枚眼睛无人看管。你或许可以在自然生成的结构中找到远古之眼和诅咒之眼。至于其他的……我想其中大部分可以用我们领域内的生命力合成，而其中一些可能被有知觉的生灵盗走了。当地人可能比我更了解这些情况。然而，我知道牧师们目前掌握着恶魔之眼。"
     }
   },
   "complete": {
     "title": {
-      "text": "The Unattended Eyes"
+      "text": "无主之眼"
     },
     "description": {
-      "text": "I think there's no need to look for the eyes anymore?"
+      "text": "我想现在不再需要寻找这些眼睛了"
     }
   },
   "tasks": [
