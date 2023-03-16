@@ -701,24 +701,6 @@
 				}
 			]
 		}
-		{
-			x: 11.5d
-			y: 5.0d
-			id: "588F6837CE082133"
-			tasks: [{
-				id: "12CB732A52D87352"
-				type: "advancement"
-				advancement: "cataclysm:kill_ender_guardian"
-				criterion: ""
-			}]
-			rewards: [{
-				id: "36A43393C5A689C6"
-				type: "command"
-				auto: "invisible"
-				command: "/loot give @p loot minecraft:skull_island"
-				player_command: false
-			}]
-		}
 	]
 	quest_links: [ ]
 }
