@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_helmet",
   "start": {
     "title": {
-      "text": "Blast Furnace Crafting"
+      "text": "制作高炉"
     },
     "description": {
-      "text": "Hey. Have you crafted the blast furnace yet?"
+      "text": "你好，请问你制作过高炉吗？"
     }
   },
   "complete": {
     "title": {
-      "text": "Great!"
+      "text": "太棒了！"
     },
     "description": {
-      "text": "Great! I can certainly make better equipments with this new facility. Thanks!"
+      "text": "太好了！这下我能用这台新设备打造更好的装备了。谢谢！"
     }
   },
   "tasks": [
