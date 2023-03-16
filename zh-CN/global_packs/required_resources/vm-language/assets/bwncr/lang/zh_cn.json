@@ -1,5 +1,5 @@
 {
-  "badwithernocookiereloaded.general.tooltip": "Global basic sounds and events you can cancel",
-  "badwithernocookiereloaded.xtra.tooltip": "Extra localized sounds that you can cancel",
-  "badwithernocookiereloaded.localized settings.silenceus": "Example: entity.sheep.step - use /listen for other sounds"
+  "badwithernocookiereloaded.general.tooltip": "你能禁止全局声音和事件",
+  "badwithernocookiereloaded.xtra.tooltip": "你可以禁止本地化声音",
+  "badwithernocookiereloaded.localized settings.silenceus": "比如：entity.sheep.step - 对于其他音效可以使用/listen "
 }
