@@ -3,10 +3,10 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Hey there!"
+      "text": "你好！"
     },
     "description": {
-      "text": "If you call yourself an adventurer, you gotta have a compass! Craft a $(red)compass$() and return to me."
+      "text": "如果你自称是一个冒险者，你必然会有一个指南针！制作一个$(red)指南针$()并把它带回来给我。"
     }
   }
 }
