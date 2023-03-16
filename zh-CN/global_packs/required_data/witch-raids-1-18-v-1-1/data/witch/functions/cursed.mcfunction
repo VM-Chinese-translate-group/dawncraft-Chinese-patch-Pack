@@ -1,4 +1,4 @@
-tellraw @s {"text":"You have been cursed. The next village you set foot in will witness the wit of the witches","color":"dark_purple"}
+tellraw @s {"text":"你被诅咒了。 The next village you set foot in will witness the wit of the witches","color":"dark_purple"}
 playsound minecraft:entity.witch.celebrate hostile @s ~ ~ ~ 2 1
 playsound minecraft:entity.witch.celebrate hostile @s ~ ~ ~ 2 0.75
 playsound minecraft:entity.witch.celebrate hostile @s ~ ~ ~ 2 0.5
