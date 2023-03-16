@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "寻眼之路"
     },
     "description": {
-      "text": "The Ogre is on a different level compared to the goblin king. Proceed with caution."
+      "text": "与哥布林国王相比，这只食人魔的实力不同凡响。请谨慎行事。"
     }
   },
   "complete": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "寻眼之路"
     },
     "description": {
-      "text": "Well done. Perhaps you'll be able to face $(red)Knight Rober$() now. He is much weaker than who he once was, but I'd assume that he's still very dangerous, as he is still able to contain the power of the eye he's holding. Here's the map to his current whereabouts."
+      "text": "你的表现很出色。或许现在你已经有能力面对$(red)骑士罗伯$()了。尽管他已经不复之前的强大了，但他能够掌控他拥有的那只眼睛的力量，恐怕依旧是个可怖的对手。这张地图会带领你找到他。"
     }
   },
   "tasks": [
