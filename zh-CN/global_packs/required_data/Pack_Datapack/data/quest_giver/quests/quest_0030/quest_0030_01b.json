@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_helmet",
   "start": {
     "title": {
-      "text": "Thank you for listening."
+      "text": "谢谢你听我倾诉。"
     },
     "description": {
-      "text": "Thank you for listening. My blast furnace is breaking down... Can you craft a new one and give it to me?"
+      "text": "谢谢你听我倾诉。我的高炉坏了……你能制作一个新的炉子给我吗？"
     }
   }
 }
