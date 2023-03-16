@@ -1,4 +1,4 @@
-tellraw @a[distance=..54,tag=witch_curse] {"text":"What have you done...","color":"dark_purple"}
+tellraw @a[distance=..54,tag=witch_curse] {"text":"你做了什么……","color":"dark_purple"}
 execute as @a[distance=..54] at @s run playsound minecraft:event.raid.horn neutral @s ~ ~ ~ 100 1.3 1
 effect give @a[distance=..54] blindness 2
 effect give @a[distance=..54] nausea 10
