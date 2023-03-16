@@ -4,10 +4,10 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "Guards"
+      "text": "守卫"
     },
     "description": {
-      "text": "Still want something, 'hero'? Well, want to learn how to use the mixing cauldron? Kill 3 villager guards for me. I need their sacrifice for... Well it's none of your concern. Just kill 3. The quiet ones, don't choose the chatty ones that give you task. And do it quietly... if you can. I don't want to be linked with the murder."
+      "text": "你还想要什么，“英雄”？好啊，想学如何使用混合锅吗？替我杀死三名村民守卫。我将把他们献给……咳，与你无关。你只需要暗杀三个守卫。如果可以的话，尽量选那些沉默的，不要选择那些会给你任务的话痨。我不想和谋杀案扯上关系。"
     }
   }
 }
