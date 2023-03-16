@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_chestplate",
   "start": {
     "title": {
-      "text": "Mushroom Stew!"
+      "text": "蘑菇煲！"
     },
     "description": {
-      "text": "Thank you! I just want to have a taste of a good bowl of $(red)mushroom stew$()."
+      "text": "多谢！我正想尝尝一碗美味的$(red)蘑菇煲$()呢。"
     }
   }
 }
