@@ -4,10 +4,10 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Yearnin' for a Burger"
+      "text": "自身难堡"
     },
     "description": {
-      "text": "Did you get the time to prepare the hamburger?"
+      "text": "你有空为我做一个汉堡包吗？"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感謝！"
     },
     "description": {
-      "text": "That is marvelous! I'll save it for later. Thanks a lot."
+      "text": "梦寐以求！我会留着它以后再吃。非常感谢。"
     }
   },
   "tasks": [
