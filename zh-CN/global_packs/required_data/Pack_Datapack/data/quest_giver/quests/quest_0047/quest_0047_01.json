@@ -7,15 +7,15 @@
       "text": "那么？"
     },
     "description": {
-      "text": "Did you get the $(red)ghast tear$()?"
+      "text": "你拿到$(red)恶魂之泪$()了吗？"
     }
   },
   "complete": {
     "title": {
-      "text": "感謝！"
+      "text": "感谢！"
     },
     "description": {
-      "text": "Nice, exactly what I needed. Thanks for your help!"
+      "text": "没错，这正是我想要的。感谢你的帮助！"
     }
   },
   "tasks": [
