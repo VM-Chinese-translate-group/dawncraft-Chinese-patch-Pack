@@ -7,7 +7,7 @@
       "text": "那么？"
     },
     "description": {
-      "text": "Did you get the $(red)copper wrench and lever$()?"
+      "text": "你拿到了$(red)铜扳手和拉杆$()了吗？"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感谢！"
     },
     "description": {
-      "text": "Thanks. Here, for your trouble."
+      "text": "谢谢。给你，这是你应得的。"
     }
   },
   "tasks": [
