@@ -7,7 +7,7 @@
       "text": "那么？"
     },
     "description": {
-      "text": "Did you get the $(red)Soul Weed$() yet?"
+      "text": "你拿到了$(red)灵魂草$()了吗？"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感谢！"
     },
     "description": {
-      "text": "Thanks a lot."
+      "text": "多谢。"
     }
   },
   "tasks": [
