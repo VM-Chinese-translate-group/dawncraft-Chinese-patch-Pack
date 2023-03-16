@@ -83,7 +83,7 @@
   "advancements.cloudstorage.upload.title": "Up, Up and Uploaded",
   "advancements.cloudstorage.upload.desc": "Add additional storage space to a cloud inventory by tying a chest to the balloon color of your choice",
   "advancements.cloudstorage.balloon_buddy.title": "A Friend is a Friend till the End of the End",
-  "advancements.cloudstorage.balloon_buddy.desc": "Craft a balloon buddy",
+  "advancements.cloudstorage.balloon_buddy.desc": "合成一个气球伙伴",
   "advancements.cloudstorage.99_balloons.title": "99 Luftballons",
   "advancements.cloudstorage.99_balloons.desc": "Have 99 red balloons in your inventory at once",
   "advancements.cloudstorage.balloon_stand.title": "National Free Balloon Day",
@@ -104,8 +104,8 @@
   "cloudstorage.sound.subtitle.bloviator_hurt": "Bloviator groans",
   "cloudstorage.sound.subtitle.bloviator_blow": "Bloviator exhales",
   "cloudstorage.sound.subtitle.bloviator_lightning": "Bloviator shocks",
-  "cloudstorage.sound.subtitle.cloud_chest_open": "Cloud Chest opens",
-  "cloudstorage.sound.subtitle.cloud_chest_close": "Cloud Chest closes",
+  "cloudstorage.sound.subtitle.cloud_chest_open": "云箱：打开",
+  "cloudstorage.sound.subtitle.cloud_chest_close": "云箱：关闭",
   "cloudstorage.sound.subtitle.static_shock": "Static electricity buzzes",
   "cloudstorage.sound.subtitle.music_disc_drift": "Shroomy - Drift"
 }
