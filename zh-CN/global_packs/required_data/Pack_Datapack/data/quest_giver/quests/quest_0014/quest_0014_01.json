@@ -4,18 +4,18 @@
 	"icon": "minecraft:enchanted_book",
 	"start": {
 		"title": {
-			"text": "The Basic Skill"
+			"text": "牛刀小试"
 		},
 		"description": {
-			"text": "Come back after you've fulfilled the requirements - $(red)Kill 10 pillagers$()."
+			"text": "完成任务要求后再回来——$(red)杀死10个掠夺者$()。"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "The Basic Skill"
+			"text": "初窥门径"
 		},
 		"description": {
-			"text": "Here, just open the book and learn the skill. If you want to get more skillbooks, I'd suggest doing some of the guard's request. Good luck on your journey."
+			"text": "这里，打开书学习这项技能吧。如果你想获取更多的技能书，我建议你去守卫那儿接一些任务。祝你旅途愉快。"
 		}
 	},
 	"tasks": [
