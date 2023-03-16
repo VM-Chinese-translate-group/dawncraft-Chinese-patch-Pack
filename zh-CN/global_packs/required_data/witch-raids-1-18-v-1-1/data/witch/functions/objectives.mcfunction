@@ -15,4 +15,4 @@ bossbar set minecraft:witch_raid style notched_12
 team add witch
 team modify witch color dark_purple
 
-tellraw @a {"text":"Witch Raids in minecraft - made by Mr.Ominous","color":"gray"}
+tellraw @a {"text":"Minecraft中的女巫袭击 - 由 Mr.Ominous 倾情贡献","color":"gray"}
