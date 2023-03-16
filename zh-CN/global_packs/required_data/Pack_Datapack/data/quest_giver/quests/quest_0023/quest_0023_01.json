@@ -7,7 +7,7 @@
 			"text": "那么？"
 		},
 		"description": {
-			"text": "I can teach you the skill - Active Guard. Just pay me 15 emeralds."
+			"text": "我可以教你技能——主动防守。只需要支付给我15个绿宝石。"
 		}
 	},
 	"complete": {
@@ -15,7 +15,7 @@
 			"text": "感谢！"
 		},
 		"description": {
-			"text": "Here you go."
+			"text": "拿好。"
 		}
 	},
 	"tasks": [
