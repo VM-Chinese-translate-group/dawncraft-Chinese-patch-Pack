@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "寻眼之路"
     },
     "description": {
-      "text": "Hm... the Nine Tails is not exactly a human. Oh well, you'll know when you see him."
+      "text": "嗯……九尾不是一个普通的人类。不过没关系，当你见到他的时候就会明白了。"
     }
   },
   "complete": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "寻眼之路"
     },
     "description": {
-      "text": "Hmmph... At this point I'm not even surprised. Good job. The Nine Tails was a notoriously violent spirit... I have no idea why it decided to retire at an abandoned barn. Anyhow, here's the whereabouts of the next eye holder. Beware, this is nothing like the ones you've faced before."
+      "text": "嗯... 到这个地步，我甚至都不感到惊讶了。干的漂亮。九尾是一个恶名昭著的凶灵...... 我不知道它为什么决定在一座废弃的谷仓中退隐。不管怎样，这是下一个眼睛守护者的行踪。万分小心，这次与你之前所面对的完全不同。"
     }
   },
   "tasks": [
