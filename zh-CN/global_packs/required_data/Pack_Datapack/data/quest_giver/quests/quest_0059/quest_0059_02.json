@@ -7,15 +7,15 @@
 			"text": "那么？"
 		},
 		"description": {
-			"text": "Did you get the redstone dust? I think I just need 1."
+			"text": "你带来红石粉了吗？我想我只要1个就够了。"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "多谢！"
 		},
 		"description": {
-			"text": "Thanks! Here's for your trouble."
+			"text": "麻烦你了，这是谢礼。"
 		}
 	},
 	"tasks": [
