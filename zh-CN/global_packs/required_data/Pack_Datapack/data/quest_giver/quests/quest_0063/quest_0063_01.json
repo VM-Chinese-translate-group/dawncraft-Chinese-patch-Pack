@@ -7,12 +7,12 @@
       "text": "Arrow Craftsmanship"
     },
     "description": {
-      "text": "Did you get $(red)the 4 spruce logs$() yet?"
+      "text": "你拿到了$(red)4个云杉木原木$()吗？"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "谢谢！"
     },
     "description": {
       "text": "Good job. Here's an emerald for your work."
