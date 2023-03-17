@@ -4,18 +4,18 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "Making a Fishing Rod"
+      "text": "制作钓鱼竿"
     },
     "description": {
-      "text": "Did you get the $(red)fishing rod$()?"
+      "text": "你带来$(red)钓鱼竿$()了吗"
     }
   },
   "complete": {
     "title": {
-      "text": "感謝！"
+      "text": "感谢！"
     },
     "description": {
-      "text": "Thanks, I don't have much to give you. Um... take this cod, it's fresh."
+      "text": "多谢，可惜我没什么值钱的东西能给你。嗯……拿上这条鳕鱼吧，刚钓上来的。"
     }
   },
   "tasks": [
