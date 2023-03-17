@@ -4,18 +4,18 @@
   "icon": "minecraft:book",
   "start": {
     "title": {
-      "text": "Fetching Request"
+      "text": "获取请求"
     },
     "description": {
-      "text": "Please come back when you've gathered $(red)4 ink sacs$()."
+      "text": "请在收集到$(red)4个墨囊$()后再回来吧。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感谢！"
     },
     "description": {
-      "text": "Many thanks. Unfortunately I found that our paper supply is also running low... Do you think you can help us get 10 pieces of paper for now> We'll restock soon, but we would really appreciate your help."
+      "text": "非常感谢。不幸的是，我发现我们的纸张供应也不多了...... 你认为你能暂时帮我们弄到10张纸吗？>我们很快就会重新进货，但我们非常感谢你的帮助。"
     }
   },
   "tasks": [
