@@ -4,18 +4,18 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "Tipped Arrows"
+      "text": "药箭"
     },
     "description": {
-      "text": "Forgot already? I was asking for $(red)12 Glowstone Dust$()."
+      "text": "你就忘了嘛？我想要$(red)12个萤石粉$()。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "谢谢！"
     },
     "description": {
-      "text": "Thanks! Could you take these arrows as payment?"
+      "text": "多谢！就拿这些药箭答谢你，行吗？"
     }
   },
   "tasks": [
