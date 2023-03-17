@@ -18,7 +18,7 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Location of the Father"
+              "name": "加斯科因神父的位置"
             },
             {
               "function": "minecraft:set_lore",
