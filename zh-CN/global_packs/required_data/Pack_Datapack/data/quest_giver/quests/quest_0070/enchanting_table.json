@@ -4,18 +4,18 @@
   "icon": "minecraft:book",
   "start": {
     "title": {
-      "text": "Learn How to Use the Enchanting Table"
+      "text": "学习如何使用附魔台"
     },
     "description": {
-      "text": "The knowledge to use the Enchanting Table eh? Well, that'll cost ya 18 emeralds, though I know someone who might teach ya that for a cheaper price."
+      "text": "使用附魔台的知识是吗？嗯，那要花18个绿宝石，不过我知道有人可以用更便宜的价格教你。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感谢！"
     },
     "description": {
-      "text": "There. Mess around with different bookshelves to find the enchantment you want."
+      "text": "在那里。在不同的书架上翻动，找到你想要的附魔。"
     }
   },
   "tasks": [
