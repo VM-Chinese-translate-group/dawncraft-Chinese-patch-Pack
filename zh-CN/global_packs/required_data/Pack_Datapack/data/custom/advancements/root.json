@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Souls Like",
+            "text": "灵魂们的赞",
             "color": "black",
             "bold": true
         },
         "description": {
-            "text": "Defeated witch raid."
+            "text": "击败女巫袭击。"
         },
         "icon": {
             "item": "minecraft:stone_sword"
