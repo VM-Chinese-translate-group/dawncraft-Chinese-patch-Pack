@@ -7,15 +7,15 @@
 			"text": "那么？"
 		},
 		"description": {
-			"text": "Did you get the chance to gather the $(red)10 pieces of paper$()?"
+			"text": "你能收集到$(red)10张纸$()吗？"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "感谢！"
 		},
 		"description": {
-			"text": "Thanks. I don't have emeralds to pay you at the moment... How's this for payment?"
+			"text": "谢谢。我现在没有绿宝石可以付给你......这样付款如何？"
 		}
 	},
 	"tasks": [
