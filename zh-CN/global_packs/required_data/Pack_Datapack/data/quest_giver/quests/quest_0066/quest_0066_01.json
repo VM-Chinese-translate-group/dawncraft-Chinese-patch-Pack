@@ -7,15 +7,15 @@
       "text": "那么？"
     },
     "description": {
-      "text": "You got the goods yet? $(red)2 Black Bear Fur$()."
+      "text": "你拿到货了吗？ $(red)2x黑熊毛皮$()."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感谢！"
     },
     "description": {
-      "text": "Thanks. Here, pleasure doing business with you."
+      "text": "谢谢。交易愉快。"
     }
   },
   "tasks": [
