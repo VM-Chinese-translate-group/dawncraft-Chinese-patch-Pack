@@ -7,7 +7,7 @@
 			"text": "那么？"
 		},
 		"description": {
-			"text": "Forgot already? Don't worry let me remind you. I need a$(red)straw bale$()."
+			"text": "不记得了吗？没关系，让我提醒你一下。我需要1捆$(red)稻草$()。"
 		}
 	},
 	"complete": {
@@ -15,7 +15,7 @@
 			"text": "感谢！"
 		},
 		"description": {
-			"text": "A straw bale! Now we can make ourselves brand new straw hats! Thanks stranger."
+			"text": "一捆稻草！现在我们可以编新的稻草帽了！谢谢你，陌生人。"
 		}
 	},
 	"tasks": [
