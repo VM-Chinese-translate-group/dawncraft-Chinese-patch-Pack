@@ -7,7 +7,7 @@
       "text": "道听途说"
     },
     "description": {
-      "text": "Found any $(red)big guardians$()? If so give me their spike."
+      "text": "找到$(red)远古守卫者$()了吗？如果顺利的话，请给我它们掉落的尖刺。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感谢！"
     },
     "description": {
-      "text": "This is... extraordinary. The ocean is full of mystery... I've heard stories of giant squids as well, guess that would be true as well. Anyway, here's your reward. Thanks for that."
+      "text": "这真的……太不可思议了。海洋真是处处充满神秘……我还听说过大王乌贼的传说，或许那也是真的？不管怎样，这是你的奖励。谢谢你。"
     }
   },
   "tasks": [
