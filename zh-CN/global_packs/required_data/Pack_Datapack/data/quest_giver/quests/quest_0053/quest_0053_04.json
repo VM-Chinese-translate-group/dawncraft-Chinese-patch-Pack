@@ -7,7 +7,7 @@
       "text": "那么？"
     },
     "description": {
-      "text": "Hello, did you get the$(red) 2 beetroots$()?"
+      "text": "你好，你拿来$(red) 2棵甜菜根$() 了吗？"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感谢！"
     },
     "description": {
-      "text": "Thanks."
+      "text": "谢谢。"
     }
   },
   "tasks": [
