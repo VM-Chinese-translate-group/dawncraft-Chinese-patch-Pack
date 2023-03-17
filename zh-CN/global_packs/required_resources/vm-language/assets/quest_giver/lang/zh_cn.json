@@ -1,6 +1,6 @@
 {
   "entity.quest_giver.quest_villager.none": "Quest Giver",
-  "entity.quest_giver.quest_guard_villager": "Guard",
+  "entity.quest_giver.quest_guard_villager": "守卫",
   "entity.quest_giver.quest_villager.armorer": "Armorer - Quest Giver",
   "entity.quest_giver.quest_villager.butcher": "Butcher - Quest Giver",
   "entity.quest_giver.quest_villager.cartographer": "Cartographer - Quest Giver",
@@ -47,6 +47,6 @@
   "item.quest_giver.trading_contract_oceanographer": "Trading Contract Oceanographer Guild",
   "item.quest_giver.trading_contract_woodworker": "Trading Contract Woodworker Guild",
   "item.quest_giver.trading_contract_beekeeper": "Trading Contract Beekeeper Guild",
-  "message.quest_giver.quest_completion": "Quest Completed!",
-  "message.quest_giver.itemmessage": "Hold \"%s\" for more information"
+  "message.quest_giver.quest_completion": "任务完成！",
+  "message.quest_giver.itemmessage": "按住%s显示更多信息"
 }
