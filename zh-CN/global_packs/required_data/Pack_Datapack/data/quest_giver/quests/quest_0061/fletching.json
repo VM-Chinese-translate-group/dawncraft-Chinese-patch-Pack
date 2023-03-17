@@ -4,18 +4,18 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "Learn How to use the Fletching Table"
+      "text": "学习如何使用制箭台"
     },
     "description": {
-      "text": "Huh, alright. 15 Emeralds to learn how to use the fletching table."
+      "text": "嗯，是的。花费15个绿宝石就可以学习如何使用制箭台。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "谢谢！"
     },
     "description": {
-      "text": "Here you go. Have fun making arrows!"
+      "text": "就是这样。制作箭矢，其乐无穷！"
     }
   },
   "tasks": [
