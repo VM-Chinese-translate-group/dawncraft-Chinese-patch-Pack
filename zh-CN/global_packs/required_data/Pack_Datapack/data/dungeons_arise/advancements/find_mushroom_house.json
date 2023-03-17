@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Over The Garden Wall",
+            "text": "花园墙外",
             "color": "dark_green"
         },
         "description": {
-            "text": "Find a Mushroom House"
+            "text": "找到蘑菇屋"
         },
         "icon": {
             "item": "minecraft:warped_fungus"
