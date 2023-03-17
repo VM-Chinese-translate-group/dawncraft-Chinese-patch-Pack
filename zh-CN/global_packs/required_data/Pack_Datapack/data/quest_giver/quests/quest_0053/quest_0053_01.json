@@ -7,7 +7,7 @@
       "text": "那么？"
     },
     "description": {
-      "text": "Did you get the $(red)2 onions$()?"
+      "text": "你拿到了$(red)2棵洋葱$()吗？"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感谢！"
     },
     "description": {
-      "text": "Good job, boy. Get me $(red)2 melon seeds$() as well?"
+      "text": "干得不错，孩子。能再给我$(red)2粒西瓜种子$()吗？"
     }
   },
   "tasks": [
