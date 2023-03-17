@@ -4,10 +4,10 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "Arrow Making"
+      "text": "制作箭矢"
     },
     "description": {
-      "text": "I'm lacking some feathers for arrow making. Can you fetch me $(red)2 feathers$()? I can give you a few of the arrows after I've finished."
+      "text": "我缺少一些制作箭矢的羽毛。你能帮我找$(red)2片羽毛()吗？等我做完后我可以给你一些箭。"
     }
   }
 }
