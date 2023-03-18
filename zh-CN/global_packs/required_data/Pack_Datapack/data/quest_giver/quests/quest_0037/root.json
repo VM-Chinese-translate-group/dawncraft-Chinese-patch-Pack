@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:smoker",
+  "start": {
+    "title": {
+      "text": "嘿，这儿！"
+    },
+    "description": {
+      "text": "这儿这儿！想学习怎么使用烟熏炉？15个绿宝石包教包会。"
+    }
+  }
+}

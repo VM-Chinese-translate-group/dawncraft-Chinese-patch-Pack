@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 5,
+  "icon": "minecraft:iron_axe",
+  "start": {
+    "title": {
+      "text": "讨伐巨兽"
+    },
+    "description": {
+      "text": "当我在下界维度时，我发现了一个奇特的结构，里面住着一个可怕的傀儡。如果你给我 6个绿宝石，我会告诉你它在地图上的位置。"
+    }
+  }
+}

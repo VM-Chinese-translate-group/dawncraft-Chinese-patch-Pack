@@ -1,0 +1,45 @@
+{
+  "parent": "quest_giver:quest_0027_01b",
+  "reputation": 20,
+  "icon": "minecraft:iron_ingot",
+  "start": {
+    "title": {
+      "text": "猎灵行动"
+    },
+    "description": {
+      "text": "还没能击败$(red)5件御灵装甲$()吗？好吧，再加把劲，哈哈！"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "给你。"
+    },
+    "description": {
+      "text": "哈哈，你居然做到了！有股狠劲，我喜欢！拿去，这是你应得的奖励！"
+    }
+  },
+  "tasks": [
+    {
+      "entity": "dannys_expansion:hollow_armor",
+      "id": "quest_giver:kill",
+      "times": 5
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 5
+    },
+    {
+      "command": "/addreputation reputation:village @p 2",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/advancement grant @p only custom:trade_armorer",
+      "id": "quest_giver:command"
+    }
+  ]
+}

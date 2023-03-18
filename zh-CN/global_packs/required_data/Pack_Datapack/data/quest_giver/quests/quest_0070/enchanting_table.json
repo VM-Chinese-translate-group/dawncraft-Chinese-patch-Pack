@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "学习如何使用附魔台"
+    },
+    "description": {
+      "text": "使用附魔台的知识是吗？嗯，那要花18个绿宝石，不过我知道有人可以用更便宜的价格教你。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "感谢！"
+    },
+    "description": {
+      "text": "在那里。在不同的书架上翻动，找到你想要的附魔。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 15
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add magic level 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

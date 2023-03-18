@@ -1,0 +1,12 @@
+{
+  "reputation": 14,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "你好。我不想打扰你，但你能帮我做件事吗？"
+    }
+  }
+}

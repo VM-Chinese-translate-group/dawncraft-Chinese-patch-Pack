@@ -1,0 +1,12 @@
+{
+  "reputation": 45,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "我听说最近有一伙来自东边的外国逃犯开始掠夺村庄。如果你能帮我拿一张纸，我可以给你画一张地图，为你确定他们的位置。"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "您好，先生。想要了解附魔台吗？学习如何使用它只需要花15个绿宝石。"
+    }
+  }
+}

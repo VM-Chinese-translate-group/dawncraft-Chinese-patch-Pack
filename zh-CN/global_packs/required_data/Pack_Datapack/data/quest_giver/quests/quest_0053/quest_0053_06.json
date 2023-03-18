@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0053_05",
+  "reputation": 0,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "那么？"
+    },
+    "description": {
+      "text": "呵，你太自以为是了。我可从未提到任何关于报酬的事情，对吧？现在赶紧滚吧，小子，否则我就叫守卫把你抓起来。"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "你好我的朋友，你能给我带来些墨囊和纸吗？"
+    }
+  }
+}

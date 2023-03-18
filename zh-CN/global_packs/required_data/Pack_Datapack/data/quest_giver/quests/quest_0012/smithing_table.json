@@ -1,0 +1,36 @@
+{
+	"parent": "quest_giver:root",
+	"reputation": 10,
+	"icon": "minecraft:white_wool",
+	"start": {
+		"title": {
+			"text": "学习如何使用锻造台"
+		},
+		"description": {
+			"text": "你想学如何使用锻造台？花22个绿宝石包会。"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "感谢！"
+		},
+		"description": {
+			"text": "正是如此，快试试你的下界合金装备吧！"
+		}
+	},
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:gift",
+			"times": 22
+		}
+	],
+	"rewards": [
+		{
+			"command": "/pmmo admin @p add smithing level 1",
+			"id": "quest_giver:command"
+		}
+	]
+}

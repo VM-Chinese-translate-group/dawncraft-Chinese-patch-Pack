@@ -1,0 +1,33 @@
+{
+  "parent": "idas:idas_root",
+  "display": {
+    "icon": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "title": {
+      "translate": "附魔塔"
+    },
+    "description": {
+      "translate": "一个牧师塔"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "in_enchantingtower": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "idas:enchantingtower"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "in_enchantingtower"
+    ]
+  ]
+}

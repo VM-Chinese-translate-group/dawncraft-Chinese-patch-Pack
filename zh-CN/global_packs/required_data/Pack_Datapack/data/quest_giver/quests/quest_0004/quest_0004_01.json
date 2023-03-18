@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:brewing_stand",
+  "start": {
+    "title": {
+      "text": "那么？"
+    },
+    "description": {
+      "text": "你拿到了$(red)5个腐肉$()？"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "感谢！"
+    },
+    "description": {
+      "text": "干得好，这个给你。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:rotten_flesh"
+      },
+      "id": "quest_giver:gift",
+      "times": 5
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    },
+    {
+      "command": "/addreputation reputation:village @p 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "末影守卫地图"
+    },
+    "description": {
+      "text": "没有什么是免费的，我的朋友。给我5颗绿宝石，我会给你指路去末影守护者。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "感谢！"
+    },
+    "description": {
+      "text": "很好，你去吧。请记住，在你真正进入最终之前不要打开这张地图。别说我没有警告你。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 5
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "simple_mobs:rolled_map_3"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

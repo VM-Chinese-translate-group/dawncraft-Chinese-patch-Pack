@@ -1,0 +1,47 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:brewing_stand",
+  "start": {
+    "title": {
+      "text": "那么？"
+    },
+    "description": {
+      "text": "你不会就忘了吧？我需要5个蜘蛛眼。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "感谢！"
+    },
+    "description": {
+      "text": "感谢你的帮助！"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:spider_eye"
+      },
+      "id": "quest_giver:gift",
+      "times": 5
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    },
+    {
+      "command": "/addreputation reputation:village @p 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/advancement grant @p only custom:trade_cleric",
+      "id": "quest_giver:command"
+    }
+  ]
+}

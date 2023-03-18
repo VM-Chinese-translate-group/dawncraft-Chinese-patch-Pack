@@ -1,0 +1,33 @@
+{
+  "parent": "idas:idas_root",
+  "display": {
+    "icon": {
+      "item": "alexsmobs:bear_fur"
+    },
+    "title": {
+      "translate": "熊爪旅馆"
+    },
+    "description": {
+      "translate": "为疲惫的旅行者提供歇脚处"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 50
+  },
+  "criteria": {
+    "in_bearclaw_inn": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "idas:bearclaw_inn"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "in_bearclaw_inn"
+    ]
+  ]
+}

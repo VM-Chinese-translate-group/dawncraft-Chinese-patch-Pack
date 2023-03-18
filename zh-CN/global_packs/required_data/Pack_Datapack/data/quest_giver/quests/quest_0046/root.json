@@ -1,0 +1,12 @@
+{
+  "reputation": 15,
+  "icon": "minecraft:brewing_stand",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "您好。我有一些讨伐任务需要你来完成，冒险者。"
+    }
+  }
+}

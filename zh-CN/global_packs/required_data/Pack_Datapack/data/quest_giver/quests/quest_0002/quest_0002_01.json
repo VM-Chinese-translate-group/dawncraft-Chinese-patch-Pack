@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0002_01b",
+  "reputation": 0,
+  "icon": "minecraft:rabbit_foot",
+  "start": {
+    "title": {
+      "text": "帮个忙"
+    },
+    "description": {
+      "text": "太好了，你有兔子脚吗？"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "太棒了！"
+    },
+    "description": {
+      "text": "太棒了！我没什么值钱的东西给你……请接受这个熟羊肉，刚做好的！"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:rabbit_foot"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:cooked_mutton"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    },
+    {
+      "command": "/addreputation reputation:village @p 2",
+      "id": "quest_giver:command"
+    }
+  ]
+}

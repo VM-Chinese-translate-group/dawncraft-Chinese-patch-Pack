@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 8,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "自身难堡"
+    },
+    "description": {
+      "text": "你有空为我做一个汉堡包吗？"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "感谢！"
+    },
+    "description": {
+      "text": "梦寐以求！我会留着它以后再吃。非常感谢。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "farmersdelight:hamburger"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 2
+    },
+    {
+      "command": "/addreputation reputation:village @p 2",
+      "id": "quest_giver:command"
+    }
+  ]
+}

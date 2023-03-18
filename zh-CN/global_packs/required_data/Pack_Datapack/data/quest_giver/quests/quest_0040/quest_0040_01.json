@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:quest_0040_01b",
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "一个不可能完成的任务！"
+    },
+    "description": {
+      "text": "驯服了一头大象再回来找我吧……假如，你能驯服它的话..."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "感谢！"
+    },
+    "description": {
+      "text": "哇哦，你真的做到了。我听说这些巨型生物喜欢金合欢花。拿去吧，不要问我为什么有它们。"
+    }
+  },
+  "tasks": [
+    {
+      "id": "afptweaks:advancement",
+      "advancement": "alexsmobs:alexsmobs/tame_elephant"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "alexsmobs:acacia_blossom"
+      },
+      "id": "quest_giver:item",
+      "times": 10
+    },
+    {
+      "command": "/addreputation reputation:village @p 3",
+      "id": "quest_giver:command"
+    }
+  ]
+}

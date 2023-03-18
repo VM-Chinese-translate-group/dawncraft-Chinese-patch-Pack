@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0070_01b",
+  "reputation": 14,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "获取请求"
+    },
+    "description": {
+      "text": "请在收集到$(red)4个墨囊$()后再回来吧。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "感谢！"
+    },
+    "description": {
+      "text": "非常感谢。不幸的是，我发现我们的纸张供应也不多了...... 你认为你能暂时帮我们弄到10张纸吗？>我们很快就会重新进货，但我们非常感谢你的帮助。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:ink_sac"
+      },
+      "id": "quest_giver:gift",
+      "times": 4
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/addreputation reputation:village @p 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

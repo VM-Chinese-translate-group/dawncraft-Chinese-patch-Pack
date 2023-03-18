@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:cod",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "你想学钓鱼吗？这需要耐心、毅力，最重要的是，一个好的老师！我可以用15个绿宝石来教你如何钓鱼，你觉得怎么样？"
+    }
+  }
+}

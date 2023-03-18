@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "相谈甚欢"
+    },
+    "description": {
+      "text": "你知道吗，砧板可以和小刀一起使用，将大多数食材切成更小的块状。不仅仅是食物，还可以用在其他资源上，你不妨试试原木或者装备！"
+    }
+  }
+}

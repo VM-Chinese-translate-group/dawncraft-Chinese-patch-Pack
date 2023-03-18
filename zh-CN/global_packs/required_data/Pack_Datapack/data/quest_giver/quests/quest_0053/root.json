@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "你好，年轻人，你能帮我一个忙吗？"
+    }
+  }
+}

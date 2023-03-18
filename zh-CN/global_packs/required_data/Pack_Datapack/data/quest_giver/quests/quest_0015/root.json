@@ -1,0 +1,12 @@
+{
+  "reputation": 4,
+  "icon": "minecraft:ender_pearl",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "冒险者，你能帮我弄到5个末影珍珠吗？"
+    }
+  }
+}

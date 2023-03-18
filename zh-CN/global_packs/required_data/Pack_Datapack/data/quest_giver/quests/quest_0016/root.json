@@ -1,0 +1,12 @@
+{
+  "reputation": 3,
+  "icon": "minecraft:redstone",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "你好，我需要一些零件来修理我的机器。你能给我 $(red)1个拉杆和1个铜扳手$() 吗？"
+    }
+  }
+}

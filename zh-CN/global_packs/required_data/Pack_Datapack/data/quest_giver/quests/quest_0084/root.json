@@ -1,0 +1,12 @@
+{
+  "reputation": 5,
+  "icon": "minecraft:iron_axe",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "嗨，我需要一块下界合金锭来打造装备。你有多余的吗？当然，我会为它支付报酬。"
+    }
+  }
+}

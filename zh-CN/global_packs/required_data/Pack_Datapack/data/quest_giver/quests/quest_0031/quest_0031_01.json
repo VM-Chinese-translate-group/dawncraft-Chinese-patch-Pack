@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:blast_furnace",
+  "start": {
+    "title": {
+      "text": "那么？"
+    },
+    "description": {
+      "text": "所以，你准备好开始学了吗？只收你15个绿宝石。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "成交！"
+    },
+    "description": {
+      "text": "就是这样。很简单吧？哈哈！"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 15
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add endurance level 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

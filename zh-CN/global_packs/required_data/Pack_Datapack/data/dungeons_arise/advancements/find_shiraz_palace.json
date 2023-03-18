@@ -1,0 +1,32 @@
+{
+    "display": {
+        "title": {
+            "text": "坠入梦乡",
+            "color": "gold"
+        },
+        "description": {
+            "text": "找到繁花之宫"
+        },
+        "icon": {
+            "item": "minecraft:totem_of_undying"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "location0": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_arise:shiraz_palace"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "location0"
+        ]
+    ],
+    "parent": "dungeons_arise:wda_root"
+}

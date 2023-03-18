@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:anvil",
+  "start": {
+    "title": {
+      "text": "学习如何使用铁砧"
+    },
+    "description": {
+      "text": "啊......铁砧。一个棘手的学习问题。你将花费22颗绿宝石。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "感谢！"
+    },
+    "description": {
+      "text": "给你，修理快乐!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 22
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add crafting level 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

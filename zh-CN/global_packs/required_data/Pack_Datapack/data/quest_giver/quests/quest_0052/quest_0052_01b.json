@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 1,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "你好"
+    },
+    "description": {
+      "text": "我和我朋友的草帽都有点旧了，我们想做顶新帽子，是这样……你能给我弄来1$(red)捆稻草$()吗？"
+    }
+  }
+}

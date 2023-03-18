@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0005_01b",
+  "reputation": 4,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "那么？"
+    },
+    "description": {
+      "text": "你拿到了$(red)8个骨头$()吗？"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "感谢！"
+    },
+    "description": {
+      "text": "太棒了！现在我的作物比其他农民种的生长得更快！哈哈！非常感谢你，这里是一个绿宝石。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:bone"
+      },
+      "id": "quest_giver:gift",
+      "times": 8
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/addreputation reputation:village @p 3",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

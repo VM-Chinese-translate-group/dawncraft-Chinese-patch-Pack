@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:quest_0095_01",
+  "reputation": 24,
+  "icon": "minecraft:white_wool",
+  "start": {
+    "title": {
+      "text": "所以？"
+    },
+    "description": {
+      "text": "哎？那20颗绿宝石只是学习机械动力的入门要求啊。如果想再进一步的话请给我1个$(red)凋灵骷髅头$()。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "感谢！"
+    },
+    "description": {
+      "text": "很好，你满足了我的报价。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:wither_skeleton_skull"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add engineering level 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+	"parent": "quest_giver:quest_0035_03b",
+	"reputation": 35,
+	"icon": "minecraft:beef",
+	"start": {
+		"title": {
+			"text": "熊熊烈火"
+		},
+		"description": {
+			"text": "$(light_blue)霜风之剑$()。倘若你在灰烬荒野中寻得它，切让我知悉。"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "完成"
+		},
+		"description": {
+			"text": "果然啊... 他真的走了。感谢你了却了我的心愿。此剑还请你保管，这或许是我唯一一件能够送给你的东西了。"
+		}
+	},
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:diamond_sword",
+				"forge:nbt": "{CustomModelData:1450003,incendium:{item:'chilling_blade'}}"
+			},
+			"id": "quest_giver:item_pickup",
+			"times": 1
+		}
+	],
+	"rewards": [
+		{
+			"command": "/addreputation reputation:village @p 3",
+			"id": "quest_giver:command"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+  "reputation": 16,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "冒险者！我有一个讨伐任务要交给你。"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:tropical_fish"
+    },
+    "title": {
+      "text": "你就是个海盗",
+      "color": "dark_aqua"
+    },
+    "description": {
+      "text": "找到一艘灾厄海盗船或灾厄桨帆船"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "dungeons_arise:wda_root",
+  "criteria": {
+    "location0": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "location": {
+          "feature": "dungeons_arise:illager_corsair"
+        }
+      }
+    },
+    "location1": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "location": {
+          "feature": "dungeons_arise:illager_galley"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "location0",
+      "location1"
+    ]
+  ]
+}

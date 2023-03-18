@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 5,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "那么？"
+    },
+    "description": {
+      "text": "我们的农具都有点旧了……你能给我们找一把$(red)铁锄$()吗？"
+    }
+  }
+}

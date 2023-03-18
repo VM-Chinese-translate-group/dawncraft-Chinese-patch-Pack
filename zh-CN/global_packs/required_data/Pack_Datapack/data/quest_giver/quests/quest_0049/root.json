@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:brewing_stand",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "你好，你能帮我弄到一个$(red)岩浆膏吗$()？我的医学研究需要它。"
+    }
+  }
+}

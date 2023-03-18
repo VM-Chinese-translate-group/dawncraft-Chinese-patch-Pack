@@ -1,0 +1,32 @@
+{
+    "display": {
+        "title": {
+            "text": "空中的幽灵骑士",
+            "color": "red"
+        },
+        "description": {
+            "text": "找到天堂征服者"
+        },
+        "icon": {
+            "item": "minecraft:golden_chestplate"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "location0": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_arise:heavenly_conqueror"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "location0"
+        ]
+    ],
+    "parent": "dungeons_arise:find_heavenly_rider"
+}

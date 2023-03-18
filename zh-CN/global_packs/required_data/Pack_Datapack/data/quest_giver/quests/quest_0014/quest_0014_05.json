@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:quest_0014_04",
+  "reputation": 10,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "寻眼之路"
+    },
+    "description": {
+      "text": "我们对于罗伯骑士现在的情况了解甚少，但他应该因为上一次战争而受到了重创……对了，记得带上末影珍珠。他有一种极其难缠的攻击，只有通过传送才能逃脱。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "寻眼之路"
+    },
+    "description": {
+      "text": "哇，你竟然战胜了骑士罗伯！他很强对吧？曾几何时，他会是你在战斗中面临的最可怕的对手之一。或许是时间的无情，让他最终败给了你。下一个魔眼支配者的也是一位人类。他现在在自己的农舍里过着悠闲的生活……拿着这张地图去找他吧。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:rogue_eye"
+      },
+      "id": "quest_giver:item_pickup",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:guildmaster3",
+      "id": "quest_giver:command"
+    }
+  ]
+}
