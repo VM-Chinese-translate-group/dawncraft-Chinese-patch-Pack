@@ -4,10 +4,10 @@
   "icon": "minecraft:poppy",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那么？"
     },
     "description": {
-      "text": "Did you get the $(red)Rafflesia$() yet?"
+      "text": "你拿到$(red)大王花$()了吗？"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感谢！"
     },
     "description": {
-      "text": "Thanks a lot."
+      "text": "多谢。"
     }
   },
   "tasks": [
