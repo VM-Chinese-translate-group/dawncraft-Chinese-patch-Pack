@@ -4,10 +4,10 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "所以？"
     },
     "description": {
-      "text": "Get me $(red)20 Emeralds$() first if you'd like to learn about create machineries."
+      "text": "如果你想学习机械动力，先拿给我$(red)20颗绿宝石$()。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感谢！"
     },
     "description": {
-      "text": "hmm... Seems you're determined. Alright, give me a $(red)Wither Skeleton Skull$() and I'll teach you all about it."
+      "text": "嗯……看来你很有决心。好吧，给我一个$(red)凋灵骷髅头$()，我就会教你一切。"
     }
   },
   "tasks": [
