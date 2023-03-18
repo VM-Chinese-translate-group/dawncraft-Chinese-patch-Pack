@@ -5,10 +5,10 @@
       "item": "alexsmobs:guster_eye"
     },
     "title": {
-      "translate": "Labyrinth of the Serpent"
+      "translate": "巨蛇迷宫"
     },
     "description": {
-      "translate": "May the fates be on your side..."
+      "translate": "愿命运站在你这边……"
     },
     "show_toast": true,
     "announce_to_chat": true,
