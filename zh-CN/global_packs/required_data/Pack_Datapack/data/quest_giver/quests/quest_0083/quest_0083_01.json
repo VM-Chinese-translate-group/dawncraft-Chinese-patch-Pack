@@ -7,7 +7,7 @@
       "text": "贵重物品"
     },
     "description": {
-      "text": "Please get me a piece of $(red)paper$()."
+      "text": "你给我一张$(red)纸$()。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "谢谢！"
     },
     "description": {
-      "text": "Here ya go, please return to me my beloved axe. It was my finest work yet."
+      "text": "给你，拜托把我心爱的斧子找回来。那是我迄今为止做的最好的斧子了。"
     }
   },
   "tasks": [
