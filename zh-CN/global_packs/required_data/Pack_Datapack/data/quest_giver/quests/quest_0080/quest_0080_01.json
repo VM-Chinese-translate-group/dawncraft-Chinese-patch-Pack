@@ -7,15 +7,15 @@
       "text": "Shear Crafting"
     },
     "description": {
-      "text": "Did you get the $(red)shears$()?"
+      "text": "你拿到了$(red)把剪刀$()吗？"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "谢谢！"
     },
     "description": {
-      "text": "Thanks a lot!"
+      "text": "非常感谢!"
     }
   },
   "tasks": [
