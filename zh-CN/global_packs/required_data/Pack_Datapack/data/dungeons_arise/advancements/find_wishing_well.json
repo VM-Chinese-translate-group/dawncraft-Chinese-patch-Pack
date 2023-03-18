@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Jump",
+            "text": "跳",
             "color": "dark_aqua"
         },
         "description": {
-            "text": "Find a Wishing Well "
+            "text": "找到一个许愿井 "
         },
         "icon": {
             "item": "minecraft:melon_slice"
