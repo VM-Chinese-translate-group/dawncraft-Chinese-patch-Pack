@@ -4,10 +4,10 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "Wheat Please!"
+      "text": "请给我一些小麦！"
     },
     "description": {
-      "text": "Did you get the $(red)wheats$()? There should be enough in the farm."
+      "text": "你拿到$(red)小麦$()？了吗？农场里的应该绰绰有余了。"
     }
   },
   "complete": {
