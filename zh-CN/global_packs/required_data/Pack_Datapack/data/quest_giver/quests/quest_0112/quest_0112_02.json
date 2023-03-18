@@ -7,7 +7,7 @@
       "text": "再次问好！"
     },
     "description": {
-      "text": "Did you do it? Did you kill the $(red)half wolf?$()"
+      "text": "你做了吗？你杀死了 $(red)半狼人$()吗？"
     }
   },
   "complete": {
