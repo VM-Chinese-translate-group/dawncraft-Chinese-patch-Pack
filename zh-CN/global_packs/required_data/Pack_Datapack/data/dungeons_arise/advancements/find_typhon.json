@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Jaws",
+            "text": "大白鲨",
             "color": "dark_aqua"
         },
         "description": {
-            "text": "Find a Typhon"
+            "text": "找到一具提丰鲨骨"
         },
         "icon": {
             "item": "minecraft:fire_coral"
