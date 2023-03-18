@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Map to the Obsidian Spikes"
+              "name": "黑曜石尖刺之地的地图"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "The whereabouts of the Martian."
+                  "text": "马蒂亞文的下落"
                 }
               ]
             }
