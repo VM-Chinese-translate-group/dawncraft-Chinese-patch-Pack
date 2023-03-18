@@ -24,7 +24,7 @@
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "Ender Guardian's whereabouts."
+                  "text": "末影守卫的去向"
                 }
               ]
             }
