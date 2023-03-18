@@ -7,12 +7,12 @@
       "text": "那么？"
     },
     "description": {
-      "text": "I need another one of your $(red)spirit orbs$()."
+      "text": "能再给我1个$(red)试炼通过证$()？"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "多谢！"
     },
     "description": {
       "text": "Haha... young man, you're too gullible. Don't place your trust in someone you've barely talked to. I'll return the orbs to you since I feel bad, but remember this: Not everyone is as nice as me."
