@@ -24,7 +24,7 @@
 							"function": "minecraft:set_lore",
 							"lore": [
 								{
-									"text": "The whereabouts of a monster underground. Dig deep and defeat the monster."
+									"text": "这是怪物在地下的行踪。向深处前进并击败怪物。"
 								}
 							]
 						}
