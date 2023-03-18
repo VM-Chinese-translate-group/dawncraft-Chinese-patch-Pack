@@ -18,7 +18,7 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Map to the Corrupt Ogre"
+              "name": "腐化兽人地图"
             },
             {
               "function": "minecraft:set_lore",
