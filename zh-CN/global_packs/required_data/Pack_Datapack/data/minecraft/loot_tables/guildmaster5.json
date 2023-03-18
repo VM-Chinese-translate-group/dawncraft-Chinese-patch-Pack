@@ -24,7 +24,7 @@
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "The whereabouts of the Sentinel Knight - one of the Eye Holders."
+                  "text": "这是近卫骑士的行踪，他是魔眼支配者之一"
                 }
               ]
             }
