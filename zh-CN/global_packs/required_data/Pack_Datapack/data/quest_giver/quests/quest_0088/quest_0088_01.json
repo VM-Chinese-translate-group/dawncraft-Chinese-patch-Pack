@@ -4,10 +4,10 @@
   "icon": "minecraft:anvil",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那么？"
     },
     "description": {
-      "text": "15 emeralds and I'll teach you how to use the anvil."
+      "text": "给我15个绿宝石，我会教你如何使用铁砧。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感谢！"
     },
     "description": {
-      "text": "Here you go, happy repairing!"
+      "text": "给你，修理快乐!"
     }
   },
   "tasks": [
