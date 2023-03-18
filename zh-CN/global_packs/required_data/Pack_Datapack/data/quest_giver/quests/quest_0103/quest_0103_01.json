@@ -4,7 +4,7 @@
   "icon": "minecraft:bow",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "那么？"
     },
     "description": {
       "text": "Did you get the 2 patches of $(red)Hemlock$()?"
@@ -15,7 +15,7 @@
       "text": "感谢！"
     },
     "description": {
-      "text": "Thanks. Now I can make the lure."
+      "text": "谢谢。现在我可以做这个诱饵了。"
     }
   },
   "tasks": [
