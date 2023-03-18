@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "An Offer"
+      "text": "一个提议"
     },
     "description": {
-      "text": "I got an interesting skill I can teach you - Dual Greatsword Holding. That'll cost you 25 Emeralds though."
+      "text": "我有一个有趣的技能可以教你 - 双持巨剑。但会花费你25个绿宝石。"
     }
   }
 }
