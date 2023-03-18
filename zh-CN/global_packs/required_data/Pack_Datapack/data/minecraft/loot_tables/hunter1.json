@@ -24,7 +24,7 @@
 							"function": "minecraft:set_lore",
 							"lore": [
 								{
-									"text": "A map given by the hunter to locate a floating palace called Rootless."
+									"text": "猎人提供的前往漂浮之地无根浮宫的地图"
 								}
 							]
 						}
