@@ -5,10 +5,10 @@
       "item": "minecraft:crimson_fungus"
     },
     "title": {
-      "translate": "The Apothecary's Abode"
+      "translate": "药剂师的住处"
     },
     "description": {
-      "translate": "A vivid and magical yet twisted building among the trees..."
+      "translate": "树木间生动神奇但又扭曲的建筑......"
     },
     "show_toast": true,
     "announce_to_chat": true,
