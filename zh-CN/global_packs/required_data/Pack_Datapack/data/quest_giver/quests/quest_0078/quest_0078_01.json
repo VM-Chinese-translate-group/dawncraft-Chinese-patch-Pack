@@ -4,18 +4,18 @@
   "icon": "minecraft:stone",
   "start": {
     "title": {
-      "text": "Stones from Another Dimension"
+      "text": "异界之石Ⅲ"
     },
     "description": {
-      "text": "When you get to the end, remember to bring me $(red)end stones$()"
+      "text": "当你抵达末地之时，记得帮我带上$(red)末地石$()。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "谢谢！"
     },
     "description": {
-      "text": "hm... the quality is... not bad. I'll put it to good use, thanks!"
+      "text": "嗯……这个品质……还行吧。我会好好利用它的，谢谢。"
     }
   },
   "tasks": [
