@@ -4,7 +4,7 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "A Precious Item"
+      "text": "贵重物品"
     },
     "description": {
       "text": "Please get me a piece of $(red)paper$()."
@@ -12,7 +12,7 @@
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "谢谢！"
     },
     "description": {
       "text": "Here ya go, please return to me my beloved axe. It was my finest work yet."
