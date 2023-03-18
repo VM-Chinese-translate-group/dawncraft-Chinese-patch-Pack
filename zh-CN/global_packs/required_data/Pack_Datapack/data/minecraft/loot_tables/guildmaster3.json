@@ -18,7 +18,7 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Map to the Nine Tails"
+              "name": "九尾地图"
             },
             {
               "function": "minecraft:set_lore",
