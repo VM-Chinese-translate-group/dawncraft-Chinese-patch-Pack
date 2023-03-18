@@ -4,7 +4,7 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Dragon Heart"
+      "text": "龙之心"
     },
     "description": {
       "text": "The map to the summoning podium will cost you 5 emeralds."
@@ -15,7 +15,7 @@
       "text": "感谢！"
     },
     "description": {
-      "text": "Nice doing business with you, friend."
+      "text": "很高兴与你做生意，朋友。"
     }
   },
   "tasks": [
