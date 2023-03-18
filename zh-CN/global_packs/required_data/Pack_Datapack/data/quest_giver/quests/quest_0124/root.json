@@ -3,10 +3,10 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Hey there!"
+      "text": "嘿！"
     },
     "description": {
-      "text": "我的伙计。这个地方把我无聊死了... 想聊一会儿吗？值得你花时间。"
+      "text": "我的伙计。这个地方无聊死了……想聊一会儿吗？值得你花时间。"
     }
   }
 }
