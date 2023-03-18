@@ -4,10 +4,10 @@
 	"icon": "minecraft:white_wool",
 	"start": {
 		"title": {
-			"text": "Learn How to Use the Smithing Table"
+			"text": "学习如何使用锻造台"
 		},
 		"description": {
-			"text": "You want to learn how to use the smithing table? It'll cost you 22 emeralds."
+			"text": "你想学如何使用锻造台？花22个绿宝石包会。"
 		}
 	},
 	"complete": {
@@ -15,7 +15,7 @@
 			"text": "感谢！"
 		},
 		"description": {
-			"text": "Here ya go, enjoy making netherite equipments!"
+			"text": "就是这样，快试试你的下界合金装备吧！"
 		}
 	},
 	"tasks": [
