@@ -7,15 +7,15 @@
       "text": "Stones from Another Dimension"
     },
     "description": {
-      "text": "Got the $(red)lunar stone$() yet? You can find them in the Everdawn dimension."
+      "text": "你拿到$(red)明月石$()了吗？你可以在恒晓之地找到它们。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "谢谢！"
     },
     "description": {
-      "text": "Thanks. The quality is... subpar. I'll think of other uses for it."
+      "text": "谢谢。但是这品质……说实话有些低劣。我会试着开发它的其他用途。"
     }
   },
   "tasks": [
