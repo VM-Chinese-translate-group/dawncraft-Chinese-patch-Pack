@@ -4,10 +4,10 @@
   "icon": "minecraft:redstone",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "所以？"
     },
     "description": {
-      "text": "Did you defeat the land golem and obtain his $(red)Golem Eye$() yet?"
+      "text": "你击败了大地傀儡然后取得了$(red)大地守卫之眼$()吗？"
     }
   },
   "complete": {
