@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Armorer's Map"
+              "name": "盔甲匠的地图"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "A Map Given by the Armorer to retrieve his necklace."
+                  "text": "一张由盔甲匠提供的地图，用来找回他的项链。"
                 }
               ]
             }
