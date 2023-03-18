@@ -18,7 +18,7 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "守卫地图"
+              "name": "守卫的地图"
             },
             {
               "function": "minecraft:set_lore",
