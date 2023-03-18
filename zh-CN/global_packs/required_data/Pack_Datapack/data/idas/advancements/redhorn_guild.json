@@ -5,10 +5,10 @@
       "item": "minecraft:wooden_sword"
     },
     "title": {
-      "translate": "The Redhorn Guild"
+      "translate": "红角公会"
     },
     "description": {
-      "translate": "A Refuge and Training Grounds"
+      "translate": "庇护所与训练场"
     },
     "show_toast": true,
     "announce_to_chat": true,
