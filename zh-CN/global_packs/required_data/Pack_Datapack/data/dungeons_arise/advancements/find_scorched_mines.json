@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Katabasis",
+            "text": "冥界行，莫回首",
             "color": "dark_red"
         },
         "description": {
-            "text": "Find the Scorched Mines"
+            "text": "找到一个焦黑矿井"
         },
         "icon": {
             "item": "minecraft:blaze_powder"
