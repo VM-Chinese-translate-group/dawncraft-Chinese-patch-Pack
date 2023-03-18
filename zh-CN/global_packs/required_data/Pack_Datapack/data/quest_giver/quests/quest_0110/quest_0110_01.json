@@ -7,7 +7,7 @@
       "text": "又见面了！"
     },
     "description": {
-      "text": "Brave man. Please give me a piece of paper so I can show you where the creature is at."
+      "text": "勇士！请给我一张纸，我为你指明它洞穴的位置。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "这儿。"
     },
     "description": {
-      "text": "Here, the cleric is the one who provided us with this information though. So I'm not sure if it's completely accurate. Either way, find this creature, kill it, and bring back whatever it drops."
+      "text": "给，消息是从那个牧师那里传来的，所以我不太确定它有多可靠。但不管怎样，请找到那只怪物，消灭它，然后把它掉落的东西带回来。"
     }
   },
   "tasks": [
