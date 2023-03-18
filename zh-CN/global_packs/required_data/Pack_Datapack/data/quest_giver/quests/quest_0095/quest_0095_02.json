@@ -4,10 +4,10 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "所以？"
     },
     "description": {
-      "text": "Huh? The 20 Emeralds were just the entry requirement. Get me a $(red)Wither Skeleton Skull$()."
+      "text": "哎？那20颗绿宝石只是学习机械动力的入门要求啊。如果想再进一步的话请给我1个$(red)凋灵骷髅头$()。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感谢！"
     },
     "description": {
-      "text": "Good, you've taken up my offer."
+      "text": "很好，你满足了我的报价。"
     }
   },
   "tasks": [
