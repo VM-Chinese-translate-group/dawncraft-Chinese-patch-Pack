@@ -34,7 +34,7 @@
 							"function": "minecraft:set_lore",
 							"lore": [
 								{
-									"text": "A map leading you to the most powerful being within the realm."
+									"text": "一张地图，指引你前往这里最强大的地方。"
 								}
 							]
 						}
