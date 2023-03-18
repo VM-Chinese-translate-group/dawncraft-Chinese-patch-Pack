@@ -24,7 +24,7 @@
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "The whereabouts of Knight Rober - one of the Eye Holders."
+                  "text": "这是罗伯骑士的行踪，他是魔眼支配者之一"
                 }
               ]
             }
