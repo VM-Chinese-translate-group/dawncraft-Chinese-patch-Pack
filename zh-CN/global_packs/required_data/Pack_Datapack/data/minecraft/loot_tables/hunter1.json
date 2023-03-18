@@ -18,7 +18,7 @@
 						},
 						{
 							"function": "minecraft:set_name",
-							"name": "Hunter's Map"
+							"name": "猎人地图"
 						},
 						{
 							"function": "minecraft:set_lore",
