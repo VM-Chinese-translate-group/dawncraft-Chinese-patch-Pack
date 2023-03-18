@@ -4,10 +4,10 @@
   "icon": "minecraft:anvil",
   "start": {
     "title": {
-      "text": "Learn How to Use the Anvil"
+      "text": "学习如何使用铁砧"
     },
     "description": {
-      "text": "Ah.. the Anvil. A tricky one to learn. 22 emeralds that will cost you."
+      "text": "啊...... 铁砧。学起来可相当棘手啊。要学的话你得付22颗绿宝石。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感谢！"
     },
     "description": {
-      "text": "Here you go, happy repairing!"
+      "text": "就是这样，这修理东西多是一件美事啊。"
     }
   },
   "tasks": [
