@@ -18,7 +18,7 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Cartographer's Map"
+              "name": "制图师地图"
             },
             {
               "function": "minecraft:set_lore",
