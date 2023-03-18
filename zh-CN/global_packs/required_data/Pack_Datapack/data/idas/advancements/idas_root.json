@@ -4,10 +4,10 @@
       "item": "minecraft:filled_map"
     },
     "title": {
-      "translate": "Integrated Dungeons and Structures"
+      "translate": "协调的地牢和结构"
     },
     "description": {
-      "translate": "Start exploring for structures!"
+      "translate": "开始各个结构的探索！"
     },
     "show_toast": false,
     "announce_to_chat": true,
