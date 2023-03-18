@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Super Creeps",
+            "text": "毛骨悚然的爬行声",
             "color": "dark_red"
         },
         "description": {
-            "text": "Find an Infested Temple"
+            "text": "找到一座蚀败的寺庙"
         },
         "icon": {
             "item": "minecraft:infested_stone_bricks"
