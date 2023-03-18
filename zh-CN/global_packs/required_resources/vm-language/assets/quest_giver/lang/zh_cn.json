@@ -24,7 +24,7 @@
   "entity.quest_giver.quest_villager.morevillagers.netherian": "下界学家-任务发布者",
   "entity.quest_giver.quest_villager.morevillagers.oceanographer": "海洋学家-任务发布者",
   "entity.quest_giver.quest_villager.morevillagers.woodworker": "末地学家-任务发布者",
-  "entity.quest_giver.quest_villager.bk.beekeeper": "Beekeeper - Quest Giver",
+  "entity.quest_giver.quest_villager.bk.beekeeper": "养蜂人-任务发布者",
   "item.quest_giver.trading_contract_armorer": "盔甲匠贸易合同",
   "item.quest_giver.trading_contract_butcher": "屠夫贸易合同",
   "item.quest_giver.trading_contract_cartographer": "制图师贸易合同",
@@ -45,8 +45,8 @@
   "item.quest_giver.trading_contract_miner": "矿工贸易合同",
   "item.quest_giver.trading_contract_netherian": "下界学家贸易合同",
   "item.quest_giver.trading_contract_oceanographer": "海洋学家贸易合同",
-  "item.quest_giver.trading_contract_woodworker": "Trading Contract Woodworker Guild",
-  "item.quest_giver.trading_contract_beekeeper": "Trading Contract Beekeeper Guild",
+  "item.quest_giver.trading_contract_woodworker": "木匠贸易合同",
+  "item.quest_giver.trading_contract_beekeeper": "养蜂人贸易合同",
   "message.quest_giver.quest_completion": "任务完成！",
   "message.quest_giver.itemmessage": "按住%s显示更多信息"
 }
