@@ -24,7 +24,7 @@
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "Father Gascoigne's whereabouts."
+                  "text": "加斯科因神父的去向"
                 }
               ]
             }
