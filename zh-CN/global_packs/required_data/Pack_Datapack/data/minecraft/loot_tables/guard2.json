@@ -24,7 +24,7 @@
 							"function": "minecraft:set_lore",
 							"lore": [
 								{
-									"text": "The whereabouts of a lost child. Save him and bring him back to the village."
+									"text": "这是一个孩子的行踪。救出他并把他带回村庄。"
 								}
 							]
 						}
