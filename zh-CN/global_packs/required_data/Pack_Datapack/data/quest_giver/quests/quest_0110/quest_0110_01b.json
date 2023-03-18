@@ -7,7 +7,7 @@
       "text": "求助"
     },
     "description": {
-      "text": "There is a $(red)Cave Dweller() residing in a cave near us. This creature is extremely dangerous... Our clerics think that it will one day come up from below and slaughter us all... Can you exterminate this creature and bring me $(red)parts of his remain$() as proof?"
+      "text": "有一只$(red)洞穴栖兽$()盘踞在附近的洞穴中。这只怪物极其危险……我们的牧师预言，有一天它会从洞穴中重见天日，将我们屠戮殆尽……你能消灭这只怪物并把$(red)它的残存之物$()作为证明带给我吗？"
     }
   }
 }
