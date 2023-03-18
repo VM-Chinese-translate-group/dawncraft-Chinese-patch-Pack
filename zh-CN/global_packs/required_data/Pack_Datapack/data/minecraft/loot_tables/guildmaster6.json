@@ -24,7 +24,7 @@
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "The whereabouts of the Fire Giant - the last Eye Holder."
+                  "text": "这是火焰巨人的行踪，它是魔眼支配者之一"
                 }
               ]
             }
