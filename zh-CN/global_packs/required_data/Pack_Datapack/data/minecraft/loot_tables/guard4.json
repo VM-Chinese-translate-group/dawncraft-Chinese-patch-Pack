@@ -24,7 +24,7 @@
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "The whereabouts of a man-eating Giant. Defeat the monster."
+                  "text": "这是的食人巨人的行踪。击败那个怪物。"
                 }
               ]
             }
