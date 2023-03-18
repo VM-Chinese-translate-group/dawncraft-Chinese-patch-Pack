@@ -5,10 +5,10 @@
       "item": "minecraft:netherite_axe"
     },
     "title": {
-      "translate": "Ancient Mines"
+      "translate": "古老的矿井"
     },
     "description": {
-      "translate": "The Drums of the Deep Call..."
+      "translate": "深处的鼓声呼唤着..."
     },
     "show_toast": true,
     "announce_to_chat": true,
