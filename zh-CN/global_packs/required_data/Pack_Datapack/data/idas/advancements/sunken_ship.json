@@ -5,10 +5,10 @@
       "item": "alexsmobs:skelewag_sword"
     },
     "title": {
-      "translate": "A Sunken Ship"
+      "translate": "沉船"
     },
     "description": {
-      "translate": "A Captain Always Goes Down With Their Ship..."
+      "translate": "船长总是与他们的船一起沉没......"
     },
     "show_toast": true,
     "announce_to_chat": true,
