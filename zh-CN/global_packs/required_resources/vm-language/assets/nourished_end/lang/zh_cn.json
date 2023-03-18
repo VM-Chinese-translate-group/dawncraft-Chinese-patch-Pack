@@ -179,7 +179,7 @@
   "block.nourished_end.verdant_sapling": "腐化树苗",
   "block.nourished_end.magenta_shell_tiles": "品红色潜影壳瓦砖",
   "advancements.end_high_lands_advancement.descr": "岛屿奇观甲MC",
-  "advancements.multiversal_diet.descr": "食用一个末影佳肴",
+  "advancements.multiversal_diet.descr": "食用一个末地美馔",
   "item.minecraft.potion.effect.dyspneic_potion": "窒息药水",
   "advancements.cobalt_advancement.descr": "在小行星上获得钴",
   "item.minecraft.potion.effect.vigorous_potion_2": "活力药水",
@@ -410,5 +410,5 @@
   "advancements.radiation_advancement.title": "三头六臂",
   "block.nourished_end.void_seal": "虚空祭坛",
   "entity.nourished_end.eidolon": "幻灵",
-  "item.nourished_end.end_delight": "末地佳肴"
+  "item.nourished_end.end_delight": "末地美馔"
 }
