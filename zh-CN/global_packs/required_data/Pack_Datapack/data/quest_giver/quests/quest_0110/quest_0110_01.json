@@ -4,7 +4,7 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Hello again!"
+      "text": "又见面了！"
     },
     "description": {
       "text": "Brave man. Please give me a piece of paper so I can show you where the creature is at."
@@ -12,7 +12,7 @@
   },
   "complete": {
     "title": {
-      "text": "Here."
+      "text": "这儿。"
     },
     "description": {
       "text": "Here, the cleric is the one who provided us with this information though. So I'm not sure if it's completely accurate. Either way, find this creature, kill it, and bring back whatever it drops."
