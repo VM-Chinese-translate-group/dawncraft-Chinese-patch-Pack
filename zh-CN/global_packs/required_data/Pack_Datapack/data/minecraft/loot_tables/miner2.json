@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Map to a strange adventurer"
+              "name": "奇怪冒险家地图"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "A map given by the miner to hunt down a beast."
+                  "text": "矿工提供的去追捕野兽的地图。"
                 }
               ]
             }
