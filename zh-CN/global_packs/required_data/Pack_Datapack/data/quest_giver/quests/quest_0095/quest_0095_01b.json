@@ -4,10 +4,10 @@
   "icon": "minecraft:redstone",
   "start": {
     "title": {
-      "text": "help"
+      "text": "求助"
     },
     "description": {
-      "text": "Eager to learn ey? Well, firstly, get me 20 emeralds, then we can talk."
+      "text": "急着想学啊？好吧，首先，给我20颗绿宝石，然后我们可以谈谈。"
     }
   }
 }
