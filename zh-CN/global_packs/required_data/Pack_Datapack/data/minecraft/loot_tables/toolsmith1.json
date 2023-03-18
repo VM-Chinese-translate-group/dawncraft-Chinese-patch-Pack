@@ -24,7 +24,7 @@
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "A map given by the toolsmith to retrieve his favorite axe."
+                  "text": "工具匠为了取回他最喜欢的斧头而给出的地图。"
                 }
               ]
             }
