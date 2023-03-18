@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Map to the Soul Blacksmith"
+              "name": "灵魂锻造厂地图"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "Netherite Monstrosity's Whereabouts."
+                  "text": "下界合金巨兽的行踪。"
                 }
               ]
             }
