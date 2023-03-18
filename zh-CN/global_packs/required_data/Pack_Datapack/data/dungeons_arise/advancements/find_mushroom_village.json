@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "Sweet Dreams",
+            "text": "甜蜜的梦",
             "color": "green"
         },
         "description": {
-            "text": "Find a Mushroom Village"
+            "text": "找到一片蘑菇村落"
         },
         "icon": {
             "item": "minecraft:crimson_fence"
