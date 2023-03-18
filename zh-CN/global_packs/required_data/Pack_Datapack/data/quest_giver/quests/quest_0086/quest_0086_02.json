@@ -7,7 +7,7 @@
       "text": "那么？"
     },
     "description": {
-      "text": "Please come back when you finished the extermination contract - $(red)Kill 5 Pillagers$()."
+      "text": "完成你的清剿任务——$(red)消灭5个掠夺者$()后再回来找我吧。"
     }
   },
   "complete": {
