@@ -4,18 +4,18 @@
 	"icon": "minecraft:white_wool",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "那么？"
 		},
 		"description": {
-			"text": "15 Emeralds and I'll teach you how to use the smithing table."
+			"text": "给我15个绿宝石，我会教你如何使用锻造台。"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "谢谢！"
 		},
 		"description": {
-			"text": "Here ya go, enjoy making netherite equipments!"
+			"text": "正是如此，快试试你的下界合金装备吧！"
 		}
 	},
 	"tasks": [
