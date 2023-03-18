@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Map to the Burning Arena"
+              "name": "烈焰竞技场地图"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "A powerful being - Ignis' whereabouts."
+                  "text": "一个强大之物——焰魔的行踪。"
                 }
               ]
             }
