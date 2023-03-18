@@ -6,7 +6,7 @@
       "text": "嘿！"
     },
     "description": {
-      "text": "Hey there, can you get $(red)16 arrows$() from the local fletcher? I'll pay you back for it."
+      "text": "嘿，你能从当地的制箭师那里拿到 $(red)16支箭$() 吗？我会向你支付这笔费用。"
     }
   }
 }
