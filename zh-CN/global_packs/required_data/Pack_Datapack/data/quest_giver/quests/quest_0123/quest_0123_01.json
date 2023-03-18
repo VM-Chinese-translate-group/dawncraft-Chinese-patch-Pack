@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Sculk"
+      "text": "幽匿"
     },
     "description": {
-      "text": "Oh you're back! Did you get the $(red)Sculk Sensors$() yet?"
+      "text": "哦，你回来了！你拿到 $(red)幽匿感测体$() 了吗？"
     }
   },
   "complete": {
