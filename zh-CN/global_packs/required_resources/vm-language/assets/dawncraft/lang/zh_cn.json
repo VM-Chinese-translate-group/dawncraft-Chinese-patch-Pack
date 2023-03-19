@@ -81,6 +81,8 @@
 	"map.dawncraft.cultist": "信徒藏身地图",
 	"map.dawncraft.cultist_2": "信徒地图",
 	"entity.dawncraft.fallen": "亡灵冒险家",
+	"message.dawncraft.invasions_enabled_0": "Several anachronisms have been detected prepare for imminent invasion...",
+	"message.dawncraft.invasions_enabled_1": "First invasion in %1$s seconds.",
 	"message.dawncraft.invasion": "你被 %1$s 入侵了",
 	"message.dawncraft.spawn_npc": "成功生成 NPC %1$s 于 %2$s",
 	"message.dawncraft.animal": "与动物的交互进度：%1$s/10",
