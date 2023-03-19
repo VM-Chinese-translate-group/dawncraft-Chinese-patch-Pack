@@ -31,6 +31,14 @@
     {
       "command": "/loot give @p loot minecraft:guildmaster4",
       "id": "quest_giver:command"
+    },
+    {
+      "command": "/pmmo admin @p add magic level 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/pmmo admin @p add smithing level 1",
+      "id": "quest_giver:command"
     }
   ]
 }
