@@ -205,7 +205,7 @@
     },
     {
         "key": "You've paid for your crimes.... Now maybe you should sleep on it.",
-        "value": "你为你的罪行付出代价了... 现在或许你应该好好想一想，好好睡一觉。"
+        "value": "你为你的罪行付出代价了……现在或许你应该好好想一想，好好睡一觉。"
     },
     {
         "key": "You Are No Longer Bound by the Magical Forces.",
@@ -217,7 +217,7 @@
     },
     {
         "key": "<Voice in Barrel> It's not working... Use an axe!",
-        "value": "<Voice in Barrel>毫无反应……试试用斧头！"
+        "value": "<Voice in Barrel>好像没用……试试斧头！"
     },
     {
         "key": "<JosslynMC> Avenge me...",
@@ -233,7 +233,7 @@
     },
     {
         "key": "There's nothing inside...",
-        "value": "里面什么也没有...."
+        "value": "里面什么也没有……"
     },
     {
         "key": "Right click again to send the spirit away",
