@@ -67,5 +67,5 @@
 	"effortlessbuilding.action.thickness_5": "5 Blocks Thick",
 	"effortlessbuilding.action.start_center": "居中",
 	"effortlessbuilding.action.start_corner": "角落",
-	"commands.reach.usage": "/reach <level>"
+	"commands.reach.usage": "/到达 <level>"
 }
