@@ -4,7 +4,7 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "再次问好！"
+      "text": "Hello again!"
     },
     "description": {
       "text": "你做了吗？你杀死了 $(red)半狼人$()吗？"
