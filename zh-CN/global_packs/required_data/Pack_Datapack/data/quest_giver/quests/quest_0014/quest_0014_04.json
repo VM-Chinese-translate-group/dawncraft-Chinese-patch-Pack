@@ -31,6 +31,18 @@
     {
       "command": "/loot give @p loot minecraft:guildmaster2",
       "id": "quest_giver:command"
+    },
+    {
+      "command": "/dc enableInvasions @p",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/pmmo admin @p add endurance level 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/pmmo admin @p add cooking level 1",
+      "id": "quest_giver:command"
     }
   ]
 }
