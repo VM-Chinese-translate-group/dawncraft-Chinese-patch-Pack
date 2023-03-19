@@ -31,6 +31,14 @@
     {
       "command": "/loot give @p loot minecraft:guildmaster3",
       "id": "quest_giver:command"
+    },
+    {
+      "command": "/pmmo admin @p add crafting level 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/pmmo admin @p add engineering level 1",
+      "id": "quest_giver:command"
     }
   ]
 }
