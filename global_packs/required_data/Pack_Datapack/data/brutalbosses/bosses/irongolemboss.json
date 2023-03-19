@@ -25,7 +25,7 @@
     "brutalbosses:aftercombatregen": {
       "amount": 2
     },
-    "brutalbosses:whirlwind": {},
+    "brutalbosses:whirldwind": {},
     "brutalbosses:itemshootgoal": {
       "item": "{id: \"minecraft:stone_bricks\", Count: 1b}",
       "projectile_count": 1,
@@ -36,19 +36,5 @@
     }
   },
   "spawnatchest": {
-    "minecraft:chests/stronghold_crossing": 5,
-    "minecraft:chests/stronghold_corridor": 5,
-    "minecraft:chests/woodland_mansion": 1,
-    "betterdungeons:skeleton_dungeon/chests/common": 1,
-    "betterdungeons:skeleton_dungeon/chests/middle": 1,
-    "betterdungeons:zombie_dungeon/chests/common": 1,
-    "betterdungeons:zombie_dungeon/chests/special": 1,
-    "dungeons_arise:chests/eerie/heavenly_challenger/heavenly_challenger_treasure": 1,
-    "dungeons_arise:chests/shiraz_palace/shiraz_palace_elite": 1,
-    "dungeons_arise:chests/thornborn_towers/thornborn_towers_top_treasure": 1,
-    "betterstrongholds:chests/common": 1,
-    "dungeoncrawl:chests/stage_5": 1,
-    "dungeons_enhanced:chests/ice_pit/hall": 1,
-    "dungeons_enhanced:chests/monster_maze/treasure": 1
   }
 }
