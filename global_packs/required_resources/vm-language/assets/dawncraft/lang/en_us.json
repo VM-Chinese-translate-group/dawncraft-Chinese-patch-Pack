@@ -101,6 +101,8 @@
 	
 	"entity.dawncraft.fallen": "Fallen Adventurer",
 	
+	"message.dawncraft.invasions_enabled_0": "Several anachronisms have been detected prepare for imminent invasion...",
+	"message.dawncraft.invasions_enabled_1": "First invasion in %1$s seconds.",
 	"message.dawncraft.invasion": "You are being invaded by %1$s",
 	"message.dawncraft.spawn_npc": "Succesfully spawned NPC %1$s at %2$s",
 	"message.dawncraft.animal": "Animals interacted with: %1$s/10",
