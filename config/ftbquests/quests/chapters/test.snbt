@@ -701,6 +701,41 @@
 				}
 			]
 		}
+		{
+			x: 11.0d
+			y: 1.0d
+			id: "01A815B71B4C8955"
+			tasks: [{
+				id: "193DFC0C40E974F1"
+				type: "dimension"
+				dimension: "minecraft:the_nether"
+			}]
+			rewards: [{
+				id: "44A009FC69D648D4"
+				type: "gamestage"
+				auto: "invisible"
+				ignore_reward_blocking: true
+				stage: "nether"
+			}]
+		}
+		{
+			x: 11.5d
+			y: 2.5d
+			id: "759F8E92D4967A4F"
+			tasks: [{
+				id: "4E66627FD9F8881E"
+				type: "stat"
+				stat: "minecraft:play_time"
+				value: 90000
+			}]
+			rewards: [{
+				id: "52B64F48C2ABDE53"
+				type: "gamestage"
+				auto: "invisible"
+				ignore_reward_blocking: true
+				stage: "bloodborne"
+			}]
+		}
 	]
 	quest_links: [ ]
 }

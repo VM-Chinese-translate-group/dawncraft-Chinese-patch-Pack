@@ -1,0 +1,96 @@
+{
+	id: "456CFF8FE8F8BFAB"
+	group: ""
+	order_index: 3
+	filename: "useful_commands_for_servers"
+	title: "{chapter.4.title}"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -2.5d
+			y: -4.0d
+			subtitle: "{chapter.4.quest.1.subtitle}"
+			description: ["{chapter.4.quest.1.description.1}"]
+			id: "59F404BFA55005EA"
+			tasks: [{
+				id: "01CE05960FF752C1"
+				type: "checkmark"
+				title: "{chapter.4.quest.1.task.1.title}"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -3.0d
+			subtitle: "{chapter.4.quest.2.subtitle}"
+			description: ["{chapter.4.quest.2.description.1}"]
+			id: "018956A7552CAAC3"
+			tasks: [{
+				id: "736B0722263E101A"
+				type: "checkmark"
+				title: "{chapter.4.quest.2.task.1.title}"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -2.0d
+			subtitle: "{chapter.4.quest.3.subtitle}"
+			description: ["{chapter.4.quest.3.description.1}"]
+			id: "726F1FFCA2697CF6"
+			tasks: [{
+				id: "79E1E37E279C39DE"
+				type: "checkmark"
+				title: "{chapter.4.quest.3.task.1.title}"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -1.0d
+			subtitle: "{chapter.4.quest.4.subtitle}"
+			description: ["{chapter.4.quest.4.description.1}"]
+			id: "5540C43EFDAE8E3B"
+			tasks: [{
+				id: "484069119F39A90C"
+				type: "checkmark"
+				title: "{chapter.4.quest.4.task.1.title}"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -5.0d
+			subtitle: "{chapter.4.quest.5.subtitle}"
+			description: ["{chapter.4.quest.5.description.1}"]
+			id: "63F0B07D20E74D61"
+			tasks: [{
+				id: "3900DF3E47ADF564"
+				type: "checkmark"
+				title: "{chapter.4.quest.5.task.1.title}"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -7.0d
+			subtitle: "{chapter.4.quest.6.subtitle}"
+			description: ["{chapter.4.quest.6.description.1}"]
+			id: "1B36858C66C3C77F"
+			tasks: [{
+				id: "3FA502DE4B61335E"
+				type: "checkmark"
+				title: "{chapter.4.quest.6.task.1.title}"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -6.0d
+			subtitle: "{chapter.4.quest.7.subtitle}"
+			description: ["{chapter.4.quest.7.description.1}"]
+			id: "60B3AB514E67E96D"
+			tasks: [{
+				id: "1E832FA7E32D60BF"
+				type: "checkmark"
+				title: "{chapter.4.quest.7.task.1.title}"
+			}]
+		}
+	]
+	quest_links: [ ]
+}
