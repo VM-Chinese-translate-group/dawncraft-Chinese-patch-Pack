@@ -25,19 +25,19 @@
     },
     {
         "key": "Can be consumed for Attack Speed Boost (Until Death).",
-        "value": "进食后可提升攻击速度（直至死亡）。"
+        "value": "食用后可提升攻击速度（死亡消失）。"
     },
     {
         "key": "The only remain left of the Martian.",
-        "value": "马蒂亞文唯一的残留物"
+        "value": "马蒂亞文唯一残存的遗体。"
     },
     {
         "key": "A fragment of the giant's eye. Useful for villager quests.",
-        "value": "巨人之眼碎块。用于村民任务。"
+        "value": "巨人之眼碎片。用于村民任务。"
     },
     {
         "key": "A knot of hair.",
-        "value": "火焰巨人的一缕头发"
+        "value": "一缕头发。"
     },
     {
         "key": "The heart of an ice dragon.",
@@ -45,35 +45,35 @@
     },
     {
         "key": "Can be consumed for Stun Armor Boost (Until Death).",
-        "value": "进食后可提升击晕抗性（直至死亡）。"
+        "value": "食用后可提升击晕抗性（死亡消失）。"
     },
     {
         "key": "The remains of an Ogre.",
-        "value": "食人魔的残留物"
+        "value": "食人魔的遗骸。"
     },
     {
         "key": "Can be consumed to remove all potion effects and gain Strength effect.",
-        "value": "进食后移除所有药水效果然后获得力量效果"
+        "value": "食用后移除所有效果然后获得力量效果。"
     },
     {
         "key": "Magical Forces Forbid You From Placing Blocks Here",
-        "value": "神秘的力量阻止了你在此处放置方块"
+        "value": "神秘的力量禁止了你在此放置方块"
     },
     {
         "key": "You Are No Longer Bound by the Magical Forces.",
-        "value": "你感觉到神秘力量解开了对你的束缚"
+        "value": "你不在受到神秘力量的束缚。"
     },
     {
         "key": "*Sneak 4 times consecutively to return to your current location*",
-        "value": "*连续潜行4次即可返回当前位置。*"
+        "value": "*连续潜行4次即可返回当前位置*"
     },
     {
         "key": "- Returning to entrance -",
-        "value": "- 回到入口处-"
+        "value": "- 回到入口处 -"
     },
     {
         "key": "Full Set: Catching on fire heals you when you have low health.",
-        "value": "套装属性：当你的生命值很低时，火焰伤害会治疗你。"
+        "value": "套装属性：当你的生命值很低时，着火会回血。"
     },
     {
         "key": "Full Set: Taking damage on low health somtimes trigger freezing effect.",
@@ -81,11 +81,11 @@
     },
     {
         "key": "The core of the Cave Dweller.",
-        "value": "洞穴栖兽的生命核心"
+        "value": "洞穴栖兽的核心。"
     },
     {
         "key": "A sword forged from the Martian's remains.",
-        "value": "用马蒂亞文残留物铸造而成的剑"
+        "value": "马蒂亞文遗骸铸造而成的剑。"
     },
     {
         "key": "The Helmet of the Invader Getsuga_65.",
@@ -93,11 +93,11 @@
     },
     {
         "key": "The Seal Dropped by the Fire Giant.",
-        "value": "火焰巨人掉落的印章"
+        "value": "火焰巨人掉落的印章。"
     },
     {
         "key": "Feathers dropped by Griffins.",
-        "value": "狮鹫掉落的羽毛"
+        "value": "狮鹫掉落的羽毛。"
     },
     {
         "key": "The essence of Ice Dragon",
