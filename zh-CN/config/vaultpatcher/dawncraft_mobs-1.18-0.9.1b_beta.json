@@ -9,7 +9,7 @@
     },
     {
         "key": "A fragment of the Cave Dweller's Armor. Useful for villager quests.",
-        "value": "洞穴栖兽的盔甲碎片。在村民任务中有用。"
+        "value": "洞穴栖兽的甲壳碎片。在村民任务中有用。"
     },
     {
         "key": "The essence of Fire Dragon",
@@ -73,7 +73,7 @@
     },
     {
         "key": "Full Set: Catching on fire heals you when you have low health.",
-        "value": "套装属性：当你的生命值很低时，着火会回血。"
+        "value": "套装属性：当你的生命值很低时，火焰伤害会治疗你。"
     },
     {
         "key": "Full Set: Taking damage on low health somtimes trigger freezing effect.",
