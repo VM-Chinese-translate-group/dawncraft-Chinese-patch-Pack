@@ -31,6 +31,10 @@
     {
       "command": "/pmmo admin @p add woodcutting level 1",
       "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p StoneCutter",
+      "id": "quest_giver:command"
     }
   ]
 }

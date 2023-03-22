@@ -21,7 +21,7 @@
   "tasks": [
     {
 		"id": "afptweaks:advancement",
-		"advancement": "custom:begone_witch"
+		"advancement": "custom:begone_witch/begone_witch"
     }
   ],
   "rewards": [
