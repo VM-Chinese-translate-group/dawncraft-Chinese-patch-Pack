@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "学习如何使用制图台"
+    },
+    "description": {
+      "text": "嗯，好吧，给我15个绿宝石，我就教你如何使用它。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "拿好喽。"
+    },
+    "description": {
+      "text": "不要被上面的各种东西吓到，你会找到诀窍的！"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 15
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add sailing level 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}
