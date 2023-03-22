@@ -1,0 +1,33 @@
+{
+  "parent": "idas:idas_root",
+  "display": {
+    "icon": {
+      "item": "minecraft:skeleton_skull"
+    },
+    "title": {
+      "translate": "死灵法师的尖塔"
+    },
+    "description": {
+      "translate": "令人不寒而栗的邪恶无处不在……"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 50
+  },
+  "criteria": {
+    "in_necromancers_spire": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "idas:necromancers_spire"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "in_necromancers_spire"
+    ]
+  ]
+}
