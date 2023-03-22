@@ -1,0 +1,33 @@
+{
+  "parent": "idas:idas_root",
+  "display": {
+    "icon": {
+      "item": "create:rose_quartz"
+    },
+    "title": {
+      "translate": "巫师塔"
+    },
+    "description": {
+      "translate": "一座法师的尖塔"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "in_wizardtower": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "idas:wizard_tower"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "in_wizardtower"
+    ]
+  ]
+}
