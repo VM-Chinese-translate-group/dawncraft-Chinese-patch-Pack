@@ -1,0 +1,34 @@
+{
+  "parent": "idas:idas_root",
+  "display": {
+    "icon": {
+      "item": "minecraft:netherite_axe"
+    },
+    "title": {
+      "translate": "古老的矿井"
+    },
+    "description": {
+      "translate": "深处的鼓声呼唤着……"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "frame": "challenge",
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "in_ancient_mines": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "idas:ancient_mines"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "in_ancient_mines"
+    ]
+  ]
+}
