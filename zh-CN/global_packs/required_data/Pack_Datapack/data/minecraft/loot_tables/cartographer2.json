@@ -24,7 +24,7 @@
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "A map given by the cartographer to locate the summoning altar."
+                  "text": "由制图师绘制定位召唤祭坛位置的地图。"
                 }
               ]
             }
