@@ -1,0 +1,12 @@
+{
+  "reputation": 6,
+  "icon": "minecraft:log",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "你好，少年。你能给我带一些$(red)恼人至高木原木$()吗？"
+    }
+  }
+}
