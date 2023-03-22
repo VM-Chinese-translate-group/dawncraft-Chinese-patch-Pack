@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0040_01",
+  "reputation": 15,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "地图"
+    },
+    "description": {
+      "text": "又来了，嗯？好吧，我有另一个挑战给你，去猎捕一种叫做鳄鱼的爬行动物，并把它们的鳞甲带给我。这种生物生活在沼泽生物群系中。不过要小心，鳄鱼极其强壮。"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+	"parent": "quest_giver:quest_0009_01",
+	"reputation": 14,
+	"icon": "minecraft:book",
+	"start": {
+		"title": {
+			"text": "那么？"
+		},
+		"description": {
+			"text": "你能收集到$(red)10张纸$()吗？"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "感谢！"
+		},
+		"description": {
+			"text": "谢谢。我现在没有绿宝石可以付给你……这样付款如何？"
+		}
+	},
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:paper"
+			},
+			"id": "quest_giver:gift",
+			"times": 10
+		}
+	],
+	"rewards": [
+		{
+			"item": {
+				"type": "minecraft:item_nbt",
+				"item": "minecraft:enchanted_book",
+				"nbt": "{Enchantments:[{id:mending,lvl:1}]}"
+			},
+			"id": "quest_giver:item",
+			"times": 1
+		},
+		{
+			"command": "/advancement grant @p only custom:trade_librarian",
+			"id": "quest_giver:command"
+		},
+		{
+			"command": "/addreputation reputation:village @p 1",
+			"id": "quest_giver:command"
+		}
+	]
+}

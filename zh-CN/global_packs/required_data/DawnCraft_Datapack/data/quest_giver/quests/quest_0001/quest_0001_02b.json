@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0001_01",
+  "reputation": 5,
+  "icon": "minecraft:wooden_sword",
+  "start": {
+    "title": {
+      "text": "过来听听……"
+    },
+    "description": {
+      "text": "过来听听……有个办法让我能报答你。你能拿张纸让我给你画张地图吗？"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:stone",
+  "start": {
+    "title": {
+      "text": "那么？"
+    },
+    "description": {
+      "text": "你看这样行吗？10个绿宝石教你怎么用切石机。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "感谢！"
+    },
+    "description": {
+      "text": "就是这样！"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 10
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add woodcutting level 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p StoneCutter",
+      "id": "quest_giver:command"
+    }
+  ]
+}

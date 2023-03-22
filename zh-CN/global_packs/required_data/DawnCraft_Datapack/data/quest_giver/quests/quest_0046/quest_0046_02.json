@@ -1,0 +1,47 @@
+{
+	"parent": "quest_giver:quest_0046_02b",
+	"reputation": 15,
+	"icon": "minecraft:paper",
+	"start": {
+		"title": {
+			"text": "你好"
+		},
+		"description": {
+			"text": "看来你似乎还没有完成你的任务。还是说你忘记了自己任务的内容？给我$()5个兽人的牙齿$()作为你完成讨伐任务的凭证。"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "这儿。"
+		},
+		"description": {
+			"text": "干得好。目前我没有更多的任务可以给你了。但是记住：邪恶总是潜伏在周围，时刻保持警惕。"
+		}
+	},
+	"tasks": [
+		{
+			"item": {
+				"item": "orcz:orcteeth"
+			},
+			"id": "quest_giver:gift",
+			"times": 5
+		}
+	],
+	"rewards": [
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:item",
+			"times": 2
+		},
+		{
+			"command": "/advancement grant @p only custom:trade_cleric",
+			"id": "quest_giver:command"
+		},
+		{
+			"command": "/give @p potion{display:{Name:'[{\"text\":\"Potion of Healing\",\"italic\":false}]'},CustomPotionEffects:[{Id:6,Duration:1,Amplifier:5}]} 1",
+			"id": "quest_giver:command"
+		}
+	]
+}

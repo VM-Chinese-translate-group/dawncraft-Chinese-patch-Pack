@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 25,
+  "icon": "minecraft:brewing_stand",
+  "start": {
+    "title": {
+      "text": "那么？"
+    },
+    "description": {
+      "text": "我希望你能帮我取回一顶巫师帽，任意一顶都行。但是女巫很少掉落它。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "感谢！"
+    },
+    "description": {
+      "text": "何等愚昧！现在，让我们将厄运降临于此！如果我的死亡能够铸就这个村庄的毁灭，那便是无上荣光！"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "biomemakeover:witch_hat"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/execute as @a[distance=..5] run function witch:start_witch_raid",
+      "id": "quest_giver:command"
+    }
+  ]
+}

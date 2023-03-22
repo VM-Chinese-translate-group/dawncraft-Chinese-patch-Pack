@@ -1,0 +1,12 @@
+{
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "嘿，这儿！"
+    },
+    "description": {
+      "text": "你好冒险家！有兴趣接受一个挑战吗？"
+    }
+  }
+}

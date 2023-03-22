@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:wooden_sword",
+  "start": {
+    "title": {
+      "text": "嘿，那边那个年轻的探险家！"
+    },
+    "description": {
+      "text": "嘿，年轻的冒险者！能帮我一把吗？"
+    }
+  }
+}

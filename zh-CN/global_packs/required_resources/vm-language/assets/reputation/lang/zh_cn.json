@@ -1,6 +1,6 @@
 {
-  "block.reputation.ledger": "账簿箱",
-  "block.reputation.ledger_book": "账簿",
+  "block.reputation.ledger": "声望账簿箱",
+  "block.reputation.ledger_book": "声望账簿",
   "item.reputation.faction_bag": "袋装货币",
   "ledger.reputation.container": "账簿箱",
   "ledger.reputation.checked": "这个账簿已被检查"

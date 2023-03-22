@@ -1,0 +1,12 @@
+{
+  "reputation": 8,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "嘿，这儿！"
+    },
+    "description": {
+      "text": "你看起来像个顶好的厨子。你能为我做些菜吗？有一道叫做$(red)汉堡包$()的菜，你会做吗？"
+    }
+  }
+}

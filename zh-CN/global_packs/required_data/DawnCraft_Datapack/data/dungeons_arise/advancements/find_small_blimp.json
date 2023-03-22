@@ -1,0 +1,32 @@
+{
+    "display": {
+        "title": {
+            "text": "天之高远",
+            "color": "red"
+        },
+        "description": {
+            "text": "找到一艘小气艇"
+        },
+        "icon": {
+            "item": "minecraft:comparator"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "location0": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_arise:small_blimp"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "location0"
+        ]
+    ],
+    "parent": "dungeons_arise:wda_root"
+}

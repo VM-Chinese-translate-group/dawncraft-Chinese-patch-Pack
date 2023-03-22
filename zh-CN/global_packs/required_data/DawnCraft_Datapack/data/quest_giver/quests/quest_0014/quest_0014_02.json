@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0014_01",
+  "reputation": 10,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "寻眼之路"
+    },
+    "description": {
+      "text": "很好，看起来你已经准备好冒险了！准备好去找你的第一只魔眼了吗？"
+    }
+  }
+}

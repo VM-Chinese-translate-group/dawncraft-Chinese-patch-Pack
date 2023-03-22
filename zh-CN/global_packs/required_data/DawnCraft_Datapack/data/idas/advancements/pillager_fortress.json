@@ -1,0 +1,34 @@
+{
+  "parent": "idas:idas_root",
+  "display": {
+    "icon": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "title": {
+      "translate": "掠夺者要塞"
+    },
+    "description": {
+      "translate": "把村庄洗劫一空"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "frame": "challenge",
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "in_pillager_fortress": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "idas:pillager_fortress"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "in_pillager_fortress"
+    ]
+  ]
+}

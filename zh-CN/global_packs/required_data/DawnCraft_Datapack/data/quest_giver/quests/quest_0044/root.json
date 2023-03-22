@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:brewing_stand",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "嘿，你能帮我弄到 $(red)5个蜘蛛眼$()吗？"
+    }
+  }
+}

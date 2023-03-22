@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:filled_map"
+    },
+    "title": "在路上",
+    "description": "找到蚀败的寺庙探险家地图",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "dungeons_arise:find_monasteries",
+  "criteria": {
+    "find_map": {
+      "trigger": "minecraft:player_generates_container_loot",
+      "conditions": {
+        "loot_table": "dungeons_arise:chests/monastery/monastery_map"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "find_map"
+    ]
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 5,
+  "icon": "minecraft:enchanted_book",
+  "start": {
+    "title": {
+      "text": "牛刀小试"
+    },
+    "description": {
+      "text": "啊，凭你现在的实力可能找不到哪些魔眼。先杀死$(red)10个掠夺者$()再回来找我吧，我会传授你在这个维度中最重要的技能。"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "reputation": 35,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "那边的冒险者！你能帮我个忙吗？"
+    }
+  }
+}

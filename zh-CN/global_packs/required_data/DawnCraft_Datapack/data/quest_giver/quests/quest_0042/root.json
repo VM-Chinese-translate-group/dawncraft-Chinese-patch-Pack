@@ -1,0 +1,12 @@
+{
+  "reputation": 2,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "你好！"
+    },
+    "description": {
+      "text": "如果你自称是一个冒险者，你必然会有一个指南针！制作一个$(red)指南针$()并把它带回来给我。"
+    }
+  }
+}

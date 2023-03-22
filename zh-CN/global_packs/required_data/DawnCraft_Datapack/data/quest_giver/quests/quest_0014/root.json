@@ -1,0 +1,12 @@
+{
+  "reputation": 5,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "欢迎！看来这是你初次探访公会。你想领取你的第一个任务吗？"
+    }
+  }
+}

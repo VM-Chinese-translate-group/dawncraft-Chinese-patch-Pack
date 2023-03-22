@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0040_02b",
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "那么？"
+    },
+    "description": {
+      "text": "所以，拿到鳞甲了？"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "感谢！"
+    },
+    "description": {
+      "text": "哇哦，原来在这。但愿这项任务没有给你留下伤疤，哈哈！这是你的奖励，我听说你们这群人相当喜欢钻石。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "alexsmobs:crocodile_scute"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:diamond"
+      },
+      "id": "quest_giver:item",
+      "times": 2
+    },
+    {
+      "command": "/addreputation reputation:village @p 3",
+      "id": "quest_giver:command"
+    }
+  ]
+}

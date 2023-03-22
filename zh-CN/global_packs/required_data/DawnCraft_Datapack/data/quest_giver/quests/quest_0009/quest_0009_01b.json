@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 14,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "获取请求"
+    },
+    "description": {
+      "text": "你能帮我找回4个鱿鱼墨囊吗？"
+    }
+  }
+}

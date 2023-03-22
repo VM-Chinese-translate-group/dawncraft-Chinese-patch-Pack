@@ -1,0 +1,12 @@
+{
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "我有一个奇怪的故事要讲……你愿意听我讲完吗，冒险者？"
+    }
+  }
+}
