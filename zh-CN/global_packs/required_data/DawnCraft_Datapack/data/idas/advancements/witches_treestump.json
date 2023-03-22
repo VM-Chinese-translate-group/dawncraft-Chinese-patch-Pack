@@ -1,0 +1,33 @@
+{
+  "parent": "idas:idas_root",
+  "display": {
+    "icon": {
+      "item": "minecraft:nether_wart"
+    },
+    "title": {
+      "translate": "女巫的树桩"
+    },
+    "description": {
+      "translate": "树林中的黑暗魔法之地"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 50
+  },
+  "criteria": {
+    "in_witches_treestump": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "idas:witches_treestump"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "in_witches_treestump"
+    ]
+  ]
+}
