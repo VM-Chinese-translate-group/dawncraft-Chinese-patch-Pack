@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "类魂系列",
+            "color": "black",
+            "bold": true
+        },
+        "description": {
+            "text": "击败女巫袭击。"
+        },
+        "icon": {
+            "item": "minecraft:stone_sword"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone_sword.png"
+    },
+    "criteria": {
+        "Start": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}
