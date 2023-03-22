@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0046_01",
+  "reputation": 15,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "讨伐"
+    },
+    "description": {
+      "text": "又见到你了。我又有一个任务要交给你——那就是消灭游荡在我们领地周围的兽人。这些类人怪物已经在各处安扎了营地。我相信你已经见过了一些。请收集至少6颗兽人的牙齿，作为凭证交给我。"
+    }
+  }
+}
