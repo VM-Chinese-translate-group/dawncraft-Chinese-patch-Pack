@@ -1,0 +1,32 @@
+{
+    "display": {
+        "title": {
+            "text": "不知……从何说起",
+            "color": "aqua"
+        },
+        "description": {
+            "text": "找到一座废弃寺庙"
+        },
+        "icon": {
+            "item": "minecraft:cracked_stone_bricks"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "location0": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_arise:abandoned_temple"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "location0"
+        ]
+    ],
+    "parent": "dungeons_arise:wda_root"
+}
