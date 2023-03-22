@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:quest_0035_02b",
+  "reputation": 35,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "熊熊烈火"
+    },
+    "description": {
+      "text": "记住，灰烬荒地位于下界。探索那里之后回来找我。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "完成"
+    },
+    "description": {
+      "text": "真是太魅人了……谢谢你告诉我有关那个地方的一切。这是你的奖励。好了，你可以先离开了……我有个重要的决定。"
+    }
+  },
+  "tasks": [
+    {
+      "id": "afptweaks:advancement",
+      "advancement": "custom:scarlet_rot"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 5
+    }
+  ]
+}
