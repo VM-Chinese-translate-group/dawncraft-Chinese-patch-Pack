@@ -119,7 +119,7 @@
   "effect.orcz.hitrunactflee": "hitrun_flee",
   "effect.orcz.posessedsquig": "Possesed by Squig",
   "item.orcz.orcleader_leather_leggings": "持锤重装兽人护腿",
-  "entity.orcz.savageorciron": "Iron orc",
+  "entity.orcz.savageorciron": "铁甲兽人",
   "item.orcz.orcsavagebig_helmet": "巨型兽人面具",
   "entity.orcz.orcsavage_2sword": "持剑野蛮兽人",
   "item.orcz.orcsavage_2swordarmour_helmet": "持剑野蛮兽人面具",
@@ -140,7 +140,7 @@
   "entity.orcz.orcsavage_2swordiron": "重装持剑兽人",
   "item.orcz.orcleader_leather_boots": "兽人首领靴子",
   "item.orcz.goblincammo_spawn_egg": "伪装哥布林刷怪蛋",
-  "subtitles.orc1sound": "Orc Noise",
+  "subtitles.orc1sound": "兽人吼叫",
   "block.orcz.orc_wood_leaves": "兽木树叶",
   "subtitles.goblin_attack": "哥布林：攻击",
   "block.orcz.scrapplatewall": "铁碎片板墙",
@@ -175,7 +175,7 @@
   "item.orcz.orcteeth_tool_axe": "兽人尖牙斧",
   "effect.orcz.enrage": "暴怒",
   "entity.orcz.goblinsavagebomb": "哥布林自爆兵",
-  "item.orcz.savageorciron_spawn_egg": "Iron orc Spawn Egg",
+  "item.orcz.savageorciron_spawn_egg": "铁甲兽人刷怪蛋",
   "item.orcz.ironshield_boots": "持锤重装兽人靴子",
   "item.orcz.heavyorchammer": "兽人重锤"
 }
