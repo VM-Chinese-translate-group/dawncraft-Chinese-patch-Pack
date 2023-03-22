@@ -1,0 +1,47 @@
+{
+  "parent": "quest_giver:quest_0008_01b",
+  "reputation": 13,
+  "icon": "minecraft:leather",
+  "start": {
+    "title": {
+      "text": "那么？"
+    },
+    "description": {
+      "text": "啥？哦，你又忘了。我是想要 $(red)4张狮子皮$()。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "感谢！"
+    },
+    "description": {
+      "text": "谢谢。交易愉快。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "untamedwilds:hide_bigcat_lion"
+      },
+      "id": "quest_giver:gift",
+      "times": 4
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/advancement grant @p only custom:trade_leatherworker",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/addreputation reputation:village @p 2",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "minecraft:arrow"
+      },
+      "id": "quest_giver:item",
+      "times": 8
+    }
+  ]
+}
