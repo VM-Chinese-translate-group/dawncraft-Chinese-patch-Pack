@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "帮个忙"
+    },
+    "description": {
+      "text": "太好了！距上次我们的猎人抓上兔子已经很久了……如果你能分我一些$(red)兔子脚$()，我将感激不尽。"
+    }
+  }
+}
