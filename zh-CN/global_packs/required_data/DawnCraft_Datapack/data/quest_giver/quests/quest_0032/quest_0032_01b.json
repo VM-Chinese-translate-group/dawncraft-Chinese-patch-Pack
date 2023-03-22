@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "举手之劳"
+    },
+    "description": {
+      "text": "你是个好人！你能不能帮我弄一把$(red)铁质小刀$()来？我的刀已经坏了……"
+    }
+  }
+}
