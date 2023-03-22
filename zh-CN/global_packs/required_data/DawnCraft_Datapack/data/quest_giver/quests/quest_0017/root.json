@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:poppy",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "你能帮我找$(red)1株灵魂草$()吗？它一般生长在下界。"
+    }
+  }
+}
