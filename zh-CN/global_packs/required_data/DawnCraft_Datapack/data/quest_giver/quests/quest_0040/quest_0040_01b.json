@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 15,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "一个不可能完成的任务！"
+    },
+    "description": {
+      "text": "你知道吗？热带草原上生活着一种叫做大象的巨型生物。我们中有些人成功驯服了它们。你觉得你能做到吗——驯服一头大象？"
+    }
+  }
+}
