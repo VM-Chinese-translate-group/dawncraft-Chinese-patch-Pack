@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 7,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "奇特的肉"
+    },
+    "description": {
+      "text": "在我们村庄通常只能打到普通的肉。我听说有一种叫做袋鼠的动物，它们的尾巴上的肉嫩而多汁。你能给我弄一块它们的肉吗？另外，如果可以的话，我也想瞧瞧它们的皮毛是什么样子。"
+    }
+  }
+}
