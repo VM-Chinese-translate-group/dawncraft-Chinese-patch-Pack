@@ -1,0 +1,44 @@
+{
+  "parent": "quest_giver:quest_0038_01b",
+  "reputation": 13,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "探索！"
+    },
+    "description": {
+      "text": "当你去过这三个生物群系之后再来：古代海沙，火山尖峰，白色台地"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "完成"
+    },
+    "description": {
+      "text": "谢谢你详细的解释。我想根据你的描述，我能够将它们画出来。来，拿着你的奖励。"
+    }
+  },
+  "tasks": [
+    {
+      "id": "afptweaks:advancement",
+      "advancement": "custom:traveller"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 6
+    },
+    {
+      "command": "/addreputation reputation:village @p 4",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/advancement grant @p only custom:trade_cartographer",
+      "id": "quest_giver:command"
+    }
+  ]
+}
