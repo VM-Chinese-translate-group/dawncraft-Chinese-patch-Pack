@@ -1,0 +1,47 @@
+{
+  "parent": "quest_giver:quest_0021_01b",
+  "reputation": 14,
+  "icon": "minecraft:heart_of_the_sea",
+  "start": {
+    "title": {
+      "text": "那么？"
+    },
+    "description": {
+      "text": "你拿到一个 $(red)海洋之心$()了吗？"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "感谢！"
+    },
+    "description": {
+      "text": "这看起来……很奇妙。但诞生于海洋的东西大多如此吧……不管怎样，非常感谢你，冒险者。这是你的奖励。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:heart_of_the_sea"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 2
+    },
+    {
+      "command": "/addreputation reputation:village @p 4",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/advancement grant @p only custom:trade_oceanographer",
+      "id": "quest_giver:command"
+    }
+  ]
+}
