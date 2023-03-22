@@ -24,7 +24,7 @@
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "A map given by the librarian to retrieve his book."
+                  "text": "图书管理员为取回他的书提供了一张地图。"
                 }
               ]
             }
