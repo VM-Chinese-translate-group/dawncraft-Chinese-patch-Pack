@@ -1,0 +1,12 @@
+{
+  "reputation": 12,
+  "icon": "minecraft:blast_furnace",
+  "start": {
+    "title": {
+      "text": "嘿，这儿！"
+    },
+    "description": {
+      "text": "你好！陌生人，能请你帮个忙吗？"
+    }
+  }
+}
