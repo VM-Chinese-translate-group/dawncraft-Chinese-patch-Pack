@@ -1,0 +1,34 @@
+{
+  "parent": "idas:idas_root",
+  "display": {
+    "icon": {
+      "item": "create:brass_ingot"
+    },
+    "title": {
+      "translate": "工匠作坊"
+    },
+    "description": {
+      "translate": "成为工匠的最新测试对象……"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "frame": "challenge",
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "in_tinkers_workshop": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "idas:tinkers_workshop"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "in_tinkers_workshop"
+    ]
+  ]
+}
