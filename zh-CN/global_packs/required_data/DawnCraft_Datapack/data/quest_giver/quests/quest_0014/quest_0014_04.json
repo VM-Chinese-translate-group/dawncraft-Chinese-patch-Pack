@@ -1,0 +1,52 @@
+{
+  "parent": "quest_giver:quest_0014_03",
+  "reputation": 10,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "寻眼之路"
+    },
+    "description": {
+      "text": "与哥布林之王相比，这只食人魔的实力不同凡响。请谨慎行事。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "寻眼之路"
+    },
+    "description": {
+      "text": "你的表现很出色。或许现在你已经有能力面对$(red)罗伯骑士$()了。尽管他已经不复之前的强大了，但他能够掌控他拥有的那只魔眼的力量，恐怕依旧是个可怖的对手。这张地图会带领你找到他。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:lost_eye"
+      },
+      "id": "quest_giver:item_pickup",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:guildmaster2",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/dc enableInvasions @p",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/pmmo admin @p add endurance level 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/pmmo admin @p add cooking level 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p AdvancedSmelting",
+      "id": "quest_giver:command"
+    }
+  ]
+}
