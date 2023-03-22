@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "我只收10个绿宝石，就能教你如何用制箭台。你感兴趣吗？"
+    }
+  }
+}
