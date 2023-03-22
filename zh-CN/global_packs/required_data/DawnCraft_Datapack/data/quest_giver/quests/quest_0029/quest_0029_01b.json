@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:iron_chestplate",
+  "start": {
+    "title": {
+      "text": "蘑菇煲！"
+    },
+    "description": {
+      "text": "多谢！我正想尝尝一碗美味的$(red)蘑菇煲$()呢。"
+    }
+  }
+}
