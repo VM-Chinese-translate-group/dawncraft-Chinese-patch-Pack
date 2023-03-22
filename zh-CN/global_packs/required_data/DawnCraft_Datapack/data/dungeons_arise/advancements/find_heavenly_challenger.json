@@ -1,0 +1,32 @@
+{
+    "display": {
+        "title": {
+            "text": "帝国进行曲",
+            "color": "gold"
+        },
+        "description": {
+            "text": "找到天堂挑战者"
+        },
+        "icon": {
+            "item": "minecraft:netherite_chestplate"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "location0": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_arise:heavenly_challenger"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "location0"
+        ]
+    ],
+    "parent": "dungeons_arise:find_heavenly_conqueror"
+}
