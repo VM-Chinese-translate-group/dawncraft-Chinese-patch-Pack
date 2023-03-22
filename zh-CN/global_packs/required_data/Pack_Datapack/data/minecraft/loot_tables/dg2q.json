@@ -24,7 +24,7 @@
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "A map given by a fallen adventurer to locate a church."
+                  "text": "由亡灵冒险家提供寻找一个教堂的地图。"
                 }
               ]
             }
