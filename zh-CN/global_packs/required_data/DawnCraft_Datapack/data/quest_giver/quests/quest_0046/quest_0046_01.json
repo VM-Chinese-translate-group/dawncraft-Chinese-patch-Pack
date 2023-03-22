@@ -1,0 +1,41 @@
+{
+  "parent": "quest_giver:quest_0046_01b",
+  "reputation": 15,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "你好"
+    },
+    "description": {
+      "text": "你似乎还没有完成你的任务，抑或是你忘了你的任务内容了？消灭$(red)两头银兽$()。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "给你。"
+    },
+    "description": {
+      "text": "你做得很好，我可以感觉到那股邪恶力量被短暂地遏制住了。 但是，他们的侵略永无止境，如果你想要另一份任务，再次与我谈话吧。"
+    }
+  },
+  "tasks": [
+    {
+      "entity": "bloodandmadness:silverbeast",
+      "id": "quest_giver:kill",
+      "times": 2
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 4
+    },
+    {
+      "command": "/addreputation reputation:village @p 2",
+      "id": "quest_giver:command"
+    }
+  ]
+}
