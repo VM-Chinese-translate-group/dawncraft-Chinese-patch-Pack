@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "请求"
+    },
+    "description": {
+      "text": "前一阵子，有个像你这样的冒险者向我寻求帮助，但我真的无能为力……不过或许你可以。给我一张纸，我给你画张地图，让你找到他的位置。"
+    }
+  }
+}
