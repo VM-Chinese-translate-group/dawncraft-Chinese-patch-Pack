@@ -1,0 +1,34 @@
+{
+	"parent": "quest_giver:quest_0014_01b",
+	"reputation": 5,
+	"icon": "minecraft:enchanted_book",
+	"start": {
+		"title": {
+			"text": "牛刀小试"
+		},
+		"description": {
+			"text": "完成任务要求后再回来——$(red)杀死10个掠夺者$()。"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "初窥门径"
+		},
+		"description": {
+			"text": "这里，打开书学习这项技能吧。如果你想获取更多的技能书，我建议你去守卫那儿接一些任务。祝你旅途愉快。"
+		}
+	},
+	"tasks": [
+		{
+			"entity": "minecraft:pillager",
+			"id": "quest_giver:kill",
+			"times": 10
+		}
+	],
+	"rewards": [
+		{
+			"command": "/give @p epicfight:skillbook{skill:\"epicfight:roll\"}",
+			"id": "quest_giver:command"
+		}
+	]
+}
