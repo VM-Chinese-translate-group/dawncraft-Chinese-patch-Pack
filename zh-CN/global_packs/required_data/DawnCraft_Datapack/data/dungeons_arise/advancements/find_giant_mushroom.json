@@ -1,0 +1,32 @@
+{
+    "display": {
+        "title": {
+            "text": "一碟秘密",
+            "color": "dark_purple"
+        },
+        "description": {
+            "text": "找到一顶巨型蘑菇屋"
+        },
+        "icon": {
+            "item": "minecraft:red_mushroom_block"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "location0": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_arise:giant_mushroom"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "location0"
+        ]
+    ],
+    "parent": "dungeons_arise:wda_root"
+}
