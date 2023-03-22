@@ -1,0 +1,32 @@
+{
+    "display": {
+        "title": {
+            "text": "毛骨悚然的爬行声",
+            "color": "dark_red"
+        },
+        "description": {
+            "text": "找到一座蚀败的寺庙"
+        },
+        "icon": {
+            "item": "minecraft:infested_stone_bricks"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "location0": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "dungeons_arise:infested_temple"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "location0"
+        ]
+    ],
+    "parent": "dungeons_arise:find_abandoned_temple"
+}
