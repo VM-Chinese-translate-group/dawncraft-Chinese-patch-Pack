@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 45,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "异域亡命之徒"
+    },
+    "description": {
+      "text": "你能帮我拿一张纸吗？我给你画一张地图。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "给你。"
+    },
+    "description": {
+      "text": "在这里，那群外国逃犯在标记的位置建了一个场所。去干掉那个头目。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "amount": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:cartographer1",
+      "id": "quest_giver:command"
+    }
+  ]
+}
