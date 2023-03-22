@@ -1,19 +1,19 @@
 {
-    "item.darkersouls.dragonslayer_swordspear": "屠龙剑矛",
-    "item.darkersouls.dragonslayer_spear": "屠龙长矛",
+    "item.darkersouls.dragonslayer_swordspear": "猎龙剑枪",
+    "item.darkersouls.dragonslayer_spear": "猎龙枪",
     "item.darkersouls.storm_curved_sword": "风暴曲剑",
-    "item.darkersouls.lightning": "闪电长矛",
+    "item.darkersouls.lightning": "雷枪",
     "item.darkersouls.crown_of_tempest": "风暴王冠",
-    "item.darkersouls.nameless_king_chestplate": "金胸甲",
+    "item.darkersouls.nameless_king_chestplate": "黄金胸甲",
     "item.darkersouls.nameless_king_leggings": "风暴礼服",
     "item.darkersouls.golden_greaves": "黄金护胫",
-    "item.darkersouls.great_belfry": "大钟",
-    "item.darkersouls.nameless_king_spawn_egg": "无名之主刷怪蛋",
-    "entity.darkersouls.nameless_king": "无名之主",
-    "entity.darkersouls.lightning_projectile": "闪电",
+    "item.darkersouls.great_belfry": "钟",
+    "item.darkersouls.nameless_king_spawn_egg": "无名王者刷怪蛋",
+    "entity.darkersouls.nameless_king": "无名王者",
+    "entity.darkersouls.lightning_projectile": "雷",
     "entity.darkersouls.wind_no_collision": "风",
     "itemGroup.darksoulsentities": "黑暗之魂-实体",
     "itemGroup.darksoulsweapons": "黑暗之魂-武器",
     "itemGroup.darksoulsarmour": "黑暗之魂-护甲",
-    "itemGroup.darksoulsmagic": "黑暗之魂-咒语"
+    "itemGroup.darksoulsmagic": "黑暗之魂-法术"
 }
