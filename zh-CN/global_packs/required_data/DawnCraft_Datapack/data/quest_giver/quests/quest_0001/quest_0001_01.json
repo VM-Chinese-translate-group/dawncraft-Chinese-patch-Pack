@@ -1,0 +1,30 @@
+{
+  "parent": "quest_giver:quest_0001_01b",
+  "reputation": 5,
+  "icon": "minecraft:iron_ingot",
+  "start": {
+    "title": {
+      "text": "给我拿点东西来！"
+    },
+    "description": {
+      "text": "嘿，那边的！你给我弄到$(red)4 个铁锭$()了吗？"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "感谢！"
+    },
+    "description": {
+      "text": "谢谢你！现在我终于能给卫兵做盔甲了……他总是催！我现在还没什么东西给你，但我发誓我之后肯定会给你的！"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:iron_ingot"
+      },
+      "id": "quest_giver:gift",
+      "times": 4
+    }
+  ]
+}
