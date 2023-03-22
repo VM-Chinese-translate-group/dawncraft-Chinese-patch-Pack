@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0014_08",
+  "reputation": 10,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "末地之路"
+    },
+    "description": {
+      "text": "火焰巨人已经从我们掌管的领域中消失了数月。幸好在他离开之前，我们取下了一缕他的头发。崇高的牧师向其中注入了魔力，理论上说，只要你在祭坛上献上这缕头发，就可以召唤出火焰巨人。如果你不慎丢失了这缕头发，可以在酿造台上用一个火药和一个基本的抗火药水合成来重新召回它。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "末地之路"
+    },
+    "description": {
+      "text": "这……实在是令人惊叹……是的，冒险者，你已经击败了所有的魔眼支配者。如果你已经集齐了12枚魔眼，那么请寻找通往末地的入口吧。愿神眷顾你。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:corrupted_eye"
+      },
+      "id": "quest_giver:item_pickup",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/addreputation reputation:village @p 10",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "simple_mobs:giant_knot"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}
