@@ -43,10 +43,6 @@
     {
       "command": "/pmmo admin @p add cooking level 1",
       "id": "quest_giver:command"
-    },
-    {
-      "command": "/gamestage add @p AdvancedSmelting",
-      "id": "quest_giver:command"
     }
   ]
 }
