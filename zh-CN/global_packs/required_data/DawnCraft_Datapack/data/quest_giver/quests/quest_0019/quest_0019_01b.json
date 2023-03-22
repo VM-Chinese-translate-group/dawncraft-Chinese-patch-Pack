@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "请求"
+    },
+    "description": {
+      "text": "我外出采矿时碰到了一个幽灵……那天晚上可真够糟糕的，到处都是各种各样的怪物，幸好这个幽灵保护着我，让我躲过了每一只怪物。我准备回村庄时，那个幽灵叫我去找其他冒险者，然后带他们去找它。"
+    }
+  }
+}
