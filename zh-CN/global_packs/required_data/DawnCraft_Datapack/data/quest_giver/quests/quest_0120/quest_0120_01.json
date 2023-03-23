@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "Dragon Heart"
+    },
+    "description": {
+      "text": "The map to the summoning podium will cost you 5 emeralds."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Nice doing business with you, friend."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 5
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:cartographer2",
+      "id": "quest_giver:command"
+    }
+  ]
+}
