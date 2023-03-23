@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0119_01b",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "Dragon Heart"
+    },
+    "description": {
+      "text": "I've seen these ice dragons once. Terrifying beings... Yet their essences are so majestically alluring. I must investigate the elements within it."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Splendid! Here are your rewards. I must now begin my research."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "simple_mobs:icedragon_heart"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "paraglider:spirit_orb"
+      },
+      "id": "quest_giver:item",
+      "times": 2
+    },
+    {
+      "command": "/advancement grant @p only custom:trade_oceanographer",
+      "id": "quest_giver:command"
+    }
+  ]
+}
