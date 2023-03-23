@@ -1,0 +1,39 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "Map to Ender Guardian"
+    },
+    "description": {
+      "text": "Nothing is free my friend. Give me 5 emeralds and I'll give you the direction to the Ender Guardian."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Very good, here you go. Remember, don't open this map until you're actually in the End. Don't say I didn't warn you."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 5
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "simple_mobs:rolled_map_3"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}
