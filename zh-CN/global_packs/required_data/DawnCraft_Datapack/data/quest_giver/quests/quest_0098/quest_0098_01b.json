@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 20,
+  "icon": "minecraft:redstone",
+  "start": {
+    "title": {
+      "text": "help"
+    },
+    "description": {
+      "text": "Thanks for listening to my request. Are you aware of the 'battle towers' in this dimension? They're everywhere around the world. I am particularly interested in the Land Towers, and the golem residing inside. The eye that the guardian drops hold tremendous kinetic energy... Do you think you can help me get one for my research?"
+    }
+  }
+}
