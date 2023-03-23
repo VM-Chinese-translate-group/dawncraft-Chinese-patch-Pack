@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 8,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "Knowledge in Forestry"
+    },
+    "description": {
+      "text": "Thanks for listening to my request. I've recently taken an interest in forestry, and thus I have been studying a lot about trees in our dimension; However it seems that there are other peculiar types of trees in other dimensions such as Everbright and Everdawn. Do you think you can help me gather a block of $(red)Dusk Leaves, Maple Leaves, and Starlight Leaves$() each for my research? "
+    }
+  }
+}
