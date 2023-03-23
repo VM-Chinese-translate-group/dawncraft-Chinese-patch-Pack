@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 5,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "A Friendly Chat"
+    },
+    "description": {
+      "text": "Did you know that you can automate certain processes such as farming or mining by using ars nouveau pixies? You can also do it with create contraptions... But you might need to talk to an engineer to learn how to use it."
+    }
+  }
+}
