@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 3,
+  "icon": "minecraft:bow",
+  "start": {
+    "title": {
+      "text": "help"
+    },
+    "description": {
+      "text": "Great! I need $(red)2 Patches of Hemlock$(). It's too toxic for most animals, but not for the vile beast that I'm hunting..."
+    }
+  }
+}
