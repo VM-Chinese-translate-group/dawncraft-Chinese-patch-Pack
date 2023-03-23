@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:cod",
+  "start": {
+    "title": {
+      "text": "Making a Fishing Rod"
+    },
+    "description": {
+      "text": "My fishing rod is almost broken... can you make me a new one? The usual crafter is out of town these days..."
+    }
+  }
+}
