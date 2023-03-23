@@ -1,0 +1,30 @@
+{
+  "parent": "quest_giver:quest_0053_01b",
+  "reputation": 0,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "Did you get the $(red)2 onions$()?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Good job, boy. Get me $(red)2 melon seeds$() as well?"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "farmersdelight:onion"
+      },
+      "id": "quest_giver:gift",
+      "times": 2
+    }
+  ]
+}
