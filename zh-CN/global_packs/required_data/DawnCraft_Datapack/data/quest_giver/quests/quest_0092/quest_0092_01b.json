@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 46,
+  "icon": "minecraft:ender_pearl",
+  "start": {
+    "title": {
+      "text": "help"
+    },
+    "description": {
+      "text": "Great! Did you know that upon defeat, the Ender Dragon will drop its egg? Basically, I would like you to let me take a look at the $(red)dragon egg$(), could you do that for me?"
+    }
+  }
+}
