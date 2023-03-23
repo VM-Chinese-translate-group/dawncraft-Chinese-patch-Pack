@@ -1,0 +1,12 @@
+{
+  "reputation": 14,
+  "icon": "minecraft:log",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "My friend, can you help me get a new axe from the toolsmith? I'll pay you back I promise!"
+    }
+  }
+}
