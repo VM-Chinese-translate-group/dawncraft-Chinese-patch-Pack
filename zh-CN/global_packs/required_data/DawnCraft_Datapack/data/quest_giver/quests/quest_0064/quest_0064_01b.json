@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 18,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "Slingshot Crafting"
+    },
+    "description": {
+      "text": "That's right - Slingshot! I have been trying to get one working, but seems I lack the craftmanship needed to create a usable replica. Can you give it a try?"
+    }
+  }
+}
