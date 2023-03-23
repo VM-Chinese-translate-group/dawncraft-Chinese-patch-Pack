@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0053_05",
+  "reputation": 0,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "Well, how presumptuous of you. I didn't mention anything about a reward, did I? Run along now, boy, before I get the guards on you."
+    }
+  }
+}
