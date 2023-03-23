@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:cod",
+  "start": {
+    "title": {
+      "text": "Boat Making"
+    },
+    "description": {
+      "text": "Great. Could you help me make a boat for fishing? Mahogany is usually the best kind of wood, but in the dimension we have the next best thing - $(red)Blighted Balsa$(). Make a boat with that and give it to me... I trust that as an adventurer you've had plenty of experience making one, right?"
+    }
+  }
+}
