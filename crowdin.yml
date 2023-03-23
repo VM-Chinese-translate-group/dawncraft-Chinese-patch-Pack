@@ -5,7 +5,6 @@ files:
     translation: '%original_path%/%original_file_name%'
   - source: /global_packs/required_resources/vm-language/assets/
     ignore:
-      - dawncraft-quest
       - netherskeletons/book
       - global_packs/required_resources/vm-language/assets/cloudstorage/book
     translation: '%original_path%/zh_cn.json'
