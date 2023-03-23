@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 50,
+  "icon": "minecraft:ender_pearl",
+  "start": {
+    "title": {
+      "text": "help"
+    },
+    "description": {
+      "text": "There's a hidden creature living in the depths of the end dimension - The Void Worm. You can summon it by throwing the larva into the depths of the end. The larva can be created by throwing crimson mosquito larva into enderiophage's capsid."
+    }
+  }
+}
