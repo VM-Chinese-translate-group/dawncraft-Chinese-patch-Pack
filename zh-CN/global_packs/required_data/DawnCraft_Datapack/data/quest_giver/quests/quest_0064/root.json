@@ -1,0 +1,12 @@
+{
+  "reputation": 18,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "Primative villagers used to use something other than bows to hunt... Can you guess what that is?"
+    }
+  }
+}
