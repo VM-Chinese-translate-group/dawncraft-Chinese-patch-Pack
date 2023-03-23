@@ -1,0 +1,12 @@
+{
+  "reputation": 4,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "I'm dying to drink a bottle of honey! Could you fetch one for me?"
+    }
+  }
+}
