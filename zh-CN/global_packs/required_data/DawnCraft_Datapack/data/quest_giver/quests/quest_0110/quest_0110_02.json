@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:quest_0110_01",
+  "reputation": 16,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "Did you exterminate the cave dweller yet? If so bring me its drops."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "It's strange to imagine a creature with natural armor this tough... Well, I'm glad its dead. Here, I'll teach you a new skill as payment - Step."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "simple_mobs:dweller_armor_fragment"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/give @p epicfight:skillbook{skill:\"epicfight:step\"}",
+      "id": "quest_giver:command"
+    }
+  ]
+}
