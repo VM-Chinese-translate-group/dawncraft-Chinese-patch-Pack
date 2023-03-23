@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 24,
+  "icon": "minecraft:leather",
+  "start": {
+    "title": {
+      "text": "help"
+    },
+    "description": {
+      "text": "I need you to collect $(red)2 pieces of black bear fur$(). Come back when you've got the goods."
+    }
+  }
+}
