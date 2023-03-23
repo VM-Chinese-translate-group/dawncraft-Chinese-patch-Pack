@@ -1,0 +1,30 @@
+{
+  "parent": "quest_giver:quest_0059_01b",
+  "reputation": 4,
+  "icon": "minecraft:cod",
+  "start": {
+    "title": {
+      "text": "Time Tracking"
+    },
+    "description": {
+      "text": "Did you get the hourglass? I don't even remember when I asked you to do it. God I need that thing. Please hurry."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Nice! Here's yo... wait, there's nothing inside. How do I use it? Hm... can you get me some $(red)redstone dust$()? So I can it in the hourglass."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "supplementaries:hourglass"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ]
+}
