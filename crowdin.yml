@@ -6,11 +6,16 @@ files:
   - source: /global_packs/required_resources/vm-language/assets/
     ignore:
       - dawncraft-quest
-      - ob
       - netherskeletons/book
       - global_packs/required_resources/vm-language/assets/cloudstorage/book
     translation: '%original_path%/zh_cn.json'
   - source: config/vaultpatcher/dawncraft_mobs-1.18-0.9.1b_beta.json
     ignore:
       - zh
+    translation: '%original_path%/%original_file_name%'
+  - source: /global_packs/required_resources/vm-language/assets/netherskeletons/book/guide_book/en_us
+    translation: global_packs/required_resources/vm-language/assets/netherskeletons/book/guide_book/zh_cn/%original_file_name%
+  - source: /global_packs/required_resources/vm-language/assets/netherskeletons/book/guide_book
+    ignore:
+      - en_us
     translation: '%original_path%/%original_file_name%'
