@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 16,
+  "icon": "minecraft:bow",
+  "start": {
+    "title": {
+      "text": "help"
+    },
+    "description": {
+      "text": "There is a $(red)Cave Dweller$() residing in a cave near us. This creature is extremely dangerous... Our clerics think that it will one day come up from below and slaughter us all... Can you exterminate this creature and bring me $(red)parts of his remain$() as proof?"
+    }
+  }
+}
