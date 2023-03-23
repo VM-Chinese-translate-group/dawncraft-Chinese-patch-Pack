@@ -6,10 +6,48 @@
 	title: "{chapter.4.title}"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [
+	images: [
 		{
 			x: -2.5d
-			y: -4.0d
+			y: -8.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "ftbteams:textures/accept.png"
+			hover: ["{chapter.4.image.1}"]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 0.5d
+			y: -8.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "ftbteams:textures/accept.png"
+			hover: ["{chapter.4.image.2}"]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 3.5d
+			y: -8.0d
+			width: 1.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "orcz:textures/aaquestionmark.png"
+			hover: ["{chapter.4.image.3}"]
+			click: ""
+			dev: false
+			corner: false
+		}
+	]
+	quests: [
+		{
+			x: 0.5d
+			y: -7.0d
 			subtitle: "{chapter.4.quest.1.subtitle}"
 			description: ["{chapter.4.quest.1.description.1}"]
 			id: "59F404BFA55005EA"
@@ -20,8 +58,8 @@
 			}]
 		}
 		{
-			x: -2.5d
-			y: -3.0d
+			x: 3.5d
+			y: -7.0d
 			subtitle: "{chapter.4.quest.2.subtitle}"
 			description: ["{chapter.4.quest.2.description.1}"]
 			id: "018956A7552CAAC3"
@@ -33,7 +71,7 @@
 		}
 		{
 			x: -2.5d
-			y: -2.0d
+			y: -4.0d
 			subtitle: "{chapter.4.quest.3.subtitle}"
 			description: ["{chapter.4.quest.3.description.1}"]
 			id: "726F1FFCA2697CF6"
@@ -45,7 +83,7 @@
 		}
 		{
 			x: -2.5d
-			y: -1.0d
+			y: -3.0d
 			subtitle: "{chapter.4.quest.4.subtitle}"
 			description: ["{chapter.4.quest.4.description.1}"]
 			id: "5540C43EFDAE8E3B"
@@ -89,6 +127,78 @@
 				id: "1E832FA7E32D60BF"
 				type: "checkmark"
 				title: "{chapter.4.quest.7.task.1.title}"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -2.0d
+			subtitle: "{chapter.4.quest.8.subtitle}"
+			description: ["{chapter.4.quest.8.description.1}"]
+			id: "08F5174D848D7DF0"
+			tasks: [{
+				id: "62A75C3AC8B180D6"
+				type: "checkmark"
+				title: "{chapter.4.quest.8.task.1.title}"
+			}]
+		}
+		{
+			x: 3.5d
+			y: -6.0d
+			subtitle: "{chapter.4.quest.9.subtitle}"
+			description: ["{chapter.4.quest.9.description.1}"]
+			id: "7644BDD80B6EDA44"
+			tasks: [{
+				id: "43CC8096AA6E2C33"
+				type: "checkmark"
+				title: "{chapter.4.quest.9.task.1.title}"
+			}]
+		}
+		{
+			x: 0.5d
+			y: -6.0d
+			subtitle: "{chapter.4.quest.10.subtitle}"
+			description: ["{chapter.4.quest.10.description.1}"]
+			id: "2294C358D1153CAE"
+			tasks: [{
+				id: "6C26B3CB7B7B5B78"
+				type: "checkmark"
+				title: "{chapter.4.quest.10.task.1.title}"
+			}]
+		}
+		{
+			x: 3.5d
+			y: -5.0d
+			subtitle: "{chapter.4.quest.11.subtitle}"
+			description: ["{chapter.4.quest.11.description.1}"]
+			id: "0E4410A648272A97"
+			tasks: [{
+				id: "79729BB3AB3E564D"
+				type: "checkmark"
+				title: "{chapter.4.quest.11.task.1.title}"
+			}]
+		}
+		{
+			x: 3.5d
+			y: -4.0d
+			subtitle: "{chapter.4.quest.12.subtitle}"
+			description: ["{chapter.4.quest.12.description.1}"]
+			id: "217D8862894AE01D"
+			tasks: [{
+				id: "4882C70BB6EEE851"
+				type: "checkmark"
+				title: "{chapter.4.quest.12.task.1.title}"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -1.0d
+			subtitle: "{chapter.4.quest.13.subtitle}"
+			description: ["{chapter.4.quest.13.description.1}"]
+			id: "10180D525A3F3D4F"
+			tasks: [{
+				id: "11DFA820F8B8E6FF"
+				type: "checkmark"
+				title: "{chapter.4.quest.13.task.1.title}"
 			}]
 		}
 	]

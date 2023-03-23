@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/execute as @p run function witch:start_witch_raid",
+      "command": "/execute as @a[distance=..5] run function witch:start_witch_raid",
       "id": "quest_giver:command"
     }
   ]

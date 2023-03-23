@@ -736,6 +736,45 @@
 				stage: "bloodborne"
 			}]
 		}
+		{
+			x: 12.0d
+			y: 4.0d
+			id: "2B02D51FD108A3AA"
+			tasks: [{
+				id: "3AF0AC838196247F"
+				type: "dimension"
+				title: "{chapter.1.quest.30.task.1.title}"
+				icon: {
+					id: "aquamirae:terrible_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				dimension: "minecraft:overworld"
+			}]
+			rewards: [
+				{
+					id: "2F070110E161B9F8"
+					type: "item"
+					auto: "invisible"
+					item: "antiqueatlas:empty_antique_atlas"
+				}
+				{
+					id: "410AA390E054E967"
+					type: "command"
+					auto: "invisible"
+					command: "/loot give @p loot minecraft:village"
+					player_command: false
+				}
+				{
+					id: "70A7F202E8A994DE"
+					type: "item"
+					auto: "invisible"
+					item: "minecraft:compass"
+				}
+			]
+		}
 	]
 	quest_links: [ ]
 }
