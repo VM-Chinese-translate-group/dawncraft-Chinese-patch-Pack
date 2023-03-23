@@ -1,0 +1,12 @@
+{
+  "reputation": 2,
+  "icon": "minecraft:white_wool",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "Hello, could you help me get 2 grown wheat from the farm for me? I need to it to breed my woollybacks."
+    }
+  }
+}
