@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "help"
+    },
+    "description": {
+      "text": "I've heard from the wandering travellers that they spotted a gigantic monster with gem spikes on its back a while ago. They say it was located in an area covered in obsidian spikes... I'm quite curious of the gems that this creature possesses. Could you fetch me a piece of paper? I'll show you where it is."
+    }
+  }
+}
