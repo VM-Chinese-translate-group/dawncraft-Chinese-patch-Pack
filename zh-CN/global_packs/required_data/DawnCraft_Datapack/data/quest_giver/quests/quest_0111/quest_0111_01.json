@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Hello again!"
+      "text": "又见面了！"
     },
     "description": {
-      "text": "Bring me a piece of paper, I'll show you where it is on the paper."
+      "text": "给我一张纸，我会在纸上标记它的位置。"
     }
   },
   "complete": {
     "title": {
-      "text": "Here."
+      "text": "给你。"
     },
     "description": {
-      "text": "Here, it's rather easy to spot once you get close. Good luck, and bring me whatever it drops."
+      "text": "在这里，一旦你接近就很容易发现它。祝你好运，把它掉下来的东西带给我。"
     }
   },
   "tasks": [
