@@ -3,10 +3,10 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "嘿！"
     },
     "description": {
-      "text": "Hello good sir! Could you help me with something?"
+      "text": "你好，先生！你能帮我做点什么吗？"
     }
   }
 }
