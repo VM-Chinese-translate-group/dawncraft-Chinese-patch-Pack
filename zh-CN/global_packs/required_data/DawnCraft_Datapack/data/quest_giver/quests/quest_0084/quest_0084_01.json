@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "Netherite Ingot"
+      "text": "下界合金锭"
     },
     "description": {
-      "text": "Do you have the $(red)netherite ingot$()?"
+      "text": "你有多余的$(red)下界合金锭$()吗？"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "谢谢！"
     },
     "description": {
-      "text": "Thanks. Here, take some emeralds."
+      "text": "谢谢。拿好这些绿宝石。"
     }
   },
   "tasks": [
