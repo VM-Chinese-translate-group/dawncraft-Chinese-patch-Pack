@@ -4,18 +4,18 @@
 	"icon": "minecraft:book",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "所以？"
 		},
 		"description": {
-			"text": "Please return to me if you can find the book."
+			"text": "如果您找到了那本书，请交还给我。"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "谢谢！"
 		},
 		"description": {
-			"text": "This book has... sentimental values. Words cannot express how grateful I am for your service. Here, take these. I've heard that adventurers use magic too, is that right?"
+			"text": "对我来说，这本书……背后所承载的东西太多太多了。多谢您的援助，我感激不尽。我听说冒险者也能施展魔法，请收下这些吧，算是我的一些心意。"
 		}
 	},
 	"tasks": [
