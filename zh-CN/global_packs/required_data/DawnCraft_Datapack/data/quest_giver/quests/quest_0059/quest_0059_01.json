@@ -4,18 +4,18 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "Time Tracking"
+      "text": "废寝忘食"
     },
     "description": {
-      "text": "Did you get the hourglass? I don't even remember when I asked you to do it. God I need that thing. Please hurry."
+      "text": "你拿到沙漏了吗？你最好早点给我，不然我可能会把这件事给忘了。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "谢谢！"
     },
     "description": {
-      "text": "Nice! Here's yo... wait, there's nothing inside. How do I use it? Hm... can you get me some $(red)redstone dust$()? So I can it in the hourglass."
+      "text": "不错！这是你的……等等，这里面怎么什么也没有。这让我怎么用呢？嗯……你能给我一些$(red)红石粉$()吗？这样我就可以把它当作沙漏的填充物了。"
     }
   },
   "tasks": [
