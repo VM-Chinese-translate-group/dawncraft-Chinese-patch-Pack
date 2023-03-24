@@ -4,18 +4,18 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "An Impossible Task!"
+      "text": "难如登天"
     },
     "description": {
-      "text": "Did you receive the blessing of the Orca already?"
+      "text": "你是否已经收到了虎鲸的祝福？"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "谢谢！"
     },
     "description": {
-      "text": "Interesting... so that's how it's done. You're a fascinating fellow. I'm glad I ran into you! Now I must go... God spede you."
+      "text": "有趣……原来是这样做的。你还真是讨人喜欢。很高兴能碰到你！但现在我得走了……愿上帝保佑你。"
     }
   },
   "tasks": [
