@@ -7,15 +7,15 @@
       "text": "Dragon Heart"
     },
     "description": {
-      "text": "The map to the summoning podium will cost you 5 emeralds."
+      "text": "一张指明召唤展台位置的地图仅售5个绿宝石。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "谢谢！"
     },
     "description": {
-      "text": "Nice doing business with you, friend."
+      "text": "很高兴与你做生意，朋友。"
     }
   },
   "tasks": [
