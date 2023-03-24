@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "所以？"
     },
     "description": {
-      "text": "Forgot already? Defeat the Ghost of Captain Cornelia with your melee. Then come to me to claim your reward."
+      "text": "就忘了你的任务了吗？用近战武器击败船长科妮莉亚亡灵。然后回来找我领取你的奖励。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "谢谢！"
     },
     "description": {
-      "text": "Mad man! You've actually done it! Here, take your reward. Heard you guys like diamonds right? Take some!"
+      "text": "太疯狂了！你真的做到了！来，拿着你的奖励。听说你们喜欢钻石，对吗？拿点吧！"
     }
   },
   "tasks": [
