@@ -3,10 +3,10 @@
   "icon": "minecraft:ender_pearl",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "嘿！"
     },
     "description": {
-      "text": "Hello adventurer, care to have a chat?"
+      "text": "你好，冒险家，想要聊聊吗？"
     }
   }
 }
