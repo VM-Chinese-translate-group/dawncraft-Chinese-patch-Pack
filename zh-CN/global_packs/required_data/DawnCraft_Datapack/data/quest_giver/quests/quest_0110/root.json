@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "嘿！"
     },
     "description": {
-      "text": "Adventurer! I have an extermination task for you."
+      "text": "冒险者！我有一个讨伐任务要交给你。"
     }
   }
 }
