@@ -4,10 +4,10 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "Advice"
+      "text": "一句建议"
     },
     "description": {
-      "text": "As an ambitious farmer, my goal in life is to be an expert in growing different vegetations! However I've only had experience with wheat and potatoes... Would you help me find some pumpkin seeds? I will begin my ambitious conquest from there!"
+      "text": "我对种植蔬菜向来充满热情，我的人生目标是成为能种植各种蔬菜的专家！然而，我只有种植小麦和马铃薯的经验……你能帮我找到一些南瓜种子吗？这将是我成为蔬菜大师征途上的第一步。"
     }
   }
 }
