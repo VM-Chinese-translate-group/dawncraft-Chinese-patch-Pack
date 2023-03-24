@@ -4,18 +4,18 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "Shear Crafting"
+      "text": "制作剪刀"
     },
     "description": {
-      "text": "Did you get the $(red)shears$()?"
+      "text": "你拿到了$(red)1把剪刀$()吗？"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "谢谢！"
     },
     "description": {
-      "text": "Thanks a lot!"
+      "text": "非常感谢！"
     }
   },
   "tasks": [
