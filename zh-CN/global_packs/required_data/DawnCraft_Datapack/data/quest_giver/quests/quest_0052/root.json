@@ -3,10 +3,10 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "嘿！"
     },
     "description": {
-      "text": "Ey fella! Give me a hand would ya?"
+      "text": "嘿，伙计！可否助我一臂之力？"
     }
   }
 }
