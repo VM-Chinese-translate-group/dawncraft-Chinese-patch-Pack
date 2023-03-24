@@ -7,15 +7,15 @@
 			"text": "所以？"
 		},
 		"description": {
-			"text": "Let me know if you could make $(red)2 loaves of bread$() for us. No rush though!"
+			"text": "如果可以的话，你能帮我们做$(red)2个面包$()吗？不过不用着急。"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "谢谢！"
 		},
 		"description": {
-			"text": "Thanks a lot! Please accept this, it's not a lot but it's all I could afford at the moment."
+			"text": "非常感谢！请收下这个，虽然不是很多，但眼下我只付得起这些。"
 		}
 	},
 	"tasks": [
