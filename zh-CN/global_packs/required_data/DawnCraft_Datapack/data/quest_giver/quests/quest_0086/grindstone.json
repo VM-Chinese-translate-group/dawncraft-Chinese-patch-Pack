@@ -4,10 +4,10 @@
   "icon": "minecraft:grindstone",
   "start": {
     "title": {
-      "text": "Unlock Grindstone"
+      "text": "解锁砂轮"
     },
     "description": {
-      "text": "That's a rather unusual request... I'll charge ya 15 emeralds for that. Is that fine?"
+      "text": "这个请求还真是非同寻常……我会向你收取15个绿宝石，可以吗？"
     }
   },
   "complete": {
