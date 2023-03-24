@@ -4,18 +4,18 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "所以？"
     },
     "description": {
-      "text": "Did you get the $(red)iron hoe$()?"
+      "text": "你带来$(red)铁锄$()了吗？"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "谢谢！"
     },
     "description": {
-      "text": "Oh you got it for us... I'm very grateful for that. I feel bad for asking for another favor... But do you think you can make $(red)2 loaves of bread$() for us? We're only good at growing and harvesting you see. You can use the wheat in our farm for that!"
+      "text": "哦，你为我们拿来了……真的很感谢你。但很抱歉可能又有一件事得麻烦你了……你能不能帮我们做$(red)2个面包$()呢？说来惭愧，我们只擅长种植和收割。你可以用我们农场里的小麦。"
     }
   },
   "tasks": [
