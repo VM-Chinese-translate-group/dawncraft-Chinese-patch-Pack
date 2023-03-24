@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "嘿！"
     },
     "description": {
-      "text": "I know of a place where adventurers go to to summon powerful being. Would you like to know where?"
+      "text": "我知道一个地方，无数冒险者试图在那唤醒强大的生物。你想知道它在哪吗？"
     }
   }
 }
