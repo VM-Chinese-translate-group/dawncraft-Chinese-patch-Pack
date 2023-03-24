@@ -4,18 +4,18 @@
 	"icon": "minecraft:leather",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "所以？"
 		},
 		"description": {
-			"text": "How goes the preparation of $(red)Honey Glaze Ham$()? "
+			"text": "$(red)蜂蜜酱火腿$()的烹饪进展如何？ "
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "谢谢！"
 		},
 		"description": {
-			"text": "That is amazing, you do have a talent for cooking. Please accept these as gratitude."
+			"text": "这真令人吃惊，你确实有烹饪的天赋。作为感谢，请收下这些。"
 		}
 	},
 	"tasks": [
