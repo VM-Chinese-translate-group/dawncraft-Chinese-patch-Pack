@@ -4,18 +4,18 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "Extermination Request"
+      "text": "清剿任务"
     },
     "description": {
-      "text": "Please finish the extermination task as soon as possible. It's affecting my lambs."
+      "text": "请尽快完成清剿任务。我的小羊羔每天晚上都担惊受怕的。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "谢谢！"
     },
     "description": {
-      "text": "Well-done. There's still a lot of them left, but I think I see less of them around now. Here's your reward."
+      "text": "做得好。虽然还有很多苦力怕，但我现在看到的数量似乎少了一些。这是你的报酬。"
     }
   },
   "tasks": [
