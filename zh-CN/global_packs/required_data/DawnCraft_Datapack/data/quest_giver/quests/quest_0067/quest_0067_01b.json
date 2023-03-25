@@ -4,10 +4,10 @@
   "icon": "minecraft:leather",
   "start": {
     "title": {
-      "text": "help"
+      "text": "求助"
     },
     "description": {
-      "text": "I need you to collect $(red)2 pieces of white bear fur$(). They might be slightly tougher than other bear types, so be careful. Come back when you've got the goods."
+      "text": "我需要你收集$(red)2张白熊毛皮$()。它们可能比其他类型的熊稍微强一些，所以要小心。拿到货后再回来。"
     }
   }
 }
