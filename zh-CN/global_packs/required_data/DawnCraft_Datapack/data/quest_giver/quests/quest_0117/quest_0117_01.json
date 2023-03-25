@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "An Offer"
+      "text": "传授剑艺"
     },
     "description": {
-      "text": "25 Emeralds, and I'll teach you how to dual wield greatswords."
+      "text": "25个绿宝石，我会教你如何双持巨剑。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "谢谢！"
     },
     "description": {
-      "text": "Nice doing business with you. Be careful not to break your back though."
+      "text": "很高兴能和你切磋剑术。好好练习，但是劳逸结合，别把自己累垮了。"
     }
   },
   "tasks": [
