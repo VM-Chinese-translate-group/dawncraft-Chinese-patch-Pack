@@ -3,10 +3,10 @@
   "icon": "minecraft:bow",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "嗨！"
     },
     "description": {
-      "text": "Can you help me gather ingredients for animal lure?"
+      "text": "你能帮我收集制作动物诱饵的材料吗？"
     }
   }
 }
