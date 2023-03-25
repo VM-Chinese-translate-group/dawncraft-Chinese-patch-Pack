@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Dragon Heart"
+      "text": "冰龙之心"
     },
     "description": {
-      "text": "I've seen these ice dragons once. Terrifying beings... Yet their essences are so majestically alluring. I must investigate the elements within it."
+      "text": "我曾经见过来自传说的生物——冰龙。潜藏在那令人胆寒的鳞爪下的，是扣人心弦的神秘与庄严。我下定决心要探寻冰龙力量的奥秘。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "谢谢！"
     },
     "description": {
-      "text": "Splendid! Here are your rewards. I must now begin my research."
+      "text": "出色！这是你的奖励。我现在必须开始研究。"
     }
   },
   "tasks": [
