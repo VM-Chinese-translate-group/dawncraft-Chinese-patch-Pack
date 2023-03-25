@@ -4,18 +4,18 @@
 	"icon": "minecraft:stone",
 	"start": {
 		"title": {
-			"text": "Stones from Another Dimension"
+			"text": "异界之石Ⅲ"
 		},
 		"description": {
-			"text": "Got the $(red)turquoise stone$() yet? You can find them in the Everbright dimension."
+			"text": "你拿到$(red)绿松石$()了吗？你可以在永昼之地找到它们。"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "谢谢！"
 		},
 		"description": {
-			"text": "hm... the quality is... not bad. I'll put it to good use, thanks!"
+			"text": "嗯……这个品质……还行吧。我会好好利用它的，谢谢。"
 		}
 	},
 	"tasks": [
