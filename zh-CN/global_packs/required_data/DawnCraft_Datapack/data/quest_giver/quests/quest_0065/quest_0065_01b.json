@@ -4,10 +4,10 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "Tipped Arrows"
+      "text": "药箭"
     },
     "description": {
-      "text": "I'm trying to make tipped arrows. Can you get me a dozen glowstone dust?"
+      "text": "我在尝试制作药箭。你能给我拿十二个萤石粉吗？"
     }
   }
 }
