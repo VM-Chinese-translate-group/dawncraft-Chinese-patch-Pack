@@ -3,10 +3,10 @@
   "icon": "minecraft:log",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "嗨！"
     },
     "description": {
-      "text": "Hey boy, can you get me a piece of $(red)Frostbright Log$()? It can be found in the Everbright dimension."
+      "text": "嘿，孩子，你能给我一块$(red)霜耀原木$()吗？它可以在永昼之地维度中找到。"
     }
   }
 }
