@@ -4,18 +4,18 @@
   "icon": "minecraft:bow",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "所以？"
     },
     "description": {
-      "text": "Did you get $(red)16 arrows$() from the fletcher? I'll pay you back for it."
+      "text": "你从制箭师那里拿到了$(red)16支箭$()吗？我会支付费用的。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "谢谢！"
     },
     "description": {
-      "text": "Thanks, you're a life saver! I'm not good with the local fletcher so it was a bit awkward to ask..."
+      "text": "谢谢，你是我的救命恩人！我和当地的制箭师关系不好，所以问起来有点尴尬……"
     }
   },
   "tasks": [
