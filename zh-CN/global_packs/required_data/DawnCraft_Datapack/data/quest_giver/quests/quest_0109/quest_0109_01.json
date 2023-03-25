@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Hello again!"
+      "text": "又见面了！"
     },
     "description": {
-      "text": "If you're ready to save the kid. Give me a piece of paper, I'll draw you a map."
+      "text": "如果你准备好了要救这个孩子。给我一张纸，我给你画张地图。"
     }
   },
   "complete": {
