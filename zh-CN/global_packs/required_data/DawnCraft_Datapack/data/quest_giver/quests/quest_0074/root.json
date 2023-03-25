@@ -3,10 +3,10 @@
   "icon": "minecraft:book",
   "start": {
     "title": {
-      "text": "Hey!"
+      "text": "嗨！"
     },
     "description": {
-      "text": "Hello adventurer, can you help me with something?"
+      "text": "你好冒险者，能帮我个忙吗？"
     }
   }
 }
