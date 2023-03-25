@@ -4,18 +4,18 @@
   "icon": "minecraft:ender_pearl",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "所以？"
     },
     "description": {
-      "text": "Please let me take a look once you've obtained the $(red)dragon egg$(), it has always been my dream to see one."
+      "text": "如果你获得了$(red)龙蛋$()，请让我看一看，看到一个龙蛋一直是我的梦想。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "谢谢！"
     },
     "description": {
-      "text": "So this is how it looks like... Did you know that you can place the dragon egg and it'll hatch a new dragon? Here, I'll teach you how to tame it: Just feed it as much fish as you can... Simple right?"
+      "text": "所以这就是它的样子……你知道吗，你可以把龙蛋放在那里，它就会孵化出一条新龙？这里，我将教你如何驯服它：只要给它喂尽可能多的鱼就可以了……很简单吧？"
     }
   },
   "tasks": [
