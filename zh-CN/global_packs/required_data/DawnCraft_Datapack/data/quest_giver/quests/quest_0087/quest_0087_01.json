@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "A Cooking Job"
+      "text": "烹饪工作"
     },
     "description": {
-      "text": "Could you cook me a dish called \"$(red)Pasta with Mutton Chop$()\"?"
+      "text": "你能为我做一道名叫“$(red)羊排意面$()”的菜吗？"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "谢谢！"
     },
     "description": {
-      "text": "mmhm! That looks amazing, I'll save it for later. Thanks."
+      "text": "嗯！这看起来让人食欲大开，我会留着慢慢享用的。谢谢你。"
     }
   },
   "tasks": [
