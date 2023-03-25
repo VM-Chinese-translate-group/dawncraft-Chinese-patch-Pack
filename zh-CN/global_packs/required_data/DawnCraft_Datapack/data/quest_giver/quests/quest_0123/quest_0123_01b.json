@@ -4,8 +4,8 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Sculk"
+      "text": "幽匿"
     },
-    "description": "While I was out mining, I found something strange deep under the deepslates. Infested spores and sharp shrieking sounds surrounded the area. I heard from other miners that these infestations are called $(red)sculks$(), and that I was lucky to make it out alive... However, I am fascinated by the shrieking sounds and infestations. Would it be possible for you to get me one of those $(red)sculk shriekers$() from the Deep Dark?"
+    "description": "我在深板岩层采矿时，发现了一片像是被感染的可怕区域。苍黑色的脉络爬满墙壁，刺耳的尖啸声不绝于耳。我听说这种区域的感染物统称为$(red)幽匿方块$()。我能活着离开真是太好了......但是，我对那些尖啸声和感染物非常感兴趣。你能否前往深暗之域为我带来1个$(red)幽匿尖啸体$()呢？"
   }
 }
