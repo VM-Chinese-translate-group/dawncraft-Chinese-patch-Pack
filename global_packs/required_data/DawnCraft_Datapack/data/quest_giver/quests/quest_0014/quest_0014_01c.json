@@ -1,0 +1,36 @@
+{
+	"parent": "quest_giver:quest_0014_01b",
+	"reputation": 5,
+	"icon": "minecraft:crossbow",
+	"start": {
+		"title": {
+			"text": "Finding Pillagers"
+		},
+		"description": {
+			"text": "Thought you were an adventurer... Fine. Fetch me a piece of paper. I'll show you the whereabouts of the closest pillager camp we know of."
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "Map Fetched"
+		},
+		"description": {
+			"text": "Here you go. You may find pillagers somewhere closer though. Those buggers are infested everywhere."
+		}
+	},
+	"tasks": [
+        {
+          "item": {
+             "item": "minecraft:paper"
+           },
+           "id": "quest_giver:gift",
+           "times": 1
+    	  }
+	],
+	"rewards": [
+    {
+      "command": "/loot give @p loot minecraft:pillager1",
+      "id": "quest_giver:command"
+    }
+]
+}
