@@ -1,0 +1,12 @@
+{
+  "reputation": 20,
+  "icon": "minecraft:redstone",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "你好冒险者，能帮我个忙吗？"
+    }
+  }
+}

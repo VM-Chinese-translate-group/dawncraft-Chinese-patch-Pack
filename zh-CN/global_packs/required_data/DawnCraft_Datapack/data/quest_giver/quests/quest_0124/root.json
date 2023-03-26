@@ -1,0 +1,12 @@
+{
+  "reputation": 2,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "你好！"
+    },
+    "description": {
+      "text": "我的伙计。这个地方无聊死了……想聊一会儿吗？这会对你有好处的。"
+    }
+  }
+}

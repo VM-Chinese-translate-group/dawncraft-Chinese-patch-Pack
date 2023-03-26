@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "制箭大师"
+    },
+    "description": {
+      "text": "你知道云杉木是制作箭柄的最佳材料吗？无论如何，你能给我拿一些云杉木原木吗？我至少需要四块。"
+    }
+  }
+}

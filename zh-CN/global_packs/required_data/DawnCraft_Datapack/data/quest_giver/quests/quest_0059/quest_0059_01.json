@@ -1,0 +1,30 @@
+{
+  "parent": "quest_giver:quest_0059_01b",
+  "reputation": 4,
+  "icon": "minecraft:cod",
+  "start": {
+    "title": {
+      "text": "废寝忘食"
+    },
+    "description": {
+      "text": "你拿到沙漏了吗？你最好早点给我，不然我可能会把这件事给忘了。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "不错！这是你的……等等，这里面怎么什么也没有。这让我怎么用呢？嗯……你能给我一些$(red)红石粉$()吗？这样我就可以把它当作沙漏的填充物了。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "supplementaries:hourglass"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "reputation": 4,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "嗨！"
+    },
+    "description": {
+      "text": "嘿，冒险者，看起来你似乎身经百战啊，哈哈！开玩笑的，你能帮我个忙吗？"
+    }
+  }
+}

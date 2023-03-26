@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 5,
+  "icon": "minecraft:iron_axe",
+  "start": {
+    "title": {
+      "text": "燃尽之焰"
+    },
+    "description": {
+      "text": "你听说过传说中的生物——焰魔吗？听说它比火焰巨人更加强大。如果你想召唤它，你需要在下界获得一些特定的材料。我可以告诉你这些材料在哪里找到……不过你需要给我点好处。准确地说，是 4 颗绿宝石。"
+    }
+  }
+}

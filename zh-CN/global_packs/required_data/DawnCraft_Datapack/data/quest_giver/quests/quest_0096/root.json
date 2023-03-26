@@ -1,0 +1,12 @@
+{
+  "reputation": 6,
+  "icon": "minecraft:redstone",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "你能给我$(red)10个红石粉()吗？当然，我会付钱的。"
+    }
+  }
+}

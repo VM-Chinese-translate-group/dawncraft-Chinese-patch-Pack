@@ -1,0 +1,12 @@
+{
+  "reputation": 13,
+  "icon": "minecraft:iron_axe",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "嘿，旅行者，我听说你很擅长寻回失物！能帮我个忙吗？"
+    }
+  }
+}

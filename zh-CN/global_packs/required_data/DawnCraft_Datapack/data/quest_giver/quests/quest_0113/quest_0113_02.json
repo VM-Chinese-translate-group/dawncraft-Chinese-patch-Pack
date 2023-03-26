@@ -1,0 +1,30 @@
+{
+  "parent": "quest_giver:quest_0113_01",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "又见面了！"
+    },
+    "description": {
+      "text": "你拿到了$(red)宝石$()吗？你可能要消灭这个生物才能得到它。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "这儿。"
+    },
+    "description": {
+      "text": "哇……这真是令人惊讶。这简直是……异乎寻常。我需要一些时间来研究这个。你能给我带一根木棍吗？我想我也许能给你做一些特别的东西。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "simple_mobs:gem_item"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ]
+}

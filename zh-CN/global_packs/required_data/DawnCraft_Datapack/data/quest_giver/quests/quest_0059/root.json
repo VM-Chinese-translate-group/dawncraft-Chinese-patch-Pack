@@ -1,0 +1,12 @@
+{
+  "reputation": 4,
+  "icon": "minecraft:cod",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "每次我去钓鱼总是太过入迷以至于忘了时间……所以我的朋友，你能帮我个忙吗？"
+    }
+  }
+}

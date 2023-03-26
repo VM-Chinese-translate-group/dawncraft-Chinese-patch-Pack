@@ -1,0 +1,12 @@
+{
+  "reputation": 4,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "嗨！"
+    },
+    "description": {
+      "text": "我很想喝一瓶蜂蜜！你能拿一瓶给我吗？"
+    }
+  }
+}

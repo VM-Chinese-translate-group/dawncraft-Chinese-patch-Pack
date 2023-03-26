@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 13,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "求助"
+    },
+    "description": {
+      "text": "有一个吃人的$(red)巨人$()住在我们附近。一些村民和守卫已经葬送于它的口中。守卫们，包括我在内，都被它巨大的体型所吓倒。但据我们所知，它的实力并不强劲，脑袋也不是很灵光。我相信你能够对付它。"
+    }
+  }
+}

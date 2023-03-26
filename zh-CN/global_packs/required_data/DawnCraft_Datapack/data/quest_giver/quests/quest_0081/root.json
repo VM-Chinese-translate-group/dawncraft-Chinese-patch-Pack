@@ -1,0 +1,12 @@
+{
+  "reputation": 2,
+  "icon": "minecraft:white_wool",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "你好，能否帮我从农场取两株成熟的小麦？我需要用它来繁殖我的羊。"
+    }
+  }
+}

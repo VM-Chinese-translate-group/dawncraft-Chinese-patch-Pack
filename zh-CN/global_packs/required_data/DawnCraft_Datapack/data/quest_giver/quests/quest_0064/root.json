@@ -1,0 +1,12 @@
+{
+  "reputation": 18,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "嗨！"
+    },
+    "description": {
+      "text": "过去的村民打猎时往往用的不是弓…… 你能猜到他们用的是什么吗？"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+<NEWLINE>
+<NEWLINE>
+<NEWLINE>
+<NEWLINE>
+A Badloon is a balloon... turned bad. Whether they became evil due to a curse or they were inflated that way is unknown.
+<NEWLINE>
+Badloons are hostile mobs that can be found at or above cloud height in all biomes.
+<NEWLINE>
+Perhaps one of the reasons they are so hostile is due to their fragility - a Badloon only has one heart of health and can be instantly popped by any kind of projectile.
+This fear of being popped also explains their complete fear of cacti.
+But Badloons have tricks up their single glove when it comes to combat - If there are other mobs nearby, they can pick them up and drop them near targets, making combat difficult.
+To make matters worse, any dropped creepers will instantly explode. It's probably best to target Badloons first if there are any other monsters around.
+<NEWLINE>
+If popped, Badloons may drop up to two Balloon Pieces. These pieces are a crafting ingredient for Balloons, but can also be used to make a copy of this book, if lost, by placing it in a crafting table with a book and a Cloud Block.

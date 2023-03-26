@@ -1,0 +1,30 @@
+{
+  "parent": "quest_giver:quest_0053_03",
+  "reputation": 0,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "所以？"
+    },
+    "description": {
+      "text": "你好，你拿来$(red) 2棵甜菜根$()了吗？"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "谢谢。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:beetroot"
+      },
+      "id": "quest_giver:gift",
+      "times": 2
+    }
+  ]
+}
