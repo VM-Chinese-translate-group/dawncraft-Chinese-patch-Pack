@@ -1,0 +1,12 @@
+{
+  "reputation": 7,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "嗨！"
+    },
+    "description": {
+      "text": "能帮个忙吗，兄弟？"
+    }
+  }
+}

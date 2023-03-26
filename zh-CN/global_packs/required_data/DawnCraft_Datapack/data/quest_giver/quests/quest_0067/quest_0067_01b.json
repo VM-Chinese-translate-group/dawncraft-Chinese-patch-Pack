@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 24,
+  "icon": "minecraft:leather",
+  "start": {
+    "title": {
+      "text": "求助"
+    },
+    "description": {
+      "text": "我需要你收集$(red)2张白熊毛皮$()。它们可能比其他类型的熊稍微强一些，所以要小心。拿到货后再回来。"
+    }
+  }
+}

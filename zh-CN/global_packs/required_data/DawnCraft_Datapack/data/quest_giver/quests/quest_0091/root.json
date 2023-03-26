@@ -1,0 +1,12 @@
+{
+  "reputation": 46,
+  "icon": "minecraft:ender_pearl",
+  "start": {
+    "title": {
+      "text": "嗨！"
+    },
+    "description": {
+      "text": "你好冒险家……当你打败了末影龙，你能为我做件事吗？"
+    }
+  }
+}

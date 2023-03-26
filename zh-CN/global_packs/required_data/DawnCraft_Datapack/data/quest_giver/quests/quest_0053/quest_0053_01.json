@@ -1,0 +1,30 @@
+{
+  "parent": "quest_giver:quest_0053_01b",
+  "reputation": 0,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "所以？"
+    },
+    "description": {
+      "text": "你拿到了$(red)2棵洋葱$()吗？"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "干得不错，孩子。能再给我$(red)2粒西瓜种子$()吗？"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "farmersdelight:onion"
+      },
+      "id": "quest_giver:gift",
+      "times": 2
+    }
+  ]
+}

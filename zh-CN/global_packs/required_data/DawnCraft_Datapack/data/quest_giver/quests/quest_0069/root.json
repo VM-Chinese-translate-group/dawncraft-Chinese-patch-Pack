@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:leather",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "冒险者，有一个小任务给你，如果你准备好了的话。"
+    }
+  }
+}

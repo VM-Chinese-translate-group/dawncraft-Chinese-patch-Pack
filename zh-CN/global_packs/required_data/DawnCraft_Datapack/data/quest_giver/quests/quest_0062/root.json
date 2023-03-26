@@ -1,0 +1,12 @@
+{
+  "reputation": 12,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "我听说沙漠生物群系中有一种陆地鸟，它的羽毛非常适合制作箭羽。你觉得你能打到两只并带回它们的羽毛吗？"
+    }
+  }
+}

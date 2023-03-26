@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:quest_0110_01",
+  "reputation": 16,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "所以？"
+    },
+    "description": {
+      "text": "你消灭了洞穴栖兽了吗？如果是的话，请把它的掉落物带给我。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "很难想象有一种生物有着如此坚韧的天然装甲……不过，它已经死了，这让我感到欣慰。作为报酬，我将教你一项新技能——跨步，希望你能从中受益。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "simple_mobs:dweller_armor_fragment"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/give @p epicfight:skillbook{skill:\"epicfight:step\"}",
+      "id": "quest_giver:command"
+    }
+  ]
+}

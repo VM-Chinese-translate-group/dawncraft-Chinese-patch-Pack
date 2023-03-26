@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 20,
+  "icon": "minecraft:redstone",
+  "start": {
+    "title": {
+      "text": "求助"
+    },
+    "description": {
+      "text": "感谢您驻足留听。您是否知道这个维度中遍布的“战斗高塔”？我特别感兴趣的是大地战斗高塔和其中的守卫者。守卫者掉落的大地守卫之眼蕴含丰沛的动能……您可否帮我获取一个让我进行研究呢？"
+    }
+  }
+}

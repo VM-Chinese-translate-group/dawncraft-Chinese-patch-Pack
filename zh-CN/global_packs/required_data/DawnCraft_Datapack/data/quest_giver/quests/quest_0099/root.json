@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:poppy",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "如果你遇到了$(red)玫瑰海葵$()，能给我带一个吗？"
+    }
+  }
+}

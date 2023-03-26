@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 7,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "药箭"
+    },
+    "description": {
+      "text": "我在尝试制作药箭。你能给我拿十二个萤石粉吗？"
+    }
+  }
+}

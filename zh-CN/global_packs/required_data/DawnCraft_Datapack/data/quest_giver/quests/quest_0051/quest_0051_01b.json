@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "一句建议"
+    },
+    "description": {
+      "text": "我对种植蔬菜向来充满热情，我的人生目标是成为能种植各种蔬菜的专家！然而，我只有种植小麦和马铃薯的经验……你能帮我找到一些南瓜种子吗？这将是我成为蔬菜大师征途上的第一步。"
+    }
+  }
+}

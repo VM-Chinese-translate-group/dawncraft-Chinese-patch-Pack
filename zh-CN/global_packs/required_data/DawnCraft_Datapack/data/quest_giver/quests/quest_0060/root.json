@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:cod",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "你会造船吗？算了，不管你会不会，能不能给我搭把手？"
+    }
+  }
+}

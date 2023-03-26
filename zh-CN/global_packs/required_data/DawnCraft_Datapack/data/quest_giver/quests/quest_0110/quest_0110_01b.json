@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 16,
+  "icon": "minecraft:bow",
+  "start": {
+    "title": {
+      "text": "求助"
+    },
+    "description": {
+      "text": "有一只$(red)洞穴栖兽$()盘踞在附近的洞穴中。这只怪物极其危险……我们的牧师预言，有一天它会从洞穴中重见天日，将我们屠戮殆尽……你能消灭这只怪物并把$(red)它的遗骸$()作为证明带给我吗？"
+    }
+  }
+}

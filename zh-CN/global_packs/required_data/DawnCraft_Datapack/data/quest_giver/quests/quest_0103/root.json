@@ -1,0 +1,12 @@
+{
+  "reputation": 3,
+  "icon": "minecraft:bow",
+  "start": {
+    "title": {
+      "text": "嗨！"
+    },
+    "description": {
+      "text": "你能帮我收集制作动物诱饵的材料吗？"
+    }
+  }
+}

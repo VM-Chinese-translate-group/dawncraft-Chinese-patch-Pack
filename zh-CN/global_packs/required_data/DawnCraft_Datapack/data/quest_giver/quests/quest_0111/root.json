@@ -1,0 +1,12 @@
+{
+  "reputation": 13,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "冒险者……这有份清剿任务不知你可感兴趣？"
+    }
+  }
+}
