@@ -101,7 +101,7 @@
 	
 	"entity.dawncraft.fallen": "Fallen Adventurer",
 	
-	"message.dawncraft.invasions_enabled_0": "Several anachronisms have been detected prepare for imminent invasion...",
+	"message.dawncraft.invasions_enabled_0": "Several anachronisms have been detected, prepare for imminent invasion...",
 	"message.dawncraft.invasions_enabled_1": "First invasion in %1$s seconds.",
 	"message.dawncraft.invasion": "You are being invaded by %1$s",
 	"message.dawncraft.spawn_npc": "Succesfully spawned NPC %1$s at %2$s",
@@ -159,6 +159,7 @@
 	"effect.dawncraft.immobilized": "Immobilized",
 	"effect.dawncraft.tremor": "Tremor",
 	"effect.dawncraft.frogform": "Frogform",
+	"effect.dawncraft.fractured_soul": "Fractured Soul",
 	
 	"text.dawncraft.quest.no_text": "Missing text for quest. %1$s",
 	"text.dawncraft.quest.lorem_ipsum": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus pharetra imperdiet. Vivamus porttitor magna eget lobortis faucibus. Pellentesque et dignissim dolor. Quisque congue pharetra nibh non consequat. Maecenas risus nisi, cursus in sem ut, pulvinar commodo nisi. Nam at euismod eros, sagittis mollis sem. Etiam vitae nibh sapien. Maecenas non magna neque. Pellentesque aliquet erat ac dolor interdum rutrum. Nullam volutpat tellus erat, ac fermentum velit auctor in. Ut non est semper, volutpat ex in, semper justo. Praesent pellentesque quam a sapien interdum faucibus. Nulla eu diam ac ligula pulvinar rhoncus. Morbi pellentesque aliquet efficitur. Mauris eleifend luctus finibus. Morbi eu iaculis turpis. Duis mauris ex, condimentum tincidunt diam ac, facilisis sodales libero. Donec sagittis mauris ligula, at porttitor dolor bibendum eget. Duis ut finibus justo, nec consequat orci. Morbi ornare suscipit mattis. Suspendisse quis mauris odio. Pellentesque tempor non lorem accumsan tincidunt. Vestibulum ultricies ex at metus laoreet interdum. Nullam ornare ultricies metus in condimentum. Nulla sit amet nisl vehicula, dignissim dolor vitae, malesuada leo. Quisque id accumsan libero.",
