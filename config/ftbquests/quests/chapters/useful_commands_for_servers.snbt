@@ -59,7 +59,7 @@
 		}
 		{
 			x: 3.5d
-			y: -7.0d
+			y: -3.0d
 			subtitle: "{chapter.4.quest.2.subtitle}"
 			description: ["{chapter.4.quest.2.description.1}"]
 			id: "018956A7552CAAC3"
@@ -199,6 +199,18 @@
 				id: "11DFA820F8B8E6FF"
 				type: "checkmark"
 				title: "{chapter.4.quest.13.task.1.title}"
+			}]
+		}
+		{
+			x: 3.5d
+			y: -7.0d
+			subtitle: "{chapter.4.quest.14.subtitle}"
+			description: ["{chapter.4.quest.14.description.1}"]
+			id: "2E679597791BF6B8"
+			tasks: [{
+				id: "68056F1A3F76B35D"
+				type: "checkmark"
+				title: "{chapter.4.quest.14.task.1.title}"
 			}]
 		}
 	]

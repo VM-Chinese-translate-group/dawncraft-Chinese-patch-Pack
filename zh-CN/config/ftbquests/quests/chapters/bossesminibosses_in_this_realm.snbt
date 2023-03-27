@@ -487,7 +487,7 @@
 				type: "kill"
 				title: "{chapter.3.quest.29.task.1.title}"
 				icon: "alexsmobs:mysterious_worm"
-				entity: "alexsmobs:void_worm_part"
+				entity: "alexsmobs:void_worm"
 				value: 1L
 			}]
 		}

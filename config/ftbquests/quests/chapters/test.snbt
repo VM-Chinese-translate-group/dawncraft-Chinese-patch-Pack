@@ -775,6 +775,452 @@
 				}
 			]
 		}
+		{
+			x: 12.0d
+			y: 5.5d
+			id: "048B6030D1921527"
+			tasks: [{
+				id: "2CCD9E4C9328E9A7"
+				type: "stat"
+				stat: "minecraft:deaths"
+				value: 1
+			}]
+			rewards: [{
+				id: "7B9F61F2A4765018"
+				type: "command"
+				auto: "invisible"
+				command: "/tellraw @p [\"\",{\"text\":\"That was your first \"},{\"text\":\"death\",\"bold\":true,\"color\":\"red\"},{\"text\":\". Although most of your inventory items will stay with you, some of your valuable items may be lost in your corpse, which decomposes after 10 minutes. On top of that, some of your item durability and experience points have been depreciated as well. You can check where your corpse is by pressing \\\"\"},{\"text\":\"I\",\"bold\":true},{\"text\":\"\\\".\\n\\nAccumulated deaths in short periods of time will cause higher level of \\\"\"},{\"text\":\"Fractured Soul\",\"bold\":true,\"color\":\"light_purple\"},{\"text\":\"\\\", which increases durability and experience loss even further.\"}]"
+				player_command: false
+			}]
+		}
+		{
+			x: 12.0d
+			y: 7.5d
+			id: "40DEC3869B853D55"
+			tasks: [{
+				id: "3D654E72296C11BF"
+				type: "advancement"
+				advancement: "simple_mobs:notorious"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "0206FC6701ED673E"
+				type: "command"
+				auto: "invisible"
+				command: "/tellraw @p [\"\",{\"text\":\"It seems your reputation is \"},{\"text\":\"bad \",\"color\":\"red\"},{\"text\":\"among villagers. Villagers will now stop trading with you. If your reputation drops even further, guards and iron golems may start attacking you. You can improve your reputation by handing in a \"},{\"text\":\"bundled currency \",\"color\":\"green\"},{\"text\":\"into the ledger chests inside guild houses or stalls.\"}]"
+				player_command: false
+			}]
+		}
+		{
+			x: 9.5d
+			y: 8.5d
+			id: "61DF58857E2B4D85"
+			tasks: [{
+				id: "62D2EC8316D11D3C"
+				type: "stat"
+				stat: "minecraft:target_hit"
+				value: 1
+			}]
+		}
+		{
+			x: 12.0d
+			y: 9.5d
+			id: "01E76C073D0AAA07"
+			tasks: [{
+				id: "6BA0AF1B0555443C"
+				type: "stat"
+				stat: "minecraft:damage_dealt"
+				value: 50
+			}]
+			rewards: [{
+				id: "707451785BD080B1"
+				type: "command"
+				auto: "invisible"
+				command: "/tellraw @p [\"\",{\"text\":\"You can press \"},{\"text\":\"\\\"R\\\"\",\"bold\":true,\"color\":\"green\"},{\"text\":\" to Enter Combat Stance. Damage dealt in regular stance deals \"},{\"text\":\"half\",\"bold\":true,\"color\":\"red\"},{\"text\":\" as much damage as you would in combat stance. \"}]"
+				player_command: false
+			}]
+		}
+		{
+			x: 10.0d
+			y: 10.5d
+			id: "78B3C3E4FD02F790"
+			tasks: [{
+				id: "27DD3398E5B4FB26"
+				type: "advancement"
+				advancement: "minecraft:story/form_obsidian"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "23A84067614F3CE4"
+				type: "command"
+				auto: "invisible"
+				command: "/tellraw @p [\"\",{\"text\":\"It seems you have found the means to travel to \"},{\"text\":\"the Nether\",\"bold\":true,\"color\":\"red\"},{\"text\":\". This will bring chaos to not only you, but to the \"},{\"text\":\"entire realm\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\". Once you enter, it cannot be undone. Make sure you have the resolve to move forward before stepping in the portal.\"}]"
+				player_command: false
+			}]
+		}
+		{
+			x: 8.0d
+			y: 9.5d
+			id: "51C591B72D064DF6"
+			tasks: [{
+				id: "1BB39A93534297E1"
+				type: "advancement"
+				advancement: "custom:horse_taming"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "3542688F80E1C6D8"
+				type: "command"
+				auto: "invisible"
+				command: "/tellraw @p {\"text\":\"Congratulations on taming your first horse! You can now set it to your personal horse (Press \\\"J\\\"), and call your horse from anywhere in the realm (Press \\\"H).\"}"
+				player_command: false
+			}]
+		}
+		{
+			x: 5.5d
+			y: 10.5d
+			id: "01FEFFDF4C5C351F"
+			tasks: [{
+				id: "7F551EDDDAA433AB"
+				type: "item"
+				item: {
+					id: "epicfight:skillbook"
+					Count: 1b
+					tag: {
+						skill: "epicfight:stamina_pillager"
+					}
+				}
+				consume_items: false
+				only_from_crafting: false
+			}]
+			rewards: [{
+				id: "152C911A2EDB4822"
+				type: "command"
+				auto: "invisible"
+				command: "/tellraw @p {\"text\":\"Congratulations on obtaining your first skill! You can now see a list of skills you've acquired, and change the specific skills you want to equip (Press \\\"K\\\").\"}"
+				player_command: false
+			}]
+		}
+		{
+			x: 12.0d
+			y: 11.5d
+			id: "4B8C2FA15D33F227"
+			tasks: [{
+				id: "20823B8E47A05413"
+				type: "structure"
+				structure: "#custom:village"
+			}]
+			rewards: [{
+				id: "7B0591F07EC96892"
+				type: "command"
+				auto: "invisible"
+				command: "/tellraw @p [\"\",{\"text\":\"Seems you've found a village! You can interact with villagers who have exclamation marks above their head. Some of them provide \"},{\"text\":\"knowledge \",\"bold\":true,\"color\":\"green\"},{\"text\":\"required to work with certain blocks such as Loom, Fletching Table, etc... But for most of the useful blocks, such as Anvil, Enchanting Table, Smithing Table, etc... You will want to learn it from the \"},{\"text\":\"Guild Master\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\". Find villagers wearing blue robe and start your journey!\"}]"
+				player_command: false
+			}]
+		}
+		{
+			x: 9.0d
+			y: 12.0d
+			id: "7421B261F576DF4A"
+			tasks: [{
+				id: "0A5CCAED8472C7E3"
+				type: "item"
+				item: "quest_giver:trading_contract_armorer"
+				consume_items: false
+				only_from_crafting: false
+			}]
+			rewards: [{
+				id: "1B107E6CEF7E7346"
+				type: "command"
+				auto: "invisible"
+				command: "/tellraw @p [\"\",{\"text\":\"Seems you've obtained a trading scroll! Note that trade prices are absurdly \"},{\"text\":\"high \",\"bold\":true,\"color\":\"red\"},{\"text\":\"when you are have neutral reputation. Once villagers start to like you, you will see the trade prices drop \"},{\"text\":\"tremendously\",\"bold\":true,\"color\":\"green\"},{\"text\":\"!\"}]"
+				player_command: false
+			}]
+		}
+		{
+			x: 12.0d
+			y: 14.5d
+			hide_dependency_lines: false
+			min_required_dependencies: 1
+			dependencies: [
+				"7DACD6F0B43A5189"
+				"7421B261F576DF4A"
+				"1F977369F2F64D5F"
+				"6D8450B5E1D368EC"
+				"41B762D3144BCD23"
+				"4A829B8241158DF4"
+				"5A0962ADC9D529B6"
+				"333219B7159F0870"
+				"74822C6AEAAAFF43"
+				"1A1482D754212E41"
+				"3F28BD56A8288635"
+				"04AA8348D474A740"
+				"71629BA55EB99037"
+				"4C08BA194DDD97FD"
+				"2F1E5B6BF381C876"
+				"4C198D7D3B8DE05F"
+				"05C300A1336C059B"
+				"2ADB50F6C7D55A4E"
+				"3508C5BFAFFD2E57"
+				"465A8FD911007CFD"
+				"50EDC42B9FDF0A6D"
+			]
+			dependency_requirement: "one_completed"
+			id: "35A8482178348A34"
+			tasks: [{
+				id: "0218EE8856119CA5"
+				type: "stat"
+				stat: "minecraft:play_time"
+				value: 1
+			}]
+			rewards: [{
+				id: "01214ACE5D82E719"
+				type: "command"
+				auto: "invisible"
+				command: "/tellraw @p [\"\",{\"text\":\"Seems you've obtained a trading scroll! Note that trade prices are absurdly \"},{\"text\":\"high \",\"bold\":true,\"color\":\"red\"},{\"text\":\"when you are have neutral reputation. Once villagers start to like you, you will see the trade prices drop \"},{\"text\":\"tremendously\",\"bold\":true,\"color\":\"green\"},{\"text\":\"!\"}]"
+				player_command: false
+			}]
+		}
+		{
+			x: 8.0d
+			y: 13.0d
+			id: "1F977369F2F64D5F"
+			tasks: [{
+				id: "6F9B268EEB8CFC06"
+				type: "item"
+				item: "quest_giver:trading_contract_butcher"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
+		{
+			x: 8.0d
+			y: 14.5d
+			id: "6D8450B5E1D368EC"
+			tasks: [{
+				id: "076B6B156AE5BD64"
+				type: "item"
+				item: "quest_giver:trading_contract_cartographer"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
+		{
+			x: 9.5d
+			y: 15.5d
+			id: "41B762D3144BCD23"
+			tasks: [{
+				id: "40167F388ED4275A"
+				type: "item"
+				item: "quest_giver:trading_contract_cleric"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
+		{
+			x: 9.0d
+			y: 17.0d
+			id: "333219B7159F0870"
+			tasks: [{
+				id: "2B93521C491C4F51"
+				type: "item"
+				item: "quest_giver:trading_contract_farmer"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
+		{
+			x: 10.5d
+			y: 18.0d
+			id: "7DACD6F0B43A5189"
+			tasks: [{
+				id: "500702FC1372311F"
+				type: "item"
+				item: "quest_giver:trading_contract_fisherman"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
+		{
+			x: 8.5d
+			y: 19.0d
+			id: "74822C6AEAAAFF43"
+			tasks: [{
+				id: "0F8CBE299097B30A"
+				type: "item"
+				item: "quest_giver:trading_contract_fletcher"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
+		{
+			x: 12.0d
+			y: 19.0d
+			id: "04AA8348D474A740"
+			tasks: [{
+				id: "21F60E80E88D848C"
+				type: "item"
+				item: "quest_giver:trading_contract_leatherworker"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
+		{
+			x: 14.0d
+			y: 18.5d
+			id: "71629BA55EB99037"
+			tasks: [{
+				id: "3C7C6D2C9D84D12A"
+				type: "item"
+				item: "quest_giver:trading_contract_librarian"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
+		{
+			x: 13.5d
+			y: 20.0d
+			id: "4C08BA194DDD97FD"
+			tasks: [{
+				id: "229396FCF2F84ACB"
+				type: "item"
+				item: "quest_giver:trading_contract_mason"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
+		{
+			x: 15.5d
+			y: 19.5d
+			id: "2ADB50F6C7D55A4E"
+			tasks: [{
+				id: "56CB94402479A8A1"
+				type: "item"
+				item: "quest_giver:trading_contract_shepherd"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
+		{
+			x: 16.5d
+			y: 18.0d
+			id: "3508C5BFAFFD2E57"
+			tasks: [{
+				id: "691F13F285B83DF1"
+				type: "item"
+				item: "quest_giver:trading_contract_toolsmith"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
+		{
+			x: 16.5d
+			y: 16.5d
+			id: "465A8FD911007CFD"
+			tasks: [{
+				id: "32F6E8E32D9DE46C"
+				type: "item"
+				item: "quest_giver:trading_contract_weaponsmith"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
+		{
+			x: 17.0d
+			y: 15.0d
+			id: "4A829B8241158DF4"
+			tasks: [{
+				id: "2A305B7C101FCFC6"
+				type: "item"
+				item: "quest_giver:trading_contract_enderian"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
+		{
+			x: 15.5d
+			y: 13.5d
+			id: "5A0962ADC9D529B6"
+			tasks: [{
+				id: "1B73B3A07F1430C3"
+				type: "item"
+				item: "quest_giver:trading_contract_engineer"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
+		{
+			x: 17.0d
+			y: 13.0d
+			id: "1A1482D754212E41"
+			tasks: [{
+				id: "3F6D9DD4864EDB7D"
+				type: "item"
+				item: "quest_giver:trading_contract_florist"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
+		{
+			x: 14.0d
+			y: 12.0d
+			id: "3F28BD56A8288635"
+			tasks: [{
+				id: "48D2F606C4CBFA6A"
+				type: "item"
+				item: "quest_giver:trading_contract_hunter"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
+		{
+			x: 16.0d
+			y: 11.0d
+			id: "4C198D7D3B8DE05F"
+			tasks: [{
+				id: "7E1448E1E85BD31E"
+				type: "item"
+				item: "quest_giver:trading_contract_netherian"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
+		{
+			x: 19.0d
+			y: 14.5d
+			id: "05C300A1336C059B"
+			tasks: [{
+				id: "222267579E87B9FB"
+				type: "item"
+				item: "quest_giver:trading_contract_oceanographer"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
+		{
+			x: 19.0d
+			y: 16.5d
+			id: "50EDC42B9FDF0A6D"
+			tasks: [{
+				id: "500A758486598E96"
+				type: "item"
+				item: "quest_giver:trading_contract_woodworker"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
+		{
+			x: 18.0d
+			y: 18.5d
+			id: "2F1E5B6BF381C876"
+			tasks: [{
+				id: "2B4B482F1450489F"
+				type: "item"
+				item: "quest_giver:trading_contract_miner"
+				consume_items: false
+				only_from_crafting: false
+			}]
+		}
 	]
 	quest_links: [ ]
 }
