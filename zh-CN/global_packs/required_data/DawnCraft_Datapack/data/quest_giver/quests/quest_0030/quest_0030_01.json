@@ -7,7 +7,7 @@
       "text": "制作高炉"
     },
     "description": {
-      "text": "你好，你还没有制作出高炉吗？"
+      "text": "Hey. Have you crafted the blast furnace yet? Make sure to craft a new one instead of grabbing others!"
     }
   },
   "complete": {
@@ -40,7 +40,7 @@
       "id": "quest_giver:command"
     },
     {
-      "command": "/addreputation reputation:village @p 1",
+      "command": "/addreputation reputation:villager @p 1",
       "id": "quest_giver:command"
     }
   ]
