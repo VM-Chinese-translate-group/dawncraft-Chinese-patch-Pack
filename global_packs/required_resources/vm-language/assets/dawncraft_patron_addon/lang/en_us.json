@@ -3,12 +3,20 @@
   "item.dawncraft_patron_addon.banished_knight_armor_helmet": "Banished Knight Scarf",
   "item.dawncraft_patron_addon.elden_armor_helmet": "Elden Crown",
   "item.dawncraft_patron_addon.elden_armor_boots": "Elden Anklet",
+  "item.dawncraft_patron_addon.hunter_armor_leggings": "Hunter Leggings",
   "item.dawncraft_patron_addon.banished_knight_armor_boots": "Banished Knight Boots",
   "item.dawncraft_patron_addon.straw_armor_boots": "Straw Armor Boots",
   "item.dawncraft_patron_addon.straw_armor_chestplate": "Straw Cape",
+  "item.dawncraft_patron_addon.hood_hunter_armor_leggings": "Hooded Hunter Leggings",
   "item.dawncraft_patron_addon.elden_armor_leggings": "Elden Leggings",
   "item.dawncraft_patron_addon.elden_armor_chestplate": "Elden Chestplate",
   "item.dawncraft_patron_addon.banished_knight_armor_leggings": "Banished Knight Leggings",
+  "item.dawncraft_patron_addon.hunter_armor_boots": "Hunter Boots",
   "item.dawncraft_patron_addon.straw_armor_leggings": "Straw Armor Leggings",
-  "item.dawncraft_patron_addon.banished_knight_armor_chestplate": "Banished Knight Chestplate"
+  "item.dawncraft_patron_addon.banished_knight_armor_chestplate": "Banished Knight Chestplate",
+  "item.dawncraft_patron_addon.hood_hunter_armor_boots": "Hooded Hunter Boots",
+  "item.dawncraft_patron_addon.hood_hunter_armor_helmet": "Hooded Hunter Hat",
+  "item.dawncraft_patron_addon.hunter_armor_helmet": "Hunter Hat",
+  "item.dawncraft_patron_addon.hunter_armor_chestplate": "Hunter Robe",
+  "item.dawncraft_patron_addon.hood_hunter_armor_chestplate": "Hooded Hunter Robe"
 }
