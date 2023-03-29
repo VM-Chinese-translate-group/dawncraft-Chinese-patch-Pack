@@ -1,6 +1,6 @@
 {
   "entity": "minecraft:rabbit",
-  "name": "“云纵”卡普",
+  "name": "Kip the Swift",
   "visualscale": "3.7",
   "experience": 400,
   "effects": {
@@ -22,7 +22,7 @@
       "amount": 3
     },
     "minecraft:target": {},
-    "brutalbosses:whirlwind": {
+    "brutalbosses:whirldwind": {
       "knockup": true
     },
     "brutalbosses:chasetarget": {},
@@ -33,10 +33,5 @@
       "potionlevel": 2
     }
   },
-  "spawnatchest": {
-    "minecraft:chests/simple_dungeon": 1,
-    "minecraft:chests/ruined_portal": 1,
-    "dungeoncrawl:chests/stage_3": 1,
-    "dungeons_enhanced:chests/monster_maze/treasure": 1
-  }
+  "spawnatchest": {}
 }
