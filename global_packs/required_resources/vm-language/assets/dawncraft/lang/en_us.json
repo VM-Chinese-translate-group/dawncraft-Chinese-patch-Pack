@@ -96,8 +96,12 @@
 	"item.dawncraft.executioner": "The Executioner",
 	"item.dawncraft.slayers_blade": "Slayer's Blade",
 	
-	"map.dawncraft.cultist": "Cultist Hideout Map",
+	"map.dawncraft.cultist": "Suspicious Map",
+	"map.dawncraft.cultist.lore": "A map given by a fallen adventurer to locate a church.",
 	"map.dawncraft.cultist_2": "Cultist's Map",
+	"map.dawncraft.cultist_2.lore": "Father Gascoigne's whereabouts.",
+	
+	
 	
 	"entity.dawncraft.fallen": "Fallen Adventurer",
 	
