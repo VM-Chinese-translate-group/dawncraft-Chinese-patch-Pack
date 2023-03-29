@@ -1,4 +1,5 @@
 {
+  "block.quest_giver.guildmaster_bell": "Guild Bell (POI)",
   "entity.quest_giver.quest_villager.none": "任务发布者",
   "entity.quest_giver.quest_guard_villager": "守卫",
   "entity.quest_giver.quest_villager.armorer": "盔甲匠-任务发布者",
