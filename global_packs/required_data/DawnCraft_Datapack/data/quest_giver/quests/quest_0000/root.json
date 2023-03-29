@@ -1,0 +1,12 @@
+{
+  "reputation": 25,
+  "icon": "minecraft:diamond",
+  "start": {
+    "title": {
+      "text": "Nevermind."
+    },
+    "description": {
+      "text": "The Villager decided on the last second not to talk to you."
+    }
+  }
+}

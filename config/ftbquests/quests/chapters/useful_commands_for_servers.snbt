@@ -58,157 +58,157 @@
 			}]
 		}
 		{
-			x: 3.5d
-			y: -3.0d
+			x: -2.5d
+			y: -4.0d
 			subtitle: "{chapter.4.quest.2.subtitle}"
 			description: ["{chapter.4.quest.2.description.1}"]
-			id: "018956A7552CAAC3"
+			id: "726F1FFCA2697CF6"
 			tasks: [{
-				id: "736B0722263E101A"
+				id: "79E1E37E279C39DE"
 				type: "checkmark"
 				title: "{chapter.4.quest.2.task.1.title}"
 			}]
 		}
 		{
 			x: -2.5d
-			y: -4.0d
+			y: -3.0d
 			subtitle: "{chapter.4.quest.3.subtitle}"
 			description: ["{chapter.4.quest.3.description.1}"]
-			id: "726F1FFCA2697CF6"
+			id: "5540C43EFDAE8E3B"
 			tasks: [{
-				id: "79E1E37E279C39DE"
+				id: "484069119F39A90C"
 				type: "checkmark"
 				title: "{chapter.4.quest.3.task.1.title}"
 			}]
 		}
 		{
 			x: -2.5d
-			y: -3.0d
+			y: -5.0d
 			subtitle: "{chapter.4.quest.4.subtitle}"
 			description: ["{chapter.4.quest.4.description.1}"]
-			id: "5540C43EFDAE8E3B"
+			id: "63F0B07D20E74D61"
 			tasks: [{
-				id: "484069119F39A90C"
+				id: "3900DF3E47ADF564"
 				type: "checkmark"
 				title: "{chapter.4.quest.4.task.1.title}"
 			}]
 		}
 		{
 			x: -2.5d
-			y: -5.0d
+			y: -7.0d
 			subtitle: "{chapter.4.quest.5.subtitle}"
 			description: ["{chapter.4.quest.5.description.1}"]
-			id: "63F0B07D20E74D61"
+			id: "1B36858C66C3C77F"
 			tasks: [{
-				id: "3900DF3E47ADF564"
+				id: "3FA502DE4B61335E"
 				type: "checkmark"
 				title: "{chapter.4.quest.5.task.1.title}"
 			}]
 		}
 		{
 			x: -2.5d
-			y: -7.0d
+			y: -6.0d
 			subtitle: "{chapter.4.quest.6.subtitle}"
 			description: ["{chapter.4.quest.6.description.1}"]
-			id: "1B36858C66C3C77F"
+			id: "60B3AB514E67E96D"
 			tasks: [{
-				id: "3FA502DE4B61335E"
+				id: "1E832FA7E32D60BF"
 				type: "checkmark"
 				title: "{chapter.4.quest.6.task.1.title}"
 			}]
 		}
 		{
 			x: -2.5d
-			y: -6.0d
+			y: -2.0d
 			subtitle: "{chapter.4.quest.7.subtitle}"
 			description: ["{chapter.4.quest.7.description.1}"]
-			id: "60B3AB514E67E96D"
+			id: "08F5174D848D7DF0"
 			tasks: [{
-				id: "1E832FA7E32D60BF"
+				id: "62A75C3AC8B180D6"
 				type: "checkmark"
 				title: "{chapter.4.quest.7.task.1.title}"
 			}]
 		}
 		{
-			x: -2.5d
-			y: -2.0d
+			x: 3.5d
+			y: -6.0d
 			subtitle: "{chapter.4.quest.8.subtitle}"
 			description: ["{chapter.4.quest.8.description.1}"]
-			id: "08F5174D848D7DF0"
+			id: "7644BDD80B6EDA44"
 			tasks: [{
-				id: "62A75C3AC8B180D6"
+				id: "43CC8096AA6E2C33"
 				type: "checkmark"
 				title: "{chapter.4.quest.8.task.1.title}"
 			}]
 		}
 		{
-			x: 3.5d
+			x: 0.5d
 			y: -6.0d
 			subtitle: "{chapter.4.quest.9.subtitle}"
 			description: ["{chapter.4.quest.9.description.1}"]
-			id: "7644BDD80B6EDA44"
+			id: "2294C358D1153CAE"
 			tasks: [{
-				id: "43CC8096AA6E2C33"
+				id: "6C26B3CB7B7B5B78"
 				type: "checkmark"
 				title: "{chapter.4.quest.9.task.1.title}"
 			}]
 		}
 		{
-			x: 0.5d
-			y: -6.0d
+			x: 3.5d
+			y: -5.0d
 			subtitle: "{chapter.4.quest.10.subtitle}"
 			description: ["{chapter.4.quest.10.description.1}"]
-			id: "2294C358D1153CAE"
+			id: "0E4410A648272A97"
 			tasks: [{
-				id: "6C26B3CB7B7B5B78"
+				id: "79729BB3AB3E564D"
 				type: "checkmark"
 				title: "{chapter.4.quest.10.task.1.title}"
 			}]
 		}
 		{
 			x: 3.5d
-			y: -5.0d
+			y: -4.0d
 			subtitle: "{chapter.4.quest.11.subtitle}"
 			description: ["{chapter.4.quest.11.description.1}"]
-			id: "0E4410A648272A97"
+			id: "217D8862894AE01D"
 			tasks: [{
-				id: "79729BB3AB3E564D"
+				id: "4882C70BB6EEE851"
 				type: "checkmark"
 				title: "{chapter.4.quest.11.task.1.title}"
 			}]
 		}
 		{
-			x: 3.5d
-			y: -4.0d
+			x: -2.5d
+			y: -1.0d
 			subtitle: "{chapter.4.quest.12.subtitle}"
 			description: ["{chapter.4.quest.12.description.1}"]
-			id: "217D8862894AE01D"
+			id: "10180D525A3F3D4F"
 			tasks: [{
-				id: "4882C70BB6EEE851"
+				id: "11DFA820F8B8E6FF"
 				type: "checkmark"
 				title: "{chapter.4.quest.12.task.1.title}"
 			}]
 		}
 		{
-			x: -2.5d
-			y: -1.0d
+			x: 3.5d
+			y: -7.0d
 			subtitle: "{chapter.4.quest.13.subtitle}"
 			description: ["{chapter.4.quest.13.description.1}"]
-			id: "10180D525A3F3D4F"
+			id: "2E679597791BF6B8"
 			tasks: [{
-				id: "11DFA820F8B8E6FF"
+				id: "68056F1A3F76B35D"
 				type: "checkmark"
 				title: "{chapter.4.quest.13.task.1.title}"
 			}]
 		}
 		{
-			x: 3.5d
-			y: -7.0d
+			x: 0.5d
+			y: -5.0d
 			subtitle: "{chapter.4.quest.14.subtitle}"
 			description: ["{chapter.4.quest.14.description.1}"]
-			id: "2E679597791BF6B8"
+			id: "1708A5D4E536662D"
 			tasks: [{
-				id: "68056F1A3F76B35D"
+				id: "4708BF5BBA73E19F"
 				type: "checkmark"
 				title: "{chapter.4.quest.14.task.1.title}"
 			}]

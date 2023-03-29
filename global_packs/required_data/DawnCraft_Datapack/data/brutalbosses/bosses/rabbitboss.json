@@ -1,0 +1,39 @@
+{
+  "entity": "minecraft:rabbit",
+  "name": "Kip the Swift",
+  "visualscale": 3.7,
+  "experience": 400,
+  "effects": {
+    "minecraft:resistance": 1
+  },
+  "attributes": {
+    "generic.max_health": 60,
+    "generic.follow_range": 50,
+    "generic.knockback_resistance": 1,
+    "generic.movement_speed": 0.8
+  },
+  "customattributes": {
+    "attack_speed": 0.7
+  },
+  "gear": {
+  },
+  "ai-goals": {
+    "brutalbosses:charge": {},
+    "brutalbosses:aftercombatregen": {
+      "amount": 3
+    },
+    "minecraft:target": {},
+    "brutalbosses:whirldwind": {
+      "knockup": true
+    },
+    "brutalbosses:chasetarget": {},
+    "brutalbosses:meleehit": {
+      "damage": 8,
+      "potiononhit": "minecraft:weakness",
+      "potionduration": 40,
+      "potionlevel": 2
+    }
+  },
+  "spawnatchest": {
+  }
+}

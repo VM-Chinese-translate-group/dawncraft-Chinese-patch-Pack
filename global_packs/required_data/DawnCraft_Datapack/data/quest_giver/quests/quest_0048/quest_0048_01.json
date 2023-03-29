@@ -29,7 +29,11 @@
   ],
   "rewards": [
     {
-      "command": "/execute as @a[distance=..5] run function witch:start_witch_raid",
+      "command": "/advancement grant @p only custom:tricked/tricked",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/execute as @a[advancements={custom:tricked/tricked=true},sort=nearest,limit=1] run function witch:start_witch_raid",
       "id": "quest_giver:command"
     }
   ]

@@ -47,6 +47,10 @@
     {
       "command": "/gamestage add @p AdvancedSmelting",
       "id": "quest_giver:command"
-    }
+    },
+    {
+      "command": "/advancement grant @p only simple_mobs:corrupt_ogre_quest_complete",
+      "id": "quest_giver:command"
+    } 
   ]
 }

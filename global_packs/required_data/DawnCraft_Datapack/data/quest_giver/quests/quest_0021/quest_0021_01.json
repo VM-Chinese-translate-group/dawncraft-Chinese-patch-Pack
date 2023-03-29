@@ -36,7 +36,7 @@
       "times": 2
     },
     {
-      "command": "/addreputation reputation:village @p 4",
+      "command": "/addreputation reputation:villager @p 3",
       "id": "quest_giver:command"
     },
     {

@@ -764,7 +764,7 @@
 					id: "410AA390E054E967"
 					type: "command"
 					auto: "invisible"
-					command: "/loot give @p loot minecraft:village"
+					command: "/gamerule sendCommandFeedback false"
 					player_command: false
 				}
 				{
@@ -772,6 +772,41 @@
 					type: "item"
 					auto: "invisible"
 					item: "minecraft:compass"
+				}
+				{
+					id: "10C5822F8E2520D0"
+					type: "command"
+					auto: "invisible"
+					command: "/gamerule keepInventory true"
+					player_command: false
+				}
+				{
+					id: "5FD0AB5036A688FE"
+					type: "command"
+					auto: "invisible"
+					command: "/gamerule playersSleepingPercentage 35"
+					player_command: false
+				}
+				{
+					id: "794FB9B72BBB0E63"
+					type: "command"
+					auto: "invisible"
+					command: "/gamerule spawnRadius 80"
+					player_command: false
+				}
+				{
+					id: "6F86E31ADC125640"
+					type: "command"
+					auto: "invisible"
+					command: "/gamerule keepSkills true"
+					player_command: false
+				}
+				{
+					id: "242FF8EBF5E31E24"
+					type: "command"
+					auto: "invisible"
+					command: "/loot give @p loot minecraft:village"
+					player_command: false
 				}
 			]
 		}
@@ -1219,6 +1254,24 @@
 				item: "quest_giver:trading_contract_miner"
 				consume_items: false
 				only_from_crafting: false
+			}]
+		}
+		{
+			x: 14.5d
+			y: 7.5d
+			id: "6987CDB9C0CD49D1"
+			tasks: [{
+				id: "7D7A9F43F523C355"
+				type: "advancement"
+				advancement: "custom:begone_witch/begone_witch"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "74D469B419C12F4A"
+				type: "command"
+				auto: "invisible"
+				command: "/advancement revoke @p only custom:tricked/tricked"
+				player_command: false
 			}]
 		}
 	]
