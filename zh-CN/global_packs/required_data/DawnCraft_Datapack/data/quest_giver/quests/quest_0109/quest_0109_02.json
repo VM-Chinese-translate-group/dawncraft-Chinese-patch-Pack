@@ -28,6 +28,10 @@
 		{
 			"command": "/give @p epicfight:skillbook{skill:\"epicfight:swordmaster\"}",
 			"id": "quest_giver:command"
+		},
+		{
+			"command": "/addreputation reputation:villager @p 2",
+			"id": "quest_giver:command"
 		}
 	]
 }
