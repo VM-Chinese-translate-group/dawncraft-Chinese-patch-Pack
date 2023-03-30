@@ -7,7 +7,7 @@
 			"text": "所以？"
 		},
 		"description": {
-			"text": "Forgot already? Don't worry let me remind you. I need a $(red)straw bale$()."
+			"text": "不记得了吗？没关系，让我提醒你一下。我需要1捆$(red)稻草$()。"
 		}
 	},
 	"complete": {
