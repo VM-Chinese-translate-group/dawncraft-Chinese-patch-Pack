@@ -7,7 +7,7 @@
       "text": "制作高炉"
     },
     "description": {
-      "text": "你好，你还没有制作出高炉吗？"
+      "text": "嘿，你已经造好高炉了吗？请确保造一个新的炉子而不是用别人的！"
     }
   },
   "complete": {
@@ -40,7 +40,7 @@
       "id": "quest_giver:command"
     },
     {
-      "command": "/addreputation reputation:village @p 1",
+      "command": "/addreputation reputation:villager @p 1",
       "id": "quest_giver:command"
     }
   ]

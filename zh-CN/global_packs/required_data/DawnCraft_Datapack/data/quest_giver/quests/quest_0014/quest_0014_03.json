@@ -15,19 +15,25 @@
       "text": "寻眼之路"
     },
     "description": {
-      "text": "你的表现非常出色。似乎你已经准备好挑战$(red)食人魔$()了。在标记处栖息着一只食人魔，它守护着其中一只眼睛。"
+      "text": "你的表现非常出色。似乎你已经准备好挑战$(red)饥饿的食人魔$()了。在标记处栖息着一只食人魔，它守护着其中一只眼睛。"
     }
   },
   "tasks": [
     {
-      "entity": "goblinsanddungeons:goblin_king",
-      "id": "quest_giver:kill",
+      "item": {
+        "item": "goblinsanddungeons:goblin_crown"
+      },
+      "id": "quest_giver:item_pickup",
       "times": 1
     }
   ],
   "rewards": [
     {
       "command": "/loot give @p loot minecraft:guildmaster1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/advancement grant @p only simple_mobs:goblin_king_quest_complete",
       "id": "quest_giver:command"
     }
   ]
