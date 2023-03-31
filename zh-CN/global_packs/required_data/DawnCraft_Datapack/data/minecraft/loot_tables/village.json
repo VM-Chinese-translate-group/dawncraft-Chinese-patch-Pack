@@ -18,13 +18,13 @@
 						},
 						{
 							"function": "minecraft:set_name",
-							"name": "Village"
+							"name": "村庄"
 						},
 						{
 							"function": "minecraft:set_lore",
 							"lore": [
 								{
-									"text": "A map marking the closest village near you... I wonder why it's here."
+									"text": "标记了离你最近的村庄的一张地图……我想知道它为什么在这"
 								}
 							]
 						}
