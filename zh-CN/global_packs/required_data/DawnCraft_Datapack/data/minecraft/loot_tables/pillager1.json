@@ -24,7 +24,7 @@
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "The map to the closest pillager camp near you."
+                  "text": "距离你最近的掠夺者营地的地图。"
                 }
               ]
             }
