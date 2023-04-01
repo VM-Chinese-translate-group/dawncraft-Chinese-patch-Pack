@@ -141,6 +141,6 @@
 	"stealth_ring": "When in the offhand, this ring further reduces hostile mobs detection range of the wearer when sneaking by 20%.",
 	"glory_ring": "When in the offhand, this ring heals the wearer for every mob killed. The amount of health increases corresponding with the amount of health the mob killed has.",
 	"experience_ring": "When in the offhand, the wearer gains one extra experience point every time XP is earned.",
-	"goblin_crown": "When on the head, the wearer causes Goblins and Ogres to gain Weakness II, and all other hostile mobs Weakness I. It will also reduce Goblin and Ogre detection range of the wearer by 50%.",
+	"goblin_crown": "Useful for fulfilling guildmaster's quest.",
 	"shift": "Hold [SHIFT] for more information"
 }

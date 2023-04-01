@@ -847,17 +847,6 @@
 			}]
 		}
 		{
-			x: 9.5d
-			y: 8.5d
-			id: "61DF58857E2B4D85"
-			tasks: [{
-				id: "62D2EC8316D11D3C"
-				type: "stat"
-				stat: "minecraft:target_hit"
-				value: 1
-			}]
-		}
-		{
 			x: 12.0d
 			y: 9.5d
 			id: "01E76C073D0AAA07"
@@ -1271,6 +1260,23 @@
 				type: "command"
 				auto: "invisible"
 				command: "/advancement revoke @p only custom:tricked/tricked"
+				player_command: false
+			}]
+		}
+		{
+			x: 7.5d
+			y: 11.0d
+			id: "32223884E09F7B5A"
+			tasks: [{
+				id: "3AD650A6B5CB5103"
+				type: "item"
+				item: "paraglider:essence"
+			}]
+			rewards: [{
+				id: "1246B523C0F3419C"
+				type: "command"
+				auto: "invisible"
+				command: "/tellraw @p [\"\",{\"text\":\"You have obtained an \"},{\"text\":\"essence\",\"bold\":true,\"color\":\"red\"},{\"text\":\". You'll need to consume it for the horned statue to recognize it.\"}]"
 				player_command: false
 			}]
 		}
