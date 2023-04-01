@@ -1276,7 +1276,7 @@
 				id: "1246B523C0F3419C"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"You have obtained an \"},{\"text\":\"essence\",\"bold\":true,\"color\":\"red\"},{\"text\":\". You'll need to consume it for the horned statue to recognize it.\"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"你已获得一个\"},{\"text\":\"精华\",\"bold\":true,\"color\":\"red\"},{\"text\":\"。你需要消耗它，让恶魔雕像认识它。\"}]"
 				player_command: false
 			}]
 		}
