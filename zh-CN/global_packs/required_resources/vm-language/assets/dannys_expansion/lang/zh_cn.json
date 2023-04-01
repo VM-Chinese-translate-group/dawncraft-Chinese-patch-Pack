@@ -18,7 +18,7 @@
   "danny_options.mob_natural_generation.title": "生物自然生成",
   "danny_options.mob_spawn.title_suffix": "生成设置",
   "danny_options.mob_spawn.biomes": "生物群系",
-  "danny_options.mob_spawn.biome_dictionaries": "生物群系字典",
+  "danny_options.mob_spawn.biome_dictionaries": "生物群系词典",
   "danny_options.mob_spawn.blacklisted_biomes": "黑名单生物群系",
   "danny_options.mob_spawn.blacklisted_biome_dictionaries": "黑名单字典",
   "danny_options.structures.title": "结构",

@@ -4,7 +4,7 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "清剿任务"
+      "text": "所以？"
     },
     "description": {
       "text": "完成你的清剿任务——$(red)消灭5个掠夺者$()后再回来找我吧。"

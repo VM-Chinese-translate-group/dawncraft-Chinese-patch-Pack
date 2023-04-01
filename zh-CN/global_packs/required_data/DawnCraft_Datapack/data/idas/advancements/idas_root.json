@@ -10,7 +10,7 @@
       "translate": "开始各个结构的探索！"
     },
     "show_toast": false,
-    "announce_to_chat": false,
+    "announce_to_chat": true,
     "hidden": false,
     "background": "minecraft:textures/block/purple_terracotta.png"
   },
