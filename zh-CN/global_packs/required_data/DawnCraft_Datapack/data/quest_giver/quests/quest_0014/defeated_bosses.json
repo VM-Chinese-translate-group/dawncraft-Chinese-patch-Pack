@@ -4,18 +4,18 @@
   "icon": "minecraft:emerald",
   "start": {
     "title": {
-      "text": "Already Done!"
+      "text": "已完成！"
     },
     "description": {
-      "text": "Oh? You've already defeated the eye holder before I gave you the map? Huh... Show me the exact eye the eye holder dropped then. As a matter of fact, drop it and pick it back up... Don't ask why!"
+      "text": "什么？我没给你地图，你就打败了眼睛守护者？给我看看眼睛守护者掉了哪只眼睛。事实上，只需把它丢掉再捡起来……不要问为什么！"
     }
   },
   "complete": {
     "title": {
-      "text": "The End of the Road"
+      "text": "末地之路"
     },
     "description": {
-      "text": "I have no more information to give you my friend. Follow your calling."
+      "text": "我已经没有能够指引你的启示了，遵从你内心的召唤吧。"
     }
   },
   "tasks": [
