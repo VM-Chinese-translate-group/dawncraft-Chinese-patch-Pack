@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "Map to the Ruined Keep"
+              "name": "城堡废墟地图"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "The location of Ruined Keep - the Goblin King's Hideout."
+                  "text": "城堡废墟的位置 - 哥布林之王的藏身之处"
                 }
               ]
             }
