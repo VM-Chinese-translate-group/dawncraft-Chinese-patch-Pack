@@ -11,20 +11,20 @@
           "functions": [
             {
               "function": "minecraft:exploration_map",
-              "destination": "custom:obsidian_spikes",
+              "destination": "custom:ruined_keep",
               "decoration": "red_x",
               "zoom": 1,
               "skip_existing_chunks": false
             },
             {
               "function": "minecraft:set_name",
-              "name": "黑曜石尖刺之地的地图"
+              "name": "城堡废墟地图"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "马蒂亞文的下落"
+                  "text": "城堡废墟的位置 - 哥布林之王的藏身之处"
                 }
               ]
             }

@@ -1,0 +1,30 @@
+{
+  "parent": "quest_giver:quest_0014_01",
+  "reputation": 10,
+  "icon": "minecraft:emerald",
+  "start": {
+    "title": {
+      "text": "已完成！"
+    },
+    "description": {
+      "text": "什么？我没给你地图，你就打败了眼睛守护者？给我看看眼睛守护者掉了哪只眼睛。事实上，只需把它丢掉再捡起来……不要问为什么！"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "末地之路"
+    },
+    "description": {
+      "text": "我已经没有能够指引你的启示了，遵从你内心的召唤吧。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:corrupted_eye"
+      },
+      "id": "quest_giver:item_pickup",
+      "times": 1
+    }
+  ]
+}
