@@ -1,0 +1,12 @@
+{
+  "name": "ars_nouveau.glyph_name.summon_steed",
+  "category": "ars_nouveau:glyphs_1",
+  "icon": "ars_nouveau:glyph_summon_steed",
+  "sortnum": 2,
+  "pages": [
+    {
+      "text": "This spell has been sealed away from the realm since the dark magicians time...",
+      "type": "patchouli:text"
+    }
+  ]
+}
