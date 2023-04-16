@@ -31,6 +31,10 @@
     {
       "command": "/loot give @p loot minecraft:cartographer2",
       "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p cartographer2 true",
+      "id": "quest_giver:command"
     }
   ]
 }
