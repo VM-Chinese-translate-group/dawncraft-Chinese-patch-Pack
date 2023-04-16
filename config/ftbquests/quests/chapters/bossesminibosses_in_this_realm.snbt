@@ -1,16 +1,16 @@
 {
 	id: "255FE9E1034D0E95"
 	group: ""
-	order_index: 2
+	order_index: 10
 	filename: "bossesminibosses_in_this_realm"
-	title: "{chapter.3.title}"
+	title: "{chapter.11.title}"
 	icon: "apotheosis:boss_summoner"
-	subtitle: ["{chapter.3.subtitle}"]
+	subtitle: ["{chapter.11.subtitle}"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "{chapter.3.quest.1.title}"
+			title: "{chapter.11.quest.1.title}"
 			icon: "simple_mobs:giant_knot"
 			x: -4.5d
 			y: -9.0d
@@ -25,7 +25,7 @@
 			}]
 		}
 		{
-			title: "{chapter.3.quest.2.title}"
+			title: "{chapter.11.quest.2.title}"
 			icon: "simple_mobs:sentinelkey"
 			x: -6.5d
 			y: -9.0d
@@ -40,7 +40,7 @@
 			}]
 		}
 		{
-			title: "{chapter.3.quest.3.title}"
+			title: "{chapter.11.quest.3.title}"
 			x: -7.5d
 			y: -11.0d
 			shape: "square"
@@ -54,7 +54,7 @@
 			}]
 		}
 		{
-			title: "{chapter.3.quest.4.title}"
+			title: "{chapter.11.quest.4.title}"
 			x: -6.5d
 			y: -10.0d
 			shape: "square"
@@ -81,7 +81,7 @@
 			tasks: [{
 				id: "7001FA74512AAD19"
 				type: "kill"
-				title: "{chapter.3.quest.5.task.1.title}"
+				title: "{chapter.11.quest.5.task.1.title}"
 				icon: "alexsmobs:lobster_tail"
 				entity: "simple_mobs:nine_tails"
 				value: 1L
@@ -95,7 +95,7 @@
 			tasks: [{
 				id: "4D745F7EB67EBF7F"
 				type: "kill"
-				title: "{chapter.3.quest.6.task.1.title}"
+				title: "{chapter.11.quest.6.task.1.title}"
 				icon: {
 					id: "ars_nouveau:archmage_robes"
 					Count: 1b
@@ -115,7 +115,7 @@
 			tasks: [{
 				id: "3FC7DF131BFEA5D1"
 				type: "kill"
-				title: "{chapter.3.quest.7.task.1.title}"
+				title: "{chapter.11.quest.7.task.1.title}"
 				icon: "simple_mobs:fire_dragon_essence"
 				entity: "simple_mobs:fire_dragon"
 				value: 1L
@@ -129,7 +129,7 @@
 			tasks: [{
 				id: "7383CB2F9C46BDE2"
 				type: "kill"
-				title: "{chapter.3.quest.8.task.1.title}"
+				title: "{chapter.11.quest.8.task.1.title}"
 				icon: "simple_mobs:ice_dragon_essence"
 				entity: "simple_mobs:ice_dragon"
 				value: 1L
@@ -143,7 +143,7 @@
 			tasks: [{
 				id: "79AED0F6F54CE809"
 				type: "kill"
-				title: "{chapter.3.quest.9.task.1.title}"
+				title: "{chapter.11.quest.9.task.1.title}"
 				icon: "apotheosis:mythic_material"
 				entity: "simple_mobs:elemental_deity"
 				value: 1L
@@ -157,7 +157,7 @@
 			tasks: [{
 				id: "4A44B3D3E93B316A"
 				type: "kill"
-				title: "{chapter.3.quest.10.task.1.title}"
+				title: "{chapter.11.quest.10.task.1.title}"
 				icon: {
 					id: "goblinsanddungeons:goblin_crown"
 					Count: 1b
@@ -177,7 +177,7 @@
 			tasks: [{
 				id: "7656A203BA9099CF"
 				type: "kill"
-				title: "{chapter.3.quest.11.task.1.title}"
+				title: "{chapter.11.quest.11.task.1.title}"
 				icon: {
 					id: "darkersouls:crown_of_tempest"
 					Count: 1b
@@ -197,7 +197,7 @@
 			tasks: [{
 				id: "447DB75056CBD118"
 				type: "kill"
-				title: "{chapter.3.quest.12.task.1.title}"
+				title: "{chapter.11.quest.12.task.1.title}"
 				icon: "bloodandmadness:eggs/father_gascoigne_spawn_egg"
 				entity: "bloodandmadness:gascoigne_beast"
 				value: 1L
@@ -211,7 +211,7 @@
 			tasks: [{
 				id: "74327929D1B8DF51"
 				type: "kill"
-				title: "{chapter.3.quest.13.task.1.title}"
+				title: "{chapter.11.quest.13.task.1.title}"
 				icon: {
 					id: "conjurer_illager:conjurer_hat"
 					Count: 1b
@@ -232,7 +232,7 @@
 			tasks: [{
 				id: "30A060BFE3C678AE"
 				type: "kill"
-				title: "{chapter.3.quest.14.task.1.title}"
+				title: "{chapter.11.quest.14.task.1.title}"
 				icon: {
 					id: "mowziesmobs:ice_crystal"
 					Count: 1b
@@ -252,7 +252,7 @@
 			tasks: [{
 				id: "5281E7E360880255"
 				type: "kill"
-				title: "{chapter.3.quest.15.task.1.title}"
+				title: "{chapter.11.quest.15.task.1.title}"
 				icon: "mowziesmobs:barako_mask"
 				entity: "mowziesmobs:barako"
 				value: 1L
@@ -266,7 +266,7 @@
 			tasks: [{
 				id: "5F2D3A4E907757BC"
 				type: "kill"
-				title: "{chapter.3.quest.16.task.1.title}"
+				title: "{chapter.11.quest.16.task.1.title}"
 				icon: {
 					id: "magistuarmory:ceremonialarmet"
 					Count: 1b
@@ -286,7 +286,7 @@
 			tasks: [{
 				id: "04B8D048411FF640"
 				type: "kill"
-				title: "{chapter.3.quest.17.task.1.title}"
+				title: "{chapter.11.quest.17.task.1.title}"
 				icon: {
 					id: "epicfight:katana"
 					Count: 1b
@@ -306,7 +306,7 @@
 			tasks: [{
 				id: "7E7FA56730460C7A"
 				type: "kill"
-				title: "{chapter.3.quest.18.task.1.title}"
+				title: "{chapter.11.quest.18.task.1.title}"
 				icon: "mowziesmobs:naga_fang"
 				entity: "mowziesmobs:naga"
 				value: 1L
@@ -320,7 +320,7 @@
 			tasks: [{
 				id: "734F4844D5C53EEE"
 				type: "kill"
-				title: "{chapter.3.quest.19.task.1.title}"
+				title: "{chapter.11.quest.19.task.1.title}"
 				icon: "mowziesmobs:wrought_helmet"
 				entity: "mowziesmobs:ferrous_wroughtnaut"
 				value: 1L
@@ -334,7 +334,7 @@
 			tasks: [{
 				id: "561CB5790BBC3C58"
 				type: "kill"
-				title: "{chapter.3.quest.20.task.1.title}"
+				title: "{chapter.11.quest.20.task.1.title}"
 				icon: {
 					id: "cataclysm:ignitium_helmet"
 					Count: 1b
@@ -354,7 +354,7 @@
 			tasks: [{
 				id: "54D44DF2F5B4D01A"
 				type: "kill"
-				title: "{chapter.3.quest.21.task.1.title}"
+				title: "{chapter.11.quest.21.task.1.title}"
 				icon: "minecraft:shulker_box"
 				entity: "cataclysm:ender_guardian"
 				value: 1L
@@ -368,7 +368,7 @@
 			tasks: [{
 				id: "63CB7D304B4A5E62"
 				type: "kill"
-				title: "{chapter.3.quest.22.task.1.title}"
+				title: "{chapter.11.quest.22.task.1.title}"
 				icon: "cataclysm:ender_guardian_spawner"
 				entity: "cataclysm:ender_golem"
 				value: 1L
@@ -382,7 +382,7 @@
 			tasks: [{
 				id: "1615F156D8868175"
 				type: "kill"
-				title: "{chapter.3.quest.23.task.1.title}"
+				title: "{chapter.11.quest.23.task.1.title}"
 				icon: "illageandspillage:totem_of_banishment"
 				entity: "illageandspillage:magispeller"
 				value: 1L
@@ -396,7 +396,7 @@
 			tasks: [{
 				id: "220EE68C5C6457C4"
 				type: "kill"
-				title: "{chapter.3.quest.24.task.1.title}"
+				title: "{chapter.11.quest.24.task.1.title}"
 				icon: {
 					id: "illageandspillage:spellbound_book"
 					Count: 1b
@@ -417,7 +417,7 @@
 			tasks: [{
 				id: "5E3B11AE09EDA3EF"
 				type: "kill"
-				title: "{chapter.3.quest.25.task.1.title}"
+				title: "{chapter.11.quest.25.task.1.title}"
 				icon: "minecraft:dragon_head"
 				entity: "minecraft:ender_dragon"
 				value: 1L
@@ -431,7 +431,7 @@
 			tasks: [{
 				id: "5DB69F4160B98336"
 				type: "kill"
-				title: "{chapter.3.quest.26.task.1.title}"
+				title: "{chapter.11.quest.26.task.1.title}"
 				icon: "minecraft:wither_skeleton_skull"
 				entity: "minecraft:wither"
 				value: 1L
@@ -445,7 +445,7 @@
 			tasks: [{
 				id: "1A57FD426D56A8AC"
 				type: "kill"
-				title: "{chapter.3.quest.27.task.1.title}"
+				title: "{chapter.11.quest.27.task.1.title}"
 				icon: {
 					id: "cataclysm:infernal_forge"
 					Count: 1b
@@ -465,7 +465,7 @@
 			tasks: [{
 				id: "37132D5156C12E97"
 				type: "kill"
-				title: "{chapter.3.quest.28.task.1.title}"
+				title: "{chapter.11.quest.28.task.1.title}"
 				icon: {
 					id: "aquamirae:three_bolt_helmet"
 					Count: 1b
@@ -485,7 +485,7 @@
 			tasks: [{
 				id: "4B8BB374C630CA51"
 				type: "kill"
-				title: "{chapter.3.quest.29.task.1.title}"
+				title: "{chapter.11.quest.29.task.1.title}"
 				icon: "alexsmobs:mysterious_worm"
 				entity: "alexsmobs:void_worm"
 				value: 1L
@@ -499,7 +499,7 @@
 			tasks: [{
 				id: "63C65D7821ADD9B5"
 				type: "kill"
-				title: "{chapter.3.quest.30.task.1.title}"
+				title: "{chapter.11.quest.30.task.1.title}"
 				icon: "alexsmobs:warped_muscle"
 				entity: "alexsmobs:warped_mosco"
 				value: 1L
@@ -513,7 +513,7 @@
 			tasks: [{
 				id: "7A847CC5B58645A8"
 				type: "kill"
-				title: "{chapter.3.quest.31.task.1.title}"
+				title: "{chapter.11.quest.31.task.1.title}"
 				icon: "minecraft:heart_of_the_sea"
 				entity: "minecraft:elder_guardian"
 				value: 1L
@@ -527,7 +527,7 @@
 			tasks: [{
 				id: "4BF011179CDF0597"
 				type: "kill"
-				title: "{chapter.3.quest.32.task.1.title}"
+				title: "{chapter.11.quest.32.task.1.title}"
 				icon: {
 					id: "simple_mobs:plaguemask_helmet"
 					Count: 1b
@@ -547,7 +547,7 @@
 			tasks: [{
 				id: "0746611D8AB4D874"
 				type: "kill"
-				title: "{chapter.3.quest.33.task.1.title}"
+				title: "{chapter.11.quest.33.task.1.title}"
 				icon: "simple_mobs:giant_eye_fragment"
 				entity: "minecraft:giant"
 				value: 1L
@@ -562,7 +562,7 @@
 			tasks: [{
 				id: "2ECE5BFDEBD7969E"
 				type: "kill"
-				title: "{chapter.3.quest.34.task.1.title}"
+				title: "{chapter.11.quest.34.task.1.title}"
 				icon: {
 					id: "simple_mobs:dweller_core"
 					Count: 1b
@@ -582,7 +582,7 @@
 			tasks: [{
 				id: "53B0061130E1FEEA"
 				type: "kill"
-				title: "{chapter.3.quest.35.task.1.title}"
+				title: "{chapter.11.quest.35.task.1.title}"
 				icon: "blue_skies:starlit_leaves"
 				entity: "blue_skies:starlit_crusher"
 				value: 1L
@@ -596,7 +596,7 @@
 			tasks: [{
 				id: "3C5CFB7BFDCAAE24"
 				type: "kill"
-				title: "{chapter.3.quest.36.task.1.title}"
+				title: "{chapter.11.quest.36.task.1.title}"
 				icon: "ars_nouveau:summon_focus"
 				entity: "blue_skies:summoner"
 				value: 1L
@@ -610,7 +610,7 @@
 			tasks: [{
 				id: "147168466A3409F7"
 				type: "kill"
-				title: "{chapter.3.quest.37.task.1.title}"
+				title: "{chapter.11.quest.37.task.1.title}"
 				icon: {
 					id: "blue_skies:alchemy_scroll"
 					Count: 1b
@@ -630,7 +630,7 @@
 			tasks: [{
 				id: "186BD8407FB7B253"
 				type: "kill"
-				title: "{chapter.3.quest.38.task.1.title}"
+				title: "{chapter.11.quest.38.task.1.title}"
 				icon: "blue_skies:spider_webbing"
 				entity: "blue_skies:arachnarch"
 				value: 1L
@@ -644,7 +644,7 @@
 			tasks: [{
 				id: "3B5D132011FD1BCA"
 				type: "kill"
-				title: "{chapter.3.quest.39.task.1.title}"
+				title: "{chapter.11.quest.39.task.1.title}"
 				icon: "meetyourfight:devils_ante"
 				entity: "meetyourfight:dame_fortuna"
 				value: 1L
@@ -658,7 +658,7 @@
 			tasks: [{
 				id: "456A4E1435763196"
 				type: "kill"
-				title: "{chapter.3.quest.40.task.1.title}"
+				title: "{chapter.11.quest.40.task.1.title}"
 				icon: "meetyourfight:mossy_tooth"
 				entity: "meetyourfight:swampjaw"
 				value: 1L
@@ -672,7 +672,7 @@
 			tasks: [{
 				id: "762F9E96314FEA44"
 				type: "kill"
-				title: "{chapter.3.quest.41.task.1.title}"
+				title: "{chapter.11.quest.41.task.1.title}"
 				icon: "meetyourfight:haunted_bell"
 				entity: "meetyourfight:bellringer"
 				value: 1L
@@ -686,7 +686,7 @@
 			tasks: [{
 				id: "0977648E905A20ED"
 				type: "kill"
-				title: "{chapter.3.quest.42.task.1.title}"
+				title: "{chapter.11.quest.42.task.1.title}"
 				icon: "ba_bt:guardian_eye_land"
 				entity: "ba_bt:land_golem"
 				value: 1L
@@ -700,7 +700,7 @@
 			tasks: [{
 				id: "2540B51253A76D43"
 				type: "kill"
-				title: "{chapter.3.quest.43.task.1.title}"
+				title: "{chapter.11.quest.43.task.1.title}"
 				icon: "ba_bt:guardian_eye_ocean"
 				entity: "ba_bt:ocean_golem"
 				value: 1L
