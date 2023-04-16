@@ -32,6 +32,10 @@
     {
       "command": "/addreputation reputation:villager @p 3",
       "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p hunter1 true",
+      "id": "quest_giver:command"
     }
   ]
 }

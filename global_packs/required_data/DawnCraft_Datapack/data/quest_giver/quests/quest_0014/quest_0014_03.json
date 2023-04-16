@@ -7,7 +7,7 @@
       "text": "Road to the Eye Holders"
     },
     "description": {
-      "text": "Your first assignment is to exterminate the $(red)Goblin King$(). They can be found on top of their castles."
+      "text": "See the map I gave you? Your first assignment is to exterminate the $(red)Goblin King$(). They can be found on top of their castles."
     }
   },
   "complete": {
@@ -34,6 +34,10 @@
     },
      {
       "command": "/advancement grant @p only simple_mobs:goblin_king_quest_complete",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p guildmaster3 true",
       "id": "quest_giver:command"
     }
   ]

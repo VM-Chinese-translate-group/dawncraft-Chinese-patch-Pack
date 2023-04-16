@@ -7,7 +7,7 @@
       "text": "So?"
     },
     "description": {
-      "text": "Come back to me once you've made the dish $(red)End Delight$(). I'll pay you handsomely for it."
+      "text": "Come back to me once you've made the dish $(red)Ennegel Pasta$(). I'll pay you handsomely for it."
     }
   },
   "complete": {
@@ -21,7 +21,7 @@
   "tasks": [
     {
       "item": {
-        "item": "nourished_end:end_delight"
+        "item": "enlightened_end:ennegel_pasta"
       },
       "id": "quest_giver:gift",
       "times": 1

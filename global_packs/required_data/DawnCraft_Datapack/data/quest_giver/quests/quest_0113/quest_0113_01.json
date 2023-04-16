@@ -28,8 +28,12 @@
      }
   ],
   "rewards": [
-  {
+    {
       "command": "/loot give @p loot minecraft:weaponsmith1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p weaponsmith1 true",
       "id": "quest_giver:command"
     }
   ]

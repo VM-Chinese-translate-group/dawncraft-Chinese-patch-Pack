@@ -31,6 +31,10 @@
     {
       "command": "/loot give @p loot minecraft:pillager1",
       "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p guildmaster1 true",
+      "id": "quest_giver:command"
     }
 ]
 }

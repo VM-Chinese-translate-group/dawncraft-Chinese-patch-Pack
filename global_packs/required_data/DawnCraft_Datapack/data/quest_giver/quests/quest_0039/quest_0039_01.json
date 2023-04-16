@@ -28,8 +28,12 @@
      }
   ],
   "rewards": [
-  {
+    {
       "command": "/loot give @p loot minecraft:cartographer1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p cartographer1 true",
       "id": "quest_giver:command"
     }
   ]

@@ -28,9 +28,13 @@
      }
   ],
   "rewards": [
-  {
+    {
       "command": "/loot give @p loot minecraft:guard3",
       "id": "quest_giver:command"
-    }
+    },
+    {
+      "command": "/gamestage add @p guard3 true",
+      "id": "quest_giver:command"
+    }    
   ]
 }
