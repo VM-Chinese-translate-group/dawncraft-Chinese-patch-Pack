@@ -33,7 +33,7 @@
       "id": "quest_giver:command"
     },
     {
-      "command": "/dawncraft enableInvasions @p",
+      "command": "/dc enableInvasions @p",
       "id": "quest_giver:command"
     },
     {
