@@ -7,7 +7,7 @@
       "text": "寻眼之路"
     },
     "description": {
-      "text": "你的第一个任务是消灭$(red)哥布林之王$()。他们就藏身在城堡的顶部。"
+      "text": "别忘了看看我给你的地图。你的第一个任务是消灭$(red)哥布林之王$()。他们就藏身在城堡的顶部。"
     }
   },
   "complete": {
@@ -34,6 +34,10 @@
     },
     {
       "command": "/advancement grant @p only simple_mobs:goblin_king_quest_complete",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p guildmaster3 true",
       "id": "quest_giver:command"
     }
   ]
