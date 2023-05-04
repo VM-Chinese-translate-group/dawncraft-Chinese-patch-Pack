@@ -839,13 +839,22 @@
 				advancement: "simple_mobs:notorious"
 				criterion: ""
 			}]
-			rewards: [{
-				id: "0206FC6701ED673E"
-				type: "command"
-				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"It seems your reputation is \"},{\"text\":\"bad \",\"color\":\"red\"},{\"text\":\"among villagers. Villagers will now stop trading with you. If your reputation drops even further, guards and iron golems may start attacking you. You can improve your reputation by handing in a \"},{\"text\":\"bundled currency \",\"color\":\"green\"},{\"text\":\"into the ledger chests inside guild houses or stalls.\"}]"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "0206FC6701ED673E"
+					type: "command"
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"It seems your reputation is \"},{\"text\":\"bad\",\"bold\":true,\"color\":\"red\"},{\"text\":\" among villagers. You have been \"},{\"text\":\"forgiven\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\" since this is your first offense... But next time, villagers will stop trading with you. If your reputation drops even further, guards and iron golems may start attacking you. You can improve your reputation by handing in \"},{\"text\":\"bundled currency\",\"bold\":true,\"color\":\"green\"},{\"text\":\" (craftable) \",\"italic\":true},{\"text\":\"into the ledger chests inside guild houses or stalls.\"}]"
+					player_command: false
+				}
+				{
+					id: "71CF84030CC57DE5"
+					type: "command"
+					auto: "invisible"
+					command: "/setreputation reputation:villager @p 0"
+					player_command: false
+				}
+			]
 		}
 		{
 			x: 12.0d
