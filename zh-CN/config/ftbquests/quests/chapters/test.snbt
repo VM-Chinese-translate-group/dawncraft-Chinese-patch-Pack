@@ -825,7 +825,7 @@
 				id: "7B9F61F2A4765018"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"That was your first \"},{\"text\":\"death\",\"bold\":true,\"color\":\"red\"},{\"text\":\". Although most of your inventory items will stay with you, some of your valuable items may be lost in your corpse, which decomposes after 10 minutes. On top of that, some of your item durability and experience points have been depreciated as well. You can check where your corpse is by pressing \\\"\"},{\"text\":\"I\",\"bold\":true},{\"text\":\"\\\".\\n\\nAccumulated deaths in short periods of time will cause higher level of \\\"\"},{\"text\":\"Fractured Soul\",\"bold\":true,\"color\":\"light_purple\"},{\"text\":\"\\\", which increases durability and experience loss even further.\"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"这是你的第一次\"},{\"text\":\"死亡\",\"bold\":true,\"color\":\"red\"},{\"text\":\"。虽然你物品栏的大部分物品会保留，但一些有价值的物品可能会在你的遗体中丢失，遗体会在10分钟后腐烂。除此之外，你的一些物品的耐久和你的经验也会被降低。你可以通过按\\\"\"},{\"text\":\"I 来检查遗体的位置\",\"bold\":true},{\"text\":\"\\\"。\\n\\n短时间内多次死亡将导致\\\"\"},{\"text\":\"粉碎的灵魂效果的等级更高\",\"bold\":true,\"color\":\"light_purple\"},{\"text\":\"\\\"，这将进一步增加耐久和经验消耗。\"}]"
 				player_command: false
 			}]
 		}
@@ -844,7 +844,7 @@
 					id: "0206FC6701ED673E"
 					type: "command"
 					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"It seems your reputation is \"},{\"text\":\"bad\",\"bold\":true,\"color\":\"red\"},{\"text\":\" among villagers. You have been \"},{\"text\":\"forgiven\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\" since this is your first offense... But next time, villagers will stop trading with you. If your reputation drops even further, guards and iron golems may start attacking you. You can improve your reputation by handing in \"},{\"text\":\"bundled currency\",\"bold\":true,\"color\":\"green\"},{\"text\":\" (craftable) \",\"italic\":true},{\"text\":\"into the ledger chests inside guild houses or stalls.\"}]"
+					command: "/tellraw @p [\"\",{\"text\":\"看来你在\"},{\"text\":\"村民中的\",\"bold\":true,\"color\":\"red\"},{\"text\":\"声望很差。念在你是初犯，这次就\"},{\"text\":\"饶了你\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\"。如果还有下次，村民们将不再和你交易。如果你的声望进一步下降，守卫和铁傀儡将会攻击你。你可以通过将\"},{\"text\":\"袋装货币（可合成）\",\"bold\":true,\"color\":\"green\"},{\"text\":\"交到公会房屋或摊位中的\",\"italic\":true},{\"text\":\"账簿箱\"}]"
 					player_command: false
 				}
 				{
@@ -870,7 +870,7 @@
 				id: "707451785BD080B1"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"You can press \"},{\"text\":\"\\\"R\\\"\",\"bold\":true,\"color\":\"green\"},{\"text\":\" to Enter Combat Stance. Damage dealt in regular stance deals \"},{\"text\":\"half\",\"bold\":true,\"color\":\"red\"},{\"text\":\" as much damage as you would in combat stance. \"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"你可以按\"},{\"text\":\"\\\"R\\\"\",\"bold\":true,\"color\":\"green\"},{\"text\":\"以进入战斗姿态。在普通姿态下造成的伤害\"},{\"text\":\"是你在战斗姿态下的\",\"bold\":true,\"color\":\"red\"},{\"text\":\"一半。\"}]"
 				player_command: false
 			}]
 		}
@@ -888,7 +888,7 @@
 				id: "23A84067614F3CE4"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"It seems you have found the means to travel to \"},{\"text\":\"the Nether\",\"bold\":true,\"color\":\"red\"},{\"text\":\". This will bring chaos to not only you, but to the \"},{\"text\":\"entire realm\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\". Once you enter, it cannot be undone. Make sure you have the resolve to move forward before stepping in the portal.\"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"看来你已经找到了\"},{\"text\":\"前往下界的方法\",\"bold\":true,\"color\":\"red\"},{\"text\":\"。这不仅会给你带来混乱，而且会给整个领域\"},{\"text\":\"带来混乱\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\"。这是条有去无回的路。在踏入传送门之前，请确保你有决心向前迈进。\"}]"
 				player_command: false
 			}]
 		}
@@ -906,7 +906,7 @@
 				id: "3542688F80E1C6D8"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p {\"text\":\"Congratulations on taming your first horse! You can now set it to your personal horse (Press \\\"J\\\"), and call your horse from anywhere in the realm (Press \\\"H).\"}"
+				command: "/tellraw @p {\"text\":\"恭喜你第一次驯服了一匹马！现在您可以将它设置为您的个人马匹（按\\\"J\\\"），并从领域的任何地方召唤您的马匹（按\\\"H）\"}"
 				player_command: false
 			}]
 		}
@@ -931,7 +931,7 @@
 				id: "152C911A2EDB4822"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p {\"text\":\"Congratulations on obtaining your first skill! You can now see a list of skills you've acquired, and change the specific skills you want to equip (Press \\\"K\\\").\"}"
+				command: "/tellraw @p {\"text\":\"恭喜你获得了第一个技能！现在你可查看已获得的技能列表，并改变装备的具体技能（按\\\"K\\\"）\"}"
 				player_command: false
 			}]
 		}
@@ -948,7 +948,7 @@
 				id: "7B0591F07EC96892"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"Seems you've found a village! You can interact with villagers who have exclamation marks above their head. Some of them provide \"},{\"text\":\"knowledge \",\"bold\":true,\"color\":\"green\"},{\"text\":\"required to work with certain blocks such as Loom, Fletching Table, etc... But for most of the useful blocks, such as Anvil, Enchanting Table, Smithing Table, etc... You will want to learn it from the \"},{\"text\":\"Guild Master\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\". Find villagers wearing blue robe and start your journey!\"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"似乎你发现了个村庄！一些村民可以提供\"},{\"text\":\"使用某些方块所需的知识，\",\"bold\":true,\"color\":\"green\"},{\"text\":\"比如织布机，制箭台等。但对于大多数常用的方块，如铁砧、附魔台、锻造台等。你需要向\"},{\"text\":\"冒险者公会会长学习\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\"。找到身穿蓝袍的村民，开始你的旅程！\"}]"
 				player_command: false
 			}]
 		}
@@ -1004,7 +1004,7 @@
 				id: "01214ACE5D82E719"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"Seems you've obtained a trading scroll! Note that trade prices are absurdly \"},{\"text\":\"high \",\"bold\":true,\"color\":\"red\"},{\"text\":\"when you are have neutral reputation. Gain higher reputation by completing quests from the Quest Book, or Villager quests. Once villagers start to like you, you will see the trade prices drop \"},{\"text\":\"tremendously\",\"bold\":true,\"color\":\"green\"},{\"text\":\"!\"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"看来你已经获得了一个交易卷轴！注意当你和村民的关系\"},{\"text\":\"是中立时，\",\"bold\":true,\"color\":\"red\"},{\"text\":\"交易价格可能会离谱得高。一旦村民对你产生改观，\"},{\"text\":\"交易价格将会大幅下降\",\"bold\":true,\"color\":\"green\"},{\"text\":\"！\"}]"
 				player_command: false
 			}]
 		}
@@ -1279,7 +1279,7 @@
 				id: "1246B523C0F3419C"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"You have obtained an \"},{\"text\":\"essence\",\"bold\":true,\"color\":\"red\"},{\"text\":\". You'll need to consume it for the horned statue to recognize it.\"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"你已获得一个\"},{\"text\":\"精华\",\"bold\":true,\"color\":\"red\"},{\"text\":\"。你需要消耗它，让恶魔雕像认识它。\"}]"
 				player_command: false
 			}]
 		}
@@ -1303,8 +1303,8 @@
 						}]
 						map: 10
 						display: {
-							Lore: ["{\"text\":\"A map given by a fallen adventurer to locate a church.\"}"]
-							Name: "{\"text\":\"A Suspicious Map\"}"
+							Lore: ["{\"text\":\"由亡灵冒险家提供寻找一个教堂的地图。\"}"]
+							Name: "{\"text\":\"可疑地图\"}"
 						}
 					}
 				}
@@ -1340,8 +1340,8 @@
 						}]
 						map: 11
 						display: {
-							Lore: ["{\"text\":\"Father Gascoigne's whereabouts.\"}"]
-							Name: "{\"text\":\"Location of the Father\"}"
+							Lore: ["{\"text\":\"加斯科因神父的去向\"}"]
+							Name: "{\"text\":\"加斯科因神父的位置\"}"
 						}
 					}
 				}
@@ -1374,8 +1374,8 @@
 						}]
 						map: 16
 						display: {
-							Lore: ["{\"text\":\"A map leading you to the most powerful being within the realm.\"}"]
-							Name: "{\"text\":\"The True End's Portal\"}"
+							Lore: ["{\"text\":\"一张地图，指引你前往这里最强大之物。\"}"]
+							Name: "{\"text\":\"真正的末地传送门\"}"
 						}
 					}
 				}
