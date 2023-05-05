@@ -422,7 +422,7 @@
   "chapter.4.quest.5.description.1": "The most basic device for generating source. Place near growing crops to generate source. A source jar can be placed nearby to store generated source.",
   "chapter.4.quest.50.description.1": "Crafted by enchanting a potion flask in an Enchanting Apparatus\n Increases the power of effects by 1, but reduces their time in half.",
   "chapter.4.quest.6.description.1": "An important item for crafting magical items. Place it into the ground 1 block so that an Enchanting Apparatus can be placed on top of it.",
-  "chapter.4.quest.7.description.1": "Used to craft magical items. Place on top of an Arcane Core block to function. Requires pedestals to add crafting materials (see next quest).",
+  "chapter.4.quest.7.description.1": "用于制造魔法物品。放置在奥数核心方块上以产发挥作用。同时也需要奥数基座来添加材料（见下一个任务）。",
   "chapter.4.quest.8.description.1": "放在位于附魔装置下的奥数核心四周，最多可以围绕附魔装置放置8个。先将材料放在奥术基座上，然后再将需要附魔的物品放进附魔装置以进行合成。合成表可以在JEI或是破旧的笔记本中查到。\n\n\n一些配方会消耗魔源，合成时会自动从附近的魔源罐中汲取。",
   "chapter.4.quest.9.description.1": "用于储存附近魔源通道产生的能量。",
   "chapter.4.title": "魔法",
