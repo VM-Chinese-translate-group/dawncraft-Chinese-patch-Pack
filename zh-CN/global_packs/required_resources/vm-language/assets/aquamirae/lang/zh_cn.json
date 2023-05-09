@@ -204,7 +204,7 @@
   "info.captain_spawn_fail": "§c 无事发生……",
   "info.maze_mother_spawn": "§c 你感受到冰下的震动……",
   "perk.rune_of_the_storm.name": "@§7风暴符文",
-  "perk.rune_of_the_storm.style": "风暴符文",
+  "perk.rune_of_the_storm.style": "rune_of_the_storm",
   "perk.rune_of_the_storm.text": "风暴符文 > 在寒冷的生物群系中 > 多造成33%的伤害。",
   "aquamirae.obscure_book.mod_entry": " §7这是一个增加了> §7海船墓地和其他恐怖> §7深海生物的冒险模组。> §8本模组的探索旅程> §8会在你找到冻洋生> §8物群系之下的一座> §8寒冰迷宫后开始。 ",
   "aquamirae.obscure_book.mod_link": "海灵物语",
