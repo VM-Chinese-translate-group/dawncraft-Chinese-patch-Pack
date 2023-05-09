@@ -1004,7 +1004,7 @@
 				id: "01214ACE5D82E719"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"看来你已经获得了一个交易卷轴！注意当你和村民的关系\"},{\"text\":\"是中立时，\",\"bold\":true,\"color\":\"red\"},{\"text\":\"交易价格可能会离谱得高。一旦村民对你产生改观，\"},{\"text\":\"交易价格将会大幅下降\",\"bold\":true,\"color\":\"green\"},{\"text\":\"！\"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"看来你已经获得了一个交易卷轴！注意当你和村民的关系\"},{\"text\":\"是中立时，\",\"bold\":true,\"color\":\"red\"},{\"text\":\"交易价格可能会离谱得高。通过完成村民任务获得更高的声望。一旦村民对你产生改观，\"},{\"text\":\"交易价格将会大幅下降\",\"bold\":true,\"color\":\"green\"},{\"text\":\"！\"}]"
 				player_command: false
 			}]
 		}
