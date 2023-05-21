@@ -809,6 +809,13 @@
 					command: "/loot give @p loot minecraft:village"
 					player_command: false
 				}
+				{
+					id: "67DC70E6BD4D2C21"
+					type: "command"
+					auto: "enabled"
+					command: "/gamerule weightPenalty 40"
+					player_command: false
+				}
 			]
 		}
 		{
