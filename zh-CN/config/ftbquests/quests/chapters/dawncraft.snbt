@@ -66,19 +66,11 @@
 				type: "item"
 				item: "simple_mobs:bundled_emerald"
 			}]
-			rewards: [
-				{
-					id: "4587D492A0846A3B"
-					type: "item"
-					item: "minecraft:emerald"
-					count: 8
-				}
-				{
-					id: "082DDCA28613EE54"
-					type: "item"
-					item: "minecraft:leather"
-				}
-			]
+			rewards: [{
+				id: "41D3DABF7AA2424E"
+				type: "item"
+				item: "minecraft:cookie"
+			}]
 		}
 		{
 			title: "{chapter.2.quest.4.title}"
@@ -97,7 +89,7 @@
 				id: "115B9E78CBA9C892"
 				type: "xp"
 				auto: "enabled"
-				xp: 10
+				xp: 1
 			}]
 		}
 		{
@@ -175,6 +167,7 @@
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
+					consume_items: true
 				}
 			]
 			rewards: [{
@@ -228,6 +221,7 @@
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
+					consume_items: true
 				}
 			]
 			rewards: [{
@@ -281,6 +275,7 @@
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
+					consume_items: true
 				}
 			]
 			rewards: [{
@@ -333,6 +328,7 @@
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
+					consume_items: true
 				}
 			]
 			rewards: [{
@@ -400,6 +396,7 @@
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
+					consume_items: true
 				}
 			]
 			rewards: [{
@@ -459,6 +456,7 @@
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
+					consume_items: true
 				}
 			]
 			rewards: [{
@@ -524,6 +522,7 @@
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
+					consume_items: true
 				}
 			]
 			rewards: [{
@@ -568,6 +567,7 @@
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
+					consume_items: true
 				}
 			]
 			rewards: [{
@@ -621,6 +621,7 @@
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
+					consume_items: true
 				}
 			]
 			rewards: [{
@@ -667,6 +668,7 @@
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
+					consume_items: true
 				}
 			]
 			rewards: [{
@@ -725,6 +727,7 @@
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
+					consume_items: true
 				}
 			]
 			rewards: [{
@@ -800,6 +803,7 @@
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
+					consume_items: true
 				}
 			]
 			rewards: [{
@@ -839,6 +843,7 @@
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
+					consume_items: true
 				}
 			]
 			rewards: [{
@@ -885,6 +890,7 @@
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
+					consume_items: true
 				}
 			]
 			rewards: [{
@@ -973,6 +979,7 @@
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
+					consume_items: true
 				}
 			]
 			rewards: [{
@@ -1032,6 +1039,7 @@
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
+					consume_items: true
 				}
 			]
 			rewards: [{
@@ -1075,6 +1083,7 @@
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
+					consume_items: true
 				}
 			]
 			rewards: [{
@@ -1139,6 +1148,7 @@
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
+					consume_items: true
 				}
 			]
 			rewards: [{
@@ -1203,6 +1213,7 @@
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
+					consume_items: true
 				}
 			]
 			rewards: [{
@@ -1267,6 +1278,8 @@
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
+					consume_items: true
+					only_from_crafting: false
 				}
 			]
 			rewards: [{
@@ -1306,6 +1319,7 @@
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
+					consume_items: true
 				}
 			]
 			rewards: [{
