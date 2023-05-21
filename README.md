@@ -11,6 +11,7 @@ CurseForge|Modrinth|Modpack Version|Status
 
 # 翻译工作平台  
   [crowdin](https://zh.crowdin.com/project/dawncraft-chinese-patch-pack)
+  [新crowdin](https://zh.crowdin.com/project/dawncraft-chinese-patch-pack-2)
   进度：[![Crowdin](https://badges.crowdin.net/dawncraft-chinese-patch-pack/localized.svg)](https://crowdin.com/project/dawncraft-chinese-patch-pack)
 # 关于我们
   [![Website](https://shields.io/website?up_message=vmct-cn.top&url=http://vmct-cn.top&label=Website)](http://vmct-cn.top)
