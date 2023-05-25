@@ -73,7 +73,7 @@
 			tasks: [{
 				id: "24C6540B62EB8438"
 				type: "item"
-				item: "cloudstorage:balloon_inventory"
+				item: "cloudstorage:balloon"
 			}]
 			rewards: [{
 				id: "381FB78BCB25EFCD"
