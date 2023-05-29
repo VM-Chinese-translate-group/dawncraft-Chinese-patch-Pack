@@ -3,10 +3,10 @@
   "icon": "minecraft:wooden_sword",
   "start": {
     "title": {
-      "text": "噢噫！"
+      "text": "Oy!"
     },
     "description": {
-      "text": "嘿！有件事想请你帮个忙，能听我说说吗？"
+      "text": "Oy! Got a favor to ask of you... Would you listen?"
     }
   }
 }
