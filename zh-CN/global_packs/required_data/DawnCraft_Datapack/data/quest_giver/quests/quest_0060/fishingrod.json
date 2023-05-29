@@ -4,18 +4,18 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "解锁钓鱼竿"
+      "text": "Unlock Fishing Rod"
     },
     "description": {
-      "text": "没错，我能教你如何钓鱼，只要你能出的起18个绿宝石的学费。"
+      "text": "Yeah I can teach you how to fish, but it'll cost you 18 emeralds."
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "这并不难，对吧？但动作别太大，会把鱼吓跑的。"
+      "text": "Not that hard now is it? Don't swing around too much though, scares away the fish."
     }
   },
   "tasks": [
