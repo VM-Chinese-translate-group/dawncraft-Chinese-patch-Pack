@@ -4,10 +4,10 @@
   "icon": "minecraft:ender_pearl",
   "start": {
     "title": {
-      "text": "求助"
+      "text": "help"
     },
     "description": {
-      "text": "末地的深处有一种隐藏的生物——虚空蠕虫。你可以通过将神秘蠕虫扔进虚空来召唤它。神秘蠕虫可以通过将绯红孑孓放入衣壳体中获得。"
+      "text": "There's a hidden creature living in the depths of the end dimension - The Void Worm. You can summon it by throwing the larva into the depths of the end. The larva can be created by throwing crimson mosquito larva into enderiophage's capsid."
     }
   }
 }
