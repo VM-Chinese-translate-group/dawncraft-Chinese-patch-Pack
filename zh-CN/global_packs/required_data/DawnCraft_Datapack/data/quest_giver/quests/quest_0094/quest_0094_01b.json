@@ -4,10 +4,10 @@
   "icon": "minecraft:ender_pearl",
   "start": {
     "title": {
-      "text": "求助"
+      "text": "help"
     },
     "description": {
-      "text": "有一道叫做“末地美馔”的菜品。这道菜只能用在末地维度里面找到的材料来制作……请你收集所有需要的食材，给我烹饪一份末地美馔。"
+      "text": "There's a dish called End Delight. It's a dish that can only be made with ingredients found in the End Dimension... Please gather all the resources and cook one for me."
     }
   }
 }
