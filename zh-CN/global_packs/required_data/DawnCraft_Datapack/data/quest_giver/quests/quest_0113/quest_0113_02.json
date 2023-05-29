@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "又见面了！"
+      "text": "Hello again!"
     },
     "description": {
-      "text": "你拿到了$(red)宝石$()吗？你可能要消灭这个生物才能得到它。"
+      "text": "Did you get the  $(red)gem$()? You might have to exterminate the creature to get it."
     }
   },
   "complete": {
     "title": {
-      "text": "这儿。"
+      "text": "Here."
     },
     "description": {
-      "text": "哇……这真是令人惊讶。这简直是……异乎寻常。我需要一些时间来研究这个。你能给我带一根木棍吗？我想我也许能给你做一些特别的东西。"
+      "text": "Wow... this is amazing. This is simply... astonishing. I will need some time with this. Can you bring me a wooden stick? I Think I might be able to make you something special."
     }
   },
   "tasks": [
