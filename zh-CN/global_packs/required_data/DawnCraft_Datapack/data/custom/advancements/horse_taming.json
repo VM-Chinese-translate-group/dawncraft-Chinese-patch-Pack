@@ -1,10 +1,10 @@
 {
 	"display": {
 		"title": {
-			"text": "训马"
+			"text": "Horse Taming"
 		},
 		"description": {
-			"text": "驯服一匹马。"
+			"text": "Tamed a horse."
 		},
 		"icon": {
 			"item": "minecraft:saddle"
