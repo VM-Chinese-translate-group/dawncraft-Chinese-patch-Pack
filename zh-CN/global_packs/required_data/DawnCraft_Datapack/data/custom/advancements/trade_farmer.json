@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "农民交易卷轴已获得！",
+            "text": "Farmer Trade Scroll Obtained!",
             "color": "blue",
             "bold": true
         },
         "description": {
-            "text": "获得农民交易卷轴。"
+            "text": "Obtained Trade Scroll for Farmer."
         },
         "icon": {
             "item": "minecraft:paper"
