@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "一个奇迹的世界！",
+            "text": "A World of Wonders!",
             "color": "dark_purple",
             "bold": true
         },
         "description": {
-            "text": "找到三个生物群系：白色台地、古代沙海和火山之巅"
+            "text": "Found the three biomes: White Mesa, Ancient Sands & Volcanic Peaks."
         },
         "icon": {
             "item": "minecraft:poppy"
