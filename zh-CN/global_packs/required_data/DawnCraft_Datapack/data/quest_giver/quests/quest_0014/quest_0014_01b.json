@@ -4,10 +4,10 @@
   "icon": "minecraft:enchanted_book",
   "start": {
     "title": {
-      "text": "牛刀小试"
+      "text": "The Basic Skill"
     },
     "description": {
-      "text": "啊，凭你现在的实力可能找不到哪些眼睛。先杀死$(red)10个掠夺者$()再回来找我吧，我会传授你在这个维度中最重要的技能。"
+      "text": "Ah... I don't think you'll be able to find the eyes in your current conditions. Come back to me once you've killed $(red)10 pillagers$(). I'll give you the most important skill you can get in this dimension."
     }
   }
 }
