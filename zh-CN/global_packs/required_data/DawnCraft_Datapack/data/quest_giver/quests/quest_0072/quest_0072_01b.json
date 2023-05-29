@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 5,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "相谈甚欢"
+    },
+    "description": {
+      "text": "你知道吗？你可以借助新生魔艺的使魔来实现一些自动化，比如种植和采矿。或者你也可以选择机械动力中的动态结构来实现自动化生产……如果你想要进一步了解的话，不妨去找一位工程师聊聊。"
+    }
+  }
+}
