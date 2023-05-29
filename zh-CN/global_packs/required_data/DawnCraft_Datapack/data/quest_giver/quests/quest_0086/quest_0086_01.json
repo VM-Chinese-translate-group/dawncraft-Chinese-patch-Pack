@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "紧急请求"
+      "text": "An Urgent Request"
     },
     "description": {
-      "text": "你拿到$(red)16个铁锭$()了吗？请快点。"
+      "text": "Did you get the $(red)16 iron ingots$()? Please hurry."
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "谢谢你，我知道我不应该让一个冒险家帮助收集资源……但我没有选择。掠夺者的军队正在逼近，他们很快就会来到这个村庄... 如果你想要一份清剿任务，请告诉我，我很乐意提供。"
+      "text": "Thank you, I know that I shouldn't be asking an adventurer to help with resource gathering... But I don't have much choice. The pillager army is closing in, they're coming to this village soon... Let me know if you want an extermination contract, I'll be happy to offer."
     }
   },
   "tasks": [
