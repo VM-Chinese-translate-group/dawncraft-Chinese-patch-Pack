@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "海上迷雾",
+            "text": "Smoke On The Water",
             "color": "dark_purple"
         },
         "description": {
-            "text": "找到一艘幽灵海盗船"
+            "text": "Find an Undead Pirate Ship"
         },
         "icon": {
             "item": "minecraft:gunpowder"
