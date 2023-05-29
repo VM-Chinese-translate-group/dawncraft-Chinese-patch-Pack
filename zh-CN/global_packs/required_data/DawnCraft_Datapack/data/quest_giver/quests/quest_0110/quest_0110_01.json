@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:quest_0110_01b",
+  "reputation": 16,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "又见面了！"
+    },
+    "description": {
+      "text": "勇士！请给我一张纸，我为你指明它洞穴的位置。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "给你。"
+    },
+    "description": {
+      "text": "给，消息是从那个牧师那里传来的，所以我不太确定它有多可靠。但不管怎样，请找到那只怪物，消灭它，然后把它掉落的东西带回来。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "amount": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:guard3",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p guard3 true",
+      "id": "quest_giver:command"
+    }
+  ]
+}
