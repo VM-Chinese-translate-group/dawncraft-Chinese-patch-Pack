@@ -1,0 +1,47 @@
+{
+  "parent": "quest_giver:quest_0118_01b",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "火龙之心"
+    },
+    "description": {
+      "text": "别问我为什么。孩子，你知道得越少越好。只需要给我$(red)火龙心脏$()就行了。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "就知道我能相信你。干得不错。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "simple_mobs:firedragon_heart"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "paraglider:spirit_orb"
+      },
+      "id": "quest_giver:item",
+      "times": 2
+    },
+    {
+      "command": "/advancement grant @p only custom:trade_miner",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/addreputation reputation:villager @p 2",
+      "id": "quest_giver:command"
+    }
+  ]
+}
