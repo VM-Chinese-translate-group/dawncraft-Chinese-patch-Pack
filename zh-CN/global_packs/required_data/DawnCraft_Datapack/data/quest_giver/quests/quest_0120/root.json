@@ -1,0 +1,12 @@
+{
+  "reputation": 19,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "我知道一个地方，无数冒险者试图在那唤醒强大的生物。你想知道它在哪吗？"
+    }
+  }
+}
