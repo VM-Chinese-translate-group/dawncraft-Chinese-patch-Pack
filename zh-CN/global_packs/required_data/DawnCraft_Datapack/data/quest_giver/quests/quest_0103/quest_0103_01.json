@@ -4,18 +4,18 @@
   "icon": "minecraft:bow",
   "start": {
     "title": {
-      "text": "所以？"
+      "text": "So?"
     },
     "description": {
-      "text": "你拿到两捆$(red)毒参$()了吗？"
+      "text": "Did you get the 2 patches of $(red)Hemlock$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "谢谢。现在我可以做这个诱饵了。"
+      "text": "Thanks. Now I can make the lure."
     }
   },
   "tasks": [
