@@ -4,18 +4,18 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "收集羽毛"
+      "text": "Feathers Fetching"
     },
     "description": {
-      "text": "你带来了$(red)2片走鹃羽毛$()了吗？"
+      "text": "Did you get $(red)2 Roadrunner Feathers$() yet?"
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "嗯……这个质量并没有预期的那样好。我会看看能否把它用在其他地方。无论如何，还是麻烦你了，这是你的报酬。"
+      "text": "hm... The quality doesn't seem to be especially good. I'll see if I can make use of it in other ways. Anyway, here, for your trouble."
     }
   },
   "tasks": [
