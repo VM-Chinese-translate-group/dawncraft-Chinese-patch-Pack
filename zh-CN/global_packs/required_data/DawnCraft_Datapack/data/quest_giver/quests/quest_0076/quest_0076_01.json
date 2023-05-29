@@ -1,0 +1,47 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 28,
+  "icon": "minecraft:stone",
+  "start": {
+    "title": {
+      "text": "异界之石Ⅲ"
+    },
+    "description": {
+      "text": "你拿到$(red)明月石$()了吗？你可以在恒晓之地找到它们。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "谢谢。但是这品质……说实话有些低劣。我会试着开发它的其他用途。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "blue_skies:lunar_stone"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/advancement grant @p only custom:trade_mason",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/addreputation reputation:village @p 2",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}
