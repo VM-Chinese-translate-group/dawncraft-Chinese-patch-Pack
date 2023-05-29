@@ -4,18 +4,18 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "制作箭矢"
+      "text": "Arrow Making"
     },
     "description": {
-      "text": "你带来了$(red)两片羽毛$()了吗？"
+      "text": "Did you get $(red)2 feathers$() yet?"
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "谢谢。这是答应给你的箭。"
+      "text": "Thanks. Here, the arrows as promised."
     }
   },
   "tasks": [
