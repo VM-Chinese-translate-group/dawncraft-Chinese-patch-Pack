@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:iron_axe",
+  "start": {
+    "title": {
+      "text": "传授剑艺"
+    },
+    "description": {
+      "text": "25个绿宝石，我会教你如何双持巨剑。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "很高兴能和你切磋剑术。好好练习，但是劳逸结合，别把自己累垮了。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "amount": 25
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/give @p epicfight:skillbook{skill:\"epicfight:dualgreatsword\"}",
+      "id": "quest_giver:command"
+    }
+  ]
+}
