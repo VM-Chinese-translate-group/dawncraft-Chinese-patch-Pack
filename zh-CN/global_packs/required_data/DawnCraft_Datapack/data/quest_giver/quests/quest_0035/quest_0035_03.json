@@ -7,7 +7,7 @@
 			"text": "熊熊烈火"
 		},
 		"description": {
-			"text": "$(light_blue)霜风之剑$()。倘若你在灰烬荒野中寻得它，切让我知悉。"
+			"text": "$(light_blue)霜风之剑$()。倘若你在灰烬荒地中寻得它，切让我知悉。"
 		}
 	},
 	"complete": {
@@ -30,7 +30,7 @@
 	],
 	"rewards": [
 		{
-			"command": "/addreputation reputation:village @p 3",
+			"command": "/addreputation reputation:villager @p 3",
 			"id": "quest_giver:command"
 		}
 	]
