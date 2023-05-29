@@ -4,18 +4,18 @@
   "icon": "minecraft:redstone",
   "start": {
     "title": {
-      "text": "所以？"
+      "text": "So?"
     },
     "description": {
-      "text": "你拿到$(red)10个红石粉$()了吗？"
+      "text": "Did you get the $(red)10 Redstone Dust$()"
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "谢谢，给你。"
+      "text": "Thanks, here you go."
     }
   },
   "tasks": [
