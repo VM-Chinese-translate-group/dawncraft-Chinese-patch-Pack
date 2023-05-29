@@ -24,7 +24,7 @@
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "下界工匠提供的前往侦查闹鬼之地的地图。"
+                  "text": "下界学家提供的前往侦查闹鬼之地的地图。"
                 }
               ]
             }
