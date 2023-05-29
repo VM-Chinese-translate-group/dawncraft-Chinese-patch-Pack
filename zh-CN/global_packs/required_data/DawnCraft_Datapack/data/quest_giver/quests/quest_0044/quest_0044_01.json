@@ -4,18 +4,18 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "那么？"
+      "text": "So?"
     },
     "description": {
-      "text": "你不会忘了吧？我需要5个蜘蛛眼。"
+      "text": "Forgot already? I need 5 spider eyes."
     }
   },
   "complete": {
     "title": {
-      "text": "感谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "感谢你的帮助！"
+      "text": "Thanks for your help!"
     }
   },
   "tasks": [
