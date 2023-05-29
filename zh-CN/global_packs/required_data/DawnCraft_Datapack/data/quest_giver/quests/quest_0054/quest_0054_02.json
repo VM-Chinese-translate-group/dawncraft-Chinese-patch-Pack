@@ -1,0 +1,47 @@
+{
+	"parent": "quest_giver:quest_0054_01",
+	"reputation": 5,
+	"icon": "minecraft:wheat_seeds",
+	"start": {
+		"title": {
+			"text": "所以？"
+		},
+		"description": {
+			"text": "如果可以的话，你能帮我们做$(red)2个面包$()吗？不过不用着急。"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "谢谢！"
+		},
+		"description": {
+			"text": "非常感谢！请收下这个，虽然不是很多，但眼下我只付得起这些。"
+		}
+	},
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:bread"
+			},
+			"id": "quest_giver:gift",
+			"times": 2
+		}
+	],
+	"rewards": [
+		{
+			"command": "/advancement grant @p only custom:trade_farmer",
+			"id": "quest_giver:command"
+		},
+		{
+			"command": "/addreputation reputation:villager @p 2",
+			"id": "quest_giver:command"
+		},
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:item",
+			"times": 2
+		}
+	]
+}
