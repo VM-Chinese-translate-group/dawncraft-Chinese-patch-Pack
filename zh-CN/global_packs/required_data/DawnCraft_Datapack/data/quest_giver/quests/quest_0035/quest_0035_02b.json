@@ -4,10 +4,10 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "熊熊烈火"
+      "text": "Incendium"
     },
     "description": {
-      "text": "哦，回来得这么早？那么，你去过下界了吗？下界中有一个叫做灰烬荒地的生物群系。试着去那里找一座城堡，即使找不到也请回来告诉我。我真的很想知道那个地方是什么样子，请你一定告诉我。"
+      "text": "Ah, back so early? Well, have you been to the nether? There is a biome called Ash Barrens in the Nether. See if you can find a castle there, even if you cannot, come back to me. I want to know what that place is like, please."
     }
   }
 }
