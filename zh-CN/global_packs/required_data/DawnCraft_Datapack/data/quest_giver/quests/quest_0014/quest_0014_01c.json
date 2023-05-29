@@ -4,18 +4,18 @@
 	"icon": "minecraft:crossbow",
 	"start": {
 		"title": {
-			"text": "Finding Pillagers"
+			"text": "为民除害"
 		},
 		"description": {
-			"text": "Thought you were an adventurer... Fine. Fetch me a piece of paper. I'll show you the whereabouts of the closest pillager camp we know of."
+			"text": "莫非，你是个冒险者……那太好了，帮我找来一张纸。我会告诉你我们在附近发现的掠夺者营地的位置。"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Map Fetched"
+			"text": "地图已获取"
 		},
 		"description": {
-			"text": "Here you go. You may find pillagers somewhere closer though. Those buggers are infested everywhere."
+			"text": "给你。你可能会提前遇到其他的掠夺者小队。这些可恶的家伙无处不在。"
 		}
 	},
 	"tasks": [
@@ -30,6 +30,10 @@
 	"rewards": [
 		{
 			"command": "/loot give @p loot minecraft:pillager1",
+			"id": "quest_giver:command"
+		},
+		{
+			"command": "/gamestage add @p guildmaster1 true",
 			"id": "quest_giver:command"
 		}
 	]
