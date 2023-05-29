@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "那么？"
+      "text": "So?"
     },
     "description": {
-      "text": "你能给我找一张纸吗？我给你画张地图。"
+      "text": "Could you fetch me a piece of paper? I'll draw you a map."
     }
   },
   "complete": {
     "title": {
-      "text": "感谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "给你，麻烦你替我问候它。如果没有它的话，我今天估计就不能站在这里了。"
+      "text": "Here you go. Please tell it that I send my regards. I wouldn't be here without it."
     }
   },
   "tasks": [
