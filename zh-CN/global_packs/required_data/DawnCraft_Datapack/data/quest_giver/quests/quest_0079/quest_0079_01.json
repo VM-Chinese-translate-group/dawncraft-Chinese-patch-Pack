@@ -1,0 +1,45 @@
+{
+  "parent": "quest_giver:quest_0079_01b",
+  "reputation": 0,
+  "icon": "minecraft:white_wool",
+  "start": {
+    "title": {
+      "text": "清剿任务"
+    },
+    "description": {
+      "text": "请尽快完成清剿任务。我的小羊羔每天晚上都担惊受怕的。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "做得好。虽然还有很多苦力怕，但我现在看到的数量似乎少了一些。这是你的报酬。"
+    }
+  },
+  "tasks": [
+    {
+      "entity": "minecraft:creeper",
+      "id": "quest_giver:kill",
+      "times": 6
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 2
+    },
+    {
+      "command": "/addreputation reputation:villager @p 2",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/advancement grant @p only custom:trade_shepherd",
+      "id": "quest_giver:command"
+    }
+  ]
+}
