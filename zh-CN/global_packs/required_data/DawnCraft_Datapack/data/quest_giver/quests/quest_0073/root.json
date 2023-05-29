@@ -1,0 +1,12 @@
+{
+  "reputation": 8,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "你好！你去过永昼之地或恒晓之地这两个维度吗？不管去没去过，你能帮我个忙吗？"
+    }
+  }
+}
