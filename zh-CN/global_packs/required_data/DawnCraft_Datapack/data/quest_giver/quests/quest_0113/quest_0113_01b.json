@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "求助"
+      "text": "help"
     },
     "description": {
-      "text": "我从一些流浪商人那里听说，不久之前，他们在一片由黑曜石尖刺覆盖的区域里，发现了一只背上布满宝石尖刺的巨兽(马蒂亞文)……我对这头巨兽身上的宝石非常好奇。你能给我找张纸吗？我会给你指条路。"
+      "text": "I've heard from the wandering travellers that they spotted a gigantic monster with gem spikes on its back a while ago. They say it was located in an area covered in obsidian spikes... I'm quite curious of the gems that this creature possesses. Could you fetch me a piece of paper? I'll show you where it is."
     }
   }
 }
