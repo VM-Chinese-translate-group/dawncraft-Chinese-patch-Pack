@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "牧师交易卷轴已获得！",
+            "text": "Cleric Trade Scroll Obtained!",
             "color": "blue",
             "bold": true
         },
         "description": {
-            "text": "已获得牧师交易卷轴。"
+            "text": "Obtained Trade Scroll for Cleric."
         },
         "icon": {
             "item": "minecraft:paper"
