@@ -4,18 +4,18 @@
   "icon": "minecraft:paper",
   "start": {
     "title": {
-      "text": "解锁制图台"
+      "text": "Unlock Cartography Table"
     },
     "description": {
-      "text": "哦……嗯，好吧，给我15个绿宝石，我就教你如何使用它。"
+      "text": "Oh... hm, alright. Give me 15 emeralds and I'll teach you how to use it."
     }
   },
   "complete": {
     "title": {
-      "text": "好了"
+      "text": "Here ya go."
     },
     "description": {
-      "text": "不要被桌子上的设备吓倒，你会掌握它的！"
+      "text": "Don't get intimidated by the equipments on the table, you'll get the hang of it!"
     }
   },
   "tasks": [
