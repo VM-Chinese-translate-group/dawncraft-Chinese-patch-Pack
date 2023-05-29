@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "末影族交易卷轴已获得！",
+            "text": "Enderian Trade Scroll Obtained!",
             "color": "blue",
             "bold": true
         },
         "description": {
-            "text": "已获得末影族交易卷轴。"
+            "text": "Obtained Trade Scroll for Enderian."
         },
         "icon": {
             "item": "minecraft:paper"
