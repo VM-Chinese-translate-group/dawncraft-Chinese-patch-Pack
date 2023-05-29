@@ -4,10 +4,10 @@
   "icon": "minecraft:ender_pearl",
   "start": {
     "title": {
-      "text": "求助"
+      "text": "help"
     },
     "description": {
-      "text": "太好了！你是否知道，击败末影龙后，它会掉落龙蛋？我在想，能否让我看看那枚$(red)龙蛋$()呢？如果可以，那将使我充满喜悦。"
+      "text": "Great! Did you know that upon defeat, the Ender Dragon will drop its egg? I was wondering if it would be possible for you to let me take a look at the $(red)dragon egg$(), it will make my day."
     }
   }
 }
