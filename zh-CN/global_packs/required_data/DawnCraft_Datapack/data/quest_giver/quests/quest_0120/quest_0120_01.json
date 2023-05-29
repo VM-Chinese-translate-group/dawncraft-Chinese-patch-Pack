@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "龙之心"
+      "text": "Dragon Heart"
     },
     "description": {
-      "text": "一张指明召唤展台位置的地图仅售5个绿宝石。"
+      "text": "The map to the summoning podium will cost you 5 emeralds."
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "很高兴与你做生意，朋友。"
+      "text": "Nice doing business with you, friend."
     }
   },
   "tasks": [
