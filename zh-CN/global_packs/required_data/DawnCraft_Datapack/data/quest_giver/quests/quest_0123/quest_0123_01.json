@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0123_01b",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "幽匿"
+    },
+    "description": {
+      "text": "哦，你回来了！你拿到 $(red)幽匿感测体$() 了吗？"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "这……看起来好奇怪。你遇到监守者了吗？哦，我猜你没有，因为你还活着。不管怎样，这是你的奖励。这件物品可以保护你免受平凡史莱姆的伤害。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "wildbackport:sculk_shrieker"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "dannys_expansion:gelatinous_diplomacy"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    },
+    {
+      "command": "/advancement grant @p only custom:trade_miner",
+      "id": "quest_giver:command"
+    }
+  ]
+}
