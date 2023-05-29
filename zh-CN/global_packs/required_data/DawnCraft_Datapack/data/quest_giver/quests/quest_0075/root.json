@@ -1,0 +1,12 @@
+{
+  "reputation": 15,
+  "icon": "minecraft:stone",
+  "start": {
+    "title": {
+      "text": "嗨！"
+    },
+    "description": {
+      "text": "你能给我弄一块$(red)远古残骸$吗？我从未用过如此珍稀的矿物……我愿意出高价购买它！"
+    }
+  }
+}
