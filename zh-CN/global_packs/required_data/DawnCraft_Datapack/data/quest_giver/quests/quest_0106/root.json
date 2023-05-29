@@ -1,0 +1,12 @@
+{
+  "reputation": 14,
+  "icon": "minecraft:log",
+  "start": {
+    "title": {
+      "text": "嗨！"
+    },
+    "description": {
+      "text": "我的朋友，你能帮我从工具匠那里拿到一把新斧头吗？我保证会付你钱的！"
+    }
+  }
+}
