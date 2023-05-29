@@ -1,7 +1,7 @@
 {
     "display": {
         "title": {
-            "text": "地牢浮现之时",
+            "text": "When Dungeons Arise",
             "color": "gold",
             "bold": false,
             "italic": false,
@@ -10,7 +10,7 @@
             "obfuscated": false
         },
         "description": {
-            "text": "地牢浮现于一个勇敢的新世界",
+            "text": "Dungeons arise on a brave new world",
             "color": "white"
         },
         "icon": {
