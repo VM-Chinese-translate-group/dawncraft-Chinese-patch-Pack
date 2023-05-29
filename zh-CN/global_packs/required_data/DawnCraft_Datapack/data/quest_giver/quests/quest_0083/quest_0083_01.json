@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:quest_0083_01b",
+  "reputation": 13,
+  "icon": "minecraft:iron_axe",
+  "start": {
+    "title": {
+      "text": "贵重之物"
+    },
+    "description": {
+      "text": "请给我一张$(red)纸$()。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "给你，拜托把我心爱的斧子找回来。那是我迄今为止做的最好的斧子了。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:toolsmith1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p toolsmith1 true",
+      "id": "quest_giver:command"
+    }
+  ]
+}
