@@ -4,18 +4,18 @@
 	"icon": "minecraft:book",
 	"start": {
 		"title": {
-			"text": "那么？"
+			"text": "So?"
 		},
 		"description": {
-			"text": "你能收集到$(red)10张纸$()吗？"
+			"text": "Did you get the chance to gather the $(red)10 pieces of paper$()?"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "感谢！"
+			"text": "Thanks!"
 		},
 		"description": {
-			"text": "谢谢。我现在没有绿宝石可以付给你……这样付款如何？"
+			"text": "Thanks. I don't have emeralds to pay you at the moment... How's this for payment?"
 		}
 	},
 	"tasks": [
