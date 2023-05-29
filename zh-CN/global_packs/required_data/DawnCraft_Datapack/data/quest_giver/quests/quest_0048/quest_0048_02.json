@@ -4,18 +4,18 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "那么？"
+      "text": "So?"
     },
     "description": {
-      "text": "哈哈哈哈！沐浴在毒雨中吧！"
+      "text": "HAHAHAHA! RAIN POISON ON US!"
     }
   },
   "complete": {
     "title": {
-      "text": "感谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "干的不错。“英雄”！这就是你想听到的吧？"
+      "text": "Well, great job. You're such a hero. Is that what you wanted to hear?"
     }
   },
   "tasks": [
