@@ -1,0 +1,12 @@
+{
+  "reputation": 24,
+  "icon": "minecraft:stone",
+  "start": {
+    "title": {
+      "text": "嗨！"
+    },
+    "description": {
+      "text": "你能否能从永昼之地维度中获得一块$(red)绿松石$()？我很好奇它们外表如何。"
+    }
+  }
+}
