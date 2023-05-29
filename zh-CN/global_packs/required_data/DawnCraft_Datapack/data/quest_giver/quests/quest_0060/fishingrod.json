@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:cod",
+  "start": {
+    "title": {
+      "text": "解锁钓鱼竿"
+    },
+    "description": {
+      "text": "没错，我能教你如何钓鱼，只要你能出的起18个绿宝石的学费。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "这并不难，对吧？但动作别太大，会把鱼吓跑的。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 18
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add fishing level 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}
