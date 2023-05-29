@@ -3,10 +3,10 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "有空吗？"
+      "text": "Got time?"
     },
     "description": {
-      "text": "有空吗，冒险家？能帮我拿些东西来吗？"
+      "text": "Got time? Adventurer, can you fetch me something?"
     }
   }
 }
