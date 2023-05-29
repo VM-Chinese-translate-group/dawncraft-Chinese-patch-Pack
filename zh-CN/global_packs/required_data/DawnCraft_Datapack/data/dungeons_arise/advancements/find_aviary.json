@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "三只小鸟",
+            "text": "Three Little Birds",
             "color": "gold"
         },
         "description": {
-            "text": "找到一座幻梦塔楼"
+            "text": "Find an Aviary"
         },
         "icon": {
             "item": "minecraft:phantom_membrane"
