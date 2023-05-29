@@ -1,0 +1,47 @@
+{
+  "parent": "quest_giver:quest_0060_01b",
+  "reputation": 0,
+  "icon": "minecraft:oak_boat",
+  "start": {
+    "title": {
+      "text": "鼓捣船只"
+    },
+    "description": {
+      "text": "记住，我的船必须用$(red)染菌轻木$()作为材料。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "马马虎虎，还需要再多下点工夫。不过这样就够了，谢谢你。这是你的奖励，我想你会喜欢的。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "biomemakeover:blighted_balsa_boat"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/advancement grant @p only custom:trade_fisherman",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/addreputation reputation:villager @p 3",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "paraglider:spirit_orb"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}
