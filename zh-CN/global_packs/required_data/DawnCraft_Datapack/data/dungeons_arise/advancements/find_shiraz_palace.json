@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "坠入梦乡",
+            "text": "Enter Sandman",
             "color": "gold"
         },
         "description": {
-            "text": "找到繁花之宫"
+            "text": "Find the Shiraz Palace"
         },
         "icon": {
             "item": "minecraft:totem_of_undying"
