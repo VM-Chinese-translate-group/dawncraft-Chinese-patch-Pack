@@ -3,10 +3,10 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "嗨！"
+      "text": "Hey!"
     },
     "description": {
-      "text": "能帮个忙吗，兄弟？"
+      "text": "Help a brother out will ya?"
     }
   }
 }
