@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "嘿！"
+      "text": "Hey!"
     },
     "description": {
-      "text": "请帮助我们，冒险者……你是我们唯一的希望！"
+      "text": "Please help us adventurer... You're our only help left!"
     }
   }
 }
