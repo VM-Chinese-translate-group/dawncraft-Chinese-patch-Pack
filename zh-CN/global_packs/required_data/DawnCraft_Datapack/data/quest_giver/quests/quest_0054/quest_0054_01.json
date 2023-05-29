@@ -1,0 +1,30 @@
+{
+  "parent": "quest_giver:quest_0054_01b",
+  "reputation": 5,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "所以？"
+    },
+    "description": {
+      "text": "你带来$(red)铁锄$()了吗？"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "哦，你为我们拿来了……真的很感谢你。但很抱歉可能又有一件事得麻烦你了……你能不能帮我们做$(red)2个面包$()呢？说来惭愧，我们只擅长种植和收割。你可以用我们农场里的小麦。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:iron_hoe"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ]
+}
