@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "蛮荒故事",
+            "text": "Wild Tales",
             "color": "dark_purple"
         },
         "description": {
-            "text": "找到一座灾厄城堡"
+            "text": "Find an Illager Fort"
         },
         "icon": {
             "item": "minecraft:snowball"
