@@ -4,18 +4,18 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "奇特的肉"
+      "text": "Exotic Meat"
     },
     "description": {
-      "text": "你拿到了$(red) 袋鼠的肉和皮$()？"
+      "text": "You got the$(red) kangaroo meat and hide$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "恭喜！"
+      "text": "Mazel Tov!"
     },
     "description": {
-      "text": "啊……这就是袋鼠肉的味道。看起来真嫩啊... 不过它的皮毛却不如我们平常使用的皮革好。不过作为狩猎的纪念还是不错的……非常感谢你，冒险家。我没有什么可以送给你的……拿着这些牛肉吧。这肉刚刚送来，非常新鲜！"
+      "text": "Ahh... so this is what kangaroo is like. A tender piece of meat indeed... The hide on the other hand isn't as good as the regular leather we use. A good trophy though... Thanks a lot adventurer. I don't have much to give you... Here, take these beef slices. The carcass just came in today so it's fresh!"
     }
   },
   "tasks": [
