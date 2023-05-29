@@ -1,0 +1,17 @@
+{
+   "entity.piglinproliferation.piglin_alchemist": "Piglin Alchemist",
+   "item.piglinproliferation.piglin_alchemist_spawn_egg": "Piglin Alchemist Spawn Egg",
+   "subtitles.entity.piglin_alchemist.prepared_to_throw_potion": "Piglin Alchemist is about to throw a potion!",
+   "subtitles.entity.piglin_alchemist.walk": "Potions clang",
+   "subtitles.entity.piglin_alchemist.idle": "Piglin Alchemist grunts",
+   "subtitles.entity.piglin_alchemist.hurt": "Piglin Alchemist hurts",
+   "subtitles.entity.piglin_alchemist.admire": "Piglin Alchemist admires",
+   "subtitles.entity.piglin_alchemist.jealous": "Piglin Alchemist snorts enviously",
+   "subtitles.entity.piglin_alchemist.retreat": "Piglin Alchemist retreats",
+   "subtitles.entity.piglin_alchemist.death": "Piglin Alchemist dies",
+   "subtitles.entity.piglin_alchemist.celebrate": "Piglin Alchemist celebrates",
+   "subtitles.entity.piglin_alchemist.angry": "Piglin Alchemist snorts angrily",
+   "subtitles.entity.piglin_alchemist.conversion": "Piglin Alchemist converts to Zombified Piglin",
+   "subtitles.entity.piglin_alchemist.step": "Piglin Alchemist steps",
+   "subtitles.arrow.regenhealingarrowhit": "Arrow heals"
+}
