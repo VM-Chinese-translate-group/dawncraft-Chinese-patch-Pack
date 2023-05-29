@@ -7,7 +7,7 @@
       "text": "那么？"
     },
     "description": {
-      "text": "我希望你能帮我取回一顶巫师帽，任意一顶都行。但是女巫很少掉落它。"
+      "text": "我希望你能帮我取回一顶女巫帽，任意一顶都行。但是女巫很少掉落它。"
     }
   },
   "complete": {
@@ -29,7 +29,11 @@
   ],
   "rewards": [
     {
-      "command": "/execute as @a[distance=..5] run function witch:start_witch_raid",
+      "command": "/advancement grant @p only custom:tricked/tricked",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/execute as @a[advancements={custom:tricked/tricked=true},sort=nearest,limit=1] run function witch:start_witch_raid",
       "id": "quest_giver:command"
     }
   ]
