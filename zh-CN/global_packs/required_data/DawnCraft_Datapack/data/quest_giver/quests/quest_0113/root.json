@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "嘿！"
+      "text": "Hey!"
     },
     "description": {
-      "text": "嘿，冒险者。你能为我调查一些事情吗？"
+      "text": "Hey Adventurer. Could you investigate something for me?"
     }
   }
 }
