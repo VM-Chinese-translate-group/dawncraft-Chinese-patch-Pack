@@ -4,18 +4,18 @@
   "icon": "minecraft:poppy",
   "start": {
     "title": {
-      "text": "那么？"
+      "text": "So?"
     },
     "description": {
-      "text": "请尽快给我弄把趁手的弓。"
+      "text": "Please get me a bow as soon as you can."
     }
   },
   "complete": {
     "title": {
-      "text": "感谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "谢谢你，现在我可以再去打猎了！"
+      "text": "Thank you, now I can hunt again!"
     }
   },
   "tasks": [
