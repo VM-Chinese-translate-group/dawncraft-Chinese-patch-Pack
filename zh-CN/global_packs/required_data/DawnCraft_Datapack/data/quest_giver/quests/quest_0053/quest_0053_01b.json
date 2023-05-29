@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "你好"
+    },
+    "description": {
+      "text": "太好了，你能给我 $(red)2棵洋葱$()吗？"
+    }
+  }
+}
