@@ -4,8 +4,8 @@
       "item": "minecraft:rose_bush",
       "color": "dark_aqua"
     },
-    "title": "枪炮玫瑰",
-    "description": "游览荆棘城堡",
+    "title": "Guns and Roses",
+    "description": "Visit the Thornborn Towers",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
