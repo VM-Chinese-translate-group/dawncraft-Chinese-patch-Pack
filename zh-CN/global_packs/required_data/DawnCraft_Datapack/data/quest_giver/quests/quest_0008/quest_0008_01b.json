@@ -4,10 +4,10 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "请求"
+      "text": "help"
     },
     "description": {
-      "text": "听说你是个行家。我需要你去搜集一些珍奇异宝，具体来说，就是$(red)狮皮$()，我需要4张。拿到东西后回来找我。"
+      "text": "I've heard good things about your work. I need you to collect some exotic goods, specifically: $(red)lion hide$(). I need 4 of those. Come back when you've got the goods."
     }
   }
 }
