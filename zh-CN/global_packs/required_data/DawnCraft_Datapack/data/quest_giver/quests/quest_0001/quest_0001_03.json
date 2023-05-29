@@ -4,18 +4,18 @@
   "icon": "minecraft:blast_furnace",
   "start": {
     "title": {
-      "text": "嘿，那边的。"
+      "text": "Hey there."
     },
     "description": {
-      "text": "嘿，你找到吊坠了？他们通常把值钱的藏在桌子下面。"
+      "text": "Hey there. Did you find the pendant? They usually hide valuables under tables."
     }
   },
   "complete": {
     "title": {
-      "text": "终于……"
+      "text": "Finally..."
     },
     "description": {
-      "text": "胡安，终于啊……我拿回来了……我没有违背我的誓言……哦，这个给你。谢谢你帮我，它对我意义重大。"
+      "text": "Finally, Juan... I got it back... I didn't break my vow... Oh, here ya go. Thank you for this, it means a lot to me."
     }
   },
   "tasks": [
