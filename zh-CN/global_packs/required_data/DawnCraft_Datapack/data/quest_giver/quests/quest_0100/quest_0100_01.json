@@ -1,0 +1,47 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:poppy",
+  "start": {
+    "title": {
+      "text": "所以？"
+    },
+    "description": {
+      "text": "你拿到$(red)孢子花$()了吗？"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "非常感谢！"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:spore_blossom"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/advancement grant @p only custom:trade_florist",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/addreputation reputation:villager @p 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}
