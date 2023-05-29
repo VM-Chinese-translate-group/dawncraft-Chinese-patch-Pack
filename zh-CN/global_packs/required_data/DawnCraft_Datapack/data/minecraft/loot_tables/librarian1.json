@@ -2,8 +2,8 @@
   "type": "minecraft:gift",
   "pools": [
     {
-      "rolls": 1.0,
-      "bonus_rolls": 0.0,
+      "rolls": "1",
+      "bonus_rolls": "0",
       "entries": [
         {
           "type": "minecraft:item",
@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "图书馆管理员的废墟"
+              "name": "Librarian's Ruin"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "图书管理员为取回他的书提供了一张地图。"
+                  "text": "A map given by the librarian to retrieve his book."
                 }
               ]
             }
