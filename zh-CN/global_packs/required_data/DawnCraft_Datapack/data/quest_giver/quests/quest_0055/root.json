@@ -3,10 +3,10 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "嗨！"
+      "text": "Hey!"
     },
     "description": {
-      "text": "嘿，冒险者，看起来你似乎身经百战啊，哈哈！开玩笑的，你能帮我个忙吗？"
+      "text": "Hey adventurer, you look like you've been through hell, haha! Just kidding, can you help me with something?"
     }
   }
 }
