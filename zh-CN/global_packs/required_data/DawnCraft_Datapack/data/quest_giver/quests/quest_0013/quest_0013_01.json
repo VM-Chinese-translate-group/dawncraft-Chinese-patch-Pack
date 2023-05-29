@@ -4,18 +4,18 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "那么？"
+      "text": "So?"
     },
     "description": {
-      "text": "给我10个绿宝石我能教你怎么使用砂轮！价格公道对吧？"
+      "text": "Give me 10 emeralds and I'll teach you how to use the grindstone! Cheap right?"
     }
   },
   "complete": {
     "title": {
-      "text": "感谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "就是这样！轻轻松松，不是吗？"
+      "text": "There you go! Easy right?"
     }
   },
   "tasks": [
