@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 40,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "完璧归赵"
+    },
+    "description": {
+      "text": "能否给我一张纸，让我为您的旅途指引方向。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "给你。"
+    },
+    "description": {
+      "text": "抱歉给您添麻烦了。这就我想让您前往的地方。那里有一本属于我的书。那个地方曾经是一座聚集了来自不同维度的智者的神殿，但时过境迁，恐怕那里早已物是人非。还请您谨慎行事，带回我的书。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:librarian1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p librarian1 true",
+      "id": "quest_giver:command"
+    }
+  ]
+}
