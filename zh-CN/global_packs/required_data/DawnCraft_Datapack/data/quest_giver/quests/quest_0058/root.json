@@ -3,10 +3,10 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "嗨！"
+      "text": "Hey!"
     },
     "description": {
-      "text": "冒险者，求求你能帮帮我吗？"
+      "text": "Adventurer, please help me with something. I beg you."
     }
   }
 }
