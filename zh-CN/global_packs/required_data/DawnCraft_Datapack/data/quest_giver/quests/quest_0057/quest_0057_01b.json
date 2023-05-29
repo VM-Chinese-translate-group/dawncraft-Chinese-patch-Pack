@@ -4,10 +4,10 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "制作钓鱼竿"
+      "text": "Making a Fishing Rod"
     },
     "description": {
-      "text": "我的钓鱼竿快坏了，你能帮我制作一根新的吗？平时帮我做钓竿的师傅最近出了趟远门。"
+      "text": "My fishing rod is almost broken... can you make me a new one? The usual crafter is out of town these days..."
     }
   }
 }
