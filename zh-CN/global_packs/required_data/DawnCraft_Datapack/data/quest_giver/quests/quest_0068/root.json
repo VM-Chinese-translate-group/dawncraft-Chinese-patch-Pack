@@ -3,10 +3,10 @@
   "icon": "minecraft:leather",
   "start": {
     "title": {
-      "text": "嘿！"
+      "text": "Hey!"
     },
     "description": {
-      "text": "冒险者，你擅长烹饪吗？"
+      "text": "Adventurer, you any good at cooking?"
     }
   }
 }
