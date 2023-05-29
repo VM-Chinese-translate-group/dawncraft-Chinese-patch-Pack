@@ -1,0 +1,47 @@
+{
+	"parent": "quest_giver:quest_0059_01",
+	"reputation": 4,
+	"icon": "minecraft:cod",
+	"start": {
+		"title": {
+			"text": "所以？"
+		},
+		"description": {
+			"text": "你带来红石粉了吗？我想我只要1个就够了。"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "谢谢！"
+		},
+		"description": {
+			"text": "麻烦你了，这是给你的谢礼。"
+		}
+	},
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:redstone"
+			},
+			"id": "quest_giver:gift",
+			"times": 1
+		}
+	],
+	"rewards": [
+		{
+			"command": "/advancement grant @p only custom:trade_fisherman",
+			"id": "quest_giver:command"
+		},
+		{
+			"command": "/addreputation reputation:villager @p 1",
+			"id": "quest_giver:command"
+		},
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:item",
+			"times": 2
+		}
+	]
+}
