@@ -4,10 +4,10 @@
   "icon": "minecraft:bow",
   "start": {
     "title": {
-      "text": "求助"
+      "text": "help"
     },
     "description": {
-      "text": "在我们村庄附近驻扎的掠夺者抢走了一个孩子……我们村庄的守卫人手不足，贸然闯入恐怕救不出他。如果你能帮忙，可以给我拿来一张纸。我会告诉你他们在哪里。"
+      "text": "The pillagers who've set up base near our village took away a child... The number of guards in this village are not strong enough to rush in and save the child. If you can help, please fetch me a piece of paper. I'll show you where they are."
     }
   }
 }
