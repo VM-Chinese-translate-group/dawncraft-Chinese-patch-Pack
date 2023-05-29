@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_ingot",
   "start": {
     "title": {
-      "text": "猎灵行动"
+      "text": "Spirit Hunting"
     },
     "description": {
-      "text": "还没能击败$(red)5件御灵装甲$()吗？好吧，再加把劲，哈哈！"
+      "text": "Couldn't kill the $(red)5 Possessed Armor$() yet? Well, try harder, haha!"
     }
   },
   "complete": {
     "title": {
-      "text": "给你。"
+      "text": "Here."
     },
     "description": {
-      "text": "哈哈，你居然做到了！有股狠劲，我喜欢！拿去，这是你应得的奖励！"
+      "text": "Haha, you actually did it! Mad man you are, but I like it! Here, take your reward, it's well-deserved!"
     }
   },
   "tasks": [
