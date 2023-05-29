@@ -1,0 +1,11 @@
+{
+	"parent": "quest_giver:root",
+	"reputation": 16,
+	"icon": "minecraft:iron_pickaxe",
+	"start": {
+		"title": {
+			"text": "求助"
+		},
+		"description": "哈哈，我就知道！勇敢的冒险家，如果你曾经遇到过一片宛若迷宫的冰原，请寻找$(red)科妮莉亚亡灵$()。如果你真刀真枪地击败它，我会给你一大笔奖励。"
+	}
+}
