@@ -3,10 +3,10 @@
   "icon": "minecraft:dirt",
   "start": {
     "title": {
-      "text": "嘿！"
+      "text": "Hey!"
     },
     "description": {
-      "text": "嘿，你是个冒险者对吧？有时间跟我聊聊吗？"
+      "text": "Hey. You're an adventurer, right? Got a minute?"
     }
   }
 }
