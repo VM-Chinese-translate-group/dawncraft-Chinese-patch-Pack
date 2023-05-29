@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "不知……从何说起",
+            "text": "Lost for Words",
             "color": "aqua"
         },
         "description": {
-            "text": "找到一座废弃寺庙"
+            "text": "Find an Abandoned Temple"
         },
         "icon": {
             "item": "minecraft:cracked_stone_bricks"
