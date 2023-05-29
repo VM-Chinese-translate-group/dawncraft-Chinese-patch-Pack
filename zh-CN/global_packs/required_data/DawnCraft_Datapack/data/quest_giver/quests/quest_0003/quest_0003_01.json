@@ -4,18 +4,18 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "帮个忙"
+      "text": "A Favor"
     },
     "description": {
-      "text": "嗨！你拿到我要求的墨囊和纸了吗？我只需要每种一个。"
+      "text": "Hey there! Did you get the squid ink sac and paper I asked for? I only need 1 of each."
     }
   },
   "complete": {
     "title": {
-      "text": "感谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "帮了我大忙！拿着，四处探索填满这张地图吧。"
+      "text": "You're a life-saver! Here, explore and fill this map out."
     }
   },
   "tasks": [
