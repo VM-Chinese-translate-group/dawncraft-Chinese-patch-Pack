@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:quest_0109_01b",
+  "reputation": 6,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "又见面了！"
+    },
+    "description": {
+      "text": "如果你准备好了要救这个孩子。给我一张纸，我给你画张地图。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "给你。"
+    },
+    "description": {
+      "text": "这些无赖在这里建立了基地。那孩子肯定还在他们那里……请快点。把他带回来！"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "amount": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:guard2",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p guard2 true",
+      "id": "quest_giver:command"
+    }
+  ]
+}
