@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "讨伐巨兽"
+      "text": "An Offer"
     },
     "description": {
-      "text": "给我6个绿宝石我就告诉你下界合金巨兽在下界的位置。"
+      "text": "6 Emeralds if you want me to show you where the Monstrosity is in the Nether Dimension."
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "给你，祝你讨伐顺利！记住，只有在下界打开地图才有效。在这里打开地图只会得到一张空白地图。这确实有点令人困惑，对吧？"
+      "text": "Here you go, happy hunting! Remember, this map will only work if you open it in the Nether. Rolling this map open here will only give you a blank map. Sure is confusing, ey?"
     }
   },
   "tasks": [
