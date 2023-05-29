@@ -3,10 +3,10 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "嘿！"
+      "text": "Hey!"
     },
     "description": {
-      "text": "嘿，冒险者，你能给我带来$(red)5个腐肉$()吗？我需要它来制作药水。"
+      "text": "Hey Adventurer, can you get me $(red)5 zombie flesh$()? I need it to prepare potions."
     }
   }
 }
