@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "嗨！"
+      "text": "Hey!"
     },
     "description": {
-      "text": "你好冒险者，想学习战斗技能吗？"
+      "text": "Hello adventurer, want to learn a combat skill?"
     }
   }
 }
