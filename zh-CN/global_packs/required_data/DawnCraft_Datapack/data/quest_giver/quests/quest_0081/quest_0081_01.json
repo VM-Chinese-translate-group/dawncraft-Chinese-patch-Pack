@@ -4,18 +4,18 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "请给我一些小麦！"
+      "text": "Wheat Please!"
     },
     "description": {
-      "text": "你拿到$(red)小麦$()？了吗？农场里的应该绰绰有余了。"
+      "text": "Did you get the $(red)wheats$()? There should be enough in the farm."
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "谢谢，我没有什么东西能给你……你可以拿着这些羊毛吗？"
+      "text": "Thanks. I don't have much to give you... would you accept these wool?"
     }
   },
   "tasks": [
