@@ -4,18 +4,18 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "那么？"
+      "text": "So?"
     },
     "description": {
-      "text": "你去下界的时候可曾找到过$(red)鬼椒$()？"
+      "text": "Did you take the trip to Nether and retrieve the $(red)ghost pepper$() yet?"
     }
   },
   "complete": {
     "title": {
-      "text": "感謝！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "哇哦，炙手可热（字面意思）！这肯定就是鬼椒，哈哈！这是你的报酬。"
+      "text": "Ow, it's burning my hand! This is ghost pepper alright, haha! Here's your reward."
     }
   },
   "tasks": [
