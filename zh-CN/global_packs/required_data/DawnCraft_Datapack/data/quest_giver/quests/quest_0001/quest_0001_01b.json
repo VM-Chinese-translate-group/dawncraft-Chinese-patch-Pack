@@ -4,10 +4,10 @@
   "icon": "minecraft:wooden_sword",
   "start": {
     "title": {
-      "text": "给我拿点东西来！"
+      "text": "Fetch Me Something!"
     },
     "description": {
-      "text": "我需要一些材料！你能帮我拿$(red)4 个铁锭$()吗？我做盔甲用完了……我之后一定会还你的，我发誓！"
+      "text": "I need something! Can you help me fetch $(red)4 iron ingots$()? I'm running out of materials to make armor... I will repay you someday I promise!"
     }
   }
 }
