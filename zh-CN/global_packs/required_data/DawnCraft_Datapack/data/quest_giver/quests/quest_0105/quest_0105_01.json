@@ -4,18 +4,18 @@
   "icon": "minecraft:log",
   "start": {
     "title": {
-      "text": "所以？"
+      "text": "So?"
     },
     "description": {
-      "text": "你拿到一块 $(red)霜耀原木$()了吗？"
+      "text": "Did you get a piece of $(red)Frostbright Log$() yet?"
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "谢谢，这是你的奖励。"
+      "text": "Thanks. Here's your reward."
     }
   },
   "tasks": [
