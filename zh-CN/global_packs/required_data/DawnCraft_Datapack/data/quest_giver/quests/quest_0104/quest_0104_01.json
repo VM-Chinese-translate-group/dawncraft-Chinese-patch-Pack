@@ -1,0 +1,47 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:bow",
+  "start": {
+    "title": {
+      "text": "所以？"
+    },
+    "description": {
+      "text": "你从制箭师那里拿到了$(red)16支箭$()吗？我会支付费用的。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "谢谢，你是我的救命恩人！我和当地的制箭师关系不好，所以问起来有点尴尬……"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:arrow"
+      },
+      "id": "quest_giver:item_stack",
+      "amount": 16
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 3
+    },
+    {
+      "command": "/advancement grant @p only custom:trade_hunter",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/addreputation reputation:villager @p 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}
