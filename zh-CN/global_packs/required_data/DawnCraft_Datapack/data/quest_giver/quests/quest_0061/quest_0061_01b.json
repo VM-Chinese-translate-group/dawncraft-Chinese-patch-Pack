@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "制作箭矢"
+    },
+    "description": {
+      "text": "我缺少一些制作箭矢的羽毛。你能帮我找$(red)2片羽毛()吗？等我做完后我可以给你一些箭。"
+    }
+  }
+}
