@@ -4,7 +4,7 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "Extermination Contract"
     },
     "description": {
       "text": "Please come back when you finished the extermination contract - $(red)Kill 5 Pillagers$()."
@@ -27,7 +27,7 @@
   ],
   "rewards": [
     {
-      "command": "/effect give InteJason minecraft:bad_omen 10 2",
+      "command": "/effect give @p minecraft:bad_omen 10 2",
       "id": "quest_giver:command"
     },
     {
@@ -35,7 +35,7 @@
       "id": "quest_giver:command"
     },
     {
-      "command": "/addreputation reputation:village @p 3",
+      "command": "/addreputation reputation:villager @p 1",
       "id": "quest_giver:command"
     }
   ]

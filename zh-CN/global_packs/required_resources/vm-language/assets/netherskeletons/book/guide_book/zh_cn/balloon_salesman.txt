@@ -1,0 +1,17 @@
+<NEWLINE>
+<NEWLINE>
+<NEWLINE>
+You are not alone in your bizarre interest into balloons and clouds of all things... obviously.
+In villages all across the world, Balloon Salesmen and their trusty Balloon Stands can be found.
+And if you cannot find a Balloon Stand, you can always craft one.
+<NEWLINE>
+<NEWLINE>
+Like fences, Balloons can be tied to Balloon Stands for display purposes. String can be used on a balloon to make its string longer.
+<NEWLINE>
+But these Balloon Stands have another use. One can place a Balloon in their top slot to view statistics about the cloud storage linked to the Balloon,
+and the exact color of the Balloon. If a second Balloon is placed in the slot below, one can copy the color of the first Balloon to the second. This can streamline the process of making colorful and complex cloud storage systems.
+<NEWLINE>
+The villager who lingers around these stands peddles Balloons, amongst other things. One of these items is a Propeller Hat, which spins faster depending on whether it is a clear day or raining. Another one is Cotton Candy, a quick food item made out of a Cloud Block and sugar.
+<NEWLINE>
+Occasionally, these villagers may sell a map to a Sky Temple or a Big Balloon. These structures contain spawners and Cloud Chests with Loot Balloons. Unlike normal Balloons, Loot Balloons are uncraftable, and when placed into a Cloud Chest they can reward you with unique items. They cannot be used to upload items, or be dyed, however.
+These structures can be dangerous, given their height, and it's likely whoever constructed them could have laid traps there as well...

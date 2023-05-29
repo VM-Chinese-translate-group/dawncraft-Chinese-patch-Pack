@@ -26,5 +26,13 @@
 	"rewards": [{
 		"command": "/give @p epicfight:skillbook{skill:\"epicfight:roll\"}",
 		"id": "quest_giver:command"
-	}]
+	},
+        {
+          "command": "/loot give @p loot minecraft:guildmaster0",
+          "id": "quest_giver:command"
+        },
+        {
+           "command": "/gamestage add @p guildmaster2 true",
+            "id": "quest_giver:command"
+        }]
 }

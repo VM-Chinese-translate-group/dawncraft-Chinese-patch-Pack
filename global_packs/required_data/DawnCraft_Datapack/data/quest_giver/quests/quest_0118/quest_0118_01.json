@@ -38,6 +38,10 @@
     {
       "command": "/advancement grant @p only custom:trade_miner",
       "id": "quest_giver:command"
+    },    
+    {
+      "command": "/addreputation reputation:villager @p 2",
+      "id": "quest_giver:command"
     }
   ]
 }

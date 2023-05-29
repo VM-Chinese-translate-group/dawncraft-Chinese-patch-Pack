@@ -34,6 +34,10 @@
       },
       "id": "quest_giver:item",
       "times": 1
+    },
+    {
+      "command": "/gamestage add @p netherian2 true",
+      "id": "quest_giver:command"
     }
   ]
 }

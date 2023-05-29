@@ -7,7 +7,7 @@
       "text": "Road to the Eye Holders"
     },
     "description": {
-      "text": "Your first assignment is to exterminate the $(red)Goblin King$(). They can be found on top of their castles."
+      "text": "See the map I gave you? Your first assignment is to exterminate the $(red)Goblin King$(). They can be found on top of their castles."
     }
   },
   "complete": {
@@ -15,19 +15,29 @@
       "text": "Road to the Eye Holders"
     },
     "description": {
-      "text": "Good job. Seems you're ready to take on the $(red)Ogre$(). Here, the creature dwelling in the marked spot is holding one of the eyes."
+      "text": "Good job. Seems you're ready to take on the $(red)Corrupted Ogre$(). Here, the creature dwelling in the marked spot is holding one of the eyes."
     }
   },
   "tasks": [
     {
-      "entity": "goblinsanddungeons:goblin_king",
-      "id": "quest_giver:kill",
+      "item": {
+        "item": "goblinsanddungeons:goblin_crown"
+      },
+      "id": "quest_giver:item_pickup",
       "times": 1
     }
   ],
   "rewards": [
     {
       "command": "/loot give @p loot minecraft:guildmaster1",
+      "id": "quest_giver:command"
+    },
+     {
+      "command": "/advancement grant @p only simple_mobs:goblin_king_quest_complete",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p guildmaster3 true",
       "id": "quest_giver:command"
     }
   ]

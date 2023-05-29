@@ -39,6 +39,14 @@
     {
       "command": "/pmmo admin @p add engineering level 1",
       "id": "quest_giver:command"
-    }
+    },
+    {
+      "command": "/advancement grant @p only simple_mobs:knight_rober_quest_complete",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p guildmaster5 true",
+      "id": "quest_giver:command"
+    }    
   ]
 }

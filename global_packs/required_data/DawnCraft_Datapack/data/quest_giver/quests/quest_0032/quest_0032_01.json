@@ -33,7 +33,7 @@
       "id": "quest_giver:command"
     },
     {
-      "command": "/addreputation reputation:village @p 2",
+      "command": "/addreputation reputation:villager @p 2",
       "id": "quest_giver:command"
     }
   ]

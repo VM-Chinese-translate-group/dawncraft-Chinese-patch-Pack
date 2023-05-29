@@ -1,12 +1,11 @@
 {
-  "parent": "quest_giver:root",
-  "reputation": 16,
-  "icon": "minecraft:iron_pickaxe",
-  "start": {
-    "title": {
-      "text": "Dragon Heart"
-    },
-    "description": "I came across a rather strange miner a while back. He offered me 2 spirit orbs for a map to the ocean monument... I gave him the map and obtained these useless orbs, now I'm looking to get rid of them. Brave adventurer, could you get me the heart of an $(red)Ice Dragon$()? It's invaluable for my research... I'll give you some time to think about it."
-    }
-  }
+	"parent": "quest_giver:root",
+	"reputation": 16,
+	"icon": "minecraft:iron_pickaxe",
+	"start": {
+		"title": {
+			"text": "Dragon Heart"
+		},
+		"description": "I came across a rather strange miner a while back. He offered me 2 spirit orbs for a map to the ocean monument... I gave him the map and obtained these useless orbs, now I'm looking to get rid of them. Brave adventurer, could you get me the heart of an $(red)Ice Dragon$()? It's invaluable for my research... I'll give you some time to think about it."
+	}
 }

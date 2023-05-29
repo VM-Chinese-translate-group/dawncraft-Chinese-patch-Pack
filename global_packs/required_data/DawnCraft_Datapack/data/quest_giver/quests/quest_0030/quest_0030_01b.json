@@ -7,7 +7,7 @@
       "text": "Thank you for listening."
     },
     "description": {
-      "text": "Thank you for listening. My blast furnace is breaking down... Can you craft a new one and give it to me?"
+      "text": "Thank you for listening. My blast furnace is breaking down... Can you $(red)craft$() a new one and give it to me?"
     }
   }
 }

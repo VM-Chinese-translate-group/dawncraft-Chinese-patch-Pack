@@ -1,0 +1,80 @@
+{
+	id: "0AAD6825AAAC8DAF"
+	group: ""
+	order_index: 8
+	filename: "brewing"
+	title: "{chapter.9.title}"
+	icon: "ars_nouveau:potion_flask"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "{chapter.9.quest.1.title}"
+			x: 0.0d
+			y: 0.0d
+			description: ["{chapter.9.quest.1.description.1}"]
+			size: 2.0d
+			id: "4424AAAF4D8A945E"
+			tasks: [{
+				id: "5B174619510F5A0D"
+				type: "item"
+				item: "minecraft:brewing_stand"
+			}]
+			rewards: [{
+				id: "599741D31C4BF152"
+				type: "item"
+				item: "minecraft:emerald"
+			}]
+		}
+		{
+			title: "{chapter.9.quest.2.title}"
+			icon: {
+				id: "apotheosis:potion_charm"
+				Count: 1b
+				tag: {
+					Damage: 0
+					Potion: "minecraft:leaping"
+				}
+			}
+			x: 2.0d
+			y: 0.0d
+			description: ["{chapter.9.quest.2.description.1}"]
+			dependencies: ["4424AAAF4D8A945E"]
+			size: 1.5d
+			id: "50A3AF120AA6375A"
+			tasks: [{
+				id: "4E2A1D32B612F8EC"
+				type: "checkmark"
+				title: "{chapter.9.quest.2.task.1.title}"
+			}]
+			rewards: [{
+				id: "3CC09383FD379788"
+				type: "xp"
+				auto: "enabled"
+				xp: 10
+			}]
+		}
+		{
+			title: "{chapter.9.quest.3.title}"
+			icon: "ars_nouveau:potion_jar"
+			x: 0.0d
+			y: -2.0d
+			description: ["{chapter.9.quest.3.description.1}"]
+			dependencies: ["4424AAAF4D8A945E"]
+			size: 1.5d
+			id: "5238E383D811ED28"
+			tasks: [{
+				id: "1B1BBC8DD3E22900"
+				type: "checkmark"
+				title: "{chapter.9.quest.3.task.1.title}"
+			}]
+			rewards: [{
+				id: "3EFB277FCE02CC46"
+				type: "xp"
+				auto: "enabled"
+				xp: 10
+			}]
+		}
+	]
+	quest_links: [ ]
+}

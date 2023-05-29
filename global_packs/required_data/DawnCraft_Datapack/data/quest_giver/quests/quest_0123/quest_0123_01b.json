@@ -1,12 +1,11 @@
 {
-  "parent": "quest_giver:root",
-  "reputation": 16,
-  "icon": "minecraft:iron_pickaxe",
-  "start": {
-    "title": {
-      "text": "Sculk"
-    },
-    "description": "While I was out mining, I found something strange deep under the deepslates. Infested spores and sharp shrieking sounds surrounded the area. I heard from other miners that these infestations are called $(red)sculks$(), and that I was lucky to make it out alive... However, I am fascinated by the shrieking sounds and infestations. Would it be possible for you to get me one of those $(red)sculk shriekers$() from the Deep Dark?"
-    }
-  }
+	"parent": "quest_giver:root",
+	"reputation": 16,
+	"icon": "minecraft:iron_pickaxe",
+	"start": {
+		"title": {
+			"text": "Sculk"
+		},
+		"description": "While I was out mining, I found something strange deep under the deepslates. Infested spores and sharp shrieking sounds surrounded the area. I heard from other miners that these infestations are called $(red)sculks$(), and that I was lucky to make it out alive... However, I am fascinated by the shrieking sounds and infestations. Would it be possible for you to get me one of those $(red)sculk shriekers$() from the Deep Dark?"
+	}
 }

@@ -42,6 +42,14 @@
     {
       "command": "/gamestage add @p fire_giant",
       "id": "quest_giver:command"
-    }
+    },
+    {
+      "command": "/advancement grant @p only simple_mobs:sentinel_knight_quest_complete",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p guildmaster8 true",
+      "id": "quest_giver:command"
+    }    
   ]
 }

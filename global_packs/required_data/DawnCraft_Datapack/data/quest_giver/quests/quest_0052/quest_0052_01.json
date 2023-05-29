@@ -7,7 +7,7 @@
 			"text": "So?"
 		},
 		"description": {
-			"text": "Forgot already? Don't worry let me remind you. I need a$(red)straw bale$()."
+			"text": "Forgot already? Don't worry let me remind you. I need a $(red)straw bale$()."
 		}
 	},
 	"complete": {
@@ -30,7 +30,7 @@
 			"id": "quest_giver:command"
 		},
 		{
-			"command": "/addreputation reputation:village @p 1",
+			"command": "/addreputation reputation:villager @p 1",
 			"id": "quest_giver:command"
 		},
 		{

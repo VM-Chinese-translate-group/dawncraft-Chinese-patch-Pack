@@ -1,0 +1,19 @@
+To begin storing items in the cloud, you will need at least two Balloons and one Cloud Chest.
+These can be crafted like so:
+<NEWLINE>
+<NEWLINE>
+Balloons can be tied to fences for display, and can be held to slightly decrease fall damage and speed.
+<NEWLINE>
+<NEWLINE>
+Before the Cloud Chest can be used, you will need to add space to the cloud storage associated with your balloon color.
+Balloons can be dyed to be any color just like leather armor, and the color of the balloon denotes its storage space in the cloud.
+By tying a Balloon to a Chest or other inventory and sending it up into the sky, you will add the storage space of that chest to the cloud inventory associated with the Balloon's color.
+<NEWLINE>
+After you have successfully uploaded a chest to the cloud, place a balloon of that same color on a Cloud Chest to link it. Note that Cloud Chests must have sky access to work, and will not work underground or in the Nether.
+This Cloud Chest's inventory is linked exclusively to you, and cannot be accessed by anyone else, even hoppers and other inventories - just like an ender chest. In order to create a cloud inventory that is accessible to everyone, you must craft a Static Cloud Chest from Static Cloud Blocks.
+<NEWLINE>
+To upload inventory space to a Static Cloud Chest, you must use a static Balloon, which can be obtained by using a Balloon on a Static Cloud Block. Any chest uploaded with a normal Balloon will simply be added to your private cloud storage!
+<NEWLINE>
+All Cloud Chests can be scrolled through(if large enough) and can be sorted or searched by using the helpful buttons on the left. If your Cloud Storage is too full, simply upload additional chests by tying them to a Balloon of the same color. Yes. It's that easy.
+<NEWLINE>
+If you still have some extra balloons left, you can combine one with eight arrows to create balloon arrows, which will fly straight, unhindered by gravity. If they hit a mob, that mob will float upwards for a short period of time.

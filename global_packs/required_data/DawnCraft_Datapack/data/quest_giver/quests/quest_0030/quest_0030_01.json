@@ -7,7 +7,7 @@
       "text": "Blast Furnace Crafting"
     },
     "description": {
-      "text": "Hey. Have you crafted the blast furnace yet?"
+      "text": "Hey. Have you crafted the blast furnace yet? Make sure to craft a new one instead of grabbing others!"
     }
   },
   "complete": {
@@ -40,7 +40,7 @@
       "id": "quest_giver:command"
     },
     {
-      "command": "/addreputation reputation:village @p 1",
+      "command": "/addreputation reputation:villager @p 2",
       "id": "quest_giver:command"
     }
   ]

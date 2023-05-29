@@ -1,0 +1,334 @@
+{
+	id: "7FB6749A5C23A010"
+	group: ""
+	order_index: 2
+	filename: "storage"
+	title: "{chapter.3.title}"
+	icon: "minecraft:chest"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			description: ["{chapter.3.quest.1.description.1}"]
+			size: 2.0d
+			id: "4D1B105EE54EDEAF"
+			tasks: [{
+				id: "3B86BA54AA15287D"
+				type: "item"
+				item: "minecraft:chest"
+			}]
+			rewards: [{
+				id: "40A712D85762E768"
+				type: "xp"
+				xp: 1
+			}]
+		}
+		{
+			title: "{chapter.3.quest.2.title}"
+			x: 2.25d
+			y: 0.0d
+			description: ["{chapter.3.quest.2.description.1}"]
+			dependencies: ["4D1B105EE54EDEAF"]
+			size: 1.5d
+			id: "15C8700EFE52353A"
+			tasks: [{
+				id: "6FC7DD9A5732C9B4"
+				type: "item"
+				item: "storagedrawers:oak_full_drawers_1"
+			}]
+			rewards: [{
+				id: "36BF6F96178BAC7D"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			title: "{chapter.3.quest.3.title}"
+			icon: "cloudstorage:cloud_chest"
+			x: 0.0d
+			y: -2.0d
+			description: ["{chapter.3.quest.3.description.1}"]
+			dependencies: ["4D1B105EE54EDEAF"]
+			size: 1.5d
+			id: "6578C82B120DE0EA"
+			tasks: [{
+				id: "7F2BD0E1BBFBF5C1"
+				type: "checkmark"
+				title: "{chapter.3.quest.3.task.1.title}"
+			}]
+			rewards: [{
+				id: "6529B7B6EEBBFEB9"
+				type: "item"
+				item: "cloudstorage:guide_book"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -3.5d
+			description: ["{chapter.3.quest.4.description.1}"]
+			dependencies: ["6578C82B120DE0EA"]
+			id: "34A5470646A4CE63"
+			tasks: [{
+				id: "24C6540B62EB8438"
+				type: "item"
+				item: "cloudstorage:balloon"
+			}]
+			rewards: [{
+				id: "381FB78BCB25EFCD"
+				type: "item"
+				item: "minecraft:iron_ingot"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -5.0d
+			description: ["{chapter.3.quest.5.description.1}"]
+			dependencies: ["34A5470646A4CE63"]
+			id: "5209737ECC6EC599"
+			tasks: [{
+				id: "7FF35AF151CD8866"
+				type: "item"
+				item: "cloudstorage:cloud_chest"
+			}]
+			rewards: [{
+				id: "4F9D60196696D136"
+				type: "item"
+				item: "minecraft:cookie"
+				count: 2
+			}]
+		}
+		{
+			x: 0.0d
+			y: -6.5d
+			description: ["{chapter.3.quest.6.description.1}"]
+			dependencies: ["5209737ECC6EC599"]
+			id: "34ABF0F5257443E6"
+			tasks: [
+				{
+					id: "33C6E3483B23CF98"
+					type: "item"
+					item: {
+						id: "cloudstorage:balloon"
+						Count: 1b
+						tag: {
+							static: 1b
+						}
+					}
+				}
+				{
+					id: "678B002C4D1F8897"
+					type: "item"
+					item: "cloudstorage:static_cloud_chest"
+				}
+			]
+			rewards: [{
+				id: "0479D333C18E8CDD"
+				type: "item"
+				item: "minecraft:emerald"
+			}]
+		}
+		{
+			x: 4.0d
+			y: 0.0d
+			dependencies: ["15C8700EFE52353A"]
+			id: "6FD59A149FE6F418"
+			tasks: [{
+				id: "3E3F18BC2D0ABD54"
+				type: "item"
+				item: "storagedrawers:obsidian_storage_upgrade"
+			}]
+			rewards: [{
+				id: "6B0892B3374394B0"
+				type: "item"
+				item: "minecraft:emerald"
+			}]
+		}
+		{
+			x: 5.5d
+			y: 0.0d
+			dependencies: ["6FD59A149FE6F418"]
+			id: "23DC4D6E70E1091B"
+			tasks: [{
+				id: "7A41BCB24FB670A9"
+				type: "item"
+				item: "storagedrawers:iron_storage_upgrade"
+			}]
+			rewards: [{
+				id: "0D98ACD81721DA04"
+				type: "item"
+				item: "minecraft:emerald"
+			}]
+		}
+		{
+			x: 7.0d
+			y: 0.0d
+			dependencies: ["23DC4D6E70E1091B"]
+			id: "10F1F3EE7889A104"
+			tasks: [{
+				id: "0164BB76D1530FF3"
+				type: "item"
+				item: "storagedrawers:gold_storage_upgrade"
+			}]
+			rewards: [{
+				id: "3A6CDC0B496DDE3A"
+				type: "item"
+				item: "minecraft:emerald"
+			}]
+		}
+		{
+			x: 8.5d
+			y: 0.0d
+			dependencies: ["10F1F3EE7889A104"]
+			id: "4D9FF3E44947668F"
+			tasks: [{
+				id: "1D5A13D0B94B358C"
+				type: "item"
+				item: "storagedrawers:diamond_storage_upgrade"
+			}]
+			rewards: [{
+				id: "0B6CB1C244B83877"
+				type: "item"
+				item: "minecraft:emerald"
+			}]
+		}
+		{
+			x: 10.0d
+			y: 0.0d
+			dependencies: ["4D9FF3E44947668F"]
+			id: "7EA6B2AC631D999B"
+			tasks: [{
+				id: "7ECEED4FDCDC4207"
+				type: "item"
+				item: "storagedrawers:emerald_storage_upgrade"
+			}]
+			rewards: [{
+				id: "4FEECDB57A7D0881"
+				type: "item"
+				item: "minecraft:emerald"
+			}]
+		}
+		{
+			x: 3.5d
+			y: 1.5d
+			dependencies: ["6FD59A149FE6F418"]
+			id: "5D0AAAB1C81D93FE"
+			tasks: [{
+				id: "5B08046B1D94ED72"
+				type: "item"
+				item: "storagedrawers:illumination_upgrade"
+			}]
+			rewards: [{
+				id: "285FE0FC1227A653"
+				type: "item"
+				item: "minecraft:emerald"
+			}]
+		}
+		{
+			x: 3.5d
+			y: -1.5d
+			dependencies: ["6FD59A149FE6F418"]
+			id: "41BD563E10B1AB25"
+			tasks: [{
+				id: "753B857BD925D870"
+				type: "item"
+				item: "storagedrawers:fill_level_upgrade"
+			}]
+			rewards: [{
+				id: "4F9606161F063677"
+				type: "item"
+				item: "minecraft:emerald"
+			}]
+		}
+		{
+			x: -1.7999999999999998d
+			y: 0.0d
+			description: ["{chapter.3.quest.14.description.1}"]
+			dependencies: ["4D1B105EE54EDEAF"]
+			size: 1.2d
+			id: "31FF51CECF71BD12"
+			tasks: [{
+				id: "18D2ED50E69DD56E"
+				type: "item"
+				item: "sophisticatedbackpacks:backpack"
+			}]
+			rewards: [{
+				id: "33C3CA210D92BE3E"
+				type: "item"
+				item: {
+					id: "magistuarmory:iron_pike"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -3.0d
+			y: 0.0d
+			dependencies: ["31FF51CECF71BD12"]
+			id: "50C80EA544AF9A52"
+			tasks: [{
+				id: "5AF5BA1AFCB59BC6"
+				type: "item"
+				item: "sophisticatedbackpacks:iron_backpack"
+			}]
+			rewards: [{
+				id: "152D37AEDA50B4C0"
+				type: "xp"
+				xp: 3
+			}]
+		}
+		{
+			x: -4.0d
+			y: 0.0d
+			dependencies: ["50C80EA544AF9A52"]
+			id: "0B6F5DE85FF4D3D7"
+			tasks: [{
+				id: "4D5A2790DD9BA7A3"
+				type: "item"
+				item: "sophisticatedbackpacks:gold_backpack"
+			}]
+			rewards: [{
+				id: "0F3DF4CEA2C74515"
+				type: "xp"
+				xp: 3
+			}]
+		}
+		{
+			x: -5.0d
+			y: 0.0d
+			dependencies: ["0B6F5DE85FF4D3D7"]
+			id: "403035C8DC095962"
+			tasks: [{
+				id: "001E09CBCD7C498F"
+				type: "item"
+				item: "sophisticatedbackpacks:diamond_backpack"
+			}]
+			rewards: [{
+				id: "00DAF7B21BA69BCE"
+				type: "xp"
+				xp: 3
+			}]
+		}
+		{
+			x: -6.0d
+			y: 0.0d
+			dependencies: ["403035C8DC095962"]
+			id: "7CE65DEF92EE89EA"
+			tasks: [{
+				id: "65F64EF3ED2783F3"
+				type: "item"
+				item: "sophisticatedbackpacks:netherite_backpack"
+			}]
+			rewards: [{
+				id: "65DCCAAFAC3FABCB"
+				type: "item"
+				item: "plushies:cow"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

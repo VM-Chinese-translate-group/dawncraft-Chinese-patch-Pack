@@ -1,9 +1,11 @@
 files:
   - source: /global_packs/required_data/
+    ignore:
+      - witch-raids-1-18-v-1-1
     translation: '%original_path%/%original_file_name%'
   - source: /global_packs/required_resources/vm-language/assets/
     ignore:
-      - /cloudstorage/book
+      - /global_packs/required_resources/vm-language/assets/cloudstorage/book
     translation: '%original_path%/zh_cn.json'
   - source: config/vaultpatcher/dawncraft_mobs-1.18-0.9.1b_beta.json
     ignore:

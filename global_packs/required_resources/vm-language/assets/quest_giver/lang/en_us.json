@@ -1,4 +1,5 @@
 {
+  "block.quest_giver.guildmaster_bell": "Guild Bell (POI)",
   "entity.quest_giver.quest_villager.none": "Quest Giver",
   "entity.quest_giver.quest_guard_villager": "Guard",
   "entity.quest_giver.quest_villager.armorer": "Armorer - Quest Giver",

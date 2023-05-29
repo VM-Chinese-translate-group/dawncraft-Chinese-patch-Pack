@@ -21,7 +21,7 @@
   "tasks": [
     {
       "item": {
-        "item": "ars_nouveau:purple_archwood_wood"
+        "item": "ars_nouveau:purple_archwood_log"
       },
       "id": "quest_giver:gift",
       "times": 1
@@ -36,7 +36,7 @@
       "times": 1
     },
     {
-      "command": "/addreputation reputation:village @p 1",
+      "command": "/addreputation reputation:villager @p 1",
       "id": "quest_giver:command"
     },
     {

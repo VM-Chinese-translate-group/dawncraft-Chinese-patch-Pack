@@ -1,0 +1,17 @@
+{
+    "item.cc.claim_block": "Claim Block",
+    "block.cc.claim_block": "Claim Block",
+    "cc.lore.paper": "Claim document",
+    "cc.message.block.not_owner": "You don't own this block",
+    "cc.message.block.access": "You don't have access",
+    "cc.message.spawn": "This chunk is too close to spawn",
+    "cc.message.claim_limit": "You reached your claim limit",
+    "cc.message.claim": "You claimed this chunk",
+    "cc.message.unclaim": "You unclaimed this chunk",
+    "cc.message.claimed.chunk": "This chunk has been claimed",
+    "cc.message.noclaims.you": "You have no claims",
+    "cc.message.noclaims": "No claims",
+    "cc.gui.access": "Access",
+    "cc.gui.modify": "Modify",
+    "cc.gui.enable": "Enable"
+}

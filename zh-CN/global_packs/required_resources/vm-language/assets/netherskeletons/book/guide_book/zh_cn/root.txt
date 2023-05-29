@@ -1,0 +1,7 @@
+<NEWLINE>
+<NEWLINE>
+<NEWLINE>
+Although you may have heard of "Cloud Storage" before, very few people know that it actually involves clouds and balloons.
+This introductory guide should leave you with a sense of pride and acomplishment for figuring out the ins-and-outs of cloud storage and the sky in general.
+<NEWLINE>
+Chapters:

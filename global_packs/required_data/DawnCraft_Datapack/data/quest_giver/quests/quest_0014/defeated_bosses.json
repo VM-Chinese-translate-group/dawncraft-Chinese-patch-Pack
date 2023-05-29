@@ -1,0 +1,30 @@
+{
+  "parent": "quest_giver:quest_0014_01",
+  "reputation": 10,
+  "icon": "minecraft:emerald",
+  "start": {
+    "title": {
+      "text": "Already Done!"
+    },
+    "description": {
+      "text": "Oh? You've already defeated the eye holder before I gave you the map? Huh... Show me the exact eye the eye holder dropped then. As a matter of fact, drop it and pick it back up... Don't ask why!"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "The End of the Road"
+    },
+    "description": {
+      "text": "I have no more information to give you my friend. Follow your calling."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:corrupted_eye"
+      },
+      "id": "quest_giver:item_pickup",
+      "times": 1
+    }
+  ]
+}

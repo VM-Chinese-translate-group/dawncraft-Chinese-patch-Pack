@@ -28,9 +28,13 @@
      }
   ],
   "rewards": [
-  {
+    {
       "command": "/loot give @p loot minecraft:miner2",
       "id": "quest_giver:command"
-    }
+    },
+    {
+      "command": "/gamestage add @p miner2 true",
+      "id": "quest_giver:command"
+    }    
   ]
 }

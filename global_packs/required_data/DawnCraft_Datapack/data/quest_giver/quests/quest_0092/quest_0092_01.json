@@ -26,7 +26,7 @@
 		"times": 1
 	}],
 	"rewards": [{
-			"command": "/execute as @p run effect give @e[type=minecraft:villager,nbt={VillagerData:{profession:\"morevillagers:enderian\"}},sort=nearest,limit=1] minecraft:invisibility 100 1 true",
+			"command": "/effect give @e[type=quest_giver:quest_villager,nbt={VillagerData:{profession:\"morevillagers:enderian\"}},sort=nearest,limit=1] minecraft:invisibility 100 1 true",
 			"id": "quest_giver:command"
 		},
 		{
@@ -34,11 +34,11 @@
 			"id": "quest_giver:command"
 		},
 		{
-			"command": "/execute at @e[type=minecraft:villager,nbt={VillagerData:{profession:\"morevillagers:enderian\"}},sort=nearest,limit=1] run particle minecraft:end_rod ~ ~ ~ 0 0 0 0.1 40 normal",
+			"command": "/execute at @e[type=quest_giver:quest_villager,nbt={VillagerData:{profession:\"morevillagers:enderian\"}},sort=nearest,limit=1] run particle minecraft:end_rod ~ ~ ~ 0 0 0 0.1 40 normal",
 			"id": "quest_giver:command"
 		},
 		{
-			"command": "/tp @e[type=minecraft:villager,nbt={VillagerData:{profession:\"morevillagers:enderian\"}},sort=nearest,limit=1] ~ ~150 ~150",
+			"command": "/tp @e[type=minecraft:quest_giver:quest_villager,nbt={VillagerData:{profession:\"morevillagers:enderian\"}},sort=nearest,limit=1] ~ ~150 ~150",
 			"id": "quest_giver:command"
 		},
 		{

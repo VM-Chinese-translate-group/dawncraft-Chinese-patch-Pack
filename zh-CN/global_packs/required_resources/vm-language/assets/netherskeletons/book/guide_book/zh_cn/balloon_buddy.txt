@@ -1,0 +1,27 @@
+<NEWLINE>
+<NEWLINE>
+All this interest in Balloons leaves you quite lonely, which is definitely understandable.
+Luckily, you can craft yourself a friend that you cannot make organically.
+By capturing a tiny Bloviator in a bottle, you can get an Angry Cloud Bottle. By feeding this angry little cloud a cookie,
+you can make a Happy Cloud Bottle. This happy little cloud can be given a material form by crafting it into a Balloon Buddy:
+<NEWLINE>
+Apon creation, Balloon Buddies will be assigned a personality. This personality determines the expression and behavior of the Balloon Buddy.
+All Balloon Buddies function like a wolf or cat, and can be made to stay, follow or wander. They can be picked up and itemized by sneaking with an open hand.
+<NEWLINE>
+Personalities:
+<NEWLINE>
+Happy - This balloon buddy will not engage in combat, but will lower nearby monster spawns. This ability is denoted by sunshine effects coming off of the Balloon.
+<NEWLINE>
+Cheeky - This balloon will engage in melee combat, but can dodge any arrows and other projectiles.
+<NEWLINE>
+Scary - This balloon has a terrifying visage and can send nearby monsters running in fear - although it cannot attack.
+<NEWLINE>
+Punished - This eyepatch-toting balloon will enter "stealth mode" and will not aggro mobs with its attacks. It also reduces its owner's detection range when nearby.
+<NEWLINE>
+Crazed - This balloon will engage in melee combat and attacks at a rapid rate compared to other balloons.
+<NEWLINE>
+Trolling - This balloon picks up its attack targets and drops them from a height.
+<NEWLINE>
+Charming - This balloon will not engage in combat, but its sheer presence can put nearby mobs into love mode.
+<NEWLINE>
+Cool - This balloon's slick drawn-on shades distract hostile targets from moving or attacking for a short period.

@@ -1,4 +1,4 @@
-tellraw @s {"text":"你被诅咒了。 tellraw @s {"text":"你被诅咒了。 你踏入的下一个村庄将见证女巫们的智慧","color":"dark_purple"}
+tellraw @s {"text":"你被诅咒了。 你踏入的下一个村庄将见证女巫们的智慧","color":"dark_purple"}
 playsound minecraft:entity.witch.celebrate hostile @s ~ ~ ~ 2 1
 playsound minecraft:entity.witch.celebrate hostile @s ~ ~ ~ 2 0.75
 playsound minecraft:entity.witch.celebrate hostile @s ~ ~ ~ 2 0.5

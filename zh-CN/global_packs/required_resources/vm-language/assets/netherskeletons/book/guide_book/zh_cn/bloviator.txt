@@ -1,0 +1,19 @@
+<NEWLINE>
+<NEWLINE>
+<NEWLINE>
+<NEWLINE>
+<NEWLINE>
+Bloviators are hostile cloud spirits that can be encountered at or above cloud height.
+<NEWLINE>
+When attacking, bloviators will usually attempt to spew gusts of wind at their targets, in an attempt to push them to their demise.
+For this reason, it is best to use ranged weaponry against bloviators, as getting close could be tricky.
+<NEWLINE>
+If a large bloviator is slain, it can split into multiple smaller bloviators to continue the fight. If the smallest of these is slain, they can drop a single Cloud Block.
+<NEWLINE>
+Bloviators are also hostile towards sheep. Rumor has it that they are jealous of their puffy wool. Tiny bloviators can also be captured in a bottle, which can be used in a pinch for a jump boost.
+<NEWLINE>
+If caught up in a rain or thunder storm, bloviators will transform into a darker variant that no longer meekly blows air at its targets. These storm bloviators instead fire lightning at their foes,
+and fighting against entire groups of them can be very difficult. Their smallest drop a Static Cloud Block instead.
+<NEWLINE>
+Cloud Blocks have several unique properties. They can be walked through and entities will sink in them, although they will not fall through. Cloud Blocks also lighten falls and can give a jump boost.
+The static properties of a Static Cloud Block can be transferred to a Balloon and back by using a Balloon on the block.
