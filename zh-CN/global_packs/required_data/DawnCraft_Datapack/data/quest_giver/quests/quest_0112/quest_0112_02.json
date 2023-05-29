@@ -1,0 +1,45 @@
+{
+  "parent": "quest_giver:quest_0112_01",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "又见面了！"
+    },
+    "description": {
+      "text": "你做到了吗？你杀死了 $(red)半狼人$()吗？"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "给你。"
+    },
+    "description": {
+      "text": "感谢。你的话我记住了。我很高兴知道，从现在起不会再有人成为这些可怕怪物的受害者了。"
+    }
+  },
+  "tasks": [
+    {
+      "entity": "simple_mobs:patronwerewolf",
+      "id": "quest_giver:kill",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 6
+    },
+    {
+      "command": "/addreputation reputation:villager @p 3",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/advancement grant @p only custom:trade_miner",
+      "id": "quest_giver:command"
+    }
+  ]
+}
