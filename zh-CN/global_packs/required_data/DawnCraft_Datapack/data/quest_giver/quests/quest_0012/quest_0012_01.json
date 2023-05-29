@@ -4,18 +4,18 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "牛奶桶"
+      "text": "Bucket of Milk!"
     },
     "description": {
-      "text": "请你快些吧。我急需一桶$(red)牛奶$()"
+      "text": "Please hurry up. I'm yearning for a $(red)bucket of milk$()!"
     }
   },
   "complete": {
     "title": {
-      "text": "感谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "好喝！非常感谢你，朋友。"
+      "text": "Yum! Thanks a lot friend."
     }
   },
   "tasks": [
