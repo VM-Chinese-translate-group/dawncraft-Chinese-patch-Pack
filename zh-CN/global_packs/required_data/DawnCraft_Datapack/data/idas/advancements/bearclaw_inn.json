@@ -5,10 +5,10 @@
       "item": "alexsmobs:bear_fur"
     },
     "title": {
-      "translate": "熊爪旅馆"
+      "translate": "The Bearclaw Inn"
     },
     "description": {
-      "translate": "为疲惫的旅行者提供歇脚处"
+      "translate": "An Inn for a Weary Traveler"
     },
     "show_toast": true,
     "announce_to_chat": true,
