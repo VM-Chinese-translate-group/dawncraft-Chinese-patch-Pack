@@ -3,10 +3,10 @@
   "icon": "minecraft:stone",
   "start": {
     "title": {
-      "text": "嗨！"
+      "text": "Hey!"
     },
     "description": {
-      "text": "你能否能从恒晓之地维度中获得一块$(red)明月石$()？我很想知道它品质如何。"
+      "text": "Could you get me a $(red)lunar stone$() from the Everdawn dimension? I'm curious about its quality."
     }
   }
 }
