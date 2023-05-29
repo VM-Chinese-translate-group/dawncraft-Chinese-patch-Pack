@@ -7,7 +7,7 @@
       "text": "探索！"
     },
     "description": {
-      "text": "当你去过这三个生物群系之后再来：古代海沙，火山尖峰，白色台地"
+      "text": "当你去过这三个生物群系之后再来：白色台地、古代沙海和火山之巅"
     }
   },
   "complete": {
@@ -33,7 +33,7 @@
       "times": 6
     },
     {
-      "command": "/addreputation reputation:village @p 4",
+      "command": "/addreputation reputation:villager @p 2",
       "id": "quest_giver:command"
     },
     {
