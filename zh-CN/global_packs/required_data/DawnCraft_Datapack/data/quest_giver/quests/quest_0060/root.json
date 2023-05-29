@@ -3,10 +3,10 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "嘿！"
+      "text": "Hey!"
     },
     "description": {
-      "text": "你会造船吗？算了，不管你会不会，能不能给我搭把手？"
+      "text": "Know anything about boat making? Either way, wanna help me out?"
     }
   }
 }
