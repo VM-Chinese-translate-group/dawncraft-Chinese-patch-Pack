@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:quest_0111_01b",
+  "reputation": 13,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "又见面了！"
+    },
+    "description": {
+      "text": "给我一张纸，我会在纸上标记它的位置。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "给你。"
+    },
+    "description": {
+      "text": "在这里，一旦你接近就很容易发现它。祝你好运，把它掉下来的东西带给我。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "amount": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:guard4",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p guard4 true",
+      "id": "quest_giver:command"
+    }
+  ]
+}
