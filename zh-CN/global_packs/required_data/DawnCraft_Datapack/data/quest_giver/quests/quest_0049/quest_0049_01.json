@@ -4,18 +4,18 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "那么？"
+      "text": "So?"
     },
     "description": {
-      "text": "你拿到$(red)岩浆膏$()了吗？"
+      "text": "Did you get the $(red)magma cream$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "感谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "啊哦！真烫……感谢你的帮助"
+      "text": "Ow! That's hot... Alright thanks for your help!"
     }
   },
   "tasks": [
