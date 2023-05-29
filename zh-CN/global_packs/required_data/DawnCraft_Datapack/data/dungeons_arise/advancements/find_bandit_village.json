@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "锈根",
+            "text": "Rusted Root",
             "color": "dark_red"
         },
         "description": {
-            "text": "找到一片疆盗村落"
+            "text": "Find a Bandit Village"
         },
         "icon": {
             "item": "minecraft:dead_bush"
