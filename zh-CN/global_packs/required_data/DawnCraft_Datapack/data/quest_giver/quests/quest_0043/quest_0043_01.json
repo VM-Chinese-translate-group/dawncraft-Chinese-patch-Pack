@@ -4,18 +4,18 @@
   "icon": "minecraft:paper",
   "start": {
     "title": {
-      "text": "那么？"
+      "text": "So?"
     },
     "description": {
-      "text": "给我10个绿宝石，我会教你如何使用制图台。"
+      "text": "10 emeralds and I'll teach you how to use the cartography table."
     }
   },
   "complete": {
     "title": {
-      "text": "成交！"
+      "text": "Here ya go."
     },
     "description": {
-      "text": "不要被上面的各种东西吓倒，你会掌握它的！"
+      "text": "Don't get intimidated by the equipments on the table, you'll get the hang of it!"
     }
   },
   "tasks": [
