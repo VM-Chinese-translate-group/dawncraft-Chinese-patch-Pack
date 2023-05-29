@@ -1,0 +1,61 @@
+{
+	"parent": "quest_giver:quest_0073_01b",
+	"reputation": 8,
+	"icon": "minecraft:book",
+	"start": {
+		"title": {
+			"text": "林业知识"
+		},
+		"description": {
+			"text": "我需要的三种树叶是：$(red)暮光树叶、枫树叶和星荧树叶$()。"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "谢谢！"
+		},
+		"description": {
+			"text": "真是太有趣了！在完全不同的环境中生长出的植物竟然有着相同的特征，这是怎么回事？等我以后再好好研究吧，这是你的报酬。"
+		}
+	},
+	"tasks": [
+		{
+			"item": {
+				"item": "blue_skies:dusk_leaves"
+			},
+			"id": "quest_giver:gift",
+			"times": 1
+		},
+		{
+			"item": {
+				"item": "blue_skies:maple_leaves"
+			},
+			"id": "quest_giver:gift",
+			"amount": 1
+		},
+		{
+			"item": {
+				"item": "blue_skies:starlit_leaves"
+			},
+			"id": "quest_giver:gift",
+			"amount": 1
+		}
+	],
+	"rewards": [
+		{
+			"command": "/advancement grant @p only custom:trade_librarian",
+			"id": "quest_giver:command"
+		},
+		{
+			"command": "/addreputation reputation:villager @p 3",
+			"id": "quest_giver:command"
+		},
+		{
+			"item": {
+				"item": "ars_nouveau:source_gem"
+			},
+			"id": "quest_giver:item",
+			"times": 20
+		}
+	]
+}
