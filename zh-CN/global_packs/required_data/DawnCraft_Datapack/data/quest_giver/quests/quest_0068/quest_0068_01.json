@@ -1,0 +1,54 @@
+{
+	"parent": "quest_giver:quest_0068_01b",
+	"reputation": 8,
+	"icon": "minecraft:leather",
+	"start": {
+		"title": {
+			"text": "所以？"
+		},
+		"description": {
+			"text": "$(red)蜂蜜酱火腿$()的烹饪进展如何？ "
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "谢谢！"
+		},
+		"description": {
+			"text": "这真令人吃惊，你确实有烹饪的天赋。作为感谢，请收下这些。"
+		}
+	},
+	"tasks": [
+		{
+			"item": {
+				"item": "farmersdelight:honey_glazed_ham_block"
+			},
+			"id": "quest_giver:gift",
+			"times": 2
+		}
+	],
+	"rewards": [
+		{
+			"command": "/advancement grant @p only custom:trade_leatherworker",
+			"id": "quest_giver:command"
+		},
+		{
+			"command": "/addreputation reputation:villager @p 3",
+			"id": "quest_giver:command"
+		},
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:item",
+			"times": 2
+		},
+		{
+			"item": {
+				"item": "minecraft:leather"
+			},
+			"id": "quest_giver:item",
+			"times": 2
+		}
+	]
+}
