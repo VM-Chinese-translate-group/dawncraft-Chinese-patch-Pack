@@ -1,0 +1,12 @@
+{
+  "reputation": 28,
+  "icon": "minecraft:stone",
+  "start": {
+    "title": {
+      "text": "嗨！"
+    },
+    "description": {
+      "text": "你能否能从恒晓之地维度中获得一块$(red)明月石$()？我很想知道它品质如何。"
+    }
+  }
+}
