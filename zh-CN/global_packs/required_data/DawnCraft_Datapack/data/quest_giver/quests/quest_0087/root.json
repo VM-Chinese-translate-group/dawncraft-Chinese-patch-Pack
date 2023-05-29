@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "嗨！"
+      "text": "Hey!"
     },
     "description": {
-      "text": "你好，你看起来似乎厨艺高超。你能为我做道菜吗？"
+      "text": "Hey there, you look like you're a good cook. Could you cook something for me?"
     }
   }
 }
