@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "恋爱循环",
+            "text": "Renai Circulation",
             "color": "dark_red"
         },
         "description": {
-            "text": "找到一间瘟疫避难所"
+            "text": "Find a Plague Asylum"
         },
         "icon": {
             "item": "minecraft:splash_potion"
