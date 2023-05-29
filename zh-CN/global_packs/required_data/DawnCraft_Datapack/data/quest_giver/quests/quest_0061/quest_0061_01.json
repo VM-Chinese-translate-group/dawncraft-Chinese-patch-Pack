@@ -1,0 +1,47 @@
+{
+  "parent": "quest_giver:quest_0061_01b",
+  "reputation": 0,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "制作箭矢"
+    },
+    "description": {
+      "text": "你带来了$(red)两片羽毛$()了吗？"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "谢谢。这是答应给你的箭。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:feather"
+      },
+      "id": "quest_giver:gift",
+      "times": 2
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/advancement grant @p only custom:trade_fletcher",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/addreputation reputation:villager @p 2",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "minecraft:arrow"
+      },
+      "id": "quest_giver:item",
+      "times": 5
+    }
+  ]
+}
