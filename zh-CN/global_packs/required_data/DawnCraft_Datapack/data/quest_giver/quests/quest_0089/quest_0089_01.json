@@ -4,18 +4,18 @@
   "icon": "minecraft:honey_bottle",
   "start": {
     "title": {
-      "text": "蜂蜜？"
+      "text": "Honey?"
     },
     "description": {
-      "text": "你带来$(red)蜂蜜瓶$()了吗？"
+      "text": "Did you get the $(red)Honey Bottle$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "这是我这段时间内喝过的最好的蜂蜜！谢谢！"
+      "text": "That is the best honey I've drank in a while! Thanks!"
     }
   },
   "tasks": [
