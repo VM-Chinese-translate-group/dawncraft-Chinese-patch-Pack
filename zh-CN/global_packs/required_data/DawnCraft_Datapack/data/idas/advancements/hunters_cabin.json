@@ -5,10 +5,10 @@
       "item": "alexsmobs:moose_antler"
     },
     "title": {
-      "translate": "猎人小屋"
+      "translate": "Hunter's Cabin"
     },
     "description": {
-      "translate": "森林猎人"
+      "translate": "The Huntsman of the Woods"
     },
     "show_toast": true,
     "announce_to_chat": true,
