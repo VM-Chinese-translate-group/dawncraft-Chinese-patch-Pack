@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "让我们动起来",
+            "text": "Let's Groove",
             "color": "dark_green"
         },
         "description": {
-            "text": "找到一个商人营地"
+            "text": "Find a Merchant Campsite"
         },
         "icon": {
             "item": "minecraft:emerald"
