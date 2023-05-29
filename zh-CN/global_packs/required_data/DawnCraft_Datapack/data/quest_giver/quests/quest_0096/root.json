@@ -3,10 +3,10 @@
   "icon": "minecraft:redstone",
   "start": {
     "title": {
-      "text": "嘿！"
+      "text": "Hey!"
     },
     "description": {
-      "text": "你能给我$(red)10个红石粉()吗？当然，我会付钱的。"
+      "text": "Can you give me $(red)10 Redstone Dust$()? I'll pay for it of course."
     }
   }
 }
