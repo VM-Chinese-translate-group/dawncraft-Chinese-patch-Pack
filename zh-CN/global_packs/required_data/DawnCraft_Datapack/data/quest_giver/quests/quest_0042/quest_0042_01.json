@@ -4,18 +4,18 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "合成一个指南针"
+      "text": "Craft a Compass!"
     },
     "description": {
-      "text": "这并不是一个艰巨的任务，对吧？制作一个指南针。"
+      "text": "It isn't that hard of a task is it? Craft a compass."
     }
   },
   "complete": {
     "title": {
-      "text": "感谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "干得好。现在你可以麻溜地离开了，难不成你还期望会有什么奖励吗？"
+      "text": "Good job. Run along now, did you expect a reward?"
     }
   },
   "tasks": [
