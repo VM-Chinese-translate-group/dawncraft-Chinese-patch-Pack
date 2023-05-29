@@ -3,10 +3,10 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "嘿！"
+      "text": "Hey!"
     },
     "description": {
-      "text": "我只收10个绿宝石，就能教你如何用制箭台。你感兴趣吗？"
+      "text": "I'm teaching people how to use the fletching table for a mere 10 emerald. What do you say?"
     }
   }
 }
