@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "一碟秘密",
+            "text": "A Saucerful of Secrets",
             "color": "dark_purple"
         },
         "description": {
-            "text": "找到一顶巨型蘑菇屋"
+            "text": "Find a Giant Mushroom"
         },
         "icon": {
             "item": "minecraft:red_mushroom_block"
