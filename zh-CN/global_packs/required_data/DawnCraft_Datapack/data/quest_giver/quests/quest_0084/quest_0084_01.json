@@ -1,0 +1,47 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 5,
+  "icon": "minecraft:iron_axe",
+  "start": {
+    "title": {
+      "text": "下界合金锭"
+    },
+    "description": {
+      "text": "你有多余的$(red)下界合金锭$()吗？"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "谢谢。拿好这些绿宝石。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 4
+    },
+    {
+      "command": "/addreputation reputation:villager @p 3",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/advancement grant @p only custom:trade_toolsmith",
+      "id": "quest_giver:command"
+    }
+  ]
+}
