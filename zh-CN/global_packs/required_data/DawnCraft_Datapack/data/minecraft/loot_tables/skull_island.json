@@ -2,8 +2,8 @@
   "type": "minecraft:gift",
   "pools": [
     {
-      "rolls": 1.0,
-      "bonus_rolls": 0.0,
+      "rolls": "1",
+      "bonus_rolls": "0",
       "entries": [
         {
           "type": "minecraft:item",
@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "真正的末地传送门"
+              "name": "The True End's Portal"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "一张地图，指引你前往这里最强大的地方。"
+                  "text": "A map leading you to the most powerful being within the realm."
                 }
               ]
             }
