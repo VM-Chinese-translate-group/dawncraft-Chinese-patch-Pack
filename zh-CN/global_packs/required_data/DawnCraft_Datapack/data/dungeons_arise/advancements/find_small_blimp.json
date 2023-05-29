@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "天之高远",
+            "text": "Sky High",
             "color": "red"
         },
         "description": {
-            "text": "找到一艘小气艇"
+            "text": "Find a Small Blimp"
         },
         "icon": {
             "item": "minecraft:comparator"
