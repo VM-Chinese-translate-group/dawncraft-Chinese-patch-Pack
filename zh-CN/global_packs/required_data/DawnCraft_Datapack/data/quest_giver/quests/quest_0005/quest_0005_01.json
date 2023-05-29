@@ -4,18 +4,18 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "那么？"
+      "text": "So?"
     },
     "description": {
-      "text": "你拿到了$(red)8个骨头$()吗？"
+      "text": "Did you get the $(red)8 bones$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "感谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "太棒了！现在我的作物比其他农民种的生长得更快！哈哈！非常感谢你，这里是一个绿宝石。"
+      "text": "Great! Now my crops will grow faster than the other farmers'! Haha! Well thank you kind sir, here's an emerald."
     }
   },
   "tasks": [
