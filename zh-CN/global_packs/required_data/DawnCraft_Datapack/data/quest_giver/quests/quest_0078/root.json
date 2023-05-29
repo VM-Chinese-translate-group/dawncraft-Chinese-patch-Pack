@@ -3,10 +3,10 @@
   "icon": "minecraft:stone",
   "start": {
     "title": {
-      "text": "嗨！"
+      "text": "Hey!"
     },
     "description": {
-      "text": "如果你最终抵达了末地。你能给我带回来1个$(red)末地石$()吗？"
+      "text": "If you ever get to the end dimension. Could you get me an $(red)end stone$()?"
     }
   }
 }
