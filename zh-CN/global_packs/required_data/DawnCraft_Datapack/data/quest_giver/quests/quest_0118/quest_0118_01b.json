@@ -1,0 +1,11 @@
+{
+	"parent": "quest_giver:root",
+	"reputation": 16,
+	"icon": "minecraft:iron_pickaxe",
+	"start": {
+		"title": {
+			"text": "火龙之心"
+		},
+		"description": "我正好有你可能感兴趣的东西—— 试炼通过证。对我来说它们几乎没什么用处，但我认为像你这样的冒险者会为了得到它们而去冒险，对吧？我和你做一个交易。给我一个$(red)火龙心脏$()，我就把我手头上所有的通行证都给你。成交吗？"
+	}
+}
