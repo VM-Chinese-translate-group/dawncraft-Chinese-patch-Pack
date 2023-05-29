@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "又见面了！"
+      "text": "Hello again!"
     },
     "description": {
-      "text": "你做到了吗？你杀死了 $(red)半狼人$()吗？"
+      "text": "Did you do it? Did you kill the $(red)half wolf?$()"
     }
   },
   "complete": {
     "title": {
-      "text": "给你。"
+      "text": "Here."
     },
     "description": {
-      "text": "感谢。你的话我记住了。我很高兴知道，从现在起不会再有人成为这些可怕怪物的受害者了。"
+      "text": "Thanks. I'll take your word for it. I'm glad to know that no one else will fall victim to these horrible monsters from now on."
     }
   },
   "tasks": [
