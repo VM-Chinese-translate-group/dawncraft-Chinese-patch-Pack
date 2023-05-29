@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "贵重之物"
+      "text": "A Precious Item"
     },
     "description": {
-      "text": "请给我一张$(red)纸$()。"
+      "text": "Please get me a piece of $(red)paper$()."
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "给你，拜托把我心爱的斧子找回来。那是我迄今为止做的最好的斧子了。"
+      "text": "Here ya go, please return to me my beloved axe. It was my finest work yet."
     }
   },
   "tasks": [
