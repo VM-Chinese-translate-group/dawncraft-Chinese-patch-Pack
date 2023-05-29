@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "图书管理员交易卷轴已获得！",
+            "text": "Librarian Trade Scroll Obtained!",
             "color": "blue",
             "bold": true
         },
         "description": {
-            "text": "已获得图书管理员交易卷轴。"
+            "text": "Obtained Trade Scroll for Librarian."
         },
         "icon": {
             "item": "minecraft:paper"
