@@ -3,10 +3,10 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "嘿！"
+      "text": "Hey!"
     },
     "description": {
-      "text": "您好。我有一些讨伐任务需要你来完成，冒险者。"
+      "text": "Greetings. I've got some extermination contracts for you, adventurer."
     }
   }
 }
