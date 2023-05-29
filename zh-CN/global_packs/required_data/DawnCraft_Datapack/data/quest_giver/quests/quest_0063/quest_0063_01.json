@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0063_01b",
+  "reputation": 0,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "制箭大师"
+    },
+    "description": {
+      "text": "你拿到了$(red)4个云杉木原木$()吗？"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "做得好。这是一颗绿宝石作为你的报酬。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:spruce_log"
+      },
+      "id": "quest_giver:gift",
+      "times": 4
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/addreputation reputation:villager @p 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}
