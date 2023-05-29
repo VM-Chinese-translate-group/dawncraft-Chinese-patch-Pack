@@ -1,4 +1,5 @@
 {
+  "block.quest_giver.guildmaster_bell": "公会钟（POI）",
   "entity.quest_giver.quest_villager.none": "任务发布者",
   "entity.quest_giver.quest_guard_villager": "守卫",
   "entity.quest_giver.quest_villager.armorer": "盔甲匠-任务发布者",
@@ -18,7 +19,7 @@
   "entity.quest_giver.quest_villager.quest_giver.guildmaster": "冒险者公会会长-任务发布者",
   "entity.quest_giver.quest_villager.morevillagers.enderian": "末地学家-任务发布者",
   "entity.quest_giver.quest_villager.morevillagers.engineer": "工程师-任务发布者",
-  "entity.quest_giver.quest_villager.morevillagers.florist": "花匠-任务发布者",
+  "entity.quest_giver.quest_villager.morevillagers.florist": "花贩-任务发布者",
   "entity.quest_giver.quest_villager.morevillagers.hunter": "猎人-任务发布者",
   "entity.quest_giver.quest_villager.morevillagers.miner": "矿工-任务发布者",
   "entity.quest_giver.quest_villager.morevillagers.netherian": "下界学家-任务发布者",
@@ -40,7 +41,7 @@
   "item.quest_giver.trading_contract_weaponsmith": "武器匠贸易合同",
   "item.quest_giver.trading_contract_enderian": "末地学家贸易合同",
   "item.quest_giver.trading_contract_engineer": "工程师贸易合同",
-  "item.quest_giver.trading_contract_florist": "花匠贸易合同",
+  "item.quest_giver.trading_contract_florist": "花贩贸易合同",
   "item.quest_giver.trading_contract_hunter": "猎人贸易合同",
   "item.quest_giver.trading_contract_miner": "矿工贸易合同",
   "item.quest_giver.trading_contract_netherian": "下界学家贸易合同",
