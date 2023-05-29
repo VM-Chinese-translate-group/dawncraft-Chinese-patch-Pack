@@ -1,0 +1,41 @@
+{
+  "parent": "quest_giver:quest_0124_01b",
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "难如登天"
+    },
+    "description": {
+      "text": "你是否已经收到了虎鲸的祝福？"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "有趣……原来是这样做的。你还真是讨人喜欢。很高兴能碰到你！但现在我得走了……愿上帝保佑你。"
+    }
+  },
+  "tasks": [
+    {
+      "id": "afptweaks:advancement",
+      "advancement": "alexsmobs:alexsmobs/orcas_might"
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:hunter1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/addreputation reputation:villager @p 3",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p hunter1 true",
+      "id": "quest_giver:command"
+    }
+  ]
+}
