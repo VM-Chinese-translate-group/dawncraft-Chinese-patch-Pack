@@ -4,18 +4,18 @@
   "icon": "minecraft:poppy",
   "start": {
     "title": {
-      "text": "那么？"
+      "text": "So?"
     },
     "description": {
-      "text": "你拿到了$(red)灵魂草$()了吗？"
+      "text": "Did you get the $(red)Soul Weed$() yet?"
     }
   },
   "complete": {
     "title": {
-      "text": "感谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "多谢。"
+      "text": "Thanks a lot."
     }
   },
   "tasks": [
