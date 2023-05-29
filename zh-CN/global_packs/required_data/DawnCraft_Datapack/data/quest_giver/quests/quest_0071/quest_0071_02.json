@@ -1,0 +1,51 @@
+{
+	"parent": "quest_giver:quest_0071_01",
+	"reputation": 40,
+	"icon": "minecraft:book",
+	"start": {
+		"title": {
+			"text": "所以？"
+		},
+		"description": {
+			"text": "如果您找到了那本书，请交还给我。"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "谢谢！"
+		},
+		"description": {
+			"text": "对我来说，这本书……背后所承载的东西太多太多了。多谢您的援助，我感激不尽。我听说冒险者也能施展魔法，请收下这些吧，算是我的一些心意。"
+		}
+	},
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:written_book",
+				"forge:nbt": "{tag:\"librarian\"}"
+			},
+			"id": "quest_giver:gift",
+			"times": 1
+		}
+	],
+	"rewards": [
+		{
+			"command": "/addreputation reputation:villager @p 1",
+			"id": "quest_giver:command"
+		},
+		{
+			"item": {
+				"item": "ars_nouveau:source_gem"
+			},
+			"id": "quest_giver:item",
+			"times": 3
+		},
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:item",
+			"times": 8
+		}
+	]
+}
