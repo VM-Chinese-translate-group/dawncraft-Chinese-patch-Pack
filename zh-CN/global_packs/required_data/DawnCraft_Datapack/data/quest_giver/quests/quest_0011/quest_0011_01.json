@@ -4,18 +4,18 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "那么？"
+      "text": "So?"
     },
     "description": {
-      "text": "给我10个绿宝石我会教你怎么使用织布机！"
+      "text": "Give me 10 emeralds and I'll teach you how to use the loom!"
     }
   },
   "complete": {
     "title": {
-      "text": "感谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "干得漂亮！"
+      "text": "There you go!"
     }
   },
   "tasks": [
