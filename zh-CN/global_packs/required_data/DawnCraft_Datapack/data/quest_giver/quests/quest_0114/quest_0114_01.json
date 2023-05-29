@@ -1,0 +1,52 @@
+{
+  "parent": "quest_giver:quest_0114_01b",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "所以？"
+    },
+    "description": {
+      "text": "就忘了你的任务了吗？用近战武器击败船长科妮莉亚亡灵。然后回来找我领取你的奖励。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "太疯狂了！你真的做到了！来，拿着你的奖励。听说你们喜欢钻石，对吗？拿点吧！"
+    }
+  },
+  "tasks": [
+    {
+      "entity": "ob_aquamirae:captain_cornelia",
+      "id": "quest_giver:kill",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 2
+    },
+    {
+      "item": {
+        "item": "minecraft:diamond"
+      },
+      "id": "quest_giver:item",
+      "times": 4
+    },
+    {
+      "command": "/advancement grant @p only custom:trade_oceanographer",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/addreputation reputation:villager @p 2",
+      "id": "quest_giver:command"
+    }
+  ]
+}
