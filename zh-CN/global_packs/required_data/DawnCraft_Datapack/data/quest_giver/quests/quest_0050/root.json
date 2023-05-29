@@ -3,10 +3,10 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "嘿！"
+      "text": "Hey!"
     },
     "description": {
-      "text": "你好年轻人，想聊聊吗？"
+      "text": "Hey young man, fancy a chat?"
     }
   }
 }
