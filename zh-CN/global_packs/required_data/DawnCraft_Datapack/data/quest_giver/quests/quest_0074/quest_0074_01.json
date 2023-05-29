@@ -1,0 +1,30 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 4,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "不情之请"
+    },
+    "description": {
+      "text": "你能给我一个你的$(red)试炼通过证$()吗？"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "这玩意的结构也太复杂了……你能再给我一个试炼通过证吗？"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "paraglider:spirit_orb"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ]
+}
