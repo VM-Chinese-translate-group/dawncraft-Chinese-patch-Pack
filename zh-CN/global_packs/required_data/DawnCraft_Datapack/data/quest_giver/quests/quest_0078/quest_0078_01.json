@@ -1,0 +1,47 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 48,
+  "icon": "minecraft:stone",
+  "start": {
+    "title": {
+      "text": "异界之石Ⅲ"
+    },
+    "description": {
+      "text": "当你抵达末地之时，记得帮我带上$(red)末地石$()。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "嗯……这个品质……还行吧。我会好好利用它的，谢谢。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:end_stone"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/advancement grant @p only custom:trade_mason",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/addreputation reputation:villager @p 2",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 2
+    }
+  ]
+}
