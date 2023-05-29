@@ -4,10 +4,10 @@
   "icon": "minecraft:paper",
   "start": {
     "title": {
-      "text": "探索！"
+      "text": "Exploration!"
     },
     "description": {
-      "text": "基本上说，我需要帮助以弄清楚不同的生物群系是什么样子的，这样我才能在地图上把它们更好的绘制出来。作为一个冒险家，我认为你是这项工作的完美人选。目前我对3个生物群系感兴趣：白色台地，古代海沙，以及火山尖峰。"
+      "text": "Basically, I need help figuring out what different biomes look like so I can draw them better on the maps. As an adventurer, I thought you perfect for the job! There are 3 biomes I'm currently interested in: The white cliffs, ancient sands, and the volcanic peaks."
     }
   }
 }
