@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0051_01b",
+  "reputation": 0,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "所以？"
+    },
+    "description": {
+      "text": "获得$(red)南瓜种子()了吗？"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "非常感谢，现在我可以在房子后面种植一小块南瓜田然后开始我的研究了，哈哈！"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:pumpkin_seeds"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/addreputation reputation:villager @p 3",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}
