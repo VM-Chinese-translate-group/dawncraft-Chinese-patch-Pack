@@ -4,18 +4,18 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "所以？"
+      "text": "So?"
     },
     "description": {
-      "text": "获得$(red)南瓜种子()了吗？"
+      "text": "Got the $(red)pumpkin seeds$() yet?"
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "非常感谢，现在我可以在房子后面种植一小块南瓜田然后开始我的研究了，哈哈！"
+      "text": "Many thanks, now I can grow a small pumpkin farm behind my house and begin my studies, haha!"
     }
   },
   "tasks": [
