@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "女武神的骑行",
+            "text": "Ride Of The Valkyries",
             "color": "dark_red"
         },
         "description": {
-            "text": "找到一艘天堂骑行者战舰"
+            "text": "Find a Heavenly Rider"
         },
         "icon": {
             "item": "minecraft:saddle"
