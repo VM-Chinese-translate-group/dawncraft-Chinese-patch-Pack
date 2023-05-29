@@ -3,10 +3,10 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "嘿！"
+      "text": "Hey!"
     },
     "description": {
-      "text": "想学怎么使用织布机？我可以教你啊，10个绿宝石。"
+      "text": "Do you want to learn how to use the loom? I can teach you for 10 emeralds."
     }
   }
 }
