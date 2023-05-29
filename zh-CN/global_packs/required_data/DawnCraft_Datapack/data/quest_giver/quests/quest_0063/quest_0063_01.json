@@ -4,18 +4,18 @@
   "icon": "minecraft:arrow",
   "start": {
     "title": {
-      "text": "制箭大师"
+      "text": "Arrow Craftsmanship"
     },
     "description": {
-      "text": "你拿到了$(red)4个云杉木原木$()吗？"
+      "text": "Did you get $(red)the 4 spruce logs$() yet?"
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "做得好。这是一颗绿宝石作为你的报酬。"
+      "text": "Good job. Here's an emerald for your work."
     }
   },
   "tasks": [
