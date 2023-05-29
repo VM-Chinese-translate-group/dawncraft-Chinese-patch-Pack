@@ -4,18 +4,18 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "解锁织布机"
+      "text": "Unlock Loom"
     },
     "description": {
-      "text": "没问题的朋友，给我15个绿宝石我会教你怎么使用织布机！"
+      "text": "No problem friend. Give me 15 emeralds and I'll teach you how to use the loom!"
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "干得漂亮！"
+      "text": "There you go!"
     }
   },
   "tasks": [
