@@ -1,0 +1,52 @@
+{
+	"parent": "quest_giver:quest_0083_01",
+	"reputation": 13,
+	"icon": "minecraft:iron_axe",
+	"start": {
+		"title": {
+			"text": "所以？"
+		},
+		"description": {
+			"text": "你拿回我的铁斧了吗？请快些去吧。"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "谢谢！"
+		},
+		"description": {
+			"text": "是的！这就是我亲手做的那把斧子……我的巅峰之作。不管怎样，这是你的奖励。非常感谢你的帮助。"
+		}
+	},
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:iron_axe",
+				"forge:nbt": "{tag:\"toolsmith\"}"
+			},
+			"id": "quest_giver:gift",
+			"times": 1
+		}
+	],
+	"rewards": [
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:item",
+			"times": 2
+		},
+		{
+			"command": "/addreputation reputation:villager @p 2",
+			"id": "quest_giver:command"
+		},
+		{
+			"command": "/give @p iron_axe{Enchantments:[{id:efficiency,lvl:2}]}",
+			"id": "quest_giver:command"
+		},
+		{
+			"command": "/advancement grant @p only custom:trade_toolsmith",
+			"id": "quest_giver:command"
+		}
+	]
+}
