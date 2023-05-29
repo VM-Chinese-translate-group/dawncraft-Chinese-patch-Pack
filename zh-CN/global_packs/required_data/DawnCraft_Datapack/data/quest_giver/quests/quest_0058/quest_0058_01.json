@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0058_01b",
+  "reputation": 15,
+  "icon": "minecraft:bow",
+  "start": {
+    "title": {
+      "text": "以牙还牙"
+    },
+    "description": {
+      "text": "（*你意识到鲨鱼并不会这样攻击人类；而且只有一些生性温和的鲨鱼，例如$(red)锤头鲨$()，会在死亡时掉落它们的牙齿。但你选择保持沉默*）"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "谢谢…… 我会把我妹妹的名字刻在牙齿上做成吊坠随身携带。再次感谢你，冒险者，这是你的奖励。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "alexsmobs:shark_tooth"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/addreputation reputation:villager @p 2",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "minecraft:salmon"
+      },
+      "id": "quest_giver:item",
+      "times": 6
+    }
+  ]
+}
