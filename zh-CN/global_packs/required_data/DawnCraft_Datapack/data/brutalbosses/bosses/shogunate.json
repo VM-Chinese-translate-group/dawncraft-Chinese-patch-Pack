@@ -1,6 +1,6 @@
 {
 	"entity": "simple_mobs:samurai_4",
-	"name": "幕府将军",
+	"name": "Shogunate",
 	"namevisible": false,
 	"gear": {
 		"mainhand": "{id: \"epicfight:katana\", Count: 1b, tag: {Damage: 0}}"
