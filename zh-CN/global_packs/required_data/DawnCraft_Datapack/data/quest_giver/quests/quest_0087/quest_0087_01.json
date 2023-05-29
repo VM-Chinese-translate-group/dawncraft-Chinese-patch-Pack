@@ -1,0 +1,47 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 7,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "烹饪工作"
+    },
+    "description": {
+      "text": "你能为我做一道名叫“$(red)羊排意面$()”的菜吗？"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "嗯！这看起来让人食欲大开，我会留着慢慢享用的。谢谢你。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "farmersdelight:pasta_with_mutton_chop"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 2
+    },
+    {
+      "command": "/advancement grant @p only custom:trade_weaponsmith",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/addreputation reputation:villager @p 2",
+      "id": "quest_giver:command"
+    }
+  ]
+}
