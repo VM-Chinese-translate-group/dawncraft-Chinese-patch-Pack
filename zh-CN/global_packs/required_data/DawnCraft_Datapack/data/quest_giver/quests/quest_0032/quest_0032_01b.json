@@ -4,10 +4,10 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "举手之劳"
+      "text": "A Little Help"
     },
     "description": {
-      "text": "你是个好人！你能不能帮我弄一把$(red)铁质小刀$()来？我的刀已经坏了……"
+      "text": "Good man! Could you somehow get me an $(red)iron knife$()? Mine just broke..."
     }
   }
 }
