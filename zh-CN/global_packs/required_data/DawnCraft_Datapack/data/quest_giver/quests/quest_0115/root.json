@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "讨伐巨兽"
+      "text": "An Offer"
     },
     "description": {
-      "text": "嘿，冒险家朋友！我有个委托给你。"
+      "text": "Hey fellow adventurer! I got an offer for you."
     }
   }
 }
