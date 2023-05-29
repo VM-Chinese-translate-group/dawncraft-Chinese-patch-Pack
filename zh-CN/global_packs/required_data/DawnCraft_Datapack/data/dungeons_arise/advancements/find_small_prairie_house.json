@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "好地方",
+            "text": "The Good Place",
             "color": "dark_aqua"
         },
         "description": {
-            "text": "找到一间平原小屋 "
+            "text": "Find a Small Prairie House "
         },
         "icon": {
             "item": "minecraft:furnace"
