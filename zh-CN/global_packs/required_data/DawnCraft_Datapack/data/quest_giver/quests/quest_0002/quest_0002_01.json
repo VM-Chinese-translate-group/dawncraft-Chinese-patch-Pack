@@ -4,18 +4,18 @@
   "icon": "minecraft:rabbit_foot",
   "start": {
     "title": {
-      "text": "帮个忙"
+      "text": "A Favor"
     },
     "description": {
-      "text": "太好了，你有兔子脚吗？"
+      "text": "Well, do you have the rabbit foot?"
     }
   },
   "complete": {
     "title": {
-      "text": "太棒了！"
+      "text": "Well great!"
     },
     "description": {
-      "text": "太棒了！我没什么值钱的东西给你……请接受这个熟羊肉，刚做好的！"
+      "text": "Well great! I don't have much to pay for it... Please accept this cooked mutton, freshly cooked!"
     }
   },
   "tasks": [
