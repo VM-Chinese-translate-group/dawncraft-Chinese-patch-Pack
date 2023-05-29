@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:bow",
+  "start": {
+    "title": {
+      "text": "嗨！"
+    },
+    "description": {
+      "text": "嘿，你能从当地的制箭师那里拿到 $(red)16支箭$() 吗？我会向你支付这笔费用。"
+    }
+  }
+}
