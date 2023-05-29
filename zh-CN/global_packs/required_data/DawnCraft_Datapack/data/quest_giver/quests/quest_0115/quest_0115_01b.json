@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 5,
+  "icon": "minecraft:iron_axe",
+  "start": {
+    "title": {
+      "text": "讨伐巨兽"
+    },
+    "description": {
+      "text": "我曾探索下界，发现了居住着可怕傀儡的特殊结构。如果你给我6颗绿宝石我就告诉你它在地图上的位置。"
+    }
+  }
+}
