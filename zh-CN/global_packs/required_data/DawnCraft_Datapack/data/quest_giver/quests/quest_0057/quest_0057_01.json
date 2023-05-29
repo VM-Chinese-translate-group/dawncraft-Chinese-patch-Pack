@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0057_01b",
+  "reputation": 0,
+  "icon": "minecraft:cod",
+  "start": {
+    "title": {
+      "text": "制作钓鱼竿"
+    },
+    "description": {
+      "text": "你带来$(red)钓鱼竿$()了吗？"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "多谢，可惜我没什么值钱的东西能给你。嗯……拿上这条鳕鱼吧，刚钓上来的。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:fishing_rod"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/addreputation reputation:villager @p 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "minecraft:cod"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}
