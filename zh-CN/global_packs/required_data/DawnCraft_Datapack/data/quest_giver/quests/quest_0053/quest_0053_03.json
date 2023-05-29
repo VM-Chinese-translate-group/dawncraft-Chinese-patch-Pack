@@ -4,18 +4,18 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "所以？"
+      "text": "So?"
     },
     "description": {
-      "text": "所以，你摘到$(red)4个甜浆果$()了吗？"
+      "text": "So, did you get the $(red)4 sweet berries$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "你太热心了，年轻人。能再帮我个忙吗？我还需要两棵甜菜根……我保证这是我最后一个请求了。"
+      "text": "You've been great, young man. Do me another favor? I need 2 beetroots... I promise it's the last thing I'll ask."
     }
   },
   "tasks": [
