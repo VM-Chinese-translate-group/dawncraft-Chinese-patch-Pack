@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0086_01b",
+  "reputation": 37,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "紧急请求"
+    },
+    "description": {
+      "text": "你拿到$(red)16个铁锭$()了吗？请快点。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "谢谢你，我知道我不应该让一个冒险家帮助收集资源……但我没有选择。掠夺者的军队正在逼近，他们很快就会来到这个村庄... 如果你想要一份清剿任务，请告诉我，我很乐意提供。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:iron_ingot"
+      },
+      "id": "quest_giver:gift",
+      "times": 16
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 3
+    },
+    {
+      "command": "/addreputation reputation:villager @p 2",
+      "id": "quest_giver:command"
+    }
+  ]
+}
