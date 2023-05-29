@@ -1,0 +1,12 @@
+{
+  "reputation": 52,
+  "icon": "minecraft:ender_pearl",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "你好冒险者，有一道菜我认为只有你能为我做出来。我会付出丰厚的报酬，你愿意接受吗？"
+    }
+  }
+}
