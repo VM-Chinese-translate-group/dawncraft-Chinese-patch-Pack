@@ -4,18 +4,18 @@
   "icon": "minecraft:heart_of_the_sea",
   "start": {
     "title": {
-      "text": "那么？"
+      "text": "So?"
     },
     "description": {
-      "text": "你拿到一个 $(red)海洋之心$()了吗？"
+      "text": "Did you obtain a $(red)Heart of the Sea$() yet?"
     }
   },
   "complete": {
     "title": {
-      "text": "感谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "这看起来……很奇妙。但诞生于海洋的东西大多如此吧……不管怎样，非常感谢你，冒险者。这是你的奖励。"
+      "text": "This looks... bizarre. But most things coming from the Ocean are of this nature... Anyway, thanks a lot adventurer. Here's your reward."
     }
   },
   "tasks": [
