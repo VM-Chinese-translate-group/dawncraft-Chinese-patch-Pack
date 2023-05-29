@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "这些人很陌生",
+            "text": "People Are Strange",
             "color": "dark_purple"
         },
         "description": {
-            "text": "找到一个灾厄营地"
+            "text": "Find an Illager Campsite"
         },
         "icon": {
             "item": "minecraft:crossbow"
