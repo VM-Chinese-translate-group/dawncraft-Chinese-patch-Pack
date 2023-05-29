@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0065_01b",
+  "reputation": 7,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "药箭"
+    },
+    "description": {
+      "text": "你就忘了嘛？我想要$(red)12个萤石粉$()。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "多谢！就拿这些药箭答谢你，行吗？"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:glowstone_dust"
+      },
+      "id": "quest_giver:gift",
+      "times": 12
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/addreputation reputation:villager @p 2",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "minecraft:arrow"
+      },
+      "id": "quest_giver:item",
+      "times": 35
+    }
+  ]
+}
