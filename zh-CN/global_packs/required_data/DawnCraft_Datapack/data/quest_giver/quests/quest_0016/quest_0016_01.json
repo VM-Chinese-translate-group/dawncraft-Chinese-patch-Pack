@@ -4,18 +4,18 @@
   "icon": "minecraft:redstone",
   "start": {
     "title": {
-      "text": "那么？"
+      "text": "So?"
     },
     "description": {
-      "text": "你拿到了$(red)铜扳手和拉杆$()了吗？"
+      "text": "Did you get the $(red)copper wrench and lever$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "感谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "谢谢。给你，这是你应得的。"
+      "text": "Thanks. Here, for your trouble."
     }
   },
   "tasks": [
