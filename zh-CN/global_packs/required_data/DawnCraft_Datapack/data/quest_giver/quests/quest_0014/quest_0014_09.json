@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "末地之路"
+      "text": "The End of the Road"
     },
     "description": {
-      "text": "火焰巨人已经消失了数月。幸好在他离开之前，我们取下了一缕他的头发。伟大的牧师向其中注入了魔力，理论上说，只要你在祭坛上献上这缕头发，就可以召唤出火焰巨人。如果你不慎丢失了这缕头发，可以在酿造台上用一个火焰弹和一个基础抗火药水合成来重新召回。"
+      "text": "The fire giant had disappeared from our realm many moons ago. We were able to extract a knot of his hair before he left. The great clerics enchanted magic into the item, which should theoretically allow you to summon the giant should you offer the item at the altar. If you ever lose the hair knot, combine a fire charge with a basic fire resistance potion in a brewing stand to re-summon the item."
     }
   },
   "complete": {
     "title": {
-      "text": "末地之路"
+      "text": "The End of the Road"
     },
     "description": {
-      "text": "这……实在是令人惊叹……是的，冒险者，你已经击败了所有的眼睛守护者。如果你已经集齐了12枚眼睛，那么请寻找通往末地的入口吧。愿神眷顾你。"
+      "text": "Well, I'm speechless... This is it adventurer. You have defeated all the eyeholders. If you have acquired 12 eyes already, look for the gateway into the End. God spede you."
     }
   },
   "tasks": [
