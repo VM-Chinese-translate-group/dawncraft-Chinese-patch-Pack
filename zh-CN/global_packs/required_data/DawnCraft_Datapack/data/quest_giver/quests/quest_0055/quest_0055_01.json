@@ -1,0 +1,47 @@
+{
+  "parent": "quest_giver:quest_0055_01b",
+  "reputation": 4,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "那么？"
+    },
+    "description": {
+      "text": "你去下界的时候可曾找到过$(red)鬼椒$()？"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "感謝！"
+    },
+    "description": {
+      "text": "哇哦，炙手可热（字面意思）！这肯定就是鬼椒，哈哈！这是你的报酬。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "nourished_nether:ghost_pepper"
+      },
+      "id": "quest_giver:gift",
+      "times": 3
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/advancement grant @p only custom:trade_farmer",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/addreputation reputation:villager @p 2",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 5
+    }
+  ]
+}
