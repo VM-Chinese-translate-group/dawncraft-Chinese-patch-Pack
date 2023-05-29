@@ -4,18 +4,18 @@
   "icon": "minecraft:poppy",
   "start": {
     "title": {
-      "text": "所以？"
+      "text": "So?"
     },
     "description": {
-      "text": "你拿到$(red)橙色球形仙人掌$()了吗？"
+      "text": "Did you get the $(red)Orange Ball Cactus$() yet?"
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "非常感谢！"
+      "text": "Thanks a lot."
     }
   },
   "tasks": [
