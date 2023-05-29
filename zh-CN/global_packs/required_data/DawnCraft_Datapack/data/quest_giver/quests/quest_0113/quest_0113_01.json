@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "所以？"
+      "text": "So?"
     },
     "description": {
-      "text": "你能给我找一张纸吗？我给你画张地图。"
+      "text": "Could you fetch me a piece of paper? I'll draw you a map."
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "请到这个地方去，然后尝试……从那个怪物身上获取宝石。请把宝石带给我。我可以保证那值得你这么做。"
+      "text": "Please go to this location and try to... extract the gems from the creature. Bring me the gems please. I'll make sure that it'll be worth your while."
     }
   },
   "tasks": [
