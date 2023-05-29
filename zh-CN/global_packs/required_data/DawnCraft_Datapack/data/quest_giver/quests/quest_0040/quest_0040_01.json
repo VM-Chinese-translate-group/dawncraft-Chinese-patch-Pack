@@ -4,18 +4,18 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "一个不可能完成的任务！"
+      "text": "An Impossible Task!"
     },
     "description": {
-      "text": "驯服了一头大象再回来找我吧……假如，你能驯服它的话……"
+      "text": "Come back when you've tamed an elephant... Actually, if."
     }
   },
   "complete": {
     "title": {
-      "text": "感谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "哇哦，你真的做到了。我听说这些巨型生物喜欢金合欢花。拿去吧，不要问我为什么有它们。"
+      "text": "Huh. You actually did it. Well, I heard these giant creatures love acacia blossoms. Here, don't ask why I've got them."
     }
   },
   "tasks": [
