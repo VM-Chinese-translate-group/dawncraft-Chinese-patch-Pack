@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "嘿！"
+      "text": "Hey!"
     },
     "description": {
-      "text": "嗨，你能帮我从下界获取一些绯红菌柄吗？我想试着拿它们制作工具的把手。"
+      "text": "Hey there! Can you help me get some crimson wood stems from the Nether? I'm trying to make tools with special handles."
     }
   }
 }
