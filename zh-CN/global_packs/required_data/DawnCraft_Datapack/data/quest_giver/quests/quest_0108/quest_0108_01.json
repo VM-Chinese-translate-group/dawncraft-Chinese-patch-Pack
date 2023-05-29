@@ -4,18 +4,18 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "所以？"
+			"text": "So?"
 		},
 		"description": {
-			"text": "我可以教你这个技能——强力防守，价格为15个绿宝石。"
+			"text": "I can teach you the skill - Energizing Guard for 15 emeralds."
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "谢谢！"
+			"text": "Thanks!"
 		},
 		"description": {
-			"text": "拿好。"
+			"text": "Here you go."
 		}
 	},
 	"tasks": [
