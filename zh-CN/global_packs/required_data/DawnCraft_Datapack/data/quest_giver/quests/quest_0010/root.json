@@ -3,10 +3,10 @@
   "icon": "minecraft:stone",
   "start": {
     "title": {
-      "text": "嘿！"
+      "text": "Hey!"
     },
     "description": {
-      "text": "想学怎么用切石机？承惠10个绿宝石。"
+      "text": "Wanna learn how to use the stonecutter? It'll be only 10 emeralds!"
     }
   }
 }
