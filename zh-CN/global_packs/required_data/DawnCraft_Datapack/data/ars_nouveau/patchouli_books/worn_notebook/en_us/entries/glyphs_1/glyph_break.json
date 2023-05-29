@@ -1,0 +1,12 @@
+{
+  "name": "ars_nouveau.glyph_name.break",
+  "category": "ars_nouveau:glyphs_1",
+  "icon": "ars_nouveau:glyph_break",
+  "sortnum": 2,
+  "pages": [
+    {
+      "text": "自黑魔法时代以来，这个法术就被封存在领域之外……",
+      "type": "patchouli:text"
+    }
+  ]
+}
