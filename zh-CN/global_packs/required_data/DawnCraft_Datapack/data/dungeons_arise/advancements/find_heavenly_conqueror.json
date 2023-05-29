@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "空中的幽灵骑士",
+            "text": "Ghost Riders In The Sky",
             "color": "red"
         },
         "description": {
-            "text": "找到天堂征服者"
+            "text": "Find a Heavenly Conqueror"
         },
         "icon": {
             "item": "minecraft:golden_chestplate"
