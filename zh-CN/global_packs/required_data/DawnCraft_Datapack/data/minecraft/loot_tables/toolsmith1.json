@@ -2,8 +2,8 @@
   "type": "minecraft:gift",
   "pools": [
     {
-      "rolls": 1.0,
-      "bonus_rolls": 0.0,
+      "rolls": "1",
+      "bonus_rolls": "0",
       "entries": [
         {
           "type": "minecraft:item",
@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "工具匠的地图"
+              "name": "Toolsmith's Map"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "工具匠为了取回他最喜欢的斧头而给出的地图。"
+                  "text": "A map given by the toolsmith to retrieve his favorite axe."
                 }
               ]
             }
