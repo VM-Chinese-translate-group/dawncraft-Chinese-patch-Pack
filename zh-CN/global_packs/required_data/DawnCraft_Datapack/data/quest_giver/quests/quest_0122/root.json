@@ -1,0 +1,12 @@
+{
+  "reputation": 7,
+  "icon": "minecraft:brewing_stand",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "嘿，有时间聊一聊吗？我想这会对你有所帮助的。"
+    }
+  }
+}
