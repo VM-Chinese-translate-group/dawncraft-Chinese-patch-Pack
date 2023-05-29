@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "屠夫交易卷轴已获得！",
+            "text": "Butcher Trade Scroll Obtained!",
             "color": "blue",
             "bold": true
         },
         "description": {
-            "text": "已获得屠夫交易卷轴。"
+            "text": "Obtained Trade Scroll for Butcher."
         },
         "icon": {
             "item": "minecraft:paper"
