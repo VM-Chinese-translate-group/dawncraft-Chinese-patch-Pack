@@ -5,10 +5,10 @@
       "item": "minecraft:skeleton_skull"
     },
     "title": {
-      "translate": "死灵法师的尖塔"
+      "translate": "The Necromancer's Spire"
     },
     "description": {
-      "translate": "令人不寒而栗的邪恶无处不在……"
+      "translate": "A Chilling Evil Lurks Within..."
     },
     "show_toast": true,
     "announce_to_chat": true,
