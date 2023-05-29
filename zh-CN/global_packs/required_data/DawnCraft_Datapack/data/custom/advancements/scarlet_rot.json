@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "猩红腐败",
+            "text": "Scarlet Rot...",
             "color": "yellow",
             "bold": true
         },
         "description": {
-            "text": "找到灰烬荒地生物群系。"
+            "text": "Found the biome Ash Barrens."
         },
         "icon": {
             "item": "minecraft:bone_meal"
