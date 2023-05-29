@@ -1,0 +1,52 @@
+{
+	"parent": "quest_giver:quest_0092_01b",
+	"reputation": 46,
+	"icon": "minecraft:ender_pearl",
+	"start": {
+		"title": {
+			"text": "所以？"
+		},
+		"description": {
+			"text": "请在你获得$(red)龙蛋$()后让我看一看。"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "谢谢！"
+		},
+		"description": {
+			"text": "很抱歉这样对你，我的朋友……但我需要它。再见。"
+		}
+	},
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:dragon_egg"
+			},
+			"id": "quest_giver:gift",
+			"times": 1
+		}
+	],
+	"rewards": [
+		{
+			"command": "/effect give @e[type=quest_giver:quest_villager,nbt={VillagerData:{profession:\"morevillagers:enderian\"}},sort=nearest,limit=1] minecraft:invisibility 100 1 true",
+			"id": "quest_giver:command"
+		},
+		{
+			"command": "/tag @e[type=minecraft:villager,nbt={VillagerData:{profession:\"morevillagers:enderian\"}},sort=nearest,limit=1] add it",
+			"id": "quest_giver:command"
+		},
+		{
+			"command": "/execute at @e[type=quest_giver:quest_villager,nbt={VillagerData:{profession:\"morevillagers:enderian\"}},sort=nearest,limit=1] run particle minecraft:end_rod ~ ~ ~ 0 0 0 0.1 40 normal",
+			"id": "quest_giver:command"
+		},
+		{
+			"command": "/tp @e[type=minecraft:quest_giver:quest_villager,nbt={VillagerData:{profession:\"morevillagers:enderian\"}},sort=nearest,limit=1] ~ ~150 ~150",
+			"id": "quest_giver:command"
+		},
+		{
+			"command": "/execute at @p run playsound minecraft:entity.enderman.teleport ambient @p ~ ~ ~ 7 1",
+			"id": "quest_giver:command"
+		}
+	]
+}
