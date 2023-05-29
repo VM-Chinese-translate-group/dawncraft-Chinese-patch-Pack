@@ -3,10 +3,10 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "嘿！"
+      "text": "Hey!"
     },
     "description": {
-      "text": "你好，你能给我一把剪刀吗？我的刚刚坏了。"
+      "text": "Hello there, could you get me a pair of shears? Mine broke just now."
     }
   }
 }
