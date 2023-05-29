@@ -4,18 +4,18 @@
   "icon": "minecraft:leather",
   "start": {
     "title": {
-      "text": "所以？"
+      "text": "So?"
     },
     "description": {
-      "text": "你拿到$(red)兔子皮$()了吗？ "
+      "text": "Did you get the $(red)rabbit hide$()? "
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "谢谢，这些小家伙的速度太快了，我抓不到。"
+      "text": "Thanks, these little guys are too fast for me to catch."
     }
   },
   "tasks": [
