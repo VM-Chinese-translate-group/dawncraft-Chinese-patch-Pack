@@ -5,10 +5,10 @@
       "item": "create:brass_ingot"
     },
     "title": {
-      "translate": "工匠作坊"
+      "translate": "Tinker's Workshop"
     },
     "description": {
-      "translate": "成为工匠的最新测试对象……"
+      "translate": "Become the latest test subject of the Tinker..."
     },
     "show_toast": true,
     "announce_to_chat": true,
