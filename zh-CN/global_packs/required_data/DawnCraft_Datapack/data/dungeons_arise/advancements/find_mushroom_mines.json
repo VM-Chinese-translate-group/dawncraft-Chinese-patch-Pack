@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "共克时艰",
+            "text": "We All Lift Together",
             "color": "dark_blue"
         },
         "description": {
-            "text": "找到一座蘑菇矿架"
+            "text": "Find a Mushroom Mine"
         },
         "icon": {
             "item": "minecraft:iron_pickaxe"
