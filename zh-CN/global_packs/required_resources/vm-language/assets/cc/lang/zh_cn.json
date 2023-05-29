@@ -1,0 +1,17 @@
+{
+    "item.cc.claim_block": "领地台",
+    "block.cc.claim_block": "领地台",
+    "cc.lore.paper": "储存了领地信息文档",
+    "cc.message.block.not_owner": "这个领地方块不属于你",
+    "cc.message.block.access": "您没有权限进入这个领地",
+    "cc.message.spawn": "要占有的区块离世界出生点靠太近了",
+    "cc.message.claim_limit": "您可占有的区块已达到上限",
+    "cc.message.claim": "您占有了这个区块",
+    "cc.message.unclaim": "您取消占有了这个区块",
+    "cc.message.claimed.chunk": "您取消占有了这个区块",
+    "cc.message.noclaims.you": "您没有已占有的区块",
+    "cc.message.noclaims": "您没有已占有的区块",
+    "cc.gui.access": "允许移动",
+    "cc.gui.modify": "允许操作",
+    "cc.gui.enable": "启用"
+}
