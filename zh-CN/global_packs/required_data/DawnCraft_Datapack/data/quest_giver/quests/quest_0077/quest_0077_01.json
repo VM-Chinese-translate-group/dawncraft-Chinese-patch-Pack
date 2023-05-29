@@ -1,0 +1,47 @@
+{
+	"parent": "quest_giver:root",
+	"reputation": 24,
+	"icon": "minecraft:stone",
+	"start": {
+		"title": {
+			"text": "异界之石Ⅲ"
+		},
+		"description": {
+			"text": "你拿到$(red)绿松石$()了吗？你可以在永昼之地找到它们。"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "谢谢！"
+		},
+		"description": {
+			"text": "嗯……这个品质……还行吧。我会好好利用它的，谢谢。"
+		}
+	},
+	"tasks": [
+		{
+			"item": {
+				"item": "blue_skies:turquoise_stone"
+			},
+			"id": "quest_giver:gift",
+			"times": 1
+		}
+	],
+	"rewards": [
+		{
+			"command": "/advancement grant @p only custom:trade_mason",
+			"id": "quest_giver:command"
+		},
+		{
+			"command": "/addreputation reputation:village @p 2",
+			"id": "quest_giver:command"
+		},
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:item",
+			"times": 1
+		}
+	]
+}
