@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_axe",
   "start": {
     "title": {
-      "text": "贵重之物"
+      "text": "A Precious Item"
     },
     "description": {
-      "text": "你能去一个地方取回一把铁斧吗？那地方被兽人吞没了，所以我不得不放弃……等等，给我一张纸，我会给你绘制一张地图。"
+      "text": "Can you go to a place and retrieve an iron axe? The place was swarmed by orcs so I had to abandon it... Hold on, fetch me a piece of paper, I'll draw you a map."
     }
   }
 }
