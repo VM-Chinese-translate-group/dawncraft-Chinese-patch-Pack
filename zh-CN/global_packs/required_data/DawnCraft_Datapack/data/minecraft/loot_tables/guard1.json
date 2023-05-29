@@ -2,8 +2,8 @@
   "type": "minecraft:gift",
   "pools": [
     {
-      "rolls": 1.0,
-      "bonus_rolls": 0.0,
+      "rolls": "1",
+      "bonus_rolls": "0",
       "entries": [
         {
           "type": "minecraft:item",
@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "守卫的地图"
+              "name": "Guard's Map"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "这有一个孩子的下落。救出他并把他带回村庄。"
+                  "text": "The whereabouts of a lost child. Save him and bring him back to the village."
                 }
               ]
             }
