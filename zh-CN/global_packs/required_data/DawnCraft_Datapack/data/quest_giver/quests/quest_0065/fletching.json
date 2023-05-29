@@ -4,18 +4,18 @@
   "icon": "minecraft:cod",
   "start": {
     "title": {
-      "text": "解锁制箭台"
+      "text": "Unlock Fletching Table"
     },
     "description": {
-      "text": "啊，好吧。给我15个绿宝石我就教你怎么用制箭台。"
+      "text": "Huh, alright. 15 Emeralds to learn how to use the fletching table."
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "就是这样。制作箭矢，其乐无穷！"
+      "text": "Here you go. Have fun making arrows!"
     }
   },
   "tasks": [
