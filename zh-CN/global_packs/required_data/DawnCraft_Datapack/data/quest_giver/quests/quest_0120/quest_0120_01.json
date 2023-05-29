@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "龙之心"
+    },
+    "description": {
+      "text": "一张指明召唤展台位置的地图仅售5个绿宝石。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "很高兴与你做生意，朋友。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 5
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:cartographer2",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p cartographer2 true",
+      "id": "quest_giver:command"
+    }
+  ]
+}
