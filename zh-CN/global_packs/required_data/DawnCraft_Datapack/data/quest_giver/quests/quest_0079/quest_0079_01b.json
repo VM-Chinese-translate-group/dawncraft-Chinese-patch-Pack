@@ -4,10 +4,10 @@
   "icon": "minecraft:book",
   "start": {
     "title": {
-      "text": "清剿任务"
+      "text": "Extermination Request"
     },
     "description": {
-      "text": "最近晚上这附近苦力怕的数量越来越多了……虽然它们不会对攻击我们，但却会吓跑我们可怜的小羊羔。你能在晚上出手消灭它们吗？只要你消灭了6只，我会支付给你报酬。"
+      "text": "Creepers are spawning more frequently around here at night... They don't harm us but they scare away our poor lambs. Can you exterminate them at night? I'll give you payments once you've reached 6 kills."
     }
   }
 }
