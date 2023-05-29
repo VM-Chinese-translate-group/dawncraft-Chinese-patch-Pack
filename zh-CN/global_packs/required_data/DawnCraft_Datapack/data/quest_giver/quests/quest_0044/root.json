@@ -3,10 +3,10 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "嘿！"
+      "text": "Hey!"
     },
     "description": {
-      "text": "嘿，你能帮我弄到 $(red)5个蜘蛛眼$()吗？"
+      "text": "Hey there, could you help me get $(red)5 spider eyes$()?"
     }
   }
 }
