@@ -4,10 +4,10 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "一句建议"
+      "text": "Advice"
     },
     "description": {
-      "text": "你听说了吗？霜冻巨兽从雪怪手中夺走了寒冰之眼！我是从几个旅行者那儿听到的这个故事，所以这肯定是真的……这真是一个混乱的世界啊。"
+      "text": "Did you know? The FrostMaw snatched the Cold Eye away from the Yeti guarding it! I've heard this story from a couple travelers already, so it must be true... What a chaotic world we live in."
     }
   }
 }
