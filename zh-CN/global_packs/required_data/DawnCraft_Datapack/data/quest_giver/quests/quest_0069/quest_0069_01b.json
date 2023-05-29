@@ -4,10 +4,10 @@
   "icon": "minecraft:leather",
   "start": {
     "title": {
-      "text": "求助"
+      "text": "help"
     },
     "description": {
-      "text": "你能给我拿一块兔子皮吗？"
+      "text": "Could you fetch me a piece of rabbit hide?"
     }
   }
 }
