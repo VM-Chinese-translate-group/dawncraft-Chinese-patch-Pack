@@ -3,10 +3,10 @@
   "icon": "minecraft:ender_pearl",
   "start": {
     "title": {
-      "text": "嘿！"
+      "text": "Hey!"
     },
     "description": {
-      "text": "你好冒险者，有一道菜我认为只有你能为我做出来。我会付出丰厚的报酬，你愿意接受吗？"
+      "text": "Hello adventurer, there's a dish that I think only you can make for me. I'll pay handsomely for it, what do you say?"
     }
   }
 }
