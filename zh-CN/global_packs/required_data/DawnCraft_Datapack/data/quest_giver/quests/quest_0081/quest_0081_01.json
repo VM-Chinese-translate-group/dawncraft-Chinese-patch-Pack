@@ -1,0 +1,47 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 2,
+  "icon": "minecraft:white_wool",
+  "start": {
+    "title": {
+      "text": "请给我一些小麦！"
+    },
+    "description": {
+      "text": "你拿到$(red)小麦$()？了吗？农场里的应该绰绰有余了。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "谢谢，我没有什么东西能给你……你可以拿着这些羊毛吗？"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:wheat"
+      },
+      "id": "quest_giver:gift",
+      "times": 2
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:white_wool"
+      },
+      "id": "quest_giver:item",
+      "times": 2
+    },
+    {
+      "command": "/addreputation reputation:villager @p 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/advancement grant @p only custom:trade_shepherd",
+      "id": "quest_giver:command"
+    }
+  ]
+}
