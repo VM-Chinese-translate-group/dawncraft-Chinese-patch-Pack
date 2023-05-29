@@ -2,8 +2,8 @@
   "type": "minecraft:gift",
   "pools": [
     {
-      "rolls": 1.0,
-      "bonus_rolls": 0.0,
+      "rolls": "1",
+      "bonus_rolls": "0",
       "entries": [
         {
           "type": "minecraft:item",
@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "制图师地图"
+              "name": "Cartographer's Map"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "由制图师提供寻找一群东部的流氓战士。"
+                  "text": "A map given by the Cartographer to locate a group of rogue eastern warriors."
                 }
               ]
             }
