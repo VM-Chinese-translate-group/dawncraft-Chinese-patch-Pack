@@ -3,10 +3,10 @@
   "icon": "minecraft:beef",
   "start": {
     "title": {
-      "text": "嘿！"
+      "text": "Hey"
     },
     "description": {
-      "text": "那边的冒险者！你能帮我个忙吗？"
+      "text": "You there! Give me a hand wou'cha?"
     }
   }
 }
