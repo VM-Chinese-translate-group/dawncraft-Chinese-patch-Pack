@@ -1,11 +1,11 @@
 {
     "display": {
         "title": {
-            "text": "我将永垂不朽",
+            "text": "Remember Me For Centuries",
             "color": "dark_red"
         },
         "description": {
-            "text": "找到一座斗兽场"
+            "text": "Find a Coliseum"
         },
         "icon": {
             "item": "minecraft:shield"
