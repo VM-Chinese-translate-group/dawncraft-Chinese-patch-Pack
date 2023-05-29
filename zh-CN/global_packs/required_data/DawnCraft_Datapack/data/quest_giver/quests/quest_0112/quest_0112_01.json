@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:quest_0112_01b",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "所以？"
+    },
+    "description": {
+      "text": "你能给我找一张纸吗？我给你画张地图。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "谢谢。该生物居住在这个区域附近。要小心。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:miner2",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p miner2 true",
+      "id": "quest_giver:command"
+    }
+  ]
+}
