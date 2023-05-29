@@ -4,18 +4,18 @@
   "icon": "minecraft:redstone",
   "start": {
     "title": {
-      "text": "所以？"
+      "text": "So?"
     },
     "description": {
-      "text": "你击败了大地傀儡然后取得了$(red)大地守卫之眼$()吗？"
+      "text": "Did you defeat the land golem and obtain his $(red)Golem Eye$() yet?"
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "哦天啊！它的耀眼夺目已然超出了我的想象。拿着这些红石作为报酬吧。很抱歉，我手头暂时没有绿宝石。"
+      "text": "By the Heavens! This is one of the most fascinating item I've ever seen. It's more than I've ever imagined. Here, take these redstones as payment. I'm sorry but I don't have emeralds on me at the moment."
     }
   },
   "tasks": [
