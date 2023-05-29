@@ -4,18 +4,18 @@
   "icon": "minecraft:brewing_stand",
   "start": {
     "title": {
-      "text": "那么？"
+      "text": "So?"
     },
     "description": {
-      "text": "你拿到了$(red)5个腐肉$()？"
+      "text": "Did you get the $(red)5 rotten flesh$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "感谢！"
+      "text": "Thanks!"
     },
     "description": {
-      "text": "干得好，这个给你。"
+      "text": "Good job, here you go."
     }
   },
   "tasks": [
