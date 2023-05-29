@@ -2,8 +2,8 @@
   "type": "minecraft:gift",
   "pools": [
     {
-      "rolls": 1.0,
-      "bonus_rolls": 0.0,
+      "rolls": "1",
+      "bonus_rolls": "0",
       "entries": [
         {
           "type": "minecraft:item",
@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "闹鬼之地地图"
+              "name": "Map to a haunted place"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "矿工提供的前往调查闹鬼之地的地图。"
+                  "text": "A map given by the miner to investigate a haunted place."
                 }
               ]
             }
