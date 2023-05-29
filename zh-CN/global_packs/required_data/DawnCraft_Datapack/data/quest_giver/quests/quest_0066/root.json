@@ -1,0 +1,12 @@
+{
+  "reputation": 24,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "嗨！"
+    },
+    "description": {
+      "text": "冒险者，有一个好差事给你。"
+    }
+  }
+}
