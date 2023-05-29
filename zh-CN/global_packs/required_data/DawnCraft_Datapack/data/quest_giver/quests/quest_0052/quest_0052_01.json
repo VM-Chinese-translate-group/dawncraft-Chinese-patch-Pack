@@ -1,0 +1,47 @@
+{
+	"parent": "quest_giver:quest_0052_01b",
+	"reputation": 1,
+	"icon": "minecraft:wheat_seeds",
+	"start": {
+		"title": {
+			"text": "所以？"
+		},
+		"description": {
+			"text": "不记得了吗？没关系，让我提醒你一下。我需要1捆$(red)稻草$()。"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "谢谢！"
+		},
+		"description": {
+			"text": "一捆稻草！现在我们可以编新的稻草帽了！谢谢你，陌生人。"
+		}
+	},
+	"tasks": [
+		{
+			"item": {
+				"item": "farmersdelight:straw_bale"
+			},
+			"id": "quest_giver:gift",
+			"times": 1
+		}
+	],
+	"rewards": [
+		{
+			"command": "/advancement grant @p only custom:trade_farmer",
+			"id": "quest_giver:command"
+		},
+		{
+			"command": "/addreputation reputation:villager @p 1",
+			"id": "quest_giver:command"
+		},
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:item",
+			"times": 1
+		}
+	]
+}
