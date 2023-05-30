@@ -145,6 +145,8 @@
 	"tooltip.dawncraft.cursed_mask_0": "A mask once believed to have been a gift from the Legendary beast of Athora",
 	"tooltip.dawncraft.cursed_mask_1": "Wearing it will make some monsters ignore you unless provoked",
 	
+	"tooltip.dawncraft.mask": "May be valuable to certain mask collectors",
+	
 	"tooltip.dawncraft.rebirth_staff.inert_0": "Inert",
 	"tooltip.dawncraft.rebirth_staff.inert_1": "This staff has no power, it's useless",
 	"tooltip.dawncraft.rebirth_staff.powered_0": "Powered",
@@ -202,7 +204,7 @@
 	"text.dawncraft.quest.witch2":"Have you brought my list to me?¬Wing of Bat, Skin of Tree¬Eye of Bug, Wax of Bee,¬A leg from a hare,¬Tufts of pelt from a bear,¬And finally a gem wholey green.",
 	"text.dawncraft.quest.witch3":"Now to banish the litch¬Just a drop of my blood from as a witch¶So I must bid you goodbye¬These will be more of use to you than I.",
 	
-	"text.dawncraft.quest.king1":"Oh woe be me, I have nothing to my name, my kingdom has fallen and my family is no more.¶But you, you're an adventurer, yes?¬You may be able to help me...¶There is only one thing that can restore my kingdom to it's former glory... a Staff of Rebirth!¶If you venture into the depths of the nether and get the heart of a soul vulture I should be able to make one.¬I Hear Soul Vultures can be found in Soul Sand Valleys.",
+	"text.dawncraft.quest.king1":"Oh woe be me, I used to rule the world alas, now I have nothing to my name, my kingdom has fallen and my family is no more.¶But you, you're an adventurer, yes?¬You may be able to help me...¶There is only one thing that can restore my kingdom to it's former glory... a Staff of Rebirth!¶If you venture into the depths of the nether and get the heart of a soul vulture I should be able to make one.¬I Hear Soul Vultures can be found in Soul Sand Valleys.",
 	"text.dawncraft.quest.king2":"Have you found the Soul Heart yet?¬I hear Soul Vultures can be found in Soul Sand Valleys.",
 	"text.dawncraft.quest.king3":"Oh thank you, you've brought it, unfortunately I have no magical qualities, so I can't quite finish making the staff.¶But I sense great power within you, you should be able to give power to this staff...¶If you follow my instructions, you should be able to give this staff power.¶First of all, you need an enchanting table.¬Then place a Pedestal in each of the 4 directions from it, with a  2 block gap.¬Finally place a piece of blaze powder upon each of the pedestals and use the inert staff on the Enchanting Table.",
 	"text.dawncraft.quest.king4":"First of all, you need an enchanting table.¬Then place a Pedestal in each of the 4 directions from it, with a  2 block gap¬Finally place a piece of blaze powder upon each of the pedestals and use the inert staff on the Enchanting Table.",
@@ -246,5 +248,14 @@
 	"text.dawncraft.decline2": "I'm Busy",
 	"text.dawncraft.decline3": "No, Sorry.",
 	"text.dawncraft.decline4": "Not right now",
-	"text.dawncraft.decline5": "I decline!"
+	"text.dawncraft.decline5": "I decline!",
+	
+	"advancements.adventure.kill_a_creeper.title": "Aww man",
+	"advancements.adventure.kill_a_creeper.description": "Kill a creeper",
+	"advancements.adventure.fallenkingdom.title": "I used to rule the world",
+	"advancements.adventure.fallenkingdom.description": "Help a king restore his kingdom.",
+	"advancements.end.root.title": "Find the pieces",
+	"advancements.end.root.description": "Enter the end...",
+	"advancements.story.enter_the_end.title": "Find the pieces",
+	"advancements.story.enter_the_end.description": "Put the puzzle back together..."
 }
