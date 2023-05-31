@@ -159,7 +159,7 @@
 	"text.dawncraft.quest.witch1": "你能帮我一个忙吗？¬如果你帮上了我，我会给你很棒的报酬。¶但我的仪式如果完不成，世界可能会面临险境¬要帮我完成仪式，你需要尽快。¶我只需要这几种原料：¬蝙蝠的翅膀、树皮、¬虫子的眼睛、蜂蜡、¬野兔的腿、¬熊的毛皮，¬最后是绿色的宝石。                                 ",
 	"text.dawncraft.quest.witch2": "你把列表上的东西都带来了吗？¬蝙蝠的翅膀、树皮、¬虫子的眼睛、蜂蜡、¬野兔的腿、¬熊的毛皮，¬还有是绿色的宝石。                                  ",
 	"text.dawncraft.quest.witch3": "现在，为了驱逐这个小女巫¬只需一滴我作为女巫的鲜血¶向你道别¬这些对你来说更有用处。                                                ",
-	"text.dawncraft.quest.king1": "Oh woe be me, I used to rule the world alas, now I have nothing to my name, my kingdom has fallen and my family is no more.¶But you, you're an adventurer, yes?¬You may be able to help me...¶There is only one thing that can restore my kingdom to it's former glory... a Staff of Rebirth!¶If you venture into the depths of the nether and get the heart of a soul vulture I should be able to make one.¬I Hear Soul Vultures can be found in Soul Sand Valleys.",
+	"text.dawncraft.quest.king1": "哦，我很难过，我曾经统治过世界。唉，现在我没有名字，我的王国已经沦陷，我的家人也不在了。¶但你，你是一个冒险家。¬你也许可以帮助我…                                ¶只有一种办法可以让我的王国恢复往日的荣耀……复兴之杖！¶如果你进到下界，并且拿到灵魂鹫的心，我应该就能做一个。¬我听说灵魂鹫可以在灵魂沙峡谷中找到。                              ",
 	"text.dawncraft.quest.king2": "你找到灵魂鹫的心了吗？¬我听说可以在灵魂沙峡谷里面找到灵魂鹫。                   ",
 	"text.dawncraft.quest.king3": "哦，太谢谢你了。你带来了灵魂鹫的心，但很不幸，我没有魔法天赋，所以¬我不能完全做好权杖。                                 ¶但我感觉到你身上有股巨大的力量，你应该能够把力量赋予到这根权杖上……¶如果你按照我说的做，你应该能够赋予这根权杖力量。¶首先，你需要一个附魔台。¬然后在它东南西北各个方向上空两格，放置一个展示台。¬最后在每个展示台上放置一个烈焰粉，并对着附魔台使用未激活的权杖。",
 	"text.dawncraft.quest.king4": "首先，你需要一个附魔台。¬然后在它东南西北各个方向上空两格，放置一个展示台¬最后在每个展示台上放置一个烈焰粉，并对着附魔台使用未激活的权杖。",
@@ -201,11 +201,11 @@
 	"text.dawncraft.decline4": "现在不方便",
 	"text.dawncraft.decline5": "我拒绝！",
 	"advancements.adventure.kill_a_creeper.title": "Aww man",
-	"advancements.adventure.kill_a_creeper.description": "Kill a creeper",
-	"advancements.adventure.fallenkingdom.title": "I used to rule the world",
+	"advancements.adventure.kill_a_creeper.description": "击杀一只苦力怕",
+	"advancements.adventure.fallenkingdom.title": "我曾经统治过世界",
 	"advancements.adventure.fallenkingdom.description": "Help a king restore his kingdom.",
 	"advancements.end.root.title": "Find the pieces",
-	"advancements.end.root.description": "Enter the end...",
+	"advancements.end.root.description": "进入末地……",
 	"advancements.story.enter_the_end.title": "Find the pieces",
 	"advancements.story.enter_the_end.description": "Put the puzzle back together..."
 }
