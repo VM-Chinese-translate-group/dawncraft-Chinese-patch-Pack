@@ -115,7 +115,7 @@
 	"tooltip.dawncraft.skeleton_key_1": "使用后不消耗",
 	"tooltip.dawncraft.cursed_mask_0": "一个曾被认为是传说中的野兽阿索拉所赠之礼的面具",
 	"tooltip.dawncraft.cursed_mask_1": "戴上它会让一些怪物无视你，除非你惹怒了他们",
-	"tooltip.dawncraft.mask": "May be valuable to certain mask collectors",
+	"tooltip.dawncraft.mask": "对某些面具收藏者来说可能很有价值",
 	"tooltip.dawncraft.rebirth_staff.inert_0": "未激活",
 	"tooltip.dawncraft.rebirth_staff.inert_1": "这把权杖毫无力量，完全是无用的。",
 	"tooltip.dawncraft.rebirth_staff.powered_0": "已激活",
@@ -203,9 +203,9 @@
 	"advancements.adventure.kill_a_creeper.title": "Aww man",
 	"advancements.adventure.kill_a_creeper.description": "击杀一只苦力怕",
 	"advancements.adventure.fallenkingdom.title": "我曾经统治过世界",
-	"advancements.adventure.fallenkingdom.description": "Help a king restore his kingdom.",
+	"advancements.adventure.fallenkingdom.description": "帮助国王恢复他的王国。",
 	"advancements.end.root.title": "Find the pieces",
 	"advancements.end.root.description": "进入末地……",
 	"advancements.story.enter_the_end.title": "Find the pieces",
-	"advancements.story.enter_the_end.description": "Put the puzzle back together..."
+	"advancements.story.enter_the_end.description": "将魔方还原……"
 }
