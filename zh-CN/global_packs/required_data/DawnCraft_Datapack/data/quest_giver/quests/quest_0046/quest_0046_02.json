@@ -40,7 +40,7 @@
 			"id": "quest_giver:command"
 		},
 		{
-			"command": "/give @p potion{display:{Name:'[{\"text\":\"Potion of Healing\",\"italic\":false}]'},CustomPotionEffects:[{Id:6,Duration:1,Amplifier:5}]} 1",
+			"command": "/give @p potion{display:{Name:'[{\"text\":\"治疗药水\",\"italic\":false}]'},CustomPotionEffects:[{Id:6,Duration:1,Amplifier:5}]} 1",
 			"id": "quest_giver:command"
 		}
 	]
