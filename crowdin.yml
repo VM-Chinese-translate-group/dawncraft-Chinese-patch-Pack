@@ -11,7 +11,3 @@ files:
     ignore:
       - zh-CN
     translation: '%original_path%/%original_file_name%'
-  - source: global_packs/required_data/DawnCraft_Datapack/data
-    ignore:
-      - minecraft
-    translation: '%original_path%/global_packs/required_data/DawnCraft_Datapack/data'
