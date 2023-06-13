@@ -14,4 +14,4 @@ files:
   - source: dawncraft-chinese-patch-pack/dawncraft-Chinese-patch-Pack/1.18.x
     ignore:
       - /zh-CN
-    translation: '%original_path%/%original_file_name%'
+    translation: '%original_path%'
