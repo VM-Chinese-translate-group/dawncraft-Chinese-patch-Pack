@@ -11,3 +11,7 @@ files:
     ignore:
       - zh-CN
     translation: '%original_path%/%original_file_name%'
+  - source: zh-CN
+    ignore:
+      - zh-CN
+    translation: '%original_path%/%original_file_name%'
