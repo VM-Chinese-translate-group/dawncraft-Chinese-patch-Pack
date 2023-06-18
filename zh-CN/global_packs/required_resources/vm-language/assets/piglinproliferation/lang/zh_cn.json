@@ -1,17 +1,17 @@
 {
    "entity.piglinproliferation.piglin_alchemist": "猪灵炼金术师",
    "item.piglinproliferation.piglin_alchemist_spawn_egg": "猪灵炼金术师刷怪蛋",
-   "subtitles.entity.piglin_alchemist.prepared_to_throw_potion": "猪灵炼金术师：即将投掷药水！",
+   "subtitles.entity.piglin_alchemist.prepared_to_throw_potion": "猪灵炼金术师：准备投掷药水！",
    "subtitles.entity.piglin_alchemist.walk": "药瓶叮当作响",
-   "subtitles.entity.piglin_alchemist.idle": "猪灵炼金术师：咕哝声",
+   "subtitles.entity.piglin_alchemist.idle": "猪灵炼金术师：呼噜",
    "subtitles.entity.piglin_alchemist.hurt": "猪灵炼金术师：受伤",
-   "subtitles.entity.piglin_alchemist.admire": "Piglin Alchemist admires",
-   "subtitles.entity.piglin_alchemist.jealous": "猪灵炼金术师：嫉妒地喘气",
-   "subtitles.entity.piglin_alchemist.retreat": "Piglin Alchemist retreats",
+   "subtitles.entity.piglin_alchemist.admire": "猪灵炼金术师：端详",
+   "subtitles.entity.piglin_alchemist.jealous": "猪灵炼金术师：羡慕地哼叫",
+   "subtitles.entity.piglin_alchemist.retreat": "猪灵炼金术师：退缩",
    "subtitles.entity.piglin_alchemist.death": "猪灵炼金术师：死亡",
    "subtitles.entity.piglin_alchemist.celebrate": "猪灵炼金术师：庆祝",
-   "subtitles.entity.piglin_alchemist.angry": "Piglin Alchemist snorts angrily",
-   "subtitles.entity.piglin_alchemist.conversion": "Piglin Alchemist converts to Zombified Piglin",
-   "subtitles.entity.piglin_alchemist.step": "Piglin Alchemist steps",
-   "subtitles.arrow.regenhealingarrowhit": "Arrow heals"
+   "subtitles.entity.piglin_alchemist.angry": "猪灵炼金术师：愤怒地哼叫",
+   "subtitles.entity.piglin_alchemist.conversion": "猪灵炼金术师：转化为僵尸猪灵",
+   "subtitles.entity.piglin_alchemist.step": "猪灵炼金术师：脚步声",
+   "subtitles.arrow.regenhealingarrowhit": "箭：治疗"
 }
