@@ -1,5 +1,6 @@
 {
   "block.quest_giver.guildmaster_bell": "Guild Bell (POI)",
+  "entity.minecraft.villager.quest_giver.guildmaster": "Guild Master",
   "entity.quest_giver.quest_villager.none": "Quest Giver",
   "entity.quest_giver.quest_guard_villager": "Guard",
   "entity.quest_giver.quest_villager.armorer": "Armorer - Quest Giver",
@@ -48,7 +49,24 @@
   "item.quest_giver.trading_contract_oceanographer": "Trading Contract Oceanographer Guild",
   "item.quest_giver.trading_contract_woodworker": "Trading Contract Woodworker Guild",
   "item.quest_giver.trading_contract_beekeeper": "Trading Contract Beekeeper Guild",
+  "message.quest_giver.accept_gift": "Thank you, %d!",
+  "message.quest_giver.punch_locals": "Please be careful not to punch the locals! Please Leave Battle Mode before interacting.",
   "message.quest_giver.quest_completion": "Quest Completed!",
-  "message.quest_giver.itemmessage": "Hold \"%s\" for more information"
-
+  "message.quest_giver.itemmessage": "Hold \"%s\" for more information",
+  "message.quest_giver.trading_contract": "Shift-Right click on a Lectern to sign this contract, after it's signed you can trade with villagers.",
+  "message.quest_giver.trading_contract_sign": "You signed this contract",
+  "message.quest_giver.trading_contract_signed": "You have already signed this contract",
+  "subtitle.quest_giver.villager_accept": "accept quest sound",
+  "subtitle.quest_giver.villager_decline": "decline quest sound",
+  "subtitle.quest_giver.villager_dialogue": "dialogue quest sound",
+  "text.quest_giver.accept1": "I'll do it!",
+  "text.quest_giver.accept2": "Sure",
+  "text.quest_giver.accept3": "Okay!",
+  "text.quest_giver.accept4": "Alright!",
+  "text.quest_giver.accept5": "I accept!",
+  "text.quest_giver.decline1": "Maybe later.",
+  "text.quest_giver.decline2": "I'm Busy",
+  "text.quest_giver.decline3": "No, Sorry.",
+  "text.quest_giver.decline4": "Not right now",
+  "text.quest_giver.decline5": "I decline!"
 }

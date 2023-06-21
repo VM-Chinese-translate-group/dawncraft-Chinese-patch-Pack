@@ -10,8 +10,8 @@ CurseForge|Modrinth|Modpack Version|Status
   ![Alt](https://repobeats.axiom.co/api/embed/d3dd1ee16c00c1cf444f82b6af13ca25e7036101.svg "Repobeats analytics image")
 
 # 翻译工作平台  
-  [crowdin](https://crowdin.com/project/dawncraft-chinese-patch-pack-2)
-  进度：[![Crowdin](https://badges.crowdin.net/dawncraft-chinese-patch-pack-2/localized.svg)](https://crowdin.com/project/dawncraft-chinese-patch-pack-2)
+  [crowdin](https://crowdin.com/project/dawncraft-chinese-patch-pack)
+  进度：[![Crowdin](https://badges.crowdin.net/dawncraft-chinese-patch-pack/localized.svg)](https://crowdin.com/project/dawncraft-chinese-patch-pack)
 # 关于我们
   [![Website](https://shields.io/website?up_message=vmct-cn.top&url=http://vmct-cn.top&label=Website)](http://vmct-cn.top)
   [![Bilibili](https://shields.io/website?up_message=Space&url=https://space.bilibili.com/2085089798/&label=Bilibili)](https://space.bilibili.com/2085089798/)
