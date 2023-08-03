@@ -1,7 +1,11 @@
 # DawnCraft 汉化补丁
-CurseForge|Modrinth|Modpack Version|Status
+
+## 说明
+此仓库为VM汉化组工作自用仓库，并无有用资源，如想贡献汉化看下方的翻译工作平台，如想下载汉化看B站[专栏](https://www.bilibili.com/read/cv22580986)
+
+CurseForge|Modrinth|Modpack Version|状态
 :-|:-|:-|:-
-[Modpack](https://www.curseforge.com/minecraft/modpacks/dawn-craft)|[Modpack]()|1.0 Beta|*Active*|
+[Modpack](https://www.curseforge.com/minecraft/modpacks/dawn-craft)|[Modpack]()|1.27|*Active*|
 # 作者
 查看贡献者列表以获得完整列表
 # 鸣谢
