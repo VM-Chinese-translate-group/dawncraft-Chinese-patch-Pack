@@ -1,15 +1,15 @@
 {
 	id: "3EE7B887A0FC6FCD"
 	group: ""
-	order_index: 1
+	order_index: 2
 	filename: "dawncraft"
-	title: "{chapter.2.title}"
+	title: "{chapter.3.title}"
 	icon: "minecraft:writable_book"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "{chapter.2.quest.1.title}"
+			title: "{chapter.3.quest.1.title}"
 			icon: {
 				id: "antiqueatlas:antique_atlas"
 				Count: 1b
@@ -17,14 +17,14 @@
 			}
 			x: -3.75d
 			y: -5.25d
-			description: ["{chapter.2.quest.1.description.1}"]
+			description: ["{chapter.3.quest.1.description.1}"]
 			dependencies: ["6A377E0BD0B45BC5"]
 			size: 1.5d
 			id: "2E56DF35467BE295"
 			tasks: [{
 				id: "3AF5CCBA45F6DC78"
 				type: "checkmark"
-				title: "{chapter.2.quest.1.task.1.title}"
+				title: "{chapter.3.quest.1.task.1.title}"
 			}]
 			rewards: [{
 				id: "55079C6539007C92"
@@ -34,18 +34,18 @@
 			}]
 		}
 		{
-			title: "{chapter.2.quest.2.title}"
+			title: "{chapter.3.quest.2.title}"
 			icon: "minecraft:filled_map"
 			x: -1.5d
 			y: -5.25d
-			description: ["{chapter.2.quest.2.description.1}"]
+			description: ["{chapter.3.quest.2.description.1}"]
 			dependencies: ["6A377E0BD0B45BC5"]
 			size: 1.5d
 			id: "49AF23C212917B34"
 			tasks: [{
 				id: "0C802152D8EA3267"
 				type: "checkmark"
-				title: "{chapter.2.quest.2.task.1.title}"
+				title: "{chapter.3.quest.2.task.1.title}"
 			}]
 			rewards: [{
 				id: "15E44BAE1B24BC74"
@@ -55,10 +55,10 @@
 			}]
 		}
 		{
-			title: "{chapter.2.quest.3.title}"
+			title: "{chapter.3.quest.3.title}"
 			x: -1.5d
 			y: -3.0d
-			description: ["{chapter.2.quest.3.description.1}"]
+			description: ["{chapter.3.quest.3.description.1}"]
 			dependencies: ["49AF23C212917B34"]
 			id: "257D44B8882C8937"
 			tasks: [{
@@ -73,17 +73,17 @@
 			}]
 		}
 		{
-			title: "{chapter.2.quest.4.title}"
+			title: "{chapter.3.quest.4.title}"
 			icon: "quest_giver:trading_contract_armorer"
 			x: -1.5d
 			y: -1.5d
-			description: ["{chapter.2.quest.4.description.1}"]
+			description: ["{chapter.3.quest.4.description.1}"]
 			dependencies: ["257D44B8882C8937"]
 			id: "58CD06935381272E"
 			tasks: [{
 				id: "588DE458E9165C5C"
 				type: "checkmark"
-				title: "{chapter.2.quest.4.task.1.title}"
+				title: "{chapter.3.quest.4.task.1.title}"
 			}]
 			rewards: [{
 				id: "115B9E78CBA9C892"
@@ -93,7 +93,7 @@
 			}]
 		}
 		{
-			title: "{chapter.2.quest.5.title}"
+			title: "{chapter.3.quest.5.title}"
 			icon: {
 				id: "magistuarmory:wingedhussar_chestplate"
 				Count: 1b
@@ -173,14 +173,14 @@
 			rewards: [{
 				id: "2DD17758B701B4FC"
 				type: "command"
-				title: "{chapter.2.quest.5.reward.1.title}"
+				title: "{chapter.3.quest.5.reward.1.title}"
 				icon: "quest_giver:trading_contract_toolsmith"
 				command: "/advancement grant @p only custom:trade_armorer"
 				player_command: false
 			}]
 		}
 		{
-			title: "{chapter.2.quest.6.title}"
+			title: "{chapter.3.quest.6.title}"
 			icon: "minecraft:beef"
 			x: -3.0d
 			y: -1.5d
@@ -227,14 +227,14 @@
 			rewards: [{
 				id: "5492946DB1DDE5EA"
 				type: "command"
-				title: "{chapter.2.quest.6.reward.1.title}"
+				title: "{chapter.3.quest.6.reward.1.title}"
 				icon: "quest_giver:trading_contract_cartographer"
 				command: "/advancement grant @p only custom:trade_butcher"
 				player_command: false
 			}]
 		}
 		{
-			title: "{chapter.2.quest.7.title}"
+			title: "{chapter.3.quest.7.title}"
 			icon: "minecraft:filled_map"
 			x: -2.5d
 			y: -0.5d
@@ -281,14 +281,14 @@
 			rewards: [{
 				id: "280B1951564FE37C"
 				type: "command"
-				title: "{chapter.2.quest.7.reward.1.title}"
+				title: "{chapter.3.quest.7.reward.1.title}"
 				icon: "quest_giver:trading_contract_cartographer"
 				command: "/advancement grant @p only custom:trade_cartographer"
 				player_command: false
 			}]
 		}
 		{
-			title: "{chapter.2.quest.8.title}"
+			title: "{chapter.3.quest.8.title}"
 			icon: "minecraft:brewing_stand"
 			x: -1.5d
 			y: 0.0d
@@ -334,14 +334,14 @@
 			rewards: [{
 				id: "72B10BBF2C498725"
 				type: "command"
-				title: "{chapter.2.quest.8.reward.1.title}"
+				title: "{chapter.3.quest.8.reward.1.title}"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_cleric"
 				player_command: false
 			}]
 		}
 		{
-			title: "{chapter.2.quest.9.title}"
+			title: "{chapter.3.quest.9.title}"
 			icon: "minecraft:wheat"
 			x: -0.5d
 			y: -0.5d
@@ -402,14 +402,14 @@
 			rewards: [{
 				id: "75629351AA1174D7"
 				type: "command"
-				title: "{chapter.2.quest.9.reward.1.title}"
+				title: "{chapter.3.quest.9.reward.1.title}"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_farmer"
 				player_command: false
 			}]
 		}
 		{
-			title: "{chapter.2.quest.10.title}"
+			title: "{chapter.3.quest.10.title}"
 			icon: {
 				id: "minecraft:fishing_rod"
 				Count: 1b
@@ -462,14 +462,14 @@
 			rewards: [{
 				id: "4A4AD406EF8E16E6"
 				type: "command"
-				title: "{chapter.2.quest.10.reward.1.title}"
+				title: "{chapter.3.quest.10.reward.1.title}"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_angler"
 				player_command: false
 			}]
 		}
 		{
-			title: "{chapter.2.quest.11.title}"
+			title: "{chapter.3.quest.11.title}"
 			icon: "minecraft:spectral_arrow"
 			x: -0.5d
 			y: -2.5d
@@ -528,14 +528,14 @@
 			rewards: [{
 				id: "4E936AD991C6DF38"
 				type: "command"
-				title: "{chapter.2.quest.11.reward.1.title}"
+				title: "{chapter.3.quest.11.reward.1.title}"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_fletcher"
 				player_command: false
 			}]
 		}
 		{
-			title: "{chapter.2.quest.12.title}"
+			title: "{chapter.3.quest.12.title}"
 			icon: "minecraft:leather"
 			x: -2.5d
 			y: 0.5d
@@ -573,14 +573,14 @@
 			rewards: [{
 				id: "562E3BBEF3358F4D"
 				type: "command"
-				title: "{chapter.2.quest.12.reward.1.title}"
+				title: "{chapter.3.quest.12.reward.1.title}"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_leatherworker"
 				player_command: false
 			}]
 		}
 		{
-			title: "{chapter.2.quest.13.title}"
+			title: "{chapter.3.quest.13.title}"
 			icon: "minecraft:book"
 			x: -0.5d
 			y: 0.5d
@@ -627,14 +627,14 @@
 			rewards: [{
 				id: "199333E8368F50FE"
 				type: "command"
-				title: "{chapter.2.quest.13.reward.1.title}"
+				title: "{chapter.3.quest.13.reward.1.title}"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_librarian"
 				player_command: false
 			}]
 		}
 		{
-			title: "{chapter.2.quest.14.title}"
+			title: "{chapter.3.quest.14.title}"
 			icon: "minecraft:stonecutter"
 			x: 0.5d
 			y: -0.5d
@@ -674,14 +674,14 @@
 			rewards: [{
 				id: "02EC6E6E3EA0FE54"
 				type: "command"
-				title: "{chapter.2.quest.14.reward.1.title}"
+				title: "{chapter.3.quest.14.reward.1.title}"
 				icon: "quest_giver:trading_contract_butcher"
 				command: "/advancement grant @p only custom:trade_mason"
 				player_command: false
 			}]
 		}
 		{
-			title: "{chapter.2.quest.15.title}"
+			title: "{chapter.3.quest.15.title}"
 			icon: {
 				id: "minecraft:shears"
 				Count: 1b
@@ -733,14 +733,14 @@
 			rewards: [{
 				id: "4CE7B90D24F795E6"
 				type: "command"
-				title: "{chapter.2.quest.15.reward.1.title}"
+				title: "{chapter.3.quest.15.reward.1.title}"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_shepherd"
 				player_command: false
 			}]
 		}
 		{
-			title: "{chapter.2.quest.16.title}"
+			title: "{chapter.3.quest.16.title}"
 			icon: {
 				id: "minecraft:diamond_shovel"
 				Count: 1b
@@ -809,14 +809,14 @@
 			rewards: [{
 				id: "224712D630BBECBD"
 				type: "command"
-				title: "{chapter.2.quest.16.reward.1.title}"
+				title: "{chapter.3.quest.16.reward.1.title}"
 				icon: "quest_giver:trading_contract_butcher"
 				command: "/advancement grant @p only custom:trade_toolsmith"
 				player_command: false
 			}]
 		}
 		{
-			title: "{chapter.2.quest.17.title}"
+			title: "{chapter.3.quest.17.title}"
 			icon: "minecraft:ender_pearl"
 			x: -3.5d
 			y: -2.5d
@@ -849,14 +849,14 @@
 			rewards: [{
 				id: "66A352FA29523680"
 				type: "command"
-				title: "{chapter.2.quest.17.reward.1.title}"
+				title: "{chapter.3.quest.17.reward.1.title}"
 				icon: "quest_giver:trading_contract_cartographer"
 				command: "/advancement grant @p only custom:trade_enderian"
 				player_command: false
 			}]
 		}
 		{
-			title: "{chapter.2.quest.18.title}"
+			title: "{chapter.3.quest.18.title}"
 			icon: "create:cogwheel"
 			x: -2.5d
 			y: -3.5d
@@ -896,14 +896,14 @@
 			rewards: [{
 				id: "6754EE64FC4B32A7"
 				type: "command"
-				title: "{chapter.2.quest.18.reward.1.title}"
+				title: "{chapter.3.quest.18.reward.1.title}"
 				icon: "quest_giver:trading_contract_butcher"
 				command: "/advancement grant @p only custom:trade_engineer"
 				player_command: false
 			}]
 		}
 		{
-			title: "{chapter.2.quest.19.title}"
+			title: "{chapter.3.quest.19.title}"
 			icon: "minecraft:cornflower"
 			x: -0.5d
 			y: -3.5d
@@ -985,14 +985,14 @@
 			rewards: [{
 				id: "2F78A6D4D40AC92F"
 				type: "command"
-				title: "{chapter.2.quest.19.reward.1.title}"
+				title: "{chapter.3.quest.19.reward.1.title}"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_florist"
 				player_command: false
 			}]
 		}
 		{
-			title: "{chapter.2.quest.20.title}"
+			title: "{chapter.3.quest.20.title}"
 			icon: {
 				id: "minecraft:bow"
 				Count: 1b
@@ -1045,14 +1045,14 @@
 			rewards: [{
 				id: "4F8105978561C3F2"
 				type: "command"
-				title: "{chapter.2.quest.20.reward.1.title}"
+				title: "{chapter.3.quest.20.reward.1.title}"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_hunter"
 				player_command: false
 			}]
 		}
 		{
-			title: "{chapter.2.quest.21.title}"
+			title: "{chapter.3.quest.21.title}"
 			icon: "minecraft:nether_wart_block"
 			x: 1.0d
 			y: -1.5d
@@ -1089,14 +1089,14 @@
 			rewards: [{
 				id: "36C0B6E99A563254"
 				type: "command"
-				title: "{chapter.2.quest.21.reward.1.title}"
+				title: "{chapter.3.quest.21.reward.1.title}"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_netherian"
 				player_command: false
 			}]
 		}
 		{
-			title: "{chapter.2.quest.22.title}"
+			title: "{chapter.3.quest.22.title}"
 			icon: "minecraft:tropical_fish"
 			x: -4.0d
 			y: -1.5d
@@ -1154,14 +1154,14 @@
 			rewards: [{
 				id: "11D8F8F81C6EDC24"
 				type: "command"
-				title: "{chapter.2.quest.22.reward.1.title}"
+				title: "{chapter.3.quest.22.reward.1.title}"
 				icon: "quest_giver:trading_contract_cleric"
 				command: "/advancement grant @p only custom:trade_oceanographer"
 				player_command: false
 			}]
 		}
 		{
-			title: "{chapter.2.quest.23.title}"
+			title: "{chapter.3.quest.23.title}"
 			icon: {
 				id: "minecraft:diamond_axe"
 				Count: 1b
@@ -1219,14 +1219,14 @@
 			rewards: [{
 				id: "405D1CDE2535D2DA"
 				type: "command"
-				title: "{chapter.2.quest.23.reward.1.title}"
+				title: "{chapter.3.quest.23.reward.1.title}"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_woodworker"
 				player_command: false
 			}]
 		}
 		{
-			title: "{chapter.2.quest.24.title}"
+			title: "{chapter.3.quest.24.title}"
 			icon: {
 				id: "minecraft:diamond_pickaxe"
 				Count: 1b
@@ -1285,14 +1285,14 @@
 			rewards: [{
 				id: "165DAF1EB8D63AD1"
 				type: "command"
-				title: "{chapter.2.quest.24.reward.1.title}"
+				title: "{chapter.3.quest.24.reward.1.title}"
 				icon: "quest_giver:trading_contract_cartographer"
 				command: "/advancement grant @p only custom:trade_miner"
 				player_command: false
 			}]
 		}
 		{
-			title: "{chapter.2.quest.25.title}"
+			title: "{chapter.3.quest.25.title}"
 			icon: "minecraft:honeycomb"
 			x: 0.0d
 			y: -4.5d
@@ -1325,14 +1325,14 @@
 			rewards: [{
 				id: "63EC80BB59C9FD0F"
 				type: "command"
-				title: "{chapter.2.quest.25.reward.1.title}"
+				title: "{chapter.3.quest.25.reward.1.title}"
 				icon: "quest_giver:trading_contract_armorer"
 				command: "/advancement grant @p only custom:trade_beekeeper"
 				player_command: false
 			}]
 		}
 		{
-			title: "{chapter.2.quest.26.title}"
+			title: "{chapter.3.quest.26.title}"
 			icon: {
 				id: "minecraft:leather_boots"
 				Count: 1b
@@ -1342,14 +1342,14 @@
 			}
 			x: 1.5d
 			y: -5.25d
-			description: ["{chapter.2.quest.26.description.1}"]
+			description: ["{chapter.3.quest.26.description.1}"]
 			dependencies: ["6A377E0BD0B45BC5"]
 			size: 1.5d
 			id: "5165327673FA3C3A"
 			tasks: [{
 				id: "6283927290D3C7E3"
 				type: "checkmark"
-				title: "{chapter.2.quest.26.task.1.title}"
+				title: "{chapter.3.quest.26.task.1.title}"
 			}]
 			rewards: [{
 				id: "261360F8E570AB79"
@@ -1361,7 +1361,7 @@
 		{
 			x: 2.0d
 			y: -3.0d
-			description: ["{chapter.2.quest.27.description.1}"]
+			description: ["{chapter.3.quest.27.description.1}"]
 			dependencies: ["5165327673FA3C3A"]
 			id: "5F8E6856198022AB"
 			tasks: [{
@@ -1377,17 +1377,17 @@
 			}]
 		}
 		{
-			title: "{chapter.2.quest.28.title}"
+			title: "{chapter.3.quest.28.title}"
 			icon: "paraglider:spirit_orb"
 			x: 2.0d
 			y: -1.5d
-			description: ["{chapter.2.quest.28.description.1}"]
+			description: ["{chapter.3.quest.28.description.1}"]
 			dependencies: ["5F8E6856198022AB"]
 			id: "1C144F8F242A570F"
 			tasks: [{
 				id: "4382A321D9130B3D"
 				type: "checkmark"
-				title: "{chapter.2.quest.28.task.1.title}"
+				title: "{chapter.3.quest.28.task.1.title}"
 			}]
 			rewards: [{
 				id: "61F5F77070CF6EF8"
@@ -1398,7 +1398,7 @@
 		{
 			x: 2.0d
 			y: 0.0d
-			description: ["{chapter.2.quest.29.description.1}"]
+			description: ["{chapter.3.quest.29.description.1}"]
 			dependencies: ["1C144F8F242A570F"]
 			id: "55A2F317B39F413E"
 			tasks: [{
@@ -1428,7 +1428,7 @@
 		{
 			x: 2.0d
 			y: 1.5d
-			description: ["{chapter.2.quest.30.description.1}"]
+			description: ["{chapter.3.quest.30.description.1}"]
 			dependencies: ["55A2F317B39F413E"]
 			id: "679E0992FAE07E57"
 			tasks: [{
@@ -1443,7 +1443,7 @@
 			}]
 		}
 		{
-			title: "{chapter.2.quest.31.title}"
+			title: "{chapter.3.quest.31.title}"
 			icon: {
 				id: "minecraft:diamond_sword"
 				Count: 1b
@@ -1453,14 +1453,14 @@
 			}
 			x: 3.75d
 			y: -5.25d
-			description: ["{chapter.2.quest.31.description.1}"]
+			description: ["{chapter.3.quest.31.description.1}"]
 			dependencies: ["6A377E0BD0B45BC5"]
 			size: 1.5d
 			id: "60154554DCD1D411"
 			tasks: [{
 				id: "3D8CC03207E45A7D"
 				type: "checkmark"
-				title: "{chapter.2.quest.31.task.1.title}"
+				title: "{chapter.3.quest.31.task.1.title}"
 			}]
 			rewards: [{
 				id: "3545B0608C2397E2"
@@ -1470,7 +1470,7 @@
 			}]
 		}
 		{
-			title: "{chapter.2.quest.32.title}"
+			title: "{chapter.3.quest.32.title}"
 			icon: {
 				id: "minecraft:leather_helmet"
 				Count: 1b
@@ -1480,13 +1480,13 @@
 			}
 			x: 3.5d
 			y: -1.5d
-			description: ["{chapter.2.quest.32.description.1}"]
+			description: ["{chapter.3.quest.32.description.1}"]
 			dependencies: ["648C999659850F11"]
 			id: "52D8E61B177F4493"
 			tasks: [{
 				id: "7A99F7892E18E3E6"
 				type: "checkmark"
-				title: "{chapter.2.quest.32.task.1.title}"
+				title: "{chapter.3.quest.32.task.1.title}"
 			}]
 			rewards: [{
 				id: "14F07029B11EA30C"
@@ -1496,17 +1496,17 @@
 			}]
 		}
 		{
-			title: "{chapter.2.quest.33.title}"
+			title: "{chapter.3.quest.33.title}"
 			icon: "apotheosis:boss_summoner"
 			x: 3.5d
 			y: -3.0d
-			description: ["{chapter.2.quest.33.description.1}"]
+			description: ["{chapter.3.quest.33.description.1}"]
 			dependencies: ["60154554DCD1D411"]
 			id: "648C999659850F11"
 			tasks: [{
 				id: "73AA03CFF11003B6"
 				type: "checkmark"
-				title: "{chapter.2.quest.33.task.1.title}"
+				title: "{chapter.3.quest.33.task.1.title}"
 			}]
 			rewards: [{
 				id: "2F9053F2874FF327"
@@ -1516,17 +1516,17 @@
 			}]
 		}
 		{
-			title: "{chapter.2.quest.34.title}"
+			title: "{chapter.3.quest.34.title}"
 			icon: "minecraft:apple"
 			x: 5.0d
 			y: -1.5d
-			description: ["{chapter.2.quest.34.description.1}"]
+			description: ["{chapter.3.quest.34.description.1}"]
 			dependencies: ["52D8E61B177F4493"]
 			id: "56A78445B3458AE9"
 			tasks: [{
 				id: "6CE1624597E3D440"
 				type: "checkmark"
-				title: "{chapter.2.quest.34.task.1.title}"
+				title: "{chapter.3.quest.34.task.1.title}"
 			}]
 			rewards: [{
 				id: "0C27B0DE094838F0"
@@ -1535,17 +1535,17 @@
 			}]
 		}
 		{
-			title: "{chapter.2.quest.35.title}"
+			title: "{chapter.3.quest.35.title}"
 			icon: "minecraft:feather"
 			x: 5.0d
 			y: -3.0d
-			description: ["{chapter.2.quest.35.description.1}"]
+			description: ["{chapter.3.quest.35.description.1}"]
 			dependencies: ["648C999659850F11"]
 			id: "76CA9142CEA54D1F"
 			tasks: [{
 				id: "22A5B0ED0BF90AA2"
 				type: "checkmark"
-				title: "{chapter.2.quest.35.task.1.title}"
+				title: "{chapter.3.quest.35.task.1.title}"
 			}]
 			rewards: [{
 				id: "6DDD88CEF8F2AA85"
@@ -1555,7 +1555,7 @@
 			}]
 		}
 		{
-			title: "{chapter.2.quest.36.title}"
+			title: "{chapter.3.quest.36.title}"
 			icon: {
 				id: "blue_skies:crushing_hammer"
 				Count: 1b
@@ -1564,14 +1564,14 @@
 				}
 			}
 			x: 5.5d
-			y: -5.0d
-			description: ["{chapter.2.quest.36.description.1}"]
+			y: -6.5d
+			description: ["{chapter.3.quest.36.description.1}"]
 			dependencies: ["60154554DCD1D411"]
 			id: "601DF1F35CF01A0A"
 			tasks: [{
 				id: "0E3D3998B4E7CCFE"
 				type: "checkmark"
-				title: "{chapter.2.quest.36.task.1.title}"
+				title: "{chapter.3.quest.36.task.1.title}"
 			}]
 			rewards: [{
 				id: "7511E16D93F3625B"
@@ -1581,32 +1581,32 @@
 			}]
 		}
 		{
-			title: "{chapter.2.quest.37.title}"
+			title: "{chapter.3.quest.37.title}"
 			icon: "minecraft:clock"
 			x: 1.0d
 			y: -7.5d
-			subtitle: "{chapter.2.quest.37.subtitle}"
+			subtitle: "{chapter.3.quest.37.subtitle}"
 			size: 2.0d
 			id: "6A377E0BD0B45BC5"
 			tasks: [{
 				id: "6BCEB5011E1496FB"
 				type: "checkmark"
-				title: "{chapter.2.quest.37.task.1.title}"
+				title: "{chapter.3.quest.37.task.1.title}"
 			}]
 		}
 		{
-			title: "{chapter.2.quest.38.title}"
+			title: "{chapter.3.quest.38.title}"
 			icon: "ars_nouveau:ring_of_greater_discount"
 			x: 3.75d
 			y: -7.5d
-			description: ["{chapter.2.quest.38.description.1}"]
+			description: ["{chapter.3.quest.38.description.1}"]
 			dependencies: ["6A377E0BD0B45BC5"]
 			size: 1.5d
 			id: "43D08D9E4A7AE9B9"
 			tasks: [{
 				id: "4C8FA1F14597A638"
 				type: "checkmark"
-				title: "{chapter.2.quest.38.task.1.title}"
+				title: "{chapter.3.quest.38.task.1.title}"
 			}]
 			rewards: [{
 				id: "2E3EF9A19A511910"
@@ -1615,24 +1615,43 @@
 			}]
 		}
 		{
-			title: "{chapter.2.quest.39.title}"
+			title: "{chapter.3.quest.39.title}"
 			icon: "mimic:mimic_key"
 			x: -1.5d
 			y: -7.5d
-			description: ["{chapter.2.quest.39.description.1}"]
+			description: ["{chapter.3.quest.39.description.1}"]
 			dependencies: ["6A377E0BD0B45BC5"]
 			size: 1.5d
 			id: "0EACC613F198A412"
 			tasks: [{
 				id: "7DC460964D5D9D24"
 				type: "checkmark"
-				title: "{chapter.2.quest.39.task.1.title}"
+				title: "{chapter.3.quest.39.task.1.title}"
 			}]
 			rewards: [{
 				id: "5EDFAB5C16E23052"
 				type: "xp"
 				auto: "enabled"
 				xp: 1
+			}]
+		}
+		{
+			title: "{chapter.3.quest.40.title}"
+			icon: "habitat:fairy_spore_lantern"
+			x: 5.0d
+			y: -4.5d
+			description: ["{chapter.3.quest.40.description.1}"]
+			dependencies: ["601DF1F35CF01A0A"]
+			id: "0AB45BDD23F2E85A"
+			tasks: [{
+				id: "14B632E87C7DA8DA"
+				type: "checkmark"
+				title: "{chapter.3.quest.40.task.1.title}"
+			}]
+			rewards: [{
+				id: "3F0FE4919A0EC5D6"
+				type: "xp"
+				xp: 3
 			}]
 		}
 	]

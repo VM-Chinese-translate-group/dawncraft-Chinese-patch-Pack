@@ -1,9 +1,9 @@
 {
 	id: "6AAEB02A99CBCDA7"
 	group: ""
-	order_index: 4
+	order_index: 5
 	filename: "witchcraft"
-	title: "{chapter.5.title}"
+	title: "{chapter.6.title}"
 	icon: {
 		id: "hexerei:book_of_shadows"
 		Count: 1b
@@ -13,7 +13,7 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "{chapter.5.quest.1.title}"
+			title: "{chapter.6.quest.1.title}"
 			icon: {
 				id: "hexerei:book_of_shadows"
 				Count: 1b
@@ -21,13 +21,13 @@
 			}
 			x: 0.0d
 			y: 0.0d
-			description: ["{chapter.5.quest.1.description.1}"]
+			description: ["{chapter.6.quest.1.description.1}"]
 			size: 2.0d
 			id: "758B99AACB978297"
 			tasks: [{
 				id: "27A8151F5396B022"
 				type: "checkmark"
-				title: "{chapter.5.quest.1.task.1.title}"
+				title: "{chapter.6.quest.1.task.1.title}"
 			}]
 			rewards: [{
 				id: "4675E9128CFFA4C1"
@@ -38,7 +38,7 @@
 		{
 			x: 0.0d
 			y: 2.0d
-			description: ["{chapter.5.quest.2.description.1}"]
+			description: ["{chapter.6.quest.2.description.1}"]
 			dependencies: ["758B99AACB978297"]
 			size: 1.5d
 			id: "7D2C066D53F03275"
@@ -54,11 +54,11 @@
 			}]
 		}
 		{
-			title: "{chapter.5.quest.3.title}"
+			title: "{chapter.6.quest.3.title}"
 			icon: "minecraft:written_book"
 			x: 0.0d
 			y: -2.6999999999999997d
-			description: ["{chapter.5.quest.3.description.1}"]
+			description: ["{chapter.6.quest.3.description.1}"]
 			dependencies: ["758B99AACB978297"]
 			size: 1.8d
 			id: "6A0035A4A88A4381"
@@ -85,7 +85,7 @@
 			rewards: [{
 				id: "0333232AE6BE4B35"
 				type: "command"
-				title: "{chapter.5.quest.3.reward.1.title}"
+				title: "{chapter.6.quest.3.reward.1.title}"
 				icon: "minecraft:written_book"
 				command: "/pmmo admin @p add slayer level 2"
 				player_command: false
@@ -94,7 +94,7 @@
 		{
 			x: 1.5d
 			y: 2.0d
-			description: ["{chapter.5.quest.4.description.1}"]
+			description: ["{chapter.6.quest.4.description.1}"]
 			dependencies: ["7D2C066D53F03275"]
 			size: 1.3d
 			id: "03B7E08CB2B2362E"
@@ -112,7 +112,7 @@
 		{
 			x: -1.5d
 			y: 1.0d
-			description: ["{chapter.5.quest.5.description.1}"]
+			description: ["{chapter.6.quest.5.description.1}"]
 			dependencies: ["7D2C066D53F03275"]
 			id: "3BA3BF3785F2A9EC"
 			tasks: [{
@@ -129,7 +129,7 @@
 		{
 			x: -2.5d
 			y: 0.0d
-			description: ["{chapter.5.quest.6.description.1}"]
+			description: ["{chapter.6.quest.6.description.1}"]
 			dependencies: ["3BA3BF3785F2A9EC"]
 			size: 1.3d
 			id: "3647588131AA1187"
@@ -147,7 +147,7 @@
 		{
 			x: -3.5d
 			y: -1.0d
-			description: ["{chapter.5.quest.7.description.1}"]
+			description: ["{chapter.6.quest.7.description.1}"]
 			dependencies: ["3647588131AA1187"]
 			id: "430A7C370D3DCC00"
 			tasks: [{
@@ -164,7 +164,7 @@
 		{
 			x: -4.5d
 			y: -2.0d
-			description: ["{chapter.5.quest.8.description.1}"]
+			description: ["{chapter.6.quest.8.description.1}"]
 			dependencies: ["430A7C370D3DCC00"]
 			id: "7465B863C4896248"
 			tasks: [{
@@ -182,7 +182,7 @@
 		{
 			x: 2.0d
 			y: 0.0d
-			description: ["{chapter.5.quest.9.description.1}"]
+			description: ["{chapter.6.quest.9.description.1}"]
 			dependencies: ["758B99AACB978297"]
 			id: "63426BF34D49D775"
 			tasks: [{
@@ -194,7 +194,7 @@
 		{
 			x: 2.5d
 			y: -1.5d
-			description: ["{chapter.5.quest.10.description.1}"]
+			description: ["{chapter.6.quest.10.description.1}"]
 			dependencies: ["63426BF34D49D775"]
 			size: 1.3d
 			id: "1CFBAADF7DEF4EB8"
@@ -207,7 +207,7 @@
 		{
 			x: 3.0d
 			y: -3.0d
-			description: ["{chapter.5.quest.11.description.1}"]
+			description: ["{chapter.6.quest.11.description.1}"]
 			dependencies: ["1CFBAADF7DEF4EB8"]
 			id: "48D563E6DA99E3F9"
 			tasks: [{
@@ -225,7 +225,7 @@
 		{
 			x: 3.5d
 			y: -4.5d
-			description: ["{chapter.5.quest.12.description.1}"]
+			description: ["{chapter.6.quest.12.description.1}"]
 			dependencies: ["48D563E6DA99E3F9"]
 			id: "5049C85915A199E4"
 			tasks: [{
@@ -242,7 +242,7 @@
 		{
 			x: -3.5d
 			y: 3.0d
-			description: ["{chapter.5.quest.13.description.1}"]
+			description: ["{chapter.6.quest.13.description.1}"]
 			dependencies: ["7D2C066D53F03275"]
 			id: "37BD6B0893D6BC03"
 			tasks: [{
@@ -263,7 +263,7 @@
 		{
 			x: -1.3d
 			y: 5.2d
-			description: ["{chapter.5.quest.14.description.1}"]
+			description: ["{chapter.6.quest.14.description.1}"]
 			dependencies: ["7D2C066D53F03275"]
 			size: 1.3d
 			id: "215893DA53A9DEBF"
@@ -285,7 +285,7 @@
 		{
 			x: 2.5d
 			y: 3.5d
-			description: ["{chapter.5.quest.15.description.1}"]
+			description: ["{chapter.6.quest.15.description.1}"]
 			dependencies: ["03B7E08CB2B2362E"]
 			size: 1.3d
 			id: "5227F33207D38CFC"
@@ -307,7 +307,7 @@
 		{
 			x: 3.5d
 			y: 4.5d
-			subtitle: "{chapter.5.quest.16.subtitle}"
+			subtitle: "{chapter.6.quest.16.subtitle}"
 			dependencies: ["5227F33207D38CFC"]
 			size: 1.3d
 			id: "428171D49BCEF30E"
@@ -329,7 +329,7 @@
 		{
 			x: -1.5d
 			y: -1.0d
-			description: ["{chapter.5.quest.17.description.1}"]
+			description: ["{chapter.6.quest.17.description.1}"]
 			dependencies: ["758B99AACB978297"]
 			id: "461139AB9A78151D"
 			tasks: [{
@@ -346,7 +346,7 @@
 		{
 			x: 3.0d
 			y: 1.5d
-			description: ["{chapter.5.quest.18.description.1}"]
+			description: ["{chapter.6.quest.18.description.1}"]
 			dependencies: ["03B7E08CB2B2362E"]
 			id: "4E6B5FEB5F44E947"
 			tasks: [{
@@ -363,7 +363,7 @@
 		{
 			x: 4.0d
 			y: 3.0d
-			description: ["{chapter.5.quest.19.description.1}"]
+			description: ["{chapter.6.quest.19.description.1}"]
 			dependencies: ["5227F33207D38CFC"]
 			id: "78FCEF109D9CB599"
 			tasks: [{
@@ -380,7 +380,7 @@
 		{
 			x: 5.0d
 			y: 3.0d
-			description: ["{chapter.5.quest.20.description.1}"]
+			description: ["{chapter.6.quest.20.description.1}"]
 			dependencies: ["78FCEF109D9CB599"]
 			id: "7F5D2E60E4CD5CF5"
 			tasks: [{
@@ -397,7 +397,7 @@
 		{
 			x: 6.0d
 			y: 3.0d
-			description: ["{chapter.5.quest.21.description.1}"]
+			description: ["{chapter.6.quest.21.description.1}"]
 			dependencies: ["7F5D2E60E4CD5CF5"]
 			id: "217AD1F73111EF57"
 			tasks: [{
@@ -414,7 +414,7 @@
 		{
 			x: 1.5d
 			y: 4.5d
-			description: ["{chapter.5.quest.22.description.1}"]
+			description: ["{chapter.6.quest.22.description.1}"]
 			dependencies: ["5227F33207D38CFC"]
 			id: "6174E85ADB639FA2"
 			tasks: [{
@@ -431,7 +431,7 @@
 		{
 			x: 1.0d
 			y: 5.5d
-			description: ["{chapter.5.quest.23.description.1}"]
+			description: ["{chapter.6.quest.23.description.1}"]
 			dependencies: ["6174E85ADB639FA2"]
 			id: "6A54AEC72104C48C"
 			tasks: [{
@@ -452,7 +452,7 @@
 		{
 			x: 0.5d
 			y: 3.5d
-			description: ["{chapter.5.quest.24.description.1}"]
+			description: ["{chapter.6.quest.24.description.1}"]
 			dependencies: ["5227F33207D38CFC"]
 			id: "0C80B91AFB6EB414"
 			tasks: [{
@@ -475,7 +475,7 @@
 		{
 			x: 0.0d
 			y: 4.5d
-			description: ["{chapter.5.quest.25.description.1}"]
+			description: ["{chapter.6.quest.25.description.1}"]
 			dependencies: ["0C80B91AFB6EB414"]
 			id: "0BFAB3BEE1700004"
 			tasks: [{
@@ -498,7 +498,7 @@
 		{
 			x: 2.5d
 			y: 5.5d
-			description: ["{chapter.5.quest.26.description.1}"]
+			description: ["{chapter.6.quest.26.description.1}"]
 			dependencies: ["5227F33207D38CFC"]
 			id: "70C162E9A761F649"
 			tasks: [{
@@ -521,7 +521,7 @@
 		{
 			x: 2.0d
 			y: 6.5d
-			description: ["{chapter.5.quest.27.description.1}"]
+			description: ["{chapter.6.quest.27.description.1}"]
 			dependencies: ["70C162E9A761F649"]
 			id: "1E7E794756D864F1"
 			tasks: [{
@@ -544,7 +544,7 @@
 		{
 			x: 3.5d
 			y: 0.0d
-			description: ["{chapter.5.quest.28.description.1}"]
+			description: ["{chapter.6.quest.28.description.1}"]
 			dependencies: ["63426BF34D49D775"]
 			id: "7CB413EE0146CF04"
 			tasks: [
@@ -589,7 +589,7 @@
 		{
 			x: -3.5d
 			y: 1.5d
-			description: ["{chapter.5.quest.29.description.1}"]
+			description: ["{chapter.6.quest.29.description.1}"]
 			dependencies: ["7D2C066D53F03275"]
 			size: 1.3d
 			id: "3B1A6973557F7E3C"
@@ -607,7 +607,7 @@
 		{
 			x: -5.0d
 			y: 1.5d
-			description: ["{chapter.5.quest.30.description.1}"]
+			description: ["{chapter.6.quest.30.description.1}"]
 			dependencies: ["3B1A6973557F7E3C"]
 			id: "4EEC8127EDECFC93"
 			tasks: [{
@@ -622,7 +622,7 @@
 			}]
 		}
 		{
-			title: "{chapter.5.quest.31.title}"
+			title: "{chapter.6.quest.31.title}"
 			icon: {
 				id: "hexerei:crow_flute"
 				Count: 1b
@@ -630,7 +630,7 @@
 			}
 			x: -6.5d
 			y: 1.5d
-			description: ["{chapter.5.quest.31.description.1}"]
+			description: ["{chapter.6.quest.31.description.1}"]
 			dependencies: ["4EEC8127EDECFC93"]
 			size: 1.5d
 			id: "1BBB911894B0070A"
@@ -652,7 +652,7 @@
 		{
 			x: -3.0d
 			y: 4.5d
-			description: ["{chapter.5.quest.32.description.1}"]
+			description: ["{chapter.6.quest.32.description.1}"]
 			dependencies: ["7D2C066D53F03275"]
 			size: 1.3d
 			id: "4321174BCD4E13A9"
@@ -670,7 +670,7 @@
 		{
 			x: -4.5d
 			y: 5.5d
-			description: ["{chapter.5.quest.33.description.1}"]
+			description: ["{chapter.6.quest.33.description.1}"]
 			dependencies: ["4321174BCD4E13A9"]
 			id: "631CBCD0CA912A0C"
 			tasks: [
@@ -717,7 +717,7 @@
 		{
 			x: -5.5d
 			y: 6.5d
-			description: ["{chapter.5.quest.34.description.1}"]
+			description: ["{chapter.6.quest.34.description.1}"]
 			dependencies: ["631CBCD0CA912A0C"]
 			id: "6256CF4A57FEC937"
 			tasks: [{

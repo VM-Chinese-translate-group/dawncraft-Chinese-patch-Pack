@@ -1,0 +1,89 @@
+{
+	id: "67A1142E51E58603"
+	group: ""
+	order_index: 1
+	filename: "a_little_help"
+	title: "{chapter.2.title}"
+	icon: "minecraft:skeleton_skull"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		icon: {
+			id: "blue_skies:loot_bag"
+			Count: 1b
+			tag: {
+				Rarity: 0
+			}
+		}
+		x: 0.0d
+		y: 0.0d
+		description: ["{chapter.2.quest.1.description.1}"]
+		dependencies: ["39AE937D10D1E511"]
+		hide: true
+		size: 6.0d
+		id: "2D58B982762B47E4"
+		tasks: [{
+			id: "0201BFE770A95958"
+			type: "checkmark"
+			title: "{chapter.2.quest.1.task.1.title}"
+		}]
+		rewards: [
+			{
+				id: "6A626CBC962BD8A1"
+				type: "item"
+				item: "minecraft:cooked_beef"
+				count: 16
+			}
+			{
+				id: "20FC7106DBEA6320"
+				type: "item"
+				item: {
+					id: "minecraft:golden_sword"
+					Count: 1b
+					tag: {
+						RepairCost: 1
+						Damage: 0
+						Enchantments: [{
+							lvl: 3s
+							id: "minecraft:sharpness"
+						}]
+					}
+				}
+			}
+			{
+				id: "60D12723CB7001A5"
+				type: "item"
+				item: {
+					id: "jet_and_elias_armors:highlander_set_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}
+			{
+				id: "57F748B27B933F2B"
+				type: "item"
+				item: {
+					id: "jet_and_elias_armors:highlander_set_leggings"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}
+			{
+				id: "06FB860E178A011E"
+				type: "item"
+				item: {
+					id: "minecraft:golden_pickaxe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}
+		]
+	}]
+	quest_links: [ ]
+}

@@ -1,25 +1,25 @@
 {
 	id: "1A7295F32C7D70EA"
 	group: ""
-	order_index: 5
+	order_index: 6
 	filename: "exploration"
-	title: "{chapter.6.title}"
+	title: "{chapter.7.title}"
 	icon: "supplementaries:globe"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "{chapter.6.quest.1.title}"
+			title: "{chapter.7.quest.1.title}"
 			icon: "minecraft:grass_block"
 			x: 0.0d
 			y: -4.0d
-			description: ["{chapter.6.quest.1.description.1}"]
+			description: ["{chapter.7.quest.1.description.1}"]
 			size: 2.0d
 			id: "26B0E9F636E0AB36"
 			tasks: [{
 				id: "53A579D6FE317288"
 				type: "checkmark"
-				title: "{chapter.6.quest.1.task.1.title}"
+				title: "{chapter.7.quest.1.task.1.title}"
 			}]
 			rewards: [{
 				id: "26B60CBC196BB852"
@@ -28,17 +28,17 @@
 			}]
 		}
 		{
-			title: "{chapter.6.quest.2.title}"
+			title: "{chapter.7.quest.2.title}"
 			icon: "minecraft:nether_wart_block"
 			x: 4.5d
 			y: -4.0d
-			description: ["{chapter.6.quest.2.description.1}"]
+			description: ["{chapter.7.quest.2.description.1}"]
 			size: 2.0d
 			id: "697846FDD5008134"
 			tasks: [{
 				id: "675BDFC245723D63"
 				type: "checkmark"
-				title: "{chapter.6.quest.2.task.1.title}"
+				title: "{chapter.7.quest.2.task.1.title}"
 			}]
 			rewards: [{
 				id: "530A2D340C3DFEFB"
@@ -48,17 +48,17 @@
 			}]
 		}
 		{
-			title: "{chapter.6.quest.3.title}"
+			title: "{chapter.7.quest.3.title}"
 			icon: "blue_skies:turquoise_cobblestone"
 			x: 9.0d
 			y: -4.0d
-			description: ["{chapter.6.quest.3.description.1}"]
+			description: ["{chapter.7.quest.3.description.1}"]
 			size: 2.0d
 			id: "278CAD60E4CC5A79"
 			tasks: [{
 				id: "369AD0EBD1632751"
 				type: "checkmark"
-				title: "{chapter.6.quest.3.task.1.title}"
+				title: "{chapter.7.quest.3.task.1.title}"
 			}]
 			rewards: [{
 				id: "28C80E50688DB642"
@@ -67,17 +67,17 @@
 			}]
 		}
 		{
-			title: "{chapter.6.quest.4.title}"
+			title: "{chapter.7.quest.4.title}"
 			icon: "blue_skies:lunar_cobblestone"
 			x: 14.0d
 			y: -4.0d
-			description: ["{chapter.6.quest.4.description.1}"]
+			description: ["{chapter.7.quest.4.description.1}"]
 			size: 2.0d
 			id: "1453090ED20C0271"
 			tasks: [{
 				id: "49E9F06E0F60FE9C"
 				type: "checkmark"
-				title: "{chapter.6.quest.4.task.1.title}"
+				title: "{chapter.7.quest.4.task.1.title}"
 			}]
 			rewards: [{
 				id: "4C0727FAE6CD0011"
@@ -86,23 +86,23 @@
 			}]
 		}
 		{
-			title: "{chapter.6.quest.5.title}"
+			title: "{chapter.7.quest.5.title}"
 			icon: "minecraft:end_stone"
 			x: 19.0d
 			y: -4.0d
-			description: ["{chapter.6.quest.5.description.1}"]
+			description: ["{chapter.7.quest.5.description.1}"]
 			size: 2.0d
 			id: "57EDE0CC1790AEBD"
 			tasks: [
 				{
 					id: "0345F1E8C53FAB99"
 					type: "checkmark"
-					title: "{chapter.6.quest.5.task.1.title}"
+					title: "{chapter.7.quest.5.task.1.title}"
 				}
 				{
 					id: "091E1B3C99615A7D"
 					type: "gamestage"
-					title: "{chapter.6.quest.5.task.2.title}"
+					title: "{chapter.7.quest.5.task.2.title}"
 					icon: {
 						id: "minecraft:crossbow"
 						Count: 1b
@@ -135,7 +135,7 @@
 					tag: {
 						display: {
 							Lore: [
-								"{\"text\":\"创建一个小型永昼之地传送门。\"}"
+								"{\"text\":\"创建一个小型永昼之地传送门\"}"
 								"{\"text\":\"需要与下界传送门\"}"
 								"{\"text\":\"一样大的空间\"}"
 							]
@@ -160,7 +160,7 @@
 					tag: {
 						display: {
 							Lore: [
-								"{\"text\":\"创造一个小型拂晓之地传送门\"}"
+								"{\"text\":\"创造一个小型拂晓之地传送门。\"}"
 								"{\"text\":\"需要与下界传送门\"}"
 								"{\"text\":\"一样大的空间\"}"
 							]
@@ -173,7 +173,7 @@
 		{
 			x: 17.5d
 			y: -2.0d
-			description: ["{chapter.6.quest.8.description.1}"]
+			description: ["{chapter.7.quest.8.description.1}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "2AE188E073009A12"
@@ -198,7 +198,7 @@
 		{
 			x: 17.5d
 			y: -1.0d
-			description: ["{chapter.6.quest.9.description.1}"]
+			description: ["{chapter.7.quest.9.description.1}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "27E0894F6EC59E41"
@@ -223,7 +223,7 @@
 		{
 			x: 17.5d
 			y: 0.0d
-			description: ["{chapter.6.quest.10.description.1}"]
+			description: ["{chapter.7.quest.10.description.1}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "1DE383D583863F67"
@@ -248,7 +248,7 @@
 		{
 			x: 17.5d
 			y: 1.0d
-			description: ["{chapter.6.quest.11.description.1}"]
+			description: ["{chapter.7.quest.11.description.1}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "1A00AA6649D04596"
@@ -273,7 +273,7 @@
 		{
 			x: 19.0d
 			y: -2.0d
-			description: ["{chapter.6.quest.12.description.1}"]
+			description: ["{chapter.7.quest.12.description.1}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "2124AE11DC610CC1"
@@ -298,7 +298,7 @@
 		{
 			x: 19.0d
 			y: -1.0d
-			description: ["{chapter.6.quest.13.description.1}"]
+			description: ["{chapter.7.quest.13.description.1}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "0B132D9B1280D572"
@@ -323,7 +323,7 @@
 		{
 			x: 19.0d
 			y: 0.0d
-			description: ["{chapter.6.quest.14.description.1}"]
+			description: ["{chapter.7.quest.14.description.1}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "2813959518A55FA9"
@@ -353,7 +353,7 @@
 		{
 			x: 19.0d
 			y: 1.0d
-			description: ["{chapter.6.quest.15.description.1}"]
+			description: ["{chapter.7.quest.15.description.1}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "05624949F0147925"
@@ -377,7 +377,7 @@
 		{
 			x: 20.5d
 			y: -2.0d
-			description: ["{chapter.6.quest.16.description.1}"]
+			description: ["{chapter.7.quest.16.description.1}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "2ED8F709AB0A1E66"
@@ -407,7 +407,7 @@
 		{
 			x: 20.5d
 			y: -1.0d
-			description: ["{chapter.6.quest.17.description.1}"]
+			description: ["{chapter.7.quest.17.description.1}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "2974355CE2A6BE98"
@@ -432,7 +432,7 @@
 		{
 			x: 20.5d
 			y: 0.0d
-			description: ["{chapter.6.quest.18.description.1}"]
+			description: ["{chapter.7.quest.18.description.1}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "2F938B98834890FF"
@@ -463,7 +463,7 @@
 		{
 			x: 20.5d
 			y: 1.0d
-			description: ["{chapter.6.quest.19.description.1}"]
+			description: ["{chapter.7.quest.19.description.1}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "01521D24D1CA17D0"
@@ -487,7 +487,7 @@
 		{
 			x: 17.5d
 			y: 2.0d
-			description: ["{chapter.6.quest.20.description.1}"]
+			description: ["{chapter.7.quest.20.description.1}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "7E38E271D8341C63"
@@ -511,7 +511,7 @@
 		{
 			x: 19.0d
 			y: 2.0d
-			description: ["{chapter.6.quest.21.description.1}"]
+			description: ["{chapter.7.quest.21.description.1}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "645605CFF7A94936"
@@ -536,7 +536,7 @@
 		{
 			x: 20.5d
 			y: 2.0d
-			description: ["{chapter.6.quest.22.description.1}"]
+			description: ["{chapter.7.quest.22.description.1}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "57D9FF8914AB6540"
@@ -561,7 +561,7 @@
 		{
 			x: 11.5d
 			y: -4.0d
-			subtitle: "{chapter.6.quest.23.subtitle}"
+			subtitle: "{chapter.7.quest.23.subtitle}"
 			id: "36E0F71703918811"
 			tasks: [{
 				id: "2A33CB2A044D0A89"

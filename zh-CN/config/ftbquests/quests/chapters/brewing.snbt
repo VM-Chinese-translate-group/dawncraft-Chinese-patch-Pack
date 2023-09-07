@@ -1,18 +1,18 @@
 {
 	id: "0AAD6825AAAC8DAF"
 	group: ""
-	order_index: 8
+	order_index: 9
 	filename: "brewing"
-	title: "{chapter.9.title}"
+	title: "{chapter.10.title}"
 	icon: "ars_nouveau:potion_flask"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "{chapter.9.quest.1.title}"
+			title: "{chapter.10.quest.1.title}"
 			x: 0.0d
 			y: 0.0d
-			description: ["{chapter.9.quest.1.description.1}"]
+			description: ["{chapter.10.quest.1.description.1}"]
 			size: 2.0d
 			id: "4424AAAF4D8A945E"
 			tasks: [{
@@ -27,7 +27,7 @@
 			}]
 		}
 		{
-			title: "{chapter.9.quest.2.title}"
+			title: "{chapter.10.quest.2.title}"
 			icon: {
 				id: "apotheosis:potion_charm"
 				Count: 1b
@@ -38,14 +38,14 @@
 			}
 			x: 2.0d
 			y: 0.0d
-			description: ["{chapter.9.quest.2.description.1}"]
+			description: ["{chapter.10.quest.2.description.1}"]
 			dependencies: ["4424AAAF4D8A945E"]
 			size: 1.5d
 			id: "50A3AF120AA6375A"
 			tasks: [{
 				id: "4E2A1D32B612F8EC"
 				type: "checkmark"
-				title: "{chapter.9.quest.2.task.1.title}"
+				title: "{chapter.10.quest.2.task.1.title}"
 			}]
 			rewards: [{
 				id: "3CC09383FD379788"
@@ -55,18 +55,18 @@
 			}]
 		}
 		{
-			title: "{chapter.9.quest.3.title}"
+			title: "{chapter.10.quest.3.title}"
 			icon: "ars_nouveau:potion_jar"
 			x: 0.0d
 			y: -2.0d
-			description: ["{chapter.9.quest.3.description.1}"]
+			description: ["{chapter.10.quest.3.description.1}"]
 			dependencies: ["4424AAAF4D8A945E"]
 			size: 1.5d
 			id: "5238E383D811ED28"
 			tasks: [{
 				id: "1B1BBC8DD3E22900"
 				type: "checkmark"
-				title: "{chapter.9.quest.3.task.1.title}"
+				title: "{chapter.10.quest.3.task.1.title}"
 			}]
 			rewards: [{
 				id: "3EFB277FCE02CC46"

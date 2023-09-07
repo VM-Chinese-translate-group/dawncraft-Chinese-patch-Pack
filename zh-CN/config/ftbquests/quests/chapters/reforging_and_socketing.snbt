@@ -1,25 +1,25 @@
 {
 	id: "7F8D9817A4A5C1AE"
 	group: ""
-	order_index: 7
+	order_index: 8
 	filename: "reforging_and_socketing"
-	title: "{chapter.8.title}"
+	title: "{chapter.9.title}"
 	icon: "apotheosis:gem"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "{chapter.8.quest.1.title}"
+			title: "{chapter.9.quest.1.title}"
 			icon: "apotheosis:gem"
 			x: 0.0d
 			y: 0.0d
-			description: ["{chapter.8.quest.1.description.1}"]
+			description: ["{chapter.9.quest.1.description.1}"]
 			size: 2.0d
 			id: "2E51B03DF4811F84"
 			tasks: [{
 				id: "2993D7B3A7687926"
 				type: "checkmark"
-				title: "{chapter.8.quest.1.task.1.title}"
+				title: "{chapter.9.quest.1.task.1.title}"
 			}]
 			rewards: [{
 				id: "6AC0B8DDA084A591"
@@ -31,7 +31,7 @@
 		{
 			x: 0.0d
 			y: -2.0d
-			description: ["{chapter.8.quest.2.description.1}"]
+			description: ["{chapter.9.quest.2.description.1}"]
 			dependencies: ["2E51B03DF4811F84"]
 			size: 1.5d
 			id: "12C0F6007CB35919"
@@ -49,7 +49,7 @@
 		{
 			x: 2.0d
 			y: 0.0d
-			description: ["{chapter.8.quest.3.description.1}"]
+			description: ["{chapter.9.quest.3.description.1}"]
 			dependencies: ["2E51B03DF4811F84"]
 			size: 1.5d
 			id: "682B2B244574C666"
@@ -67,7 +67,7 @@
 		{
 			x: -2.0d
 			y: 0.0d
-			description: ["{chapter.8.quest.4.description.1}"]
+			description: ["{chapter.9.quest.4.description.1}"]
 			dependencies: ["2E51B03DF4811F84"]
 			size: 1.5d
 			id: "719B2897D9858A1F"
@@ -85,7 +85,7 @@
 		{
 			x: 0.0d
 			y: 2.0d
-			description: ["{chapter.8.quest.5.description.1}"]
+			description: ["{chapter.9.quest.5.description.1}"]
 			dependencies: ["2E51B03DF4811F84"]
 			id: "22978B8A8D62A2A6"
 			tasks: [{
@@ -102,7 +102,7 @@
 		{
 			x: 0.0d
 			y: 3.5d
-			description: ["{chapter.8.quest.6.description.1}"]
+			description: ["{chapter.9.quest.6.description.1}"]
 			dependencies: ["22978B8A8D62A2A6"]
 			id: "54D504E6734D9B70"
 			tasks: [{
@@ -119,7 +119,7 @@
 		{
 			x: 3.5d
 			y: 0.0d
-			description: ["{chapter.8.quest.7.description.1}"]
+			description: ["{chapter.9.quest.7.description.1}"]
 			dependencies: ["682B2B244574C666"]
 			id: "2CCE38B89AB683B8"
 			tasks: [{
@@ -216,7 +216,7 @@
 		{
 			x: -1.0d
 			y: -3.5d
-			description: ["{chapter.8.quest.13.description.1}"]
+			description: ["{chapter.9.quest.13.description.1}"]
 			dependencies: ["12C0F6007CB35919"]
 			id: "0036F6587BAA1FA6"
 			tasks: [{
@@ -233,7 +233,7 @@
 		{
 			x: 1.0d
 			y: -3.5d
-			description: ["{chapter.8.quest.14.description.1}"]
+			description: ["{chapter.9.quest.14.description.1}"]
 			dependencies: ["12C0F6007CB35919"]
 			id: "653AFC11D8BA880E"
 			tasks: [{

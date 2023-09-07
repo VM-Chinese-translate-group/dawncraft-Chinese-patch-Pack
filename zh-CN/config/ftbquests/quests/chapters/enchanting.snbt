@@ -1,18 +1,18 @@
 {
 	id: "4434057299FB0D69"
 	group: ""
-	order_index: 6
+	order_index: 7
 	filename: "enchanting"
-	title: "{chapter.7.title}"
+	title: "{chapter.8.title}"
 	icon: "apotheosis:blazing_hellshelf"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "{chapter.7.quest.1.title}"
+			title: "{chapter.8.quest.1.title}"
 			x: 0.0d
 			y: 0.0d
-			description: ["{chapter.7.quest.1.description.1}"]
+			description: ["{chapter.8.quest.1.description.1}"]
 			size: 2.0d
 			id: "72D5F73986EBD718"
 			tasks: [{
@@ -43,7 +43,7 @@
 		{
 			x: 1.5d
 			y: -1.0d
-			description: ["{chapter.7.quest.2.description.1}"]
+			description: ["{chapter.8.quest.2.description.1}"]
 			dependencies: ["72D5F73986EBD718"]
 			size: 1.5d
 			id: "4E7331F85C954C6F"
@@ -61,7 +61,7 @@
 		{
 			x: 2.0d
 			y: -2.0d
-			description: ["{chapter.7.quest.3.description.1}"]
+			description: ["{chapter.8.quest.3.description.1}"]
 			dependencies: ["4E7331F85C954C6F"]
 			id: "6ADFD817111E5435"
 			tasks: [{
@@ -78,7 +78,7 @@
 		{
 			x: 1.0d
 			y: -2.0d
-			description: ["{chapter.7.quest.4.description.1}"]
+			description: ["{chapter.8.quest.4.description.1}"]
 			dependencies: ["4E7331F85C954C6F"]
 			id: "51262C602F3BEF9E"
 			tasks: [{
@@ -95,7 +95,7 @@
 		{
 			x: 1.0d
 			y: -3.0d
-			description: ["{chapter.7.quest.5.description.1}"]
+			description: ["{chapter.8.quest.5.description.1}"]
 			dependencies: ["51262C602F3BEF9E"]
 			id: "033C72478F243B7F"
 			tasks: [{
@@ -112,7 +112,7 @@
 		{
 			x: 2.0d
 			y: 0.5d
-			description: ["{chapter.7.quest.6.description.1}"]
+			description: ["{chapter.8.quest.6.description.1}"]
 			dependencies: ["72D5F73986EBD718"]
 			size: 1.5d
 			id: "3E869581140512FE"
@@ -130,7 +130,7 @@
 		{
 			x: 1.0d
 			y: 1.5d
-			description: ["{chapter.7.quest.7.description.1}"]
+			description: ["{chapter.8.quest.7.description.1}"]
 			dependencies: ["72D5F73986EBD718"]
 			size: 1.5d
 			id: "580AF20D915596F0"
@@ -148,7 +148,7 @@
 		{
 			x: 2.5d
 			y: 2.0d
-			description: ["{chapter.7.quest.8.description.1}"]
+			description: ["{chapter.8.quest.8.description.1}"]
 			dependencies: [
 				"580AF20D915596F0"
 				"3E869581140512FE"
@@ -169,7 +169,7 @@
 		{
 			x: -1.5d
 			y: 3.0d
-			description: ["{chapter.7.quest.9.description.1}"]
+			description: ["{chapter.8.quest.9.description.1}"]
 			dependencies: ["72D5F73986EBD718"]
 			size: 1.5d
 			id: "269C3BC39A0E74FD"
@@ -187,7 +187,7 @@
 		{
 			x: -0.5d
 			y: -3.0d
-			description: ["{chapter.7.quest.10.description.1}"]
+			description: ["{chapter.8.quest.10.description.1}"]
 			dependencies: ["72D5F73986EBD718"]
 			id: "7D66E73514323E51"
 			tasks: [{
@@ -204,7 +204,7 @@
 		{
 			x: -1.5d
 			y: -2.5d
-			description: ["{chapter.7.quest.11.description.1}"]
+			description: ["{chapter.8.quest.11.description.1}"]
 			dependencies: ["72D5F73986EBD718"]
 			id: "60852BB9DAB419FA"
 			tasks: [{
@@ -221,7 +221,7 @@
 		{
 			x: -3.5d
 			y: 1.5d
-			description: ["{chapter.7.quest.12.description.1}"]
+			description: ["{chapter.8.quest.12.description.1}"]
 			dependencies: ["72D5F73986EBD718"]
 			size: 1.3d
 			id: "39A6BA59CA48DA92"
@@ -239,7 +239,7 @@
 		{
 			x: -2.5d
 			y: 4.0d
-			description: ["{chapter.7.quest.13.description.1}"]
+			description: ["{chapter.8.quest.13.description.1}"]
 			dependencies: ["269C3BC39A0E74FD"]
 			id: "05D97F244E928ACE"
 			tasks: [{
@@ -256,7 +256,7 @@
 		{
 			x: -5.0d
 			y: 1.5d
-			description: ["{chapter.7.quest.14.description.1}"]
+			description: ["{chapter.8.quest.14.description.1}"]
 			dependencies: ["39A6BA59CA48DA92"]
 			id: "13D8F6001BE3FC5C"
 			tasks: [{
@@ -273,7 +273,7 @@
 		{
 			x: 1.0d
 			y: 3.0d
-			description: ["{chapter.7.quest.15.description.1}"]
+			description: ["{chapter.8.quest.15.description.1}"]
 			dependencies: ["580AF20D915596F0"]
 			id: "3571E087401DC67E"
 			tasks: [{
@@ -290,7 +290,7 @@
 		{
 			x: 3.5d
 			y: 0.0d
-			description: ["{chapter.7.quest.16.description.1}"]
+			description: ["{chapter.8.quest.16.description.1}"]
 			dependencies: ["3E869581140512FE"]
 			id: "10DBEF685353A185"
 			tasks: [{
@@ -314,7 +314,7 @@
 		{
 			x: 5.0d
 			y: 0.0d
-			description: ["{chapter.7.quest.17.description.1}"]
+			description: ["{chapter.8.quest.17.description.1}"]
 			dependencies: ["10DBEF685353A185"]
 			id: "220063A9A8F1D260"
 			tasks: [{
@@ -331,7 +331,7 @@
 		{
 			x: 4.5d
 			y: -1.0d
-			description: ["{chapter.7.quest.18.description.1}"]
+			description: ["{chapter.8.quest.18.description.1}"]
 			dependencies: ["10DBEF685353A185"]
 			id: "328702B1D4999C5F"
 			tasks: [{
@@ -348,7 +348,7 @@
 		{
 			x: 0.0d
 			y: 4.0d
-			description: ["{chapter.7.quest.19.description.1}"]
+			description: ["{chapter.8.quest.19.description.1}"]
 			dependencies: ["3571E087401DC67E"]
 			id: "624FD51FE060AADC"
 			tasks: [{
@@ -365,7 +365,7 @@
 		{
 			x: 1.0d
 			y: 4.5d
-			description: ["{chapter.7.quest.20.description.1}"]
+			description: ["{chapter.8.quest.20.description.1}"]
 			dependencies: ["3571E087401DC67E"]
 			id: "12344C141B7E1FEB"
 			tasks: [{
@@ -382,7 +382,7 @@
 		{
 			x: 3.0d
 			y: 3.5d
-			description: ["{chapter.7.quest.21.description.1}"]
+			description: ["{chapter.8.quest.21.description.1}"]
 			dependencies: ["33DCA1E150BE1ADB"]
 			id: "08D4C071292F7B94"
 			tasks: [{
@@ -399,7 +399,7 @@
 		{
 			x: 4.0d
 			y: 2.5d
-			description: ["{chapter.7.quest.22.description.1}"]
+			description: ["{chapter.8.quest.22.description.1}"]
 			dependencies: ["33DCA1E150BE1ADB"]
 			id: "583AA3AED6ADAD73"
 			tasks: [{
@@ -416,7 +416,7 @@
 		{
 			x: -2.5d
 			y: 0.0d
-			description: ["{chapter.7.quest.23.description.1}"]
+			description: ["{chapter.8.quest.23.description.1}"]
 			dependencies: ["72D5F73986EBD718"]
 			size: 1.5d
 			id: "6BD42073B410FD59"
@@ -434,7 +434,7 @@
 		{
 			x: -4.0d
 			y: 0.0d
-			description: ["{chapter.7.quest.24.description.1}"]
+			description: ["{chapter.8.quest.24.description.1}"]
 			dependencies: ["6BD42073B410FD59"]
 			id: "637B8123F0E769C6"
 			tasks: [{
@@ -451,7 +451,7 @@
 		{
 			x: -5.0d
 			y: 0.0d
-			description: ["{chapter.7.quest.25.description.1}"]
+			description: ["{chapter.8.quest.25.description.1}"]
 			dependencies: ["637B8123F0E769C6"]
 			id: "73D14FE0FE249386"
 			tasks: [{
@@ -466,17 +466,17 @@
 			}]
 		}
 		{
-			title: "{chapter.7.quest.26.title}"
+			title: "{chapter.8.quest.26.title}"
 			icon: "apotheosis:pickaxe_tome"
 			x: -2.5d
 			y: -1.5d
-			description: ["{chapter.7.quest.26.description.1}"]
+			description: ["{chapter.8.quest.26.description.1}"]
 			dependencies: ["72D5F73986EBD718"]
 			id: "78123CEA9B11D861"
 			tasks: [{
 				id: "689ACCA742B5217A"
 				type: "checkmark"
-				title: "{chapter.7.quest.26.task.1.title}"
+				title: "{chapter.8.quest.26.task.1.title}"
 			}]
 			rewards: [{
 				id: "5326DC92B5A8D359"
@@ -488,7 +488,7 @@
 		{
 			x: -3.5d
 			y: -2.0d
-			description: ["{chapter.7.quest.27.description.1}"]
+			description: ["{chapter.8.quest.27.description.1}"]
 			dependencies: ["78123CEA9B11D861"]
 			id: "7FDA72264E869611"
 			tasks: [{
@@ -505,7 +505,7 @@
 		{
 			x: -1.5d
 			y: 1.5d
-			description: ["{chapter.7.quest.28.description.1}"]
+			description: ["{chapter.8.quest.28.description.1}"]
 			dependencies: ["72D5F73986EBD718"]
 			id: "47450E3E6F80ED9F"
 			tasks: [{

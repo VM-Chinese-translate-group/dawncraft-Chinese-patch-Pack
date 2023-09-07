@@ -1395,6 +1395,25 @@
 				stage: "skull"
 			}]
 		}
+		{
+			title: "{chapter.1.quest.65.title}"
+			x: 4.0d
+			y: 12.0d
+			id: "39AE937D10D1E511"
+			tasks: [{
+				id: "5958189AB8F61142"
+				type: "advancement"
+				advancement: "custom:death"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "01BE88C49BEF5128"
+				type: "command"
+				auto: "enabled"
+				command: "/tellraw @p [\"\",{\"text\":\"\n如果你需要点帮助，点击这个\\\"\"},{\"text\":\"任务\",\"bold\":true,\"color\":\"green\"},{\"text\":\"\\\"栏，同时看看你的物品栏\n \"}]"
+				player_command: false
+			}]
+		}
 	]
 	quest_links: [ ]
 }
