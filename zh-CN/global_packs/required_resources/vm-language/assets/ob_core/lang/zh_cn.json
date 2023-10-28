@@ -1,8 +1,8 @@
 {
   "ability.active": "§7主动效果：",
   "ability.afterlife_key_active_line1": "§6复活一只僵尸或骷髅",
-  "ability.afterlife_key_active": "§7主动效果（§f\u18D2§d60§7）：",
-  "ability.afterlife_key_passive_line1": "§6为§f\u18D2§d1充能",
+  "ability.afterlife_key_active": "§7主动效果（§f\\u18D2§d60§7）：",
+  "ability.afterlife_key_passive_line1": "§6为§f\\u18D2§d1充能",
   "ability.afterlife_key_passive_line2": "§6用被击败怪物的灵魂。",
   "ability.attack": "§7攻击效果：",
   "ability.dawnbreaker_line1": "§6使小范围内的",
