@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "嘿！"
+      "text": "嘿!"
     },
     "description": {
-      "text": "Hello there good sir. May I interest you in a trade?"
+      "text": "你好，先生。我可以和你做个交易吗？"
     }
   }
 }
