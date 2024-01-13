@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "求助"
+    },
+    "description": {
+      "text": "我从一些流浪商人那里听说，不久之前，他们在一片由黑曜石尖刺覆盖的区域里，发现了一只背上布满宝石尖刺的巨兽(马蒂亞文)……我对这头巨兽身上的宝石非常好奇。你能给我找张纸吗？我会给你指条路。"
+    }
+  }
+}
