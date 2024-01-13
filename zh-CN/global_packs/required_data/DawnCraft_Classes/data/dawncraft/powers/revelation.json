@@ -1,0 +1,9 @@
+{
+   "type": "origins:action_on_callback",
+   "entity_action_gained": {
+      "type": "origins:execute_command",
+      "command": "/pickClass @p dawncraft:lancer"
+   },
+   "name": "Revelation",
+   "description": "Blocking, Parrying and Dodging gives stacks of Revelation. Reaching the indicated amount of stacks will allow you to unleash a stunning counter attack."
+}
