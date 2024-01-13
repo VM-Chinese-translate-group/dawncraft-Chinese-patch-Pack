@@ -7,7 +7,7 @@
 			"text": "所以？"
 		},
 		"description": {
-			"text": "我可以教你这个技能——强力防守，价格为15个绿宝石。"
+			"text": "I can teach you the skill - Vampirize for 15 emeralds."
 		}
 	},
 	"complete": {
@@ -29,7 +29,7 @@
 	],
 	"rewards": [
 		{
-			"command": "give @p epicfight:skillbook{skill:\"epicfight:energizing_guard\"}",
+			"command": "give @p epicfight:skillbook{skill:\"wom:vampirize\"}",
 			"id": "quest_giver:command"
 		}
 	]
