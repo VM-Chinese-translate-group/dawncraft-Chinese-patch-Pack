@@ -4,7 +4,7 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "所以？"
+			"text": "So?"
 		},
 		"description": {
 			"text": "I can teach you the skill - Phanthom Ascent for 25 emeralds. Pretty good deal if I do say so myself!"
@@ -12,7 +12,7 @@
 	},
 	"complete": {
 		"title": {
-			"text": "感谢！"
+			"text": "Thank you!"
 		},
 		"description": {
 			"text": "Here you go adventurer! Just jump twice to use the skill."
