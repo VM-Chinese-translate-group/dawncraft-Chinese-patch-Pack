@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/dc addWaypoint @p quest_giver:cave_dwelling \"Extermination Request - Cave Dweller\"",
+      "command": "/dc addWaypoint @p quest_giver:cave_dwelling \"清剿请求 - 洞穴栖兽\"",
       "id": "quest_giver:command"
     },
     {
