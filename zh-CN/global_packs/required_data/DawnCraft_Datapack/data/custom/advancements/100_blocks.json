@@ -2,12 +2,12 @@
     "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
     "display": {
         "title": {
-            "text": "Blocks",
+            "text": "方块",
             "color": "dark_purple",
             "bold": true
         },
         "description": {
-            "text": "Walked a hundred blocks"
+            "text": "走过100个方块"
         },
         "icon": {
             "item": "minecraft:poppy"
