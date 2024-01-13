@@ -4,6 +4,6 @@
       "type": "origins:execute_command",
       "command": "/pickClass @p dawncraft:lancer"
    },
-   "name": "Revelation",
-   "description": "Blocking, Parrying and Dodging gives stacks of Revelation. Reaching the indicated amount of stacks will allow you to unleash a stunning counter attack."
+   "name": "天启",
+   "description": "格挡、 招架和闪避会消耗天启点数。天启点数消耗殆尽后将能够惊人地发动反击。"
 }
