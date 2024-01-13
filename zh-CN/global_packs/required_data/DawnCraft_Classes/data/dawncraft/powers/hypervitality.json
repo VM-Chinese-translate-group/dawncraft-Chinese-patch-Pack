@@ -4,6 +4,6 @@
       "type": "origins:execute_command",
       "command": "/pickClass @p dawncraft:brawler"
    },
-   "name": "Hyper Vitality",
-   "description": "Allows stamina use for innate weapon skills."
+   "name": "超强活力",
+   "description": "允许将耐力用于武器技能。"
 }
