@@ -4,18 +4,18 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "所以？"
 		},
 		"description": {
-			"text": "Alright, so I can teach you the skill - Ender Obscuris for 20 emeralds. You good for it?"
+			"text": "当然，所以我可以教你这个技能——终末隐藏，价格为20个绿宝石。你觉得怎么样？"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thank you!"
+			"text": "感谢！"
 		},
 		"description": {
-			"text": "There you go. Don't use it to scare the villagers around, mind you!"
+			"text": "给你了。记住，不要用它去吓唬周围的村民哦！"
 		}
 	},
 	"tasks": [
