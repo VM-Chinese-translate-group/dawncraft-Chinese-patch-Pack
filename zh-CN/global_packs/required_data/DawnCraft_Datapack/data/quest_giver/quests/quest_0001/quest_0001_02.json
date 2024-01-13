@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/dc addWaypoint @p custom:armorer_dungeon \"Armorer's Request\"",
+      "command": "/dc addWaypoint @p custom:armorer_dungeon \"盔甲匠的请求\"",
       "id": "quest_giver:command"
     },
     {
