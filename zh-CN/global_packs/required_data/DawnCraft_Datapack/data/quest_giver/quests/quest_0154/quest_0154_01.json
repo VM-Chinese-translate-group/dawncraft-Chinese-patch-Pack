@@ -4,7 +4,7 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "所以？"
 		},
 		"description": {
 			"text": "Alright, so I can teach you the skill - Ender Obscuris for 20 emeralds. You good for it?"
@@ -12,7 +12,7 @@
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "感谢！"
 		},
 		"description": {
 			"text": "There you go. Don't use it to scare the villagers around, mind you!"
