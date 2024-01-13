@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"dawncraft:ender_step"
+	],
+	"icon": {
+		"item": "biomemakeover:witch_hat"
+	},
+	"order": 10,
+	"impact": 3,
+	"name": "Astrologer",
+	"description": "Astrologers, with low health and below-average stamina, harness cosmic energy. Their strength lies in the powerful Ender Step for strategic movements, complemented by a basic spell book for magic casting."
+}
