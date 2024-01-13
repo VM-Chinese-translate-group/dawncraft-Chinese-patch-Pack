@@ -4,6 +4,6 @@
       "type": "origins:execute_command",
       "command": "/pickClass @p dawncraft:roamer"
    },
-   "name": "Emergency Escape",
-   "description": "The ability to cancel your attacks by dodging. Allows dodging once when out of stamina."
+   "name": "紧急逃生",
+   "description": "通过闪避来取消你的攻击动作的能力。在耐力耗尽时允许进行一次闪避。"
 }
