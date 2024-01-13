@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/dc addWaypoint @p custom:floating_island \"Main Quest - Floating Island\"",
+      "command": "/dc addWaypoint @p custom:floating_island \"主线任务 - 浮空岛\"",
       "id": "quest_giver:command"
     },
     {
