@@ -7,7 +7,7 @@
       "text": "传授剑艺"
     },
     "description": {
-      "text": "15 Emeralds, and I'll teach you how to use the skill Step."
+      "text": "给我15个绿宝石，我会教你跨步技能。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "谢谢！"
     },
     "description": {
-      "text": "Here you go. I prefer using this to rolling around in the mud!"
+      "text": "给你。我更喜欢使用这个，而不是在泥里滚来滚去！"
     }
   },
   "tasks": [
