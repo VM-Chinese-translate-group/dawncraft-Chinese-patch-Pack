@@ -1,5 +1,5 @@
 {
     "type": "origins:simple",
-    "name": "Step",
-    "description": "Slide a short distance in the direction you're moving. Evades all incoming attacks."
+    "name": "跨步",
+    "description": "朝你移动的方向快速移动一小段距离。闪避所有攻击。"
 }
