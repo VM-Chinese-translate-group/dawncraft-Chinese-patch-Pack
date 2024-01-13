@@ -4,7 +4,7 @@
 	"icon": "minecraft:enchanted_book",
 	"start": {
 		"title": {
-			"text": "牛刀小试"
+			"text": "First Assignment"
 		},
 		"description": {
 			"text": "完成任务要求后再回来——$(red)杀死10个掠夺者$()。"
@@ -12,10 +12,10 @@
 	},
 	"complete": {
 		"title": {
-			"text": "初窥门径"
+			"text": "First Assignment"
 		},
 		"description": {
-			"text": "给，打开书学习这项技能吧。如果你想获取更多的技能书，我建议你去守卫那儿接一些任务。祝你旅途愉快。"
+			"text": "Here, use these to get your first upgrade from the $(green)goddess statues$()! I would recommend talking to some of the guards here if you want to learn some new skills. Good luck on your journey."
 		}
 	},
 	"tasks": [
@@ -27,7 +27,14 @@
 	],
 	"rewards": [
 		{
-			"command": "/give @p epicfight:skillbook{skill:\"epicfight:roll\"}",
+			"item": {
+				"item": "paraglider:spirit_orb"
+			},
+			"id": "quest_giver:item",
+			"times": 4
+		},
+		{
+			"command": "/dc addWaypoint @p goblinsanddungeons:ruined_keep \"Main Quest - Goblin King's Keep\"",
 			"id": "quest_giver:command"
 		},
 		{
