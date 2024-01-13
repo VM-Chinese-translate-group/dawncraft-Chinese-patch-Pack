@@ -4,6 +4,6 @@
       "type": "origins:execute_command",
       "command": "/pickClass @p dawncraft:berserker"
    },
-   "name": "Berserker",
-   "description": "Gain additional attack damage and additional attack speed for each % of missing health."
+   "name": "狂战士",
+   "description": "每损失1%的生命值，就会获得额外的攻击伤害和攻击速度。"
 }
