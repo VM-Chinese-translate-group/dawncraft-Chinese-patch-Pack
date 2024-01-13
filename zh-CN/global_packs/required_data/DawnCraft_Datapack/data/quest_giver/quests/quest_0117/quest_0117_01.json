@@ -7,7 +7,7 @@
       "text": "传授剑艺"
     },
     "description": {
-      "text": "25个绿宝石，我会教你如何双持巨剑。"
+      "text": "15 Emeralds, and I'll teach you how to use the skill Step."
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "谢谢！"
     },
     "description": {
-      "text": "很高兴能和你切磋剑术。好好练习，但是劳逸结合，别把自己累垮了。"
+      "text": "Here you go. I prefer using this to rolling around in the mud!"
     }
   },
   "tasks": [
@@ -24,12 +24,12 @@
         "item": "minecraft:emerald"
       },
       "id": "quest_giver:gift",
-      "amount": 25
+      "amount": 15
     }
   ],
   "rewards": [
     {
-      "command": "/give @p epicfight:skillbook{skill:\"epicfight:dualgreatsword\"}",
+      "command": "/give @p epicfight:skillbook{skill:\"epicfight:step\"}",
       "id": "quest_giver:command"
     }
   ]
