@@ -4,18 +4,18 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "所以？"
 		},
 		"description": {
-			"text": "I can teach you the skill - Technician for 15 emeralds."
+			"text": "我可以教你这个技能——技巧大师，价格为15个绿宝石。"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thank you!"
+			"text": "感谢！"
 		},
 		"description": {
-			"text": "Here you go!"
+			"text": "给你！"
 		}
 	},
 	"tasks": [
