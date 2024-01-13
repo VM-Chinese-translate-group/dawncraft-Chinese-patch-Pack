@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"dawncraft:warrior"
+	],
+	"icon": {
+		"item": "minecraft:iron_sword"
+	},
+	"order": 10,
+	"impact": 1,
+	"name": "Warrior",
+	"description": "Formidable champions with above average stamina and health, making them a balanced force on the battlefield."
+}
