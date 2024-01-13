@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/dc addWaypoint @p custom:fallen_house \"Miner's Request - A Kindred Spirit\"",
+      "command": "/dc addWaypoint @p custom:fallen_house \"矿工的请求 - 善良的幽灵\"",
       "id": "quest_giver:command"
     },
     {
