@@ -31,13 +31,6 @@
     {
       "command": "/addreputation reputation:village @p 10",
       "id": "quest_giver:command"
-    },
-    {
-      "item": {
-        "item": "simple_mobs:giant_knot"
-      },
-      "id": "quest_giver:item",
-      "times": 1
     }
   ]
 }
