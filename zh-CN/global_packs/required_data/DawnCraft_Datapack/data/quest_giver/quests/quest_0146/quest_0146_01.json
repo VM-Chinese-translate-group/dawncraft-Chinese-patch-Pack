@@ -4,18 +4,18 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "所以？"
 		},
 		"description": {
-			"text": "I can teach you the skill - Bull Charge for 30 emeralds. What do you say?"
+			"text": "我可以教你这个技能——公牛冲锋，价格为30个绿宝石。你觉得怎么样？"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thank you!"
+			"text": "感谢！"
 		},
 		"description": {
-			"text": "Here you go. Don't go running off a cliff, mind you."
+			"text": "给你。记住，别跑去悬崖边上。"
 		}
 	},
 	"tasks": [
