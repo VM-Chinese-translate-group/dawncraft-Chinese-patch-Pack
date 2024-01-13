@@ -4,18 +4,18 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "所以？"
 		},
 		"description": {
-			"text": "I can teach you the skill - Dancing Edge for 20 emeralds. Trust me, it's worth the price!"
+			"text": "给我20个绿宝石，我可以教你舞刃。相信我，这个价钱值得！"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thank you!"
+			"text": "感谢！"
 		},
 		"description": {
-			"text": "Great choice! Good luck on your journey."
+			"text": "很好的选择！祝你旅途顺利。"
 		}
 	},
 	"tasks": [
