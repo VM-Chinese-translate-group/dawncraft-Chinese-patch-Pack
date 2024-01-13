@@ -5,5 +5,5 @@
       "command": "/pickClass @p dawncraft:warrior"
    },
    "name": "Roll",
-   "description": "Roll in the direction you're moving. Evades all incoming attacks."
+   "description": "朝你移动的方向翻滚。闪避所有攻击。"
 }
