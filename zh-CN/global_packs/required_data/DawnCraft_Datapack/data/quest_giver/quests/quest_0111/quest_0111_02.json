@@ -7,7 +7,7 @@
       "text": "所以？"
     },
     "description": {
-      "text": "你消灭了洞穴栖兽了吗？如果是的话，请把它的掉落物带给我。"
+      "text": "Did you exterminate the giant yet? If so bring me its drops."
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "谢谢！"
     },
     "description": {
-      "text": "好样的！这是它的一只眼睛，好吧……让我们看看，我将教你战斗技能——格挡，作为报酬。这是一个人在这个维度可以学到的最重要的技能之一。"
+      "text": "Good job! This is one of its eye alright... Let's see, I'll teach you the combat skill - Demolition Leap, as payment. This skill greatly improves your agility during combat!"
     }
   },
   "tasks": [
@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/give @p epicfight:skillbook{skill:\"epicfight:guard\"}",
+      "command": "/give @p epicfight:skillbook{skill:\"epicfight:demolition_leap\"}",
       "id": "quest_giver:command"
     }
   ]
