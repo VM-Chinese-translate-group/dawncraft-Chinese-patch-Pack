@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "嘿！"
+      "text": "嘿!"
     },
     "description": {
-      "text": "If you want to learn how to surprise your enemy, I've got just the trick..."
+      "text": "如果你想学习如何让你的敌人惊讶，我这儿有正好的诀窍……"
     }
   }
 }
