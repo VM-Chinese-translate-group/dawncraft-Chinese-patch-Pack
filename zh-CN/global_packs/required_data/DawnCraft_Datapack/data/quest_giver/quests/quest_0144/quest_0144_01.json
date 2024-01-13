@@ -4,18 +4,18 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "所以？"
 		},
 		"description": {
-			"text": "I can teach you the skill - Dodge Master for 15 emeralds. What do you say?"
+			"text": "我可以教你这个技能——闪避大师，价格为15个绿宝石。你觉得怎么样？"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thank you!"
+			"text": "感谢！"
 		},
 		"description": {
-			"text": "Here you go. This is one of the hardest skills to use, yet highly effective with proper execution."
+			"text": "给你。这是最难掌握的技能之一，但只要使用得当，就非常有效。"
 		}
 	},
 	"tasks": [
