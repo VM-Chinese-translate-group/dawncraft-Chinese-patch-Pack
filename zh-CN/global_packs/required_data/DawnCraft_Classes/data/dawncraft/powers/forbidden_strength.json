@@ -1,5 +1,5 @@
 {
     "type": "origins:simple",
-    "name": "Forbidden Strength",
-    "description": "Allows health consumption when out of stamina."
+    "name": "禁忌之力",
+    "description": "耐力耗尽时将会消耗生命值以代替。"
 }
