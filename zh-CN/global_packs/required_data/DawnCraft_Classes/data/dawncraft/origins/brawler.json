@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"dawncraft:roll",
+		"dawncraft:hypervitality"
+	],
+	"icon": {
+		"item": "epicfight:glove"
+	},
+	"order": 10,
+	"impact": 1,
+	"name": "Brawler",
+	"description": "Brawlers feature well above-average health and average stamina, making them formidable in close-quarters combat with enduring strength."
+}
