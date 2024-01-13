@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/dc addWaypoint @p quest_giver:giant_hideout \"Extermination Request - The Giant\"",
+      "command": "/dc addWaypoint @p quest_giver:giant_hideout \"清剿请求 - 巨人\"",
       "id": "quest_giver:command"
     },
     {
