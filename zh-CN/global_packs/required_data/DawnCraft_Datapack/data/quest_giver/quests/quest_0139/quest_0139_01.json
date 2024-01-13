@@ -4,18 +4,18 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "所以？"
 		},
 		"description": {
-			"text": "I can teach you the skill Precise Roll for 18 emeralds."
+			"text": "我可以教你认真滚动技能，价格为18个绿宝石。"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thank you!"
+			"text": "感谢！"
 		},
 		"description": {
-			"text": "Here you go sir!"
+			"text": "拿好。"
 		}
 	},
 	"tasks": [
