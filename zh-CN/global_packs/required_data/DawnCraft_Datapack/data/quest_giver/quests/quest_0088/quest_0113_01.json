@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/dc addWaypoint @p custom:obsidian_spikes \"Investigate the Area the Weaponsmith Mentioned\"",
+      "command": "/dc addWaypoint @p custom:obsidian_spikes \"调查武器匠提到的区域\"",
       "id": "quest_giver:command"
     },
     {
