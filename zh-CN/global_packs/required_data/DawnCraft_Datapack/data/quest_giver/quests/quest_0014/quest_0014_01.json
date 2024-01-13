@@ -4,7 +4,7 @@
 	"icon": "minecraft:enchanted_book",
 	"start": {
 		"title": {
-			"text": "First Assignment"
+			"text": "牛刀小试"
 		},
 		"description": {
 			"text": "完成任务要求后再回来——$(red)杀死10个掠夺者$()。"
@@ -12,10 +12,10 @@
 	},
 	"complete": {
 		"title": {
-			"text": "First Assignment"
+			"text": "牛刀小试"
 		},
 		"description": {
-			"text": "Here, use these to get your first upgrade from the $(green)goddess statues$()! I would recommend talking to some of the guards here if you want to learn some new skills. Good luck on your journey."
+			"text": "这，在$(green)女神雕像()那用这些进行你的第一次升级！如果你想学一些新技能，我建议你和这里的一些守卫交谈。祝你旅途愉快。"
 		}
 	},
 	"tasks": [
