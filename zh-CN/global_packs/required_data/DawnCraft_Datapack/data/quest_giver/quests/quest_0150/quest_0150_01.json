@@ -4,18 +4,18 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "所以？"
 		},
 		"description": {
-			"text": "I can teach you the skill - Ender Step for 30 emeralds. What do you say?"
+			"text": "我可以教你这个技能——终末步伐，价格为30个绿宝石。你觉得怎么样？"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thank you!"
+			"text": "感谢！"
 		},
 		"description": {
-			"text": "This is the skill passed down from the legendary beings - The Twins. You can find them in the end, or so I've heard..."
+			"text": "这是传说中的双子传下来的技能。据说你可以在末地找到他们……"
 		}
 	},
 	"tasks": [
