@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "嘿！"
+      "text": "嘿!"
     },
     "description": {
-      "text": "Want to learn something? I'm probably the only one around that can teach you this particular skill."
+      "text": "想学点什么吗？我可能是唯一一个能教你这个特殊技能的人。"
     }
   }
 }
