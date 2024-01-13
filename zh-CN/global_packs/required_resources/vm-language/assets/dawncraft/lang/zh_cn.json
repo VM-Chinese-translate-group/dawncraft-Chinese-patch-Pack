@@ -220,10 +220,10 @@
 	"toasts.dawncraft.skills.title": "技能书已获得",
 	"toasts.dawncraft.skills.text0": "按”%1$s“以查看技能",
 	"toasts.dawncraft.skills.text1": "",
-	"toasts.dawncraft.map.title": "Check Your Waypoints in the Map",
-	"toasts.dawncraft.map.text0": "Press \"%1$s\" to open the",
-	"toasts.dawncraft.map.text1": "world map",
-	"toasts.dawncraft.stealing.title": "Don't Steal!",
-	"toasts.dawncraft.stealing.text0": "Village reputation is lowered if you",
-	"toasts.dawncraft.stealing.text1": "are caught stealing"
+	"toasts.dawncraft.map.title": "查看你地图中的路径点",
+	"toasts.dawncraft.map.text0": "按”%1$s“以打开",
+	"toasts.dawncraft.map.text1": "世界地图",
+	"toasts.dawncraft.stealing.title": "不要偷窃！",
+	"toasts.dawncraft.stealing.text0": "如果你被抓到偷窃，",
+	"toasts.dawncraft.stealing.text1": "村庄声望会降低"
 }
