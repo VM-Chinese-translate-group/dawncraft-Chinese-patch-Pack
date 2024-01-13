@@ -1,3 +1,6 @@
 {
-	"attribute.name.epicfight.staminar": "战斗体力"
+    "attribute.name.epicfight.staminar": "战斗耐力",
+    "key.epicfight.attack": "攻击",
+    "skill.epicfight.phantom_ascent": "MORE MORE JUMP！",
+    "skill.epicfight.phantom_ascent.tooltip": "允许你在空中多跳%d次。"
 }
