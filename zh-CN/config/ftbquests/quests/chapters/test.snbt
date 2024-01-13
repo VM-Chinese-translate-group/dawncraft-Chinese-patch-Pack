@@ -756,12 +756,6 @@
 			}]
 			rewards: [
 				{
-					id: "2F070110E161B9F8"
-					type: "item"
-					auto: "invisible"
-					item: "antiqueatlas:empty_antique_atlas"
-				}
-				{
 					id: "410AA390E054E967"
 					type: "command"
 					auto: "invisible"
@@ -816,6 +810,13 @@
 					command: "/gamerule weightPenalty 10"
 					player_command: false
 				}
+				{
+					id: "4EF4BB54C3517365"
+					type: "command"
+					auto: "enabled"
+					command: "/dc addWaypoint @p #custom:village \"First Village\""
+					player_command: false
+				}
 			]
 		}
 		{
@@ -832,7 +833,7 @@
 				id: "7B9F61F2A4765018"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"这是你的第一次\"},{\"text\":\"死亡\",\"bold\":true,\"color\":\"red\"},{\"text\":\"。虽然你物品栏的大部分物品会保留，但一些有价值的物品可能会在你的遗体中丢失，遗体会在10分钟后腐烂。除此之外，你的一些物品的耐久和你的经验也会被降低。你可以通过按\\\"\"},{\"text\":\"I 来检查遗体的位置\",\"bold\":true},{\"text\":\"\\\"。\\n\\n短时间内多次死亡将导致\\\"\"},{\"text\":\"粉碎的灵魂效果的等级更高\",\"bold\":true,\"color\":\"light_purple\"},{\"text\":\"\\\"，这将进一步增加耐久和经验消耗。\"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"That was your first \"},{\"text\":\"death\",\"bold\":true,\"color\":\"red\"},{\"text\":\". Although most of your inventory items will stay with you, some of your valuable items may be lost in your corpse, which decomposes after 10 minutes. You can check where your corpse is by pressing \\\"\"},{\"text\":\"I\",\"bold\":true},{\"text\":\"\\\".\\n\\nAccumulated deaths in short periods of time will cause higher level of \\\"\"},{\"text\":\"Fractured Soul\",\"bold\":true,\"color\":\"light_purple\"},{\"text\":\"\\\".\"}]"
 				player_command: false
 			}]
 		}
@@ -851,7 +852,7 @@
 					id: "0206FC6701ED673E"
 					type: "command"
 					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"看来你在\"},{\"text\":\"村民中的\",\"bold\":true,\"color\":\"red\"},{\"text\":\"声望很差。念在你是初犯，这次就\"},{\"text\":\"饶了你\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\"。如果还有下次，村民们将不再和你交易。如果你的声望进一步下降，守卫和铁傀儡将会攻击你。你可以通过将\"},{\"text\":\"袋装货币（可合成）\",\"bold\":true,\"color\":\"green\"},{\"text\":\"交到公会房屋或摊位中的\",\"italic\":true},{\"text\":\"账簿箱\"}]"
+					command: "/tellraw @p [\"\",{\"text\":\"It seems your reputation is \"},{\"text\":\"bad\",\"bold\":true,\"color\":\"red\"},{\"text\":\" among villagers. You have been \"},{\"text\":\"forgiven\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\" since this is your first offense... But next time, villagers will stop trading with you. If your reputation drops even further, guards and iron golems may start attacking you. You can improve your reputation by handing in \"},{\"text\":\"bundled currency\",\"bold\":true,\"color\":\"green\"},{\"text\":\" (craftable) \",\"italic\":true},{\"text\":\"into the ledger chests inside guild houses or stalls.\"}]"
 					player_command: false
 				}
 				{
@@ -862,24 +863,6 @@
 					player_command: false
 				}
 			]
-		}
-		{
-			x: 12.0d
-			y: 9.5d
-			id: "01E76C073D0AAA07"
-			tasks: [{
-				id: "6BA0AF1B0555443C"
-				type: "stat"
-				stat: "minecraft:damage_dealt"
-				value: 50
-			}]
-			rewards: [{
-				id: "707451785BD080B1"
-				type: "command"
-				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"你可以按\"},{\"text\":\"\\\"R\\\"\",\"bold\":true,\"color\":\"green\"},{\"text\":\"以进入战斗姿态。在普通姿态下造成的伤害\"},{\"text\":\"是你在战斗姿态下的\",\"bold\":true,\"color\":\"red\"},{\"text\":\"一半。\"}]"
-				player_command: false
-			}]
 		}
 		{
 			x: 10.0d
@@ -895,7 +878,7 @@
 				id: "23A84067614F3CE4"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"看来你已经找到了\"},{\"text\":\"前往下界的方法\",\"bold\":true,\"color\":\"red\"},{\"text\":\"。这不仅会给你带来混乱，而且会给整个领域\"},{\"text\":\"带来混乱\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\"。这是条有去无回的路。在踏入传送门之前，请确保你有决心向前迈进。\"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"It seems you have found the means to travel to \"},{\"text\":\"the Nether\",\"bold\":true,\"color\":\"red\"},{\"text\":\". This will bring chaos to not only you, but to the \"},{\"text\":\"entire realm\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\". Once you enter, it cannot be undone. Make sure you have the resolve to move forward before stepping in the portal.\"}]"
 				player_command: false
 			}]
 		}
@@ -913,32 +896,7 @@
 				id: "3542688F80E1C6D8"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p {\"text\":\"恭喜你第一次驯服了一匹马！现在您可以将它设置为您的个人马匹（按\\\"J\\\"），并从领域的任何地方召唤您的马匹（按\\\"H）\"}"
-				player_command: false
-			}]
-		}
-		{
-			x: 5.5d
-			y: 10.5d
-			id: "01FEFFDF4C5C351F"
-			tasks: [{
-				id: "7F551EDDDAA433AB"
-				type: "item"
-				item: {
-					id: "epicfight:skillbook"
-					Count: 1b
-					tag: {
-						skill: "epicfight:stamina_pillager"
-					}
-				}
-				consume_items: false
-				only_from_crafting: false
-			}]
-			rewards: [{
-				id: "152C911A2EDB4822"
-				type: "command"
-				auto: "invisible"
-				command: "/tellraw @p {\"text\":\"恭喜你获得了第一个技能！现在你可查看已获得的技能列表，并改变装备的具体技能（按\\\"K\\\"）\"}"
+				command: "/tellraw @p {\"text\":\"Congratulations on taming your first horse! You can now set it to your personal horse (Press \\\"J\\\"), and call your horse from anywhere in the realm (Press \\\"H).\"}"
 				player_command: false
 			}]
 		}
@@ -955,7 +913,7 @@
 				id: "7B0591F07EC96892"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"似乎你发现了个村庄！一些村民可以提供\"},{\"text\":\"使用某些方块所需的知识，\",\"bold\":true,\"color\":\"green\"},{\"text\":\"比如织布机，制箭台等。但对于大多数常用的方块，如铁砧、附魔台、锻造台等。你需要向\"},{\"text\":\"冒险者公会会长学习\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\"。找到身穿蓝袍的村民，开始你的旅程！\"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"Seems you've found a village! You can interact with villagers who have exclamation marks above their head. Some of them provide \"},{\"text\":\"knowledge \",\"bold\":true,\"color\":\"green\"},{\"text\":\"required to work with certain blocks such as Loom, Fletching Table, etc... But for most of the useful blocks, such as Anvil, Enchanting Table, Smithing Table, etc... You will want to learn it from the \"},{\"text\":\"Guild Master\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\". Find villagers wearing blue robe and start your journey!\"}]"
 				player_command: false
 			}]
 		}
@@ -1011,7 +969,7 @@
 				id: "01214ACE5D82E719"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"看来你已经获得了一个交易卷轴！注意当你和村民的关系\"},{\"text\":\"是中立时，\",\"bold\":true,\"color\":\"red\"},{\"text\":\"交易价格可能会离谱得高。通过完成村民任务获得更高的声望。一旦村民对你产生改观，\"},{\"text\":\"交易价格将会大幅下降\",\"bold\":true,\"color\":\"green\"},{\"text\":\"！\"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"Seems you've obtained a trading scroll! Note that trade prices are absurdly \"},{\"text\":\"high \",\"bold\":true,\"color\":\"red\"},{\"text\":\"when you are have neutral reputation. Gain higher reputation by completing Villager quests. Once villagers start to like you, you will see the trade prices drop \"},{\"text\":\"tremendously\",\"bold\":true,\"color\":\"green\"},{\"text\":\"!\"}]"
 				player_command: false
 			}]
 		}
@@ -1286,7 +1244,7 @@
 				id: "1246B523C0F3419C"
 				type: "command"
 				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"你已获得一个\"},{\"text\":\"精华\",\"bold\":true,\"color\":\"red\"},{\"text\":\"。你需要消耗它，让恶魔雕像认识它。\"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"You have obtained an \"},{\"text\":\"essence\",\"bold\":true,\"color\":\"red\"},{\"text\":\". You'll need to consume it for the horned statue to recognize it.\"}]"
 				player_command: false
 			}]
 		}
@@ -1295,24 +1253,24 @@
 			y: 5.5d
 			id: "1BF783F3710F1DCC"
 			tasks: [{
-				id: "4BABC121C73B5659"
+				id: "2C2A64D0FD9494EC"
 				type: "item"
 				item: {
 					id: "minecraft:filled_map"
 					Count: 1b
 					tag: {
+						display: {
+							Name: "{\"text\":\"A Suspicious Map\"}"
+							Lore: ["{\"text\":\"A map given by a fallen adventurer to locate a church.\"}"]
+						}
 						Decorations: [{
-							x: 2752.0d
-							z: -1712.0d
-							id: "+"
 							type: 26b
+							x: 3840.0d
+							id: "+"
+							z: 32.0d
 							rot: 180.0d
 						}]
-						map: 10
-						display: {
-							Lore: ["{\"text\":\"由亡灵冒险家提供寻找一个教堂的地图。\"}"]
-							Name: "{\"text\":\"可疑地图\"}"
-						}
+						map: 4
 					}
 				}
 				consume_items: false
@@ -1332,26 +1290,28 @@
 			y: 6.5d
 			id: "4B1EE4CEB29F9553"
 			tasks: [{
-				id: "379BBF5DB43D5EBD"
+				id: "1BD47793B99125A4"
 				type: "item"
 				item: {
 					id: "minecraft:filled_map"
 					Count: 1b
 					tag: {
+						display: {
+							Name: "{\"text\":\"Location of the Father\"}"
+							Lore: ["{\"text\":\"Father Gascoigne's whereabouts.\"}"]
+						}
 						Decorations: [{
-							x: -3456.0d
-							z: -6992.0d
-							id: "+"
 							type: 26b
+							x: -4400.0d
+							id: "+"
+							z: 736.0d
 							rot: 180.0d
 						}]
-						map: 11
-						display: {
-							Lore: ["{\"text\":\"加斯科因神父的去向\"}"]
-							Name: "{\"text\":\"加斯科因神父的位置\"}"
-						}
+						map: 3
 					}
 				}
+				only_from_crafting: false
+				match_nbt: true
 			}]
 			rewards: [{
 				id: "0F361DAC16E3F56F"
@@ -1366,26 +1326,29 @@
 			y: 8.0d
 			id: "4BB2FAEBF28B584E"
 			tasks: [{
-				id: "071AFA7CF87C2444"
+				id: "57A723698221D811"
 				type: "item"
 				item: {
 					id: "minecraft:filled_map"
 					Count: 1b
 					tag: {
+						display: {
+							Name: "{\"text\":\"The True End's Portal\"}"
+							Lore: ["{\"text\":\"A map leading you to the most powerful being within the realm.\"}"]
+						}
 						Decorations: [{
-							x: -2992.0d
-							z: -2464.0d
-							id: "+"
 							type: 26b
 							rot: 180.0d
+							id: "+"
+							z: -416.0d
+							x: -1456.0d
 						}]
-						map: 16
-						display: {
-							Lore: ["{\"text\":\"一张地图，指引你前往这里最强大之物。\"}"]
-							Name: "{\"text\":\"真正的末地传送门\"}"
-						}
+						map: 2
 					}
 				}
+				consume_items: false
+				only_from_crafting: false
+				match_nbt: true
 			}]
 			rewards: [{
 				id: "2274C54EF9ADD546"
@@ -1396,7 +1359,7 @@
 			}]
 		}
 		{
-			title: "{chapter.1.quest.65.title}"
+			title: "{chapter.1.quest.63.title}"
 			x: 4.0d
 			y: 12.0d
 			id: "39AE937D10D1E511"
@@ -1410,8 +1373,26 @@
 				id: "01BE88C49BEF5128"
 				type: "command"
 				auto: "enabled"
-				command: "/tellraw @p [\"\",{\"text\":\"\n如果你需要点帮助，点击这个\\\"\"},{\"text\":\"任务\",\"bold\":true,\"color\":\"green\"},{\"text\":\"\\\"栏，同时看看你的物品栏\n \"}]"
+				command: "/tellraw @p [\"\",{\"text\":\"\\nIf you need a little help, click on the \\\"\"},{\"text\":\"Quests\",\"bold\":true,\"color\":\"green\"},{\"text\":\"\\\" tab while accessing your inventory.\\n \"}]"
 				player_command: false
+			}]
+		}
+		{
+			x: 14.5d
+			y: 3.0d
+			id: "3F08F2F803F87980"
+			tasks: [{
+				id: "51880F9956E4D192"
+				type: "stat"
+				stat: "minecraft:walk_one_cm"
+				value: 1000
+			}]
+			rewards: [{
+				id: "6CF76406E5D73F1A"
+				type: "advancement"
+				auto: "enabled"
+				advancement: "custom:100_blocks"
+				criterion: ""
 			}]
 		}
 	]

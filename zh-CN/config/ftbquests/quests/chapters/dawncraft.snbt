@@ -10,11 +10,7 @@
 	quests: [
 		{
 			title: "{chapter.3.quest.1.title}"
-			icon: {
-				id: "antiqueatlas:antique_atlas"
-				Count: 1b
-				tag: { }
-			}
+			icon: "minecraft:filled_map"
 			x: -3.75d
 			y: -5.25d
 			description: ["{chapter.3.quest.1.description.1}"]
@@ -35,7 +31,7 @@
 		}
 		{
 			title: "{chapter.3.quest.2.title}"
-			icon: "minecraft:filled_map"
+			icon: "ftbquests:book"
 			x: -1.5d
 			y: -5.25d
 			description: ["{chapter.3.quest.2.description.1}"]

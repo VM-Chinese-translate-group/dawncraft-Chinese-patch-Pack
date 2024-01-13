@@ -879,9 +879,9 @@
 				}
 			}]
 			rewards: [{
-				id: "4DF06CCB5DB06CB8"
+				id: "053A21242DC52579"
 				type: "item"
-				item: "nourished_end:floatberry"
+				item: "enlightened_end:zure_berry"
 			}]
 		}
 		{
