@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"dawncraft:roll",
+		"dawncraft:emergency_escape"
+	],
+	"icon": {
+		"item": "alexsmobs:roadrunner_boots"
+	},
+	"order": 10,
+	"impact": 2,
+	"name": "Roamer",
+	"description": "Armed with a bow and arrows, Roamers embrace agility, featuring below-average health and high stamina."
+}
