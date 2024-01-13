@@ -15,7 +15,7 @@
 			"text": "解救孩童：完成"
 		},
 		"description": {
-			"text": "太棒了！你真的做到了！说实话，我原以为孩子能生还的希望渺茫……拿着，我会教你一项新技能——技巧大师。这是我唯一能报答你的方式。"
+			"text": "Amazing! You've actually did it! To be honest I wasn't optimistic about the kid's survival... Here, I'll teach you a new skill - Meteor Slam. It's the only way I could repay you."
 		}
 	},
 	"tasks": [
@@ -26,7 +26,7 @@
 	],
 	"rewards": [
 		{
-			"command": "/give @p epicfight:skillbook{skill:\"epicfight:swordmaster\"}",
+			"command": "/give @p epicfight:skillbook{skill:\"epicfight:meteor_slam\"}",
 			"id": "quest_giver:command"
 		},
 		{
