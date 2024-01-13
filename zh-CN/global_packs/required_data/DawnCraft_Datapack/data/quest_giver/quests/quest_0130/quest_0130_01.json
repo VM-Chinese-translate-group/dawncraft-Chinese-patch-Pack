@@ -4,18 +4,18 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "所以？"
 		},
 		"description": {
-			"text": "I can teach you the skill - Stamina Pillager for 18 emeralds."
+			"text": "我可以教你这个技能——体力掠夺者，价格为18个绿宝石。"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thank you!"
+			"text": "感谢！"
 		},
 		"description": {
-			"text": "Have fun pillaging! But not too much fun."
+			"text": "玩得开心！但这并不是太有趣。"
 		}
 	},
 	"tasks": [
