@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/dc addWaypoint @p custom:summon_podium \"Summon Podium\"",
+      "command": "/dc addWaypoint @p custom:summon_podium \"召唤展台\"",
       "id": "quest_giver:command"
     },
     {
