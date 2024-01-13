@@ -4,7 +4,7 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "所以？"
 		},
 		"description": {
 			"text": "I know the skill - Armement Haki. I can teach you that for 20 emeralds."
@@ -12,10 +12,10 @@
 	},
 	"complete": {
 		"title": {
-			"text": "Thank you!"
+			"text": "感谢！"
 		},
 		"description": {
-			"text": "The book should provide you with the secrets of this ancient eastern art."
+			"text": "这本书应该能够为你揭示这门古老东方艺术的秘密。"
 		}
 	},
 	"tasks": [
