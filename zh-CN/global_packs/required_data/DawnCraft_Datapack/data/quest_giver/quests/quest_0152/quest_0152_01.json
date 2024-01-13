@@ -4,18 +4,18 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "所以？"
 		},
 		"description": {
-			"text": "I can teach you the skill - Arrow Tenacity for 15 emeralds. How about that?"
+			"text": "我可以教你这个技能——箭矢韧性，价格为15个绿宝石。怎么样？"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thank you!"
+			"text": "感谢！"
 		},
 		"description": {
-			"text": "Here ya go."
+			"text": "成交！"
 		}
 	},
 	"tasks": [
