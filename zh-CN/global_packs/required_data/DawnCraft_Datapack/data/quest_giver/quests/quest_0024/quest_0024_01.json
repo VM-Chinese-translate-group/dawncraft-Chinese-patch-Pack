@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/dc addWaypoint @p quest_giver:pillager_hideout \"Rescue Request - Pillager Hideout\"",
+      "command": "/dc addWaypoint @p quest_giver:pillager_hideout \"救援请求 - 掠夺者藏身地\"",
       "id": "quest_giver:command"
     },
     {
