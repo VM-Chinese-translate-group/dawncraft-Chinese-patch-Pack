@@ -3,10 +3,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "嘿！"
+      "text": "嗨！"
     },
     "description": {
-      "text": "How you doing? Want to learn a skill for 15 emeralds?"
+      "text": "你在干什么？想花15个绿宝石学习技能吗？"
     }
   }
 }
