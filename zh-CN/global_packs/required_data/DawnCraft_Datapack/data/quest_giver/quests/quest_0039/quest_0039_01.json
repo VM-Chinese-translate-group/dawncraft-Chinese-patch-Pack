@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/dc addWaypoint @p custom:dojo \"Foreign Outlaws' Dojo\"",
+      "command": "/dc addWaypoint @p custom:dojo \"外国逃犯的道场\"",
       "id": "quest_giver:command"
     },
     {
