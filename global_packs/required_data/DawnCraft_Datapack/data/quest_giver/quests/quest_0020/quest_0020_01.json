@@ -28,6 +28,10 @@
      }
   ],
   "rewards": [
+	{
+		"command": "/dc addWaypoint @p custom:cult_informer_ruin \"Netherian's Request\"",
+		"id": "quest_giver:command"
+	}, 
     {
       "command": "/loot give @p loot minecraft:netherian1",
       "id": "quest_giver:command"

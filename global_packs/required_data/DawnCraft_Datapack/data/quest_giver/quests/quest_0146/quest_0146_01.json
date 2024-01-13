@@ -1,0 +1,32 @@
+{
+	"parent": "quest_giver:root",
+	"reputation": 15,
+	"icon": "minecraft:iron_sword",
+	"start": {
+		"title": {
+			"text": "So?"
+		},
+		"description": {
+			"text": "I can teach you the skill - Bull Charge for 30 emeralds. What do you say?"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "Thanks!"
+		},
+		"description": {
+			"text": "Here you go. Don't go running off a cliff, mind you."
+		}
+	},
+	"tasks": [{
+		"item": {
+			"item": "minecraft:emerald"
+		},
+      "id": "quest_giver:gift",
+      "times": 30
+	}],
+	"rewards": [{
+		"command": "give @p epicfight:skillbook{skill:\"wom:bull_charge\"}",
+		"id": "quest_giver:command"
+	}]
+}

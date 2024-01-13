@@ -42,11 +42,11 @@
 					Count: 1b
 					tag: {
 						RepairCost: 1
-						Damage: 0
 						Enchantments: [{
 							lvl: 3s
 							id: "minecraft:sharpness"
 						}]
+						Damage: 0
 					}
 				}
 			}

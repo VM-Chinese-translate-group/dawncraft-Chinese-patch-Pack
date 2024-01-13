@@ -28,6 +28,10 @@
     }
   ],
   "rewards": [
+	{
+		"command": "/dc addWaypoint @p custom:floating_island \"Main Quest - Floating Island\"",
+		"id": "quest_giver:command"
+	}, 
     {
       "command": "/loot give @p loot minecraft:guildmaster4",
       "id": "quest_giver:command"

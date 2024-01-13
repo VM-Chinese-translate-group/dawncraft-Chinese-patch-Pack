@@ -1,0 +1,32 @@
+{
+	"parent": "quest_giver:root",
+	"reputation": 15,
+	"icon": "minecraft:iron_sword",
+	"start": {
+		"title": {
+			"text": "So?"
+		},
+		"description": {
+			"text": "So? I can teach you the skill Impact Guard for 15 emeralds. What do you say?"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "Thanks!"
+		},
+		"description": {
+			"text": "There ya go! Run along now!"
+		}
+	},
+	"tasks": [{
+		"item": {
+			"item": "minecraft:emerald"
+		},
+      "id": "quest_giver:gift",
+      "times": 15
+	}],
+	"rewards": [{
+		"command": "give @p epicfight:skillbook{skill:\"epicfight:impact_guard\"}",
+		"id": "quest_giver:command"
+	}]
+}

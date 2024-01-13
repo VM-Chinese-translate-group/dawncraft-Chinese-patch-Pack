@@ -101,6 +101,9 @@
 	"map.dawncraft.cultist_2": "Cultist's Map",
 	"map.dawncraft.cultist_2.lore": "Father Gascoigne's whereabouts.",
 	
+	"waypoint.dawncraft.cultist": "The Cultist's Prison",
+	"waypoint.dawncraft.cultist_2": "Father’s Church",
+	
 	"entity.dawncraft.fallen": "Fallen Adventurer",
 	
 	"message.dawncraft.invasions_enabled_0": "Several anachronisms have been detected, prepare for imminent invasion...",
@@ -118,6 +121,8 @@
 	"message.dawncraft.unlink_triggerable_block": "Unlinked functional block %1$s from trigger %2$s",
 	"message.dawncraft.reset_functional_block": "Reset functional block %1$s",
 	"message.dawncraft.no_mode": "WARNING: no functionality set for configuration mode %1$s",
+	
+	"message.dawncraft.waypoint": "Added waypoint to map for %1$s",
 	
 	"configuratormode.dawncraft.link_functional": "Mode: Link Functional Blocks",
 	"configuratormode.dawncraft.unlink_functional": "Mode: Unlink Functional Blocks",
@@ -257,5 +262,26 @@
 	"advancements.end.root.title": "Find the pieces",
 	"advancements.end.root.description": "Enter the end...",
 	"advancements.story.enter_the_end.title": "Find the pieces",
-	"advancements.story.enter_the_end.description": "Put the puzzle back together..."
+	"advancements.story.enter_the_end.description": "Put the puzzle back together...",
+	
+	"toasts.dawncraft.combatmode.title": "Press \"%1$s\" to Switch to Combat Mode",
+	"toasts.dawncraft.combatmode.text0": "Melee damage dealt not in combat ",
+	"toasts.dawncraft.combatmode.text1": "mode is halved.",
+	
+	"toasts.dawncraft.dodge.title": "Press \"%1$s\" to Dodge",
+	"toasts.dawncraft.dodge.text0": "Dodging only works in combat mode",
+	"toasts.dawncraft.dodge.text1": "",
+	
+	"toasts.dawncraft.skills.title": "Skill Book Aquired",
+	"toasts.dawncraft.skills.text0": "Press \"%1$s\" to check your skills",
+	"toasts.dawncraft.skills.text1": "",
+	
+	"toasts.dawncraft.map.title": "Check Your Waypoints in the Map",
+	"toasts.dawncraft.map.text0": "Press \"%1$s\" to open the",
+	"toasts.dawncraft.map.text1": "world map",
+	
+	"toasts.dawncraft.stealing.title": "Don't Steal!",
+	"toasts.dawncraft.stealing.text0": "Village reputation is lowered if you",
+	"toasts.dawncraft.stealing.text1": "are caught stealing"
+	
 }

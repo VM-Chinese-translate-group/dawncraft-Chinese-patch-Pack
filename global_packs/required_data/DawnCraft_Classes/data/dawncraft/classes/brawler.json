@@ -1,0 +1,26 @@
+{
+	"index": 5,
+	"health": 24,
+	"stamina": 26,
+	"starting_skills": [
+		"epicfight:roll",
+		"epicfight:hypervitality"
+	],
+	"items": [
+		{
+			"id": "minecraft:chainmail_chestplate",
+			"slot": "chest"
+		},
+		{
+			"id": "epicfight:glove",
+			"slot": "offhand"
+		},
+		{
+			"id": "epicfight:glove"
+		},
+		{
+			"id": "minecraft:bread",
+			"count": 6
+		}
+	]
+}

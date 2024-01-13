@@ -1,0 +1,32 @@
+{
+	"parent": "quest_giver:root",
+	"reputation": 15,
+	"icon": "minecraft:iron_sword",
+	"start": {
+		"title": {
+			"text": "So?"
+		},
+		"description": {
+			"text": "I can teach you the skill - Dodge Master for 15 emeralds. What do you say?"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "Thanks!"
+		},
+		"description": {
+			"text": "Here you go. This is one of the hardest skills to use, yet highly effective with proper execution."
+		}
+	},
+	"tasks": [{
+		"item": {
+			"item": "minecraft:emerald"
+		},
+      "id": "quest_giver:gift",
+      "times": 15
+	}],
+	"rewards": [{
+		"command": "give @p epicfight:skillbook{skill:\"wom:dodge_master\"}",
+		"id": "quest_giver:command"
+	}]
+}

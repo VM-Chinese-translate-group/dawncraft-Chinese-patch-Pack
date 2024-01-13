@@ -1,0 +1,5 @@
+{
+    "type": "origins:simple",
+    "name": "Guard",
+    "description": "Right-click to guard against frontal attacks. Continued guarding will consume more stamina."
+}

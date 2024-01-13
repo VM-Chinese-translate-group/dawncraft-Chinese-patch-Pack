@@ -28,6 +28,10 @@
      }
   ],
   "rewards": [
+	{
+		"command": "/dc addWaypoint @p quest_giver:cave_dwelling \"Extermination Request - Cave Dweller\"",
+		"id": "quest_giver:command"
+	},
     {
       "command": "/loot give @p loot minecraft:guard3",
       "id": "quest_giver:command"

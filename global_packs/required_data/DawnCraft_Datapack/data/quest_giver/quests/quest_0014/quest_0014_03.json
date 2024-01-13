@@ -28,6 +28,10 @@
     }
   ],
   "rewards": [
+	{
+		"command": "/dc addWaypoint @p custom:ogre_dwelling \"Main Quest - Corrupted Ogre's Dwelling\"",
+		"id": "quest_giver:command"
+	}, 
     {
       "command": "/loot give @p loot minecraft:guildmaster1",
       "id": "quest_giver:command"

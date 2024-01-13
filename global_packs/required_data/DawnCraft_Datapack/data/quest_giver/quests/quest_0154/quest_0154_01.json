@@ -1,0 +1,32 @@
+{
+	"parent": "quest_giver:root",
+	"reputation": 15,
+	"icon": "minecraft:iron_sword",
+	"start": {
+		"title": {
+			"text": "So?"
+		},
+		"description": {
+			"text": "Alright, so I can teach you the skill - Ender Obscuris for 20 emeralds. You good for it?"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "Thanks!"
+		},
+		"description": {
+			"text": "There you go. Don't use it to scare the villagers around, mind you!"
+		}
+	},
+	"tasks": [{
+		"item": {
+			"item": "minecraft:emerald"
+		},
+      "id": "quest_giver:gift",
+      "times": 20
+	}],
+	"rewards": [{
+		"command": "give @p epicfight:skillbook{skill:\"wom:ender_obscuris\"}",
+		"id": "quest_giver:command"
+	}]
+}

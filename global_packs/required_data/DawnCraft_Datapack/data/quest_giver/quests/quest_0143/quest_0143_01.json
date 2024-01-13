@@ -1,0 +1,32 @@
+{
+	"parent": "quest_giver:root",
+	"reputation": 15,
+	"icon": "minecraft:iron_sword",
+	"start": {
+		"title": {
+			"text": "So?"
+		},
+		"description": {
+			"text": "I can teach you the skill - Conqueror Haki for 30 emeralds. What do you say?"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "Thanks!"
+		},
+		"description": {
+			"text": "Here you go. Be careful using this skill among allies."
+		}
+	},
+	"tasks": [{
+		"item": {
+			"item": "minecraft:emerald"
+		},
+      "id": "quest_giver:gift",
+      "times": 30
+	}],
+	"rewards": [{
+		"command": "give @p epicfight:skillbook{skill:\"epicfight:conqueror_haki\"}",
+		"id": "quest_giver:command"
+	}]
+}

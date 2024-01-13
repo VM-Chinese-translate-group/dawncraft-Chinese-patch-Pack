@@ -4,7 +4,7 @@
 	"icon": "minecraft:enchanted_book",
 	"start": {
 		"title": {
-			"text": "The Basic Skill"
+			"text": "First Assignment"
 		},
 		"description": {
 			"text": "Come back after you've fulfilled the requirements - $(red)Kill 10 pillagers$()."
@@ -12,10 +12,10 @@
 	},
 	"complete": {
 		"title": {
-			"text": "The Basic Skill"
+			"text": "First Assignment"
 		},
 		"description": {
-			"text": "Here, just open the book and learn the skill. If you want to get more skillbooks, I'd suggest doing some of the guard's request. Good luck on your journey."
+			"text": "Here, use these to get your first upgrade from the $(green)goddess statues$()! I would recommend talking to some of the guards here if you want to learn some new skills. Good luck on your journey."
 		}
 	},
 	"tasks": [{
@@ -24,9 +24,16 @@
 		"times": 10
 	}],
 	"rewards": [{
-		"command": "/give @p epicfight:skillbook{skill:\"epicfight:roll\"}",
-		"id": "quest_giver:command"
-	},
+		"item": {
+			"item": "paraglider:spirit_orb"
+		},
+		"id": "quest_giver:item",
+		"times": 4
+		},
+		{
+			"command": "/dc addWaypoint @p goblinsanddungeons:ruined_keep \"Main Quest - Goblin King's Keep\"",
+			"id": "quest_giver:command"
+		}, 
         {
           "command": "/loot give @p loot minecraft:guildmaster0",
           "id": "quest_giver:command"

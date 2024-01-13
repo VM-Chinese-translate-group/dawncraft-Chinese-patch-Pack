@@ -28,6 +28,10 @@
      }
   ],
   "rewards": [
+	{
+		"command": "/dc addWaypoint @p quest_giver:pillager_base \"Rescue Request - Pillager Base\"",
+		"id": "quest_giver:command"
+	}, 
     {
       "command": "/loot give @p loot minecraft:guard2",
       "id": "quest_giver:command"

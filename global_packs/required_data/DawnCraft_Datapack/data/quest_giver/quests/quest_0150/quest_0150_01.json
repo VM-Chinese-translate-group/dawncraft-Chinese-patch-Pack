@@ -1,0 +1,32 @@
+{
+	"parent": "quest_giver:root",
+	"reputation": 15,
+	"icon": "minecraft:iron_sword",
+	"start": {
+		"title": {
+			"text": "So?"
+		},
+		"description": {
+			"text": "I can teach you the skill - Ender Step for 30 emeralds. What do you say?"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "Thanks!"
+		},
+		"description": {
+			"text": "This is the skill passed down from the legendary beings - The Twins. You can find them in the end, or so I've heard..."
+		}
+	},
+	"tasks": [{
+		"item": {
+			"item": "minecraft:emerald"
+		},
+      "id": "quest_giver:gift",
+      "times": 30
+	}],
+	"rewards": [{
+		"command": "give @p epicfight:skillbook{skill:\"wom:ender_step\"}",
+		"id": "quest_giver:command"
+	}]
+}

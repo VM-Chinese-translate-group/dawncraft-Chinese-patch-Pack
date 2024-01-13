@@ -1,0 +1,44 @@
+{
+  "parent": "quest_giver:quest_0113_01b",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "Could you fetch me a piece of paper? I'll draw you a map."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Please go to this location and try to... extract the gems from the creature. Bring me the gems please. I'll make sure that it'll be worth your while."
+    }
+  },
+  "tasks": [
+     {
+      "item": {
+	 "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+     }
+  ],
+  "rewards": [
+    {
+      "command": "/dc addWaypoint @p custom:obsidian_spikes \"Investigate the Area the Weaponsmith Mentioned\"",
+      "id": "quest_giver:command"
+    },  
+    {
+      "command": "/loot give @p loot minecraft:weaponsmith1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p weaponsmith1 true",
+      "id": "quest_giver:command"
+    }
+  ]
+}

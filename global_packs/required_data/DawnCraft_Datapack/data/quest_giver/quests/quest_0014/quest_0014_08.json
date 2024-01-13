@@ -28,6 +28,10 @@
     }
   ],
   "rewards": [
+	{
+		"command": "/dc addWaypoint @p custom:giant_altar \"Main Quest - Fire Giant's Altar\"",
+		"id": "quest_giver:command"
+	},
     {
       "command": "/loot give @p loot minecraft:guildmaster6",
       "id": "quest_giver:command"

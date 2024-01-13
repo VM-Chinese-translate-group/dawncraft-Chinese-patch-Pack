@@ -285,6 +285,13 @@
 			}]
 		}
 		{
+			icon: {
+				id: "epicfight:uchigatana"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
 			x: -2.5d
 			y: -9.0d
 			shape: "square"
@@ -770,19 +777,9 @@
 					Count: 1b
 					tag: {
 						RepairCost: 1
-						CustomModelData: 1450300
-						affix_data: {
-							name: "{\"color\":\"#808080\",\"translate\":\"%s %s\",\"with\":[{\"translate\":\"affix.apotheosis:ironforged\"},\"\",\"\"]}"
-							affixes: {
-								"apotheosis:ironforged": 0.058177173f
-							}
-							rarity: "common"
-						}
-						HideFlags: 32
-						incendium: {
-							item: "necrotic_shield"
-						}
+						Damage: 0
 						BlockEntityTag: {
+							Base: 15
 							Patterns: [
 								{
 									Pattern: "rud"
@@ -809,22 +806,18 @@
 									Color: 15
 								}
 							]
-							Base: 15
 						}
-						display: {
-							Lore: [
-								"{\"italic\":true,\"color\":\"#884444\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Reacts to attacks with\",{\"translate\":\"incendium.item.necrotic_shield.desc1\"}]}"
-								"{\"italic\":true,\"color\":\"#884444\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"an explosion of death\",{\"translate\":\"incendium.item.necrotic_shield.desc2\"}]}"
-								"{\"text\":\"\"}"
-								"{\"italic\":true,\"color\":\"#FF8000\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Incendium\",{\"translate\":\"incendium\"}]}"
-							]
-							Name: "{\"italic\":false,\"color\":\"#993333\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Necrotic Shield\",{\"translate\":\"incendium.item.necrotic_shield.name\"}]}"
+						affix_data: {
+							name: "{\"color\":\"#808080\",\"translate\":\"%s %s\",\"with\":[{\"translate\":\"affix.apotheosis:ironforged\"},\"\",\"\"]}"
+							affixes: {
+								"apotheosis:ironforged": 0.058177173f
+							}
+							rarity: "common"
 						}
-						Damage: 0
+						HideFlags: 32
 						AttributeModifiers: [{
 							Amount: -0.029904954135417938d
-							Slot: "offhand"
-							AttributeName: "minecraft:generic.attack_damage"
+							Name: "weaken"
 							Operation: 1
 							UUID: [I;
 								112035901
@@ -832,8 +825,23 @@
 								-1220404660
 								-221377395
 							]
-							Name: "weaken"
+							AttributeName: "minecraft:generic.attack_damage"
+							Slot: "offhand"
 						}]
+						display: {
+							Name: "{\"italic\":false,\"color\":\"#993333\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Necrotic Shield\",{\"translate\":\"incendium.item.necrotic_shield.name\"}]}"
+							Lore: [
+								"{\"italic\":true,\"color\":\"#884444\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Reacts to attacks with\",{\"translate\":\"incendium.item.necrotic_shield.desc1\"}]}"
+								"{\"italic\":true,\"color\":\"#884444\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"an explosion of death\",{\"translate\":\"incendium.item.necrotic_shield.desc2\"}]}"
+								"{\"text\":\"\"}"
+								"{\"italic\":true,\"color\":\"#FF8000\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Incendium\",{\"translate\":\"incendium\"}]}"
+							]
+						}
+						CustomModelData: 1450300
+						incendium: {
+							item: "necrotic_shield"
+						}
+
 					}
 				}
 				advancement: "incendium:infernal_dunes/inferno/kill"

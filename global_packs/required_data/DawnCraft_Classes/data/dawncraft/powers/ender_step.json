@@ -1,0 +1,9 @@
+{
+   "type": "origins:action_on_callback",
+    "entity_action_gained": {
+        "type": "origins:execute_command",
+        "command": "/pickClass @p dawncraft:astrologer"
+    }, 	
+    "name": "Ender Step",
+    "description": "A fast teleport away from the danger. While executing this skill, the player becomes immune from most attacks."
+}

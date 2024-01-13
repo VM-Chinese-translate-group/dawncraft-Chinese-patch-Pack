@@ -25,7 +25,11 @@
     }
   ],
   "rewards": [
-   {
+    {
+      "command": "/dc addWaypoint @p custom:rootless \"Floating Palace\"",
+      "id": "quest_giver:command"
+    },  
+    {
       "command": "/loot give @p loot minecraft:hunter1",
       "id": "quest_giver:command"
     },

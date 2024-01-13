@@ -28,6 +28,10 @@
      }
   ],
   "rewards": [
+	{
+		"command": "/dc addWaypoint @p quest_giver:pillager_hideout \"Rescue Request - Pillager Hideout\"",
+		"id": "quest_giver:command"
+	}, 
     {
       "command": "/loot give @p loot minecraft:guard1",
       "id": "quest_giver:command"

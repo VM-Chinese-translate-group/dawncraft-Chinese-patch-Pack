@@ -28,6 +28,10 @@
      }
   ],
   "rewards": [
+	{
+		"command": "/dc addWaypoint @p custom:fallen_house \"Miner's Request - A Kindred Spirit\"",
+		"id": "quest_giver:command"
+	},  
     {
       "command": "/loot give @p loot minecraft:miner1",
       "id": "quest_giver:command"

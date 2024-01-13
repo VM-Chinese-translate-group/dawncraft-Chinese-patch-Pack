@@ -1,0 +1,19 @@
+{
+	"index": 1,
+	"health": 20,
+	"stamina": 28,
+	"starting_skills": [
+		"epicfight:roll",
+		"epicfight:berserker",
+		"epicfight:forbidden_strength"
+	],
+	"items": [
+		{
+			"id": "epicfight:stone_greatsword"
+		},
+		{
+			"id": "minecraft:bread",
+			"count": 6
+		}
+	]
+}

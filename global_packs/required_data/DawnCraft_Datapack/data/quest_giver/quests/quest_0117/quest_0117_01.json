@@ -7,7 +7,7 @@
       "text": "An Offer"
     },
     "description": {
-      "text": "25 Emeralds, and I'll teach you how to dual wield greatswords."
+      "text": "15 Emeralds, and I'll teach you how to use the skill Step."
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "Thanks!"
     },
     "description": {
-      "text": "Nice doing business with you. Be careful not to break your back though."
+      "text": "Here you go. I prefer using this to rolling around in the mud!"
     }
   },
   "tasks": [
@@ -24,12 +24,12 @@
 	 "item": "minecraft:emerald"
       },
       "id": "quest_giver:gift",
-      "amount": 25
+      "amount": 15
      }
   ],
   "rewards": [
     {
-      "command": "/give @p epicfight:skillbook{skill:\"epicfight:dualgreatsword\"}",
+      "command": "/give @p epicfight:skillbook{skill:\"epicfight:step\"}",
       "id": "quest_giver:command"
     }
   ]

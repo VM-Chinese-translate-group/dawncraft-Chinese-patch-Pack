@@ -29,6 +29,10 @@
   ],
   "rewards": [
     {
+      "command": "/dc addWaypoint @p custom:armorer_dungeon \"Armorer's Request\"",
+      "id": "quest_giver:command"
+    },  
+    {
       "command": "/loot give @p loot minecraft:armorer1",
       "id": "quest_giver:command"
     },

@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"dawncraft:roll",
+		"dawncraft:endurance"			
+	],
+	"icon": {
+        "item": "magistuarmory:jousting_chestplate"
+        },
+	"order": 10,
+	"impact": 2,
+	"name": "Tank",
+	"description": "High health and below-average stamina define the Tank class, built to endure relentless assaults. With a unique stun resistant skill, Tanks are unyielding protectors on the battlefield."
+}

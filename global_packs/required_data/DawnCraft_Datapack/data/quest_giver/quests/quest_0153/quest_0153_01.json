@@ -1,0 +1,32 @@
+{
+	"parent": "quest_giver:root",
+	"reputation": 15,
+	"icon": "minecraft:iron_sword",
+	"start": {
+		"title": {
+			"text": "So?"
+		},
+		"description": {
+			"text": "I can teach you the skill - Dancing Edge for 20 emeralds. Trust me, it's worth the price!"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "Thanks!"
+		},
+		"description": {
+			"text": "Great choice! Good luck on your journey."
+		}
+	},
+	"tasks": [{
+		"item": {
+			"item": "minecraft:emerald"
+		},
+      "id": "quest_giver:gift",
+      "times": 20
+	}],
+	"rewards": [{
+		"command": "give @p epicfight:skillbook{skill:\"wom:dancing_blade\"}",
+		"id": "quest_giver:command"
+	}]
+}

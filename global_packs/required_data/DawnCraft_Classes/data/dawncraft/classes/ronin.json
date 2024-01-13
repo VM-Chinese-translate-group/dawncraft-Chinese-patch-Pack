@@ -1,0 +1,23 @@
+{
+	"index": 6,
+	"health": 18,
+	"stamina": 28,
+	"starting_skills": [
+		"epicfight:roll",
+		"epicfight:guard",
+		"wom:pain_retribution"
+	],
+	"items": [
+		{
+			"id": "jet_and_elias_armors:outrider_set_helmet",
+			"slot": "head"
+		},
+		{
+			"id": "epicfight:uchigatana"
+		},
+		{
+			"id": "minecraft:bread",
+			"count": 6
+		}
+	]
+}

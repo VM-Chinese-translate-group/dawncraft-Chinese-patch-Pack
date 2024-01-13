@@ -1,0 +1,13 @@
+{
+  "replace": true,
+  "origins": [
+    "dawncraft:warrior",
+    "dawncraft:tank",
+    "dawncraft:brawler",
+    "dawncraft:ronin",
+    "dawncraft:berserker",
+    "dawncraft:lancer",
+    "dawncraft:astrologer",
+    "dawncraft:roamer"
+  ]
+}

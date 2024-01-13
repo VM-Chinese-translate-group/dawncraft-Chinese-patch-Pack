@@ -1,0 +1,9 @@
+{
+   "type": "origins:action_on_callback",
+    "entity_action_gained": {
+        "type": "origins:execute_command",
+        "command": "/pickClass @p dawncraft:roamer"
+    }, 	
+    "name": "Emergency Escape",
+    "description": "The ability to cancel your attacks by dodging. Allows dodging once when out of stamina."
+}

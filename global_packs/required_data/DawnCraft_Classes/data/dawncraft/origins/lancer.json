@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"dawncraft:step",
+		"dawncraft:revelation"	
+	],
+	"icon": {
+        "item": "scattered_weapons:fortunespear"
+        },
+	"order": 10,
+	"impact": 1,
+	"name": "Lancer",
+	"description": "Lancers, with average health and stamina, showcase precision and agility. They excel at exploiting enemy weak points and employ a swift dodge for nimble combat maneuvers."
+}

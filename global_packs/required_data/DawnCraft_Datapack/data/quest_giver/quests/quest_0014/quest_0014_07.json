@@ -28,6 +28,10 @@
     }
   ],
   "rewards": [
+	{
+		"command": "/dc addWaypoint @p custom:sentinel_tree \"Main Quest - Guardian Tree\"",
+		"id": "quest_giver:command"
+	},
     {
       "command": "/loot give @p loot minecraft:guildmaster5",
       "id": "quest_giver:command"

@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Blocks",
+            "color": "dark_purple",
+            "bold": true
+        },
+        "description": {
+            "text": "Walked a hundred blocks"
+        },
+        "icon": {
+            "item": "minecraft:poppy"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "Start": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "custom:root"
+}

@@ -29,6 +29,10 @@
   ],
   "rewards": [
     {
+      "command": "/dc addWaypoint @p custom:toolsmith_ruin \"Toolsmith's Request\"",
+      "id": "quest_giver:command"
+    },   
+    {
       "command": "/loot give @p loot minecraft:toolsmith1",
       "id": "quest_giver:command"
     },

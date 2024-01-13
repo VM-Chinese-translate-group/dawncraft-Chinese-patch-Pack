@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"dawncraft:roll",
+		"dawncraft:berserker",
+		"dawncraft:forbidden_strength"
+	],
+	"icon": {
+        "item": "epicfight:iron_greatsword"
+        },
+	"order": 10,
+	"impact": 1,
+	"name": "Berserker",
+	"description": "Relentless ferocity balanced with average health and above-average stamina. Berserkers excels in extended battles with their special skills tailored for prolonged combat."
+}

@@ -28,6 +28,10 @@
      }
   ],
   "rewards": [
+	{
+		"command": "/dc addWaypoint @p custom:wolf_hideout \"Miner's Request - Creature Extermination\"",
+		"id": "quest_giver:command"
+	},    
     {
       "command": "/loot give @p loot minecraft:miner2",
       "id": "quest_giver:command"

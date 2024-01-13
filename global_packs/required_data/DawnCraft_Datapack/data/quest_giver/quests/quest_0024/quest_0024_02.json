@@ -16,7 +16,7 @@
       "text": "Lost Child: Complete"
     },
     "description": {
-      "text": "You're a hero for what you did, adventurer. We will never forget what you've done for us. Here, I'll teach you a new combat skill - Berserker."
+      "text": "You're a hero for what you did, adventurer. We will never forget what you've done for us. Here, I'll teach you a new combat skill - Death Harvest."
     }
   },
   "tasks": [
@@ -27,7 +27,7 @@
   ],
   "rewards": [
     {
-      "command": "/give @p epicfight:skillbook{skill:\"epicfight:berserker\"}",
+      "command": "/give @p epicfight:skillbook{skill:\"epicfight:death_harvest\"}",
       "id": "quest_giver:command"
     }
   ]

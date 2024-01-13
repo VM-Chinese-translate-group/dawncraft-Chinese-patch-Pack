@@ -1,0 +1,26 @@
+{
+	"index": 2,
+	"health": 32,
+	"stamina": 20,
+	"starting_skills": [
+		"epicfight:roll",
+		"epicfight:endurance"
+	],
+	"items": [
+		{
+			"id": "minecraft:chainmail_chestplate",
+			"slot": "chest"
+		},
+		{
+			"id": "minecraft:shield",
+			"slot": "offhand"
+		},
+		{
+			"id": "magistuarmory:wood_morgenstern"
+		},
+		{
+			"id": "minecraft:bread",
+			"count": 6
+		}
+	]
+}

@@ -28,6 +28,10 @@
      }
   ],
   "rewards": [
+	{
+		"command": "/dc addWaypoint @p quest_giver:giant_hideout \"Extermination Request - The Giant\"",
+		"id": "quest_giver:command"
+	},  
     {
       "command": "/loot give @p loot minecraft:guard4",
       "id": "quest_giver:command"

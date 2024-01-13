@@ -26,11 +26,11 @@
 		"times": 1
 	}],
 	"rewards": [{
-			"command": "/effect give @e[type=quest_giver:quest_villager,nbt={VillagerData:{profession:\"morevillagers:enderian\"}},sort=nearest,limit=1] minecraft:invisibility 100 1 true",
+			"command": "/execute at @p run effect give @e[type=quest_giver:quest_villager,nbt={VillagerData:{profession:\"morevillagers:enderian\"}},sort=nearest,limit=1] minecraft:invisibility 100 1 true",
 			"id": "quest_giver:command"
 		},
 		{
-			"command": "/tag @e[type=minecraft:villager,nbt={VillagerData:{profession:\"morevillagers:enderian\"}},sort=nearest,limit=1] add it",
+			"command": "/execute at @p run tag @e[type=quest_giver:quest_villager,nbt={VillagerData:{profession:\"morevillagers:enderian\"}},sort=nearest,limit=1] add it",
 			"id": "quest_giver:command"
 		},
 		{
@@ -38,7 +38,7 @@
 			"id": "quest_giver:command"
 		},
 		{
-			"command": "/tp @e[type=minecraft:quest_giver:quest_villager,nbt={VillagerData:{profession:\"morevillagers:enderian\"}},sort=nearest,limit=1] ~ ~150 ~150",
+			"command": "/execute at @p run tp @e[type=quest_giver:quest_villager,nbt={VillagerData:{profession:\"morevillagers:enderian\"}},sort=nearest,limit=1] ~ ~150 ~150",
 			"id": "quest_giver:command"
 		},
 		{

@@ -7,7 +7,7 @@
 			"text": "So?"
 		},
 		"description": {
-			"text": "I can teach you the skill - Energizing Guard for 15 emeralds."
+			"text": "I can teach you the skill - Vampirize for 15 emeralds."
 		}
 	},
 	"complete": {
@@ -26,7 +26,7 @@
       "times": 15
 	}],
 	"rewards": [{
-		"command": "give @p epicfight:skillbook{skill:\"epicfight:energizing_guard\"}",
+		"command": "give @p epicfight:skillbook{skill:\"wom:vampirize\"}",
 		"id": "quest_giver:command"
 	}]
 }

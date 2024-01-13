@@ -15,7 +15,7 @@
 			"text": "Lost Child: Complete"
 		},
 		"description": {
-			"text": "Amazing! You've actually did it! To be honest I wasn't optimistic about the kid's survival... Here, I'll teach you a new skill - Swordmaster. It's the only way I could repay you."
+			"text": "Amazing! You've actually did it! To be honest I wasn't optimistic about the kid's survival... Here, I'll teach you a new skill - Meteor Slam. It's the only way I could repay you."
 		}
 	},
 	"tasks": [{
@@ -23,7 +23,7 @@
 		"structure": "#minecraft:village"
 	}],
 	"rewards": [{
-			"command": "/give @p epicfight:skillbook{skill:\"epicfight:swordmaster\"}",
+			"command": "/give @p epicfight:skillbook{skill:\"epicfight:meteor_slam\"}",
 			"id": "quest_giver:command"
 		},
 		{
