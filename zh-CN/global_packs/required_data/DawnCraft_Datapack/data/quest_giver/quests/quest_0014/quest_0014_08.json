@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/dc addWaypoint @p custom:giant_altar \"Main Quest - Fire Giant's Altar\"",
+      "command": "/dc addWaypoint @p custom:giant_altar \"主线任务 - 火焰巨人祭坛\"",
       "id": "quest_giver:command"
     },
     {
