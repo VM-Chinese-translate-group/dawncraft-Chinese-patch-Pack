@@ -7,12 +7,12 @@
       "text": "那么？"
     },
     "description": {
-      "text": "Did you get a piece of $(red)Mahogany Log$() yet?"
+      "text": "你拿到$(red)桃花心木原木$()了吗？"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感謝！"
     },
     "description": {
       "text": "谢谢。这是你的奖励。"
