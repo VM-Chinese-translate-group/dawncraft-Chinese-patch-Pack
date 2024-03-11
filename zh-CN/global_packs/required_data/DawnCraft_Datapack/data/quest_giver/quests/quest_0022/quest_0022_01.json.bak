@@ -1,0 +1,47 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 6,
+  "icon": "minecraft:log",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "Did you get a piece of $(red)Purple Archwood Log$() yet?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Thanks. Here's your reward."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "hexerei:mahogany_log"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+     }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    },
+    {
+      "command": "/addreputation reputation:villager @p 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/advancement grant @p only custom:trade_woodworker",
+      "id": "quest_giver:command"
+    }
+  ]
+}
