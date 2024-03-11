@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "An Impossible Task!"
+    },
+    "description": {
+      "text": "To obtain this weapon, you must first prove yourself by accomplishing two tasks: Complete a witch's quest in a witch's hut, and lure a pooka away from the rest and pacify it with golden carrots."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Excellent work! Here's the weapon. Despite its lightweight, it harbors considerable lethality."
+    }
+  },
+  "tasks": [
+    {
+		"id": "afptweaks:advancement",
+		"advancement": "habitat:husbandry/fae_whisperer"
+    },
+    {
+		"id": "afptweaks:advancement",
+		"advancement": "biomemakeover:biomemakeover/witch_quest"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "wom:satsujin"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

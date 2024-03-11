@@ -7,7 +7,7 @@
 			"text": "So?"
 		},
 		"description": {
-			"text": "I can teach you the skill - Heart Shield for 15 emeralds. What do you say?"
+			"text": "I can teach you the skill - Guard for 20 emeralds. What do you think?"
 		}
 	},
 	"complete": {
@@ -15,7 +15,7 @@
 			"text": "Thanks!"
 		},
 		"description": {
-			"text": "Here you go."
+			"text": "Pleasure's all mine."
 		}
 	},
 	"tasks": [{
@@ -23,10 +23,10 @@
 			"item": "minecraft:emerald"
 		},
       "id": "quest_giver:gift",
-      "times": 30
+      "times": 20
 	}],
 	"rewards": [{
-		"command": "give @p epicfight:skillbook{skill:\"wom:heart_shield\"}",
+		"command": "give @p epicfight:skillbook{skill:\"epicfight:guard\"}",
 		"id": "quest_giver:command"
 	}]
 }

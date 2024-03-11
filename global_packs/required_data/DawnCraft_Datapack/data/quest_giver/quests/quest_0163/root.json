@@ -1,0 +1,12 @@
+{
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "Hey there!"
+    },
+    "description": {
+      "text": "Hello adventurer. The legendary weapons Herrscher and Gesetz rest with me, awaiting a display of your worthiness before it can be bestowed upon you."
+    }
+  }
+}

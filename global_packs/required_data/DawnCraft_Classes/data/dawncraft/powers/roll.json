@@ -1,5 +1,0 @@
-{
-    "type": "origins:simple",	
-    "name": "Roll",
-    "description": "Roll in the direction you're moving. Evades all incoming attacks."
-}

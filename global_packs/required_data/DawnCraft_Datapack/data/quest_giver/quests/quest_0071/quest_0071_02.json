@@ -32,7 +32,7 @@
 		},
 		{
 			"item": {
-				"item": "ars_nouveau:source_gem"
+				"item": "irons_spellbooks:arcane_ingot"
 			},
 			"id": "quest_giver:item",
 			"times": 3

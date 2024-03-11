@@ -1,0 +1,12 @@
+{
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "Hey there!"
+    },
+    "description": {
+      "text": "The legendary weapon - Moonless, is mine to wield, but only after you've proven yourself worthy shall it be passed to you."
+    }
+  }
+}

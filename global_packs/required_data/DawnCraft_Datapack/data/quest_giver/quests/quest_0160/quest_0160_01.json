@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "An Impossible Task!"
+    },
+    "description": {
+      "text": "Before I entrust you with the ender blasters, you must accomplish two tasks to prove your worth: Extinguish a Pipelin Sentry from Nether's infernal dunes, and shear a fully mature mushroom colony. Keep in mind that you will need to develop rich soil in order to achieve that."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Congratulations! Here it is. This blaster delivers a powerful punch packed with a massive energy source."
+    }
+  },
+  "tasks": [
+    {
+		"id": "afptweaks:advancement",
+		"advancement": "incendium:infernal_dunes/pipeline/kill_sentry"
+    },
+    {
+		"id": "afptweaks:advancement",
+		"advancement": "farmersdelight:main/get_mushroom_colony"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "wom:ender_blaster"
+      },
+      "id": "quest_giver:item",
+      "times": 2
+    }
+  ]
+}

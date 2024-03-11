@@ -29,7 +29,7 @@
 			"item": {
 				"type": "minecraft:item_nbt",
 				"item": "minecraft:enchanted_book",
-				"nbt": "{Enchantments:[{id:mending,lvl:1}]}"
+				"nbt": "{StoredEnchantments:[{id:\"minecraft:mending\",lvl:1}]}"
 			},
 			"id": "quest_giver:item",
 			"times": 1

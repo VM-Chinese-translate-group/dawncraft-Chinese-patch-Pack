@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "An Impossible Task!"
+    },
+    "description": {
+      "text": "Complete two tasks as I demand, and only then shall I consider bestowing upon you the mighty Ruine. Receive a Tiger's Blessing after feeding it meats, and loot a Nether Reactor in Nether's toxic heap."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Excellent work! Here it is. Much knowledge is sealed within the blade's edge..."
+    }
+  },
+  "tasks": [
+    {
+		"id": "afptweaks:advancement",
+		"advancement": "alexsmobs:alexsmobs/tigers_blessing"
+    },
+    {
+		"id": "afptweaks:advancement",
+		"advancement": "incendium:toxic_heap/nuclear_fusion"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "wom:ruine"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

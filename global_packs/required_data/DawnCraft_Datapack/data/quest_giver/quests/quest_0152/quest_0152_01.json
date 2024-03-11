@@ -23,7 +23,7 @@
 			"item": "minecraft:emerald"
 		},
       "id": "quest_giver:gift",
-      "times": 15
+      "times": 30
 	}],
 	"rewards": [{
 		"command": "give @p epicfight:skillbook{skill:\"wom:arrow_tenacity\"}",

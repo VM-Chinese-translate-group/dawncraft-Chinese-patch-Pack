@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/give @p epicfight:skillbook{skill:\"epicfight:dual_greatsword\"}",
+      "command": "/give @p epicfight:skillbook{skill:\"efdg:dualgreatsword\"}",
       "id": "quest_giver:command"
     }
   ]

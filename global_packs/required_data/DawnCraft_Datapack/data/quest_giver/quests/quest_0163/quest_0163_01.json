@@ -1,0 +1,47 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "An Impossible Task!"
+    },
+    "description": {
+      "text": "To obtain this weapon, you must first prove yourself by accomplishing two tasks: Craft a Poltergeist block and capture a tiny bloviator in a bottle."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Great job! Here are the Gesetz and Herrscher. Infused with the might of the ocean, they possess unique synergistic abilities when wielded in tandem."
+    }
+  },
+  "tasks": [
+    {
+		"id": "afptweaks:advancement",
+		"advancement": "biomemakeover:biomemakeover/poltergeist"
+    },
+    {
+		"id": "afptweaks:advancement",
+		"advancement": "cloudstorage:cloudstorage/angry_cloud_in_a_bottle"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "wom:herrscher"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    },
+    {
+      "item": {
+        "item": "wom:gesetz"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

@@ -1,9 +1,0 @@
-{
-   "type": "origins:action_on_callback",
-    "entity_action_gained": {
-        "type": "origins:execute_command",
-        "command": "/pickClass @p dawncraft:tank"
-    }, 	
-    "name": "Endurance",
-    "description": "Gain a stun resistance for 12 seconds for the amount of stamina consumed when you're hit while you prepare for an attack. (Cooldown: 30/s)"
-}

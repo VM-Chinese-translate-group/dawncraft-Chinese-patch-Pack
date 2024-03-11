@@ -27,7 +27,11 @@
            "times": 1
     	  }
 	],
-	"rewards": [
+	"rewards": [    
+	{
+      "command": "/dc addWaypoint @p #custom:pillager_camp \"Main Quest - Pillager Camp\"",
+      "id": "quest_giver:command"
+    },
     {
       "command": "/loot give @p loot minecraft:pillager1",
       "id": "quest_giver:command"

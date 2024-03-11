@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "An Impossible Task!"
+    },
+    "description": {
+      "text": "Two tasks lie before you: Kill any creature from 100 blocks away with an eagle wearing a hood, and feed a pig a fermented spider eye then throw Chemical X at it. Fulfill them, and I shall contemplate entrusting you with Torment."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Thanks!"
+    },
+    "description": {
+      "text": "Well done! Here it is. Its former master was a fearsome piglin warrior."
+    }
+  },
+  "tasks": [
+    {
+		"id": "afptweaks:advancement",
+		"advancement": "alexsmobs:alexsmobs/bald_eagle_challenge"
+    },
+    {
+		"id": "afptweaks:advancement",
+		"advancement": "mutantmonsters:spider_pig_spider_pig"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "wom:tormented_mind"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "Hey there!"
+    },
+    "description": {
+      "text": "In my grasp lies the fabled blade - Agony. Yet, to wield its might, you must demonstrate your worthiness to me."
+    }
+  }
+}

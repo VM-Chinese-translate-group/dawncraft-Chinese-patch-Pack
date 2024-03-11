@@ -95,6 +95,7 @@
 	"item.dawncraft.rebirth_staff": "Staff of Rebirth",
 	"item.dawncraft.executioner": "The Executioner",
 	"item.dawncraft.slayers_blade": "Slayer's Blade",
+	"item.dawncraft.crystallized_xp": "Crystallized Experience",
 	
 	"map.dawncraft.cultist": "Suspicious Map",
 	"map.dawncraft.cultist.lore": "A map given by a fallen adventurer to locate a church.",
@@ -162,6 +163,8 @@
 	
 	"tooltip.dawncraft.executioner_0": "the mighty blade of a legendary king",
 	"tooltip.dawncraft.executioner_1": "Instantly kills mobs with less than 15% health",
+	
+	"tooltip.dawncraft.crystallized_xp": "Contains %1$s experience",
 	
 	"tile.dawncraft.chest_spawner": "Chest Spawner",
 	
