@@ -4,18 +4,18 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "An Impossible Task!"
+      "text": "一个不可能完成的任务！"
     },
     "description": {
-      "text": "I want you to complete 2 tasks: Receive a blessing from the noble sunbird, and to summon a mutant snow golem. Then I shall consider handing you Agony."
+      "text": "我希望你能完成两项任务：获得高贵的太阳鸟的祝福，然后召唤一个雪傀儡变异体。然后我就可以考虑把痛苦魔枪交给你。"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "感謝！"
     },
     "description": {
-      "text": "Remarkable! Take it. Its former bearer fell to ferocious beasts. May your fate diverge from his."
+      "text": "值得注意的是，它之前的主人落入了野兽之口。希望你不会落得那般下场。"
     }
   },
   "tasks": [
