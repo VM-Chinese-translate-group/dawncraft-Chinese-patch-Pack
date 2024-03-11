@@ -1,0 +1,12 @@
+{
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "Hey there!"
+    },
+    "description": {
+      "text": "Possessing the legendary weapon - Antitheus, it is my responsibility to pass it on to a warrior like yourself. However, I require proof of your worthiness before I can grant it to you."
+    }
+  }
+}
