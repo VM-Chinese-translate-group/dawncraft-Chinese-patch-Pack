@@ -3,10 +3,10 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "Hey there!"
+      "text": "你好！"
     },
     "description": {
-      "text": "I wield the legendary blade - Torment. Yet, to earn its allegiance, you must demonstrate your valor and worthiness."
+      "text": "我挥舞着传奇的剑——折磨者。然而，为了赢得它的认可，你必须展现出你的勇气和价值。"
     }
   }
 }
