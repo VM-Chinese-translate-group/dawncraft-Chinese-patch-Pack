@@ -6,7 +6,7 @@
     "item.libraryferret.diamond_coins_jtl": "钻石硬币",
     "gui.libraryferret.requiresave.message": "你想保存更改到配置文件吗？如果不，你的更改会在Minecraft退出后丢失。",
     "gui.libraryferret.props.title_value": "名字：%s",
-    "block.libraryferret.unbreakable_netherite_beacon": "Unbreakable Netherite Beacon",
+    "block.libraryferret.unbreakable_netherite_beacon": "不毁的下界合金信标",
     "gui.libraryferret.group.name.creative": "创造",
     "gui.libraryferret.props.name.boolean.creative.enable_item_group_ferret": "启用物品组",
     "gui.libraryferret.group.description.creative": "Creative mode option, disable item group..",
@@ -34,7 +34,7 @@
     "gui.libraryferret.true": "true",
     "block.libraryferret.fake_netherite_block": "Fake Netherite Block",
     "gui.libraryferret.group.name.g_r_o_u_p": "Block",
-    "block.libraryferret.fake_diamond_block": "Fake Diamond Block",
-    "item.libraryferret.netherite_coins_jtl": "Monster Coin",
-    "block.libraryferret.unbreakable_diamond_beacon": "Unbreakable Diamond Beacon"
+    "block.libraryferret.fake_diamond_block": "假钻石块",
+    "item.libraryferret.netherite_coins_jtl": "怪兽币",
+    "block.libraryferret.unbreakable_diamond_beacon": "不毁的钻石信标"
 }
