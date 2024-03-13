@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/dc addWaypoint @p custom:librarian_ruin \"图书管理员的请求\"",
+      "command": "/dc addWaypoint @p custom:librarian_ruin “图书管理员的请求”",
       "id": "quest_giver:command"
     },
     {
