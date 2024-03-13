@@ -1,0 +1,64 @@
+{
+	id: "26EE9B177AC3CF7E"
+	group: "1F30A450079557C6"
+	order_index: 2
+	filename: "monster_coins"
+	title: "{ftbquests.chapter.monster_coins.title}"
+	icon: "libraryferret:netherite_coins_jtl"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "{ftbquests.chapter.monster_coins.quests0.title}"
+			icon: "dannys_expansion:ice_chest"
+			x: -7.0d
+			y: -2.0d
+			can_repeat: true
+			id: "4873DF41F2864A04"
+			tasks: [
+				{
+					id: "0F1CFD398192AC8E"
+					type: "item"
+					item: "libraryferret:netherite_coins_jtl"
+					count: 5L
+					consume_items: true
+				}
+			]
+			rewards: [
+				{
+					id: "15F01BAF39B0D124"
+					type: "choice"
+					title: "{ftbquests.chapter.monster_coins.quests0.rewards0.title}"
+					exclude_from_claim_all: true
+					table_id: 412628549501852337L
+				}
+			]
+		}
+		{
+			title: "{ftbquests.chapter.monster_coins.quests1.title}"
+			icon: "quark:crimson_trapped_chest"
+			x: -4.5d
+			y: -2.0d
+			can_repeat: true
+			id: "0066B728B0D151D4"
+			tasks: [
+				{
+					id: "06F571FAE3BEB05F"
+					type: "item"
+					item: "libraryferret:netherite_coins_jtl"
+					count: 10L
+					consume_items: true
+				}
+			]
+			rewards: [
+				{
+					id: "0739A9641ED4C1A4"
+					type: "choice"
+					exclude_from_claim_all: true
+					table_id: 998556535538699697L
+				}
+			]
+		}
+	]
+	quest_links: [ ]
+}

@@ -1,251 +1,367 @@
 {
 	id: "7F8D9817A4A5C1AE"
-	group: ""
-	order_index: 8
+	group: "0A520B482648497B"
+	order_index: 6
 	filename: "reforging_and_socketing"
-	title: "{chapter.9.title}"
+	title: "{ftbquests.chapter.reforging_and_socketing.title}"
 	icon: "apotheosis:gem"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "{chapter.9.quest.1.title}"
+			title: "{ftbquests.chapter.reforging_and_socketing.quests0.title}"
 			icon: "apotheosis:gem"
 			x: 0.0d
 			y: 0.0d
-			description: ["{chapter.9.quest.1.description.1}"]
+			description: ["{ftbquests.chapter.reforging_and_socketing.quests0.description}"]
 			size: 2.0d
 			id: "2E51B03DF4811F84"
-			tasks: [{
-				id: "2993D7B3A7687926"
-				type: "checkmark"
-				title: "{chapter.9.quest.1.task.1.title}"
-			}]
-			rewards: [{
-				id: "6AC0B8DDA084A591"
-				type: "xp"
-				auto: "enabled"
-				xp: 1
-			}]
+			tasks: [
+				{
+					id: "2993D7B3A7687926"
+					type: "checkmark"
+					title: "{ftbquests.chapter.reforging_and_socketing.quests0.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "6AC0B8DDA084A591"
+					type: "xp"
+					auto: "enabled"
+					xp: 1
+				}
+			]
 		}
 		{
 			x: 0.0d
 			y: -2.0d
-			description: ["{chapter.9.quest.2.description.1}"]
+			description: ["{ftbquests.chapter.reforging_and_socketing.quests1.description}"]
 			dependencies: ["2E51B03DF4811F84"]
 			size: 1.5d
 			id: "12C0F6007CB35919"
-			tasks: [{
-				id: "05BD00D176F287FD"
-				type: "item"
-				item: "minecraft:smithing_table"
-			}]
-			rewards: [{
-				id: "510CA775E95F7CC5"
-				type: "item"
-				item: "minecraft:emerald"
-			}]
+			tasks: [
+				{
+					id: "05BD00D176F287FD"
+					type: "item"
+					item: "minecraft:smithing_table"
+				}
+			]
+			rewards: [
+				{
+					id: "510CA775E95F7CC5"
+					type: "item"
+					item: "minecraft:emerald"
+				}
+			]
 		}
 		{
 			x: 2.0d
 			y: 0.0d
-			description: ["{chapter.9.quest.3.description.1}"]
+			description: ["{ftbquests.chapter.reforging_and_socketing.quests2.description}"]
 			dependencies: ["2E51B03DF4811F84"]
 			size: 1.5d
 			id: "682B2B244574C666"
-			tasks: [{
-				id: "74A116EDF1FAFD4F"
-				type: "item"
-				item: "apotheosis:reforging_table"
-			}]
-			rewards: [{
-				id: "1AFEE7035150A752"
-				type: "item"
-				item: "minecraft:emerald"
-			}]
+			tasks: [
+				{
+					id: "74A116EDF1FAFD4F"
+					type: "item"
+					item: "apotheosis:reforging_table"
+				}
+			]
+			rewards: [
+				{
+					id: "1AFEE7035150A752"
+					type: "item"
+					item: "minecraft:emerald"
+				}
+			]
 		}
 		{
 			x: -2.0d
 			y: 0.0d
-			description: ["{chapter.9.quest.4.description.1}"]
+			description: ["{ftbquests.chapter.reforging_and_socketing.quests3.description}"]
 			dependencies: ["2E51B03DF4811F84"]
 			size: 1.5d
 			id: "719B2897D9858A1F"
-			tasks: [{
-				id: "52813161EBA7BB86"
-				type: "item"
-				item: "apotheosis:salvaging_table"
-			}]
-			rewards: [{
-				id: "7CDA8FDC8F6FFADF"
-				type: "item"
-				item: "minecraft:emerald"
-			}]
+			tasks: [
+				{
+					id: "52813161EBA7BB86"
+					type: "item"
+					item: "apotheosis:salvaging_table"
+				}
+			]
+			rewards: [
+				{
+					id: "7CDA8FDC8F6FFADF"
+					type: "item"
+					item: "minecraft:emerald"
+				}
+			]
 		}
 		{
 			x: 0.0d
 			y: 2.0d
-			description: ["{chapter.9.quest.5.description.1}"]
+			description: [
+				"{ftbquests.chapter.reforging_and_socketing.quests4.description0}"
+				"{ftbquests.chapter.reforging_and_socketing.quests4.description1}"
+			]
 			dependencies: ["2E51B03DF4811F84"]
 			id: "22978B8A8D62A2A6"
-			tasks: [{
-				id: "3A7A389A9EBD4AA0"
-				type: "item"
-				item: "apotheosis:sigil_of_socketing"
-			}]
-			rewards: [{
-				id: "49AF0E101D95BC61"
-				type: "item"
-				item: "minecraft:emerald"
-			}]
+			tasks: [
+				{
+					id: "3A7A389A9EBD4AA0"
+					type: "item"
+					item: "apotheosis:sigil_of_socketing"
+				}
+			]
+			rewards: [
+				{
+					id: "49AF0E101D95BC61"
+					type: "item"
+					item: "minecraft:emerald"
+				}
+			]
 		}
 		{
 			x: 0.0d
 			y: 3.5d
-			description: ["{chapter.9.quest.6.description.1}"]
+			description: [
+				"{ftbquests.chapter.reforging_and_socketing.quests5.description0}"
+				"{ftbquests.chapter.reforging_and_socketing.quests5.description1}"
+			]
 			dependencies: ["22978B8A8D62A2A6"]
 			id: "54D504E6734D9B70"
-			tasks: [{
-				id: "2E02FAD0AD62647B"
-				type: "item"
-				item: "apotheosis:superior_sigil_of_socketing"
-			}]
-			rewards: [{
-				id: "6192ADA58D23484C"
-				type: "item"
-				item: "minecraft:emerald"
-			}]
+			tasks: [
+				{
+					id: "2E02FAD0AD62647B"
+					type: "item"
+					item: "apotheosis:superior_sigil_of_socketing"
+				}
+			]
+			rewards: [
+				{
+					id: "6192ADA58D23484C"
+					type: "item"
+					item: "minecraft:emerald"
+				}
+			]
 		}
 		{
 			x: 3.5d
 			y: 0.0d
-			description: ["{chapter.9.quest.7.description.1}"]
+			description: ["{ftbquests.chapter.reforging_and_socketing.quests6.description}"]
 			dependencies: ["682B2B244574C666"]
 			id: "2CCE38B89AB683B8"
-			tasks: [{
-				id: "3DC6710BD468209A"
-				type: "item"
-				item: "apotheosis:gem_dust"
-			}]
-			rewards: [{
-				id: "1D98087FDB4988BC"
-				type: "item"
-				item: "minecraft:emerald"
-			}]
+			tasks: [
+				{
+					id: "3DC6710BD468209A"
+					type: "item"
+					item: "apotheosis:gem_dust"
+				}
+			]
+			rewards: [
+				{
+					id: "1D98087FDB4988BC"
+					type: "item"
+					item: "minecraft:emerald"
+				}
+			]
 		}
 		{
 			x: -3.5d
 			y: 0.0d
 			dependencies: ["719B2897D9858A1F"]
 			id: "3E0F33C5ABF2ECE8"
-			tasks: [{
-				id: "2C1615B13AE0AD04"
-				type: "item"
-				item: "apotheosis:common_material"
-			}]
-			rewards: [{
-				id: "1A86A91D92E2659C"
-				type: "xp"
-				xp: 5
-			}]
+			tasks: [
+				{
+					id: "2C1615B13AE0AD04"
+					type: "item"
+					item: "apotheosis:common_material"
+				}
+			]
+			rewards: [
+				{
+					id: "1A86A91D92E2659C"
+					type: "xp"
+					xp: 5
+				}
+			]
 		}
 		{
 			x: -4.5d
 			y: 0.0d
 			dependencies: ["3E0F33C5ABF2ECE8"]
 			id: "125B4FADD8BA4CAD"
-			tasks: [{
-				id: "1520900CFAD2F170"
-				type: "item"
-				item: "apotheosis:uncommon_material"
-			}]
-			rewards: [{
-				id: "3FE60FF5694FBFDF"
-				type: "xp"
-				xp: 5
-			}]
+			tasks: [
+				{
+					id: "1520900CFAD2F170"
+					type: "item"
+					item: "apotheosis:uncommon_material"
+				}
+			]
+			rewards: [
+				{
+					id: "3FE60FF5694FBFDF"
+					type: "xp"
+					xp: 5
+				}
+			]
 		}
 		{
 			x: -5.5d
 			y: 0.0d
 			dependencies: ["125B4FADD8BA4CAD"]
 			id: "4C4998B8BC343DC9"
-			tasks: [{
-				id: "2EADA33D95550D5E"
-				type: "item"
-				item: "apotheosis:rare_material"
-			}]
-			rewards: [{
-				id: "16A18EEFF93EDF78"
-				type: "xp"
-				xp: 5
-			}]
+			tasks: [
+				{
+					id: "2EADA33D95550D5E"
+					type: "item"
+					item: "apotheosis:rare_material"
+				}
+			]
+			rewards: [
+				{
+					id: "16A18EEFF93EDF78"
+					type: "xp"
+					xp: 5
+				}
+			]
 		}
 		{
 			x: -6.5d
 			y: 0.0d
 			dependencies: ["4C4998B8BC343DC9"]
 			id: "2F07E8985E2204DB"
-			tasks: [{
-				id: "12B6867239E76D6B"
-				type: "item"
-				item: "apotheosis:epic_material"
-			}]
-			rewards: [{
-				id: "290E16E14A765F9C"
-				type: "xp"
-				xp: 5
-			}]
+			tasks: [
+				{
+					id: "12B6867239E76D6B"
+					type: "item"
+					item: "apotheosis:epic_material"
+				}
+			]
+			rewards: [
+				{
+					id: "290E16E14A765F9C"
+					type: "xp"
+					xp: 5
+				}
+			]
 		}
 		{
 			x: -7.5d
 			y: 0.0d
 			dependencies: ["2F07E8985E2204DB"]
 			id: "607EDB2F3E7EE94E"
-			tasks: [{
-				id: "7933064576FA5ECB"
-				type: "item"
-				item: "apotheosis:mythic_material"
-			}]
-			rewards: [{
-				id: "41416CA43B08A12C"
-				type: "item"
-				item: "plushies:warden"
-			}]
+			tasks: [
+				{
+					id: "7933064576FA5ECB"
+					type: "item"
+					item: "apotheosis:mythic_material"
+				}
+			]
+			rewards: [
+				{
+					id: "41416CA43B08A12C"
+					type: "item"
+					item: "plushies:warden"
+				}
+			]
 		}
 		{
 			x: -1.0d
 			y: -3.5d
-			description: ["{chapter.9.quest.13.description.1}"]
+			description: ["{ftbquests.chapter.reforging_and_socketing.quests12.description}"]
 			dependencies: ["12C0F6007CB35919"]
 			id: "0036F6587BAA1FA6"
-			tasks: [{
-				id: "4A8C71967AD1D4A5"
-				type: "item"
-				item: "apotheosis:vial_of_extraction"
-			}]
-			rewards: [{
-				id: "6AAD81F19C63CE57"
-				type: "item"
-				item: "minecraft:emerald"
-			}]
+			tasks: [
+				{
+					id: "4A8C71967AD1D4A5"
+					type: "item"
+					item: "apotheosis:vial_of_extraction"
+				}
+			]
+			rewards: [
+				{
+					id: "6AAD81F19C63CE57"
+					type: "item"
+					item: "minecraft:emerald"
+				}
+			]
 		}
 		{
 			x: 1.0d
 			y: -3.5d
-			description: ["{chapter.9.quest.14.description.1}"]
+			description: ["{ftbquests.chapter.reforging_and_socketing.quests13.description}"]
 			dependencies: ["12C0F6007CB35919"]
 			id: "653AFC11D8BA880E"
-			tasks: [{
-				id: "696A798201736794"
-				type: "item"
-				item: "apotheosis:vial_of_expulsion"
-			}]
-			rewards: [{
-				id: "0C9AA2DFA7EBE4F3"
-				type: "item"
-				item: "minecraft:emerald"
-			}]
+			tasks: [
+				{
+					id: "696A798201736794"
+					type: "item"
+					item: "apotheosis:vial_of_expulsion"
+				}
+			]
+			rewards: [
+				{
+					id: "0C9AA2DFA7EBE4F3"
+					type: "item"
+					item: "minecraft:emerald"
+				}
+			]
+		}
+		{
+			title: "{ftbquests.chapter.reforging_and_socketing.quests14.title}"
+			x: -7.0d
+			y: 2.1d
+			description: ["{ftbquests.chapter.reforging_and_socketing.quests14.description}"]
+			hide_dependency_lines: true
+			dependencies: ["2E51B03DF4811F84"]
+			size: 1.4d
+			id: "188EB7B36A79592B"
+			tasks: [
+				{
+					id: "57D014107A8D7499"
+					type: "item"
+					title: "{ftbquests.chapter.reforging_and_socketing.quests14.tasks0.title}"
+					item: "minecraft:brewing_stand"
+					consume_items: false
+					match_nbt: false
+				}
+			]
+		}
+		{
+			title: "{ftbquests.chapter.reforging_and_socketing.quests15.title}"
+			icon: {
+				id: "apotheosis:potion_charm"
+				Count: 1b
+				tag: {
+					Damage: 0
+					Potion: "minecraft:leaping"
+				}
+			}
+			x: -5.0d
+			y: 2.0d
+			description: [
+				"{ftbquests.chapter.reforging_and_socketing.quests15.description0}"
+				"{ftbquests.chapter.reforging_and_socketing.quests15.description1}"
+				"{ftbquests.chapter.reforging_and_socketing.quests15.description2}"
+			]
+			dependencies: ["188EB7B36A79592B"]
+			id: "1DCFE07555CD7B60"
+			tasks: [
+				{
+					id: "6CA0CFF4D1C04472"
+					type: "checkmark"
+					title: "{ftbquests.chapter.reforging_and_socketing.quests15.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "2FFCD351BCA58063"
+					type: "item"
+					item: "plushies:sheep"
+				}
+			]
 		}
 	]
 	quest_links: [ ]

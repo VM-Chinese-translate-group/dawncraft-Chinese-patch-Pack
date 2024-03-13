@@ -1,108 +1,127 @@
 {
 	id: "1A7295F32C7D70EA"
-	group: ""
-	order_index: 6
+	group: "0A520B482648497B"
+	order_index: 4
 	filename: "exploration"
-	title: "{chapter.7.title}"
+	title: "{ftbquests.chapter.exploration.title}"
 	icon: "supplementaries:globe"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "{chapter.7.quest.1.title}"
+			title: "{ftbquests.chapter.exploration.quests0.title}"
 			icon: "minecraft:grass_block"
 			x: 0.0d
 			y: -4.0d
-			description: ["{chapter.7.quest.1.description.1}"]
+			description: ["{ftbquests.chapter.exploration.quests0.description}"]
 			size: 2.0d
 			id: "26B0E9F636E0AB36"
-			tasks: [{
-				id: "53A579D6FE317288"
-				type: "checkmark"
-				title: "{chapter.7.quest.1.task.1.title}"
-			}]
-			rewards: [{
-				id: "26B60CBC196BB852"
-				type: "xp"
-				xp: 1
-			}]
+			tasks: [
+				{
+					id: "53A579D6FE317288"
+					type: "checkmark"
+					title: "{ftbquests.chapter.exploration.quests0.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "26B60CBC196BB852"
+					type: "xp"
+					xp: 1
+				}
+			]
 		}
 		{
-			title: "{chapter.7.quest.2.title}"
+			title: "{ftbquests.chapter.exploration.quests1.title}"
 			icon: "minecraft:nether_wart_block"
 			x: 4.5d
 			y: -4.0d
-			description: ["{chapter.7.quest.2.description.1}"]
+			description: ["{ftbquests.chapter.exploration.quests1.description}"]
 			size: 2.0d
 			id: "697846FDD5008134"
-			tasks: [{
-				id: "675BDFC245723D63"
-				type: "checkmark"
-				title: "{chapter.7.quest.2.task.1.title}"
-			}]
-			rewards: [{
-				id: "530A2D340C3DFEFB"
-				type: "xp"
-				auto: "enabled"
-				xp: 1
-			}]
+			tasks: [
+				{
+					id: "675BDFC245723D63"
+					type: "checkmark"
+					title: "{ftbquests.chapter.exploration.quests1.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "530A2D340C3DFEFB"
+					type: "xp"
+					auto: "enabled"
+					xp: 1
+				}
+			]
 		}
 		{
-			title: "{chapter.7.quest.3.title}"
+			title: "{ftbquests.chapter.exploration.quests2.title}"
 			icon: "blue_skies:turquoise_cobblestone"
 			x: 9.0d
 			y: -4.0d
-			description: ["{chapter.7.quest.3.description.1}"]
+			description: ["{ftbquests.chapter.exploration.quests2.description}"]
 			size: 2.0d
 			id: "278CAD60E4CC5A79"
-			tasks: [{
-				id: "369AD0EBD1632751"
-				type: "checkmark"
-				title: "{chapter.7.quest.3.task.1.title}"
-			}]
-			rewards: [{
-				id: "28C80E50688DB642"
-				type: "xp"
-				xp: 1
-			}]
+			tasks: [
+				{
+					id: "369AD0EBD1632751"
+					type: "checkmark"
+					title: "{ftbquests.chapter.exploration.quests2.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "28C80E50688DB642"
+					type: "xp"
+					xp: 1
+				}
+			]
 		}
 		{
-			title: "{chapter.7.quest.4.title}"
+			title: "{ftbquests.chapter.exploration.quests3.title}"
 			icon: "blue_skies:lunar_cobblestone"
 			x: 14.0d
 			y: -4.0d
-			description: ["{chapter.7.quest.4.description.1}"]
+			description: ["{ftbquests.chapter.exploration.quests3.description}"]
 			size: 2.0d
 			id: "1453090ED20C0271"
-			tasks: [{
-				id: "49E9F06E0F60FE9C"
-				type: "checkmark"
-				title: "{chapter.7.quest.4.task.1.title}"
-			}]
-			rewards: [{
-				id: "4C0727FAE6CD0011"
-				type: "xp"
-				xp: 1
-			}]
+			tasks: [
+				{
+					id: "49E9F06E0F60FE9C"
+					type: "checkmark"
+					title: "{ftbquests.chapter.exploration.quests3.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "4C0727FAE6CD0011"
+					type: "xp"
+					xp: 1
+				}
+			]
 		}
 		{
-			title: "{chapter.7.quest.5.title}"
+			title: "{ftbquests.chapter.exploration.quests4.title}"
 			icon: "minecraft:end_stone"
 			x: 19.0d
 			y: -4.0d
-			description: ["{chapter.7.quest.5.description.1}"]
+			description: [
+				"{ftbquests.chapter.exploration.quests4.description0}"
+				"{ftbquests.chapter.exploration.quests4.description1}"
+			]
 			size: 2.0d
 			id: "57EDE0CC1790AEBD"
 			tasks: [
 				{
 					id: "0345F1E8C53FAB99"
 					type: "checkmark"
-					title: "{chapter.7.quest.5.task.1.title}"
+					title: "{ftbquests.chapter.exploration.quests4.tasks0.title}"
 				}
 				{
 					id: "091E1B3C99615A7D"
 					type: "gamestage"
-					title: "{chapter.7.quest.5.task.2.title}"
+					title: "{ftbquests.chapter.exploration.quests4.tasks1.title}"
 					icon: {
 						id: "minecraft:crossbow"
 						Count: 1b
@@ -113,12 +132,14 @@
 					stage: "guildmaster2"
 				}
 			]
-			rewards: [{
-				id: "367A62F3516B7495"
-				type: "xp"
-				auto: "enabled"
-				xp: 1
-			}]
+			rewards: [
+				{
+					id: "367A62F3516B7495"
+					type: "xp"
+					auto: "enabled"
+					xp: 1
+				}
+			]
 		}
 		{
 			x: 10.5d
@@ -126,24 +147,26 @@
 			dependencies: ["278CAD60E4CC5A79"]
 			size: 1.3d
 			id: "757077E8AFBC40A2"
-			tasks: [{
-				id: "4AEDED909791CCF9"
-				type: "item"
-				item: {
-					id: "blue_skies:everbright_portal"
-					Count: 1b
-					tag: {
-						display: {
-							Name: "{\"text\":\"§bEverbright Portal\"}"
-							Lore: [
-								"{\"text\":\"Creates a lit Everbright portal.\"}"
-								"{\"text\":\"Requires the same space as a\"}"
-								"{\"text\":\"Nether Portal\"}"
-							]
+			tasks: [
+				{
+					id: "4AEDED909791CCF9"
+					type: "item"
+					item: {
+						id: "blue_skies:everbright_portal"
+						Count: 1b
+						tag: {
+							display: {
+								Name: "{\"text\":\"§bEverbright Portal\"}"
+								Lore: [
+									"{\"text\":\"Creates a lit Everbright portal.\"}"
+									"{\"text\":\"Requires the same space as a\"}"
+									"{\"text\":\"Nether Portal\"}"
+								]
+							}
 						}
 					}
 				}
-			}]
+			]
 		}
 		{
 			x: 12.5d
@@ -151,431 +174,500 @@
 			dependencies: ["1453090ED20C0271"]
 			size: 1.3d
 			id: "23235D3C0E6F9435"
-			tasks: [{
-				id: "4B40BE7DAD113655"
-				type: "item"
-				item: {
-					id: "blue_skies:everdawn_portal"
-					Count: 1b
-					tag: {
-						display: {
-							Name: "{\"text\":\"§bEverdawn Portal\"}"
-							Lore: [
-								"{\"text\":\"Creates a lit EverDawn portal.\"}"
-								"{\"text\":\"Requires the same space as a\"}"
-								"{\"text\":\"Nether Portal\"}"
-							]
+			tasks: [
+				{
+					id: "4B40BE7DAD113655"
+					type: "item"
+					item: {
+						id: "blue_skies:everdawn_portal"
+						Count: 1b
+						tag: {
+							display: {
+								Name: "{\"text\":\"§bEverdawn Portal\"}"
+								Lore: [
+									"{\"text\":\"Creates a lit EverDawn portal.\"}"
+									"{\"text\":\"Requires the same space as a\"}"
+									"{\"text\":\"Nether Portal\"}"
+								]
+							}
 						}
 					}
 				}
-			}]
+			]
 		}
 		{
 			x: 17.5d
 			y: -2.0d
-			description: ["{chapter.7.quest.8.description.1}"]
+			description: [
+				""
+				"{ftbquests.chapter.exploration.quests7.description1}"
+			]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "2AE188E073009A12"
-			tasks: [{
-				id: "233E97A6EE80CFF0"
-				type: "item"
-				item: {
-					id: "endrem:lost_eye"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "233E97A6EE80CFF0"
+					type: "item"
+					item: {
+						id: "endrem:lost_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "1FC729F5FD4C7A15"
-				type: "item"
-				item: "minecraft:emerald"
-				count: 3
-			}]
+			]
+			rewards: [
+				{
+					id: "1FC729F5FD4C7A15"
+					type: "item"
+					item: "minecraft:emerald"
+					count: 3
+				}
+			]
 		}
 		{
 			x: 17.5d
 			y: -1.0d
-			description: ["{chapter.7.quest.9.description.1}"]
+			description: ["{ftbquests.chapter.exploration.quests8.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "27E0894F6EC59E41"
-			tasks: [{
-				id: "6426AEB8DE5AED08"
-				type: "item"
-				item: {
-					id: "endrem:rogue_eye"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "6426AEB8DE5AED08"
+					type: "item"
+					item: {
+						id: "endrem:rogue_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "2812DED3760567C7"
-				type: "item"
-				item: "minecraft:emerald"
-				count: 2
-			}]
+			]
+			rewards: [
+				{
+					id: "2812DED3760567C7"
+					type: "item"
+					item: "minecraft:emerald"
+					count: 2
+				}
+			]
 		}
 		{
 			x: 17.5d
 			y: 0.0d
-			description: ["{chapter.7.quest.10.description.1}"]
+			description: ["{ftbquests.chapter.exploration.quests9.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "1DE383D583863F67"
-			tasks: [{
-				id: "3B6E4E07EE7DCDAD"
-				type: "item"
-				item: {
-					id: "endrem:exotic_eye"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "3B6E4E07EE7DCDAD"
+					type: "item"
+					item: {
+						id: "endrem:exotic_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "47E8CAD14A50C427"
-				type: "item"
-				item: "minecraft:emerald"
-				count: 2
-			}]
+			]
+			rewards: [
+				{
+					id: "47E8CAD14A50C427"
+					type: "item"
+					item: "minecraft:emerald"
+					count: 2
+				}
+			]
 		}
 		{
 			x: 17.5d
 			y: 1.0d
-			description: ["{chapter.7.quest.11.description.1}"]
+			description: ["{ftbquests.chapter.exploration.quests10.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "1A00AA6649D04596"
-			tasks: [{
-				id: "0B86E97E8181301A"
-				type: "item"
-				item: {
-					id: "endrem:magical_eye"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "0B86E97E8181301A"
+					type: "item"
+					item: {
+						id: "endrem:magical_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "66FA5E21B84DA347"
-				type: "item"
-				item: "minecraft:emerald"
-				count: 2
-			}]
+			]
+			rewards: [
+				{
+					id: "66FA5E21B84DA347"
+					type: "item"
+					item: "minecraft:emerald"
+					count: 2
+				}
+			]
 		}
 		{
 			x: 19.0d
 			y: -2.0d
-			description: ["{chapter.7.quest.12.description.1}"]
+			description: ["{ftbquests.chapter.exploration.quests11.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "2124AE11DC610CC1"
-			tasks: [{
-				id: "2F546B6C8AF7668D"
-				type: "item"
-				item: {
-					id: "endrem:guardian_eye"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "2F546B6C8AF7668D"
+					type: "item"
+					item: {
+						id: "endrem:guardian_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "6F70C52B430C020D"
-				type: "item"
-				item: "minecraft:emerald"
-				count: 4
-			}]
+			]
+			rewards: [
+				{
+					id: "6F70C52B430C020D"
+					type: "item"
+					item: "minecraft:emerald"
+					count: 4
+				}
+			]
 		}
 		{
 			x: 19.0d
 			y: -1.0d
-			description: ["{chapter.7.quest.13.description.1}"]
+			description: ["{ftbquests.chapter.exploration.quests12.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "0B132D9B1280D572"
-			tasks: [{
-				id: "24C55007E03F6501"
-				type: "item"
-				item: {
-					id: "endrem:corrupted_eye"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "24C55007E03F6501"
+					type: "item"
+					item: {
+						id: "endrem:corrupted_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "200E3FB05E6462CA"
-				type: "item"
-				item: "minecraft:emerald"
-				count: 5
-			}]
+			]
+			rewards: [
+				{
+					id: "200E3FB05E6462CA"
+					type: "item"
+					item: "minecraft:emerald"
+					count: 5
+				}
+			]
 		}
 		{
 			x: 19.0d
 			y: 0.0d
-			description: ["{chapter.7.quest.14.description.1}"]
+			description: ["{ftbquests.chapter.exploration.quests13.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "2813959518A55FA9"
-			tasks: [{
-				id: "2C06B3A8252AD155"
-				type: "item"
-				item: {
-					id: "endrem:wither_eye"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "2C06B3A8252AD155"
+					type: "item"
+					item: {
+						id: "endrem:wither_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "688BD567F1B3BAFD"
-				type: "item"
-				item: {
-					id: "minecraft:potion"
-					Count: 1b
-					tag: {
-						Potion: "simple_mobs:withering_iii"
+			]
+			rewards: [
+				{
+					id: "688BD567F1B3BAFD"
+					type: "item"
+					item: {
+						id: "minecraft:potion"
+						Count: 1b
+						tag: {
+							Potion: "simple_mobs:withering_iii"
+						}
 					}
 				}
-			}]
+			]
 		}
 		{
 			x: 19.0d
 			y: 1.0d
-			description: ["{chapter.7.quest.15.description.1}"]
+			description: ["{ftbquests.chapter.exploration.quests14.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "05624949F0147925"
-			tasks: [{
-				id: "1DA641E7DEBD6561"
-				type: "item"
-				item: {
-					id: "endrem:cold_eye"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "1DA641E7DEBD6561"
+					type: "item"
+					item: {
+						id: "endrem:cold_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "14D5D876F338053A"
-				type: "item"
-				item: "simple_mobs:ice_dragon_essence"
-			}]
+			]
+			rewards: [
+				{
+					id: "14D5D876F338053A"
+					type: "item"
+					item: "simple_mobs:ice_dragon_essence"
+				}
+			]
 		}
 		{
 			x: 20.5d
 			y: -2.0d
-			description: ["{chapter.7.quest.16.description.1}"]
+			description: ["{ftbquests.chapter.exploration.quests15.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "2ED8F709AB0A1E66"
-			tasks: [{
-				id: "43485DC462973739"
-				type: "item"
-				item: {
-					id: "endrem:witch_eye"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "43485DC462973739"
+					type: "item"
+					item: {
+						id: "endrem:witch_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "7A4CD08B48D8FA71"
-				type: "item"
-				item: {
-					id: "biomemakeover:witch_hat"
-					Count: 1b
-					tag: {
-						Damage: 0
+			]
+			rewards: [
+				{
+					id: "7A4CD08B48D8FA71"
+					type: "item"
+					item: {
+						id: "biomemakeover:witch_hat"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
+			]
 		}
 		{
 			x: 20.5d
 			y: -1.0d
-			description: ["{chapter.7.quest.17.description.1}"]
+			description: ["{ftbquests.chapter.exploration.quests16.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "2974355CE2A6BE98"
-			tasks: [{
-				id: "4678E42033FC2EAB"
-				type: "item"
-				item: {
-					id: "endrem:undead_eye"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "4678E42033FC2EAB"
+					type: "item"
+					item: {
+						id: "endrem:undead_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "7932729BEF07A84C"
-				type: "item"
-				item: "minecraft:soul_torch"
-				count: 16
-			}]
+			]
+			rewards: [
+				{
+					id: "7932729BEF07A84C"
+					type: "item"
+					item: "minecraft:soul_torch"
+					count: 16
+				}
+			]
 		}
 		{
 			x: 20.5d
 			y: 0.0d
-			description: ["{chapter.7.quest.18.description.1}"]
+			description: ["{ftbquests.chapter.exploration.quests17.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "2F938B98834890FF"
-			tasks: [{
-				id: "37ABC69EFC7E5276"
-				type: "item"
-				item: {
-					id: "endrem:evil_eye"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "37ABC69EFC7E5276"
+					type: "item"
+					item: {
+						id: "endrem:evil_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "4ECDB4D3583690F0"
-				type: "item"
-				item: {
-					id: "minecraft:splash_potion"
-					Count: 1b
-					tag: {
-						Potion: "minecraft:strong_healing"
+			]
+			rewards: [
+				{
+					id: "4ECDB4D3583690F0"
+					type: "item"
+					item: {
+						id: "minecraft:splash_potion"
+						Count: 1b
+						tag: {
+							Potion: "minecraft:strong_healing"
+						}
 					}
+					count: 2
 				}
-				count: 2
-			}]
+			]
 		}
 		{
 			x: 20.5d
 			y: 1.0d
-			description: ["{chapter.7.quest.19.description.1}"]
+			description: ["{ftbquests.chapter.exploration.quests18.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "01521D24D1CA17D0"
-			tasks: [{
-				id: "4909E474B56A85F0"
-				type: "item"
-				item: {
-					id: "endrem:nether_eye"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "4909E474B56A85F0"
+					type: "item"
+					item: {
+						id: "endrem:nether_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "33D1FC59F1127061"
-				type: "item"
-				item: "difficultraids:fireball_totem"
-			}]
+			]
+			rewards: [
+				{
+					id: "33D1FC59F1127061"
+					type: "item"
+					item: "difficultraids:fireball_totem"
+				}
+			]
 		}
 		{
 			x: 17.5d
 			y: 2.0d
-			description: ["{chapter.7.quest.20.description.1}"]
+			description: ["{ftbquests.chapter.exploration.quests19.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "7E38E271D8341C63"
-			tasks: [{
-				id: "276536BAFE417178"
-				type: "item"
-				item: {
-					id: "endrem:old_eye"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "276536BAFE417178"
+					type: "item"
+					item: {
+						id: "endrem:old_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "5793883CD2A789FB"
-				type: "item"
-				item: "dannys_expansion:sandy_clothes"
-			}]
+			]
+			rewards: [
+				{
+					id: "5793883CD2A789FB"
+					type: "item"
+					item: "dannys_expansion:sandy_clothes"
+				}
+			]
 		}
 		{
 			x: 19.0d
 			y: 2.0d
-			description: ["{chapter.7.quest.21.description.1}"]
+			description: ["{ftbquests.chapter.exploration.quests20.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "645605CFF7A94936"
-			tasks: [{
-				id: "125F840426577EE3"
-				type: "item"
-				item: {
-					id: "endrem:black_eye"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "125F840426577EE3"
+					type: "item"
+					item: {
+						id: "endrem:black_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "65EBD739B85B7A8C"
-				type: "item"
-				item: "minecraft:prismarine_shard"
-				count: 2
-			}]
+			]
+			rewards: [
+				{
+					id: "65EBD739B85B7A8C"
+					type: "item"
+					item: "minecraft:prismarine_shard"
+					count: 2
+				}
+			]
 		}
 		{
 			x: 20.5d
 			y: 2.0d
-			description: ["{chapter.7.quest.22.description.1}"]
+			description: ["{ftbquests.chapter.exploration.quests21.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
 			hide: true
 			id: "57D9FF8914AB6540"
-			tasks: [{
-				id: "466E05746C90BE86"
-				type: "item"
-				item: {
-					id: "endrem:cursed_eye"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "466E05746C90BE86"
+					type: "item"
+					item: {
+						id: "endrem:cursed_eye"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "712A13CC1C2A64B3"
-				type: "item"
-				item: "minecraft:gold_ingot"
-				count: 2
-			}]
+			]
+			rewards: [
+				{
+					id: "712A13CC1C2A64B3"
+					type: "item"
+					item: "minecraft:gold_ingot"
+					count: 2
+				}
+			]
 		}
 		{
 			x: 11.5d
 			y: -4.0d
-			subtitle: "{chapter.7.quest.23.subtitle}"
+			subtitle: "{ftbquests.chapter.exploration.quests22.subtitle}"
 			id: "36E0F71703918811"
-			tasks: [{
-				id: "2A33CB2A044D0A89"
-				type: "item"
-				item: "blue_skies:blue_journal"
-				consume_items: false
-				only_from_crafting: false
-				match_nbt: false
-			}]
-			rewards: [{
-				id: "35A44E1A4A3A5E48"
-				type: "xp"
-				xp: 5
-			}]
+			tasks: [
+				{
+					id: "2A33CB2A044D0A89"
+					type: "item"
+					item: "blue_skies:blue_journal"
+					consume_items: false
+					only_from_crafting: false
+					match_nbt: false
+				}
+			]
+			rewards: [
+				{
+					id: "35A44E1A4A3A5E48"
+					type: "xp"
+					xp: 5
+				}
+			]
 		}
 	]
 	quest_links: [ ]

@@ -1,0 +1,95 @@
+{
+	id: "0DDB95E0E4EDCDB1"
+	order_index: 1
+	title: "{ftbquests.reward_tables.ruby_grade.title}"
+	loot_size: 1
+	rewards: [
+		{
+			item: {
+				id: "wom:agony"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "wom:tormented_mind"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "wom:ruine"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "wom:ender_blaster"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "wom:antitheus"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "wom:satsujin"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "wom:herrscher"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "wom:gesetz"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "wom:moonless"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: "simple_mobs:material_chest"
+		}
+		{
+			item: "simple_mobs:blackmarket_sign"
+		}
+	]
+}

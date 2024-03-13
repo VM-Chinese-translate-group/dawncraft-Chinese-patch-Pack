@@ -1,0 +1,50 @@
+{
+	id: "05B9F37AC53E1AB1"
+	order_index: 0
+	title: "{ftbquests.reward_tables.sapphire_grade.title}"
+	loot_size: 1
+	rewards: [
+		{
+			item: "minecraft:iron_ingot"
+			count: 64
+		}
+		{
+			item: "minecraft:gold_ingot"
+			count: 64
+		}
+		{
+			item: "minecraft:lapis_lazuli"
+			count: 64
+		}
+		{
+			item: "minecraft:diamond"
+			count: 10
+		}
+		{
+			item: "minecraft:netherite_ingot"
+		}
+		{
+			item: "irons_spellbooks:epic_ink"
+			count: 3
+		}
+		{
+			item: "irons_spellbooks:legendary_ink"
+		}
+		{
+			item: "apotheosis:scrap_tome"
+		}
+		{
+			item: "bloodandmadness:blood_stone_chunk"
+			count: 3
+		}
+		{
+			item: "bloodandmadness:blood_rock"
+		}
+		{
+			item: "simple_mobs:fasttravel_scroll"
+		}
+		{
+			item: "simple_mobs:dragon_horn"
+		}
+	]
+}

@@ -1,9 +1,9 @@
 {
 	id: "456CFF8FE8F8BFAB"
-	group: ""
-	order_index: 12
+	group: "25047313B704629A"
+	order_index: 1
 	filename: "useful_commands_for_servers"
-	title: "{chapter.13.title}"
+	title: "{ftbquests.chapter.useful_commands_for_servers.title}"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	images: [
@@ -14,7 +14,7 @@
 			height: 1.0d
 			rotation: 0.0d
 			image: "ftbteams:textures/accept.png"
-			hover: ["{chapter.13.image.1}"]
+			hover: ["{ftbquests.chapter.useful_commands_for_servers.images0.hover}"]
 			click: ""
 			dev: false
 			corner: false
@@ -26,7 +26,7 @@
 			height: 1.0d
 			rotation: 0.0d
 			image: "ftbteams:textures/accept.png"
-			hover: ["{chapter.13.image.2}"]
+			hover: ["{ftbquests.chapter.useful_commands_for_servers.images1.hover}"]
 			click: ""
 			dev: false
 			corner: false
@@ -38,7 +38,7 @@
 			height: 1.0d
 			rotation: 0.0d
 			image: "orcz:textures/aaquestionmark.png"
-			hover: ["{chapter.13.image.3}"]
+			hover: ["{ftbquests.chapter.useful_commands_for_servers.images2.hover}"]
 			click: ""
 			dev: false
 			corner: false
@@ -48,158 +48,232 @@
 		{
 			x: 0.5d
 			y: -7.0d
-			subtitle: "{chapter.13.quest.1.subtitle}"
-			description: ["{chapter.13.quest.1.description.1}"]
+			subtitle: "{ftbquests.chapter.useful_commands_for_servers.quests0.subtitle}"
+			description: [
+				"{ftbquests.chapter.useful_commands_for_servers.quests0.description0}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests0.description1}"
+			]
 			id: "59F404BFA55005EA"
-			tasks: [{
-				id: "01CE05960FF752C1"
-				type: "checkmark"
-				title: "{chapter.13.quest.1.task.1.title}"
-			}]
+			tasks: [
+				{
+					id: "01CE05960FF752C1"
+					type: "checkmark"
+					title: "{ftbquests.chapter.useful_commands_for_servers.quests0.tasks0.title}"
+				}
+			]
 		}
 		{
 			x: -2.5d
 			y: -5.0d
-			subtitle: "{chapter.13.quest.2.subtitle}"
-			description: ["{chapter.13.quest.2.description.1}"]
+			subtitle: "{ftbquests.chapter.useful_commands_for_servers.quests1.subtitle}"
+			description: [
+				"{ftbquests.chapter.useful_commands_for_servers.quests1.description0}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests1.description1}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests1.description2}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests1.description3}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests1.description4}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests1.description5}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests1.description6}"
+			]
 			id: "726F1FFCA2697CF6"
-			tasks: [{
-				id: "79E1E37E279C39DE"
-				type: "checkmark"
-				title: "{chapter.13.quest.2.task.1.title}"
-			}]
+			tasks: [
+				{
+					id: "79E1E37E279C39DE"
+					type: "checkmark"
+					title: "{ftbquests.chapter.useful_commands_for_servers.quests1.tasks0.title}"
+				}
+			]
 		}
 		{
 			x: -2.5d
 			y: -4.0d
-			subtitle: "{chapter.13.quest.3.subtitle}"
-			description: ["{chapter.13.quest.3.description.1}"]
+			subtitle: "{ftbquests.chapter.useful_commands_for_servers.quests2.subtitle}"
+			description: [
+				"{ftbquests.chapter.useful_commands_for_servers.quests2.description0}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests2.description1}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests2.description2}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests2.description3}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests2.description4}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests2.description5}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests2.description6}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests2.description7}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests2.description8}"
+			]
 			id: "5540C43EFDAE8E3B"
-			tasks: [{
-				id: "484069119F39A90C"
-				type: "checkmark"
-				title: "{chapter.13.quest.3.task.1.title}"
-			}]
+			tasks: [
+				{
+					id: "484069119F39A90C"
+					type: "checkmark"
+					title: "{ftbquests.chapter.useful_commands_for_servers.quests2.tasks0.title}"
+				}
+			]
 		}
 		{
 			x: -2.5d
 			y: -6.0d
-			subtitle: "{chapter.13.quest.4.subtitle}"
-			description: ["{chapter.13.quest.4.description.1}"]
+			subtitle: "{ftbquests.chapter.useful_commands_for_servers.quests3.subtitle}"
+			description: [
+				"{ftbquests.chapter.useful_commands_for_servers.quests3.description0}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests3.description1}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests3.description2}"
+			]
 			id: "63F0B07D20E74D61"
-			tasks: [{
-				id: "3900DF3E47ADF564"
-				type: "checkmark"
-				title: "{chapter.13.quest.4.task.1.title}"
-			}]
+			tasks: [
+				{
+					id: "3900DF3E47ADF564"
+					type: "checkmark"
+					title: "{ftbquests.chapter.useful_commands_for_servers.quests3.tasks0.title}"
+				}
+			]
 		}
 		{
 			x: -2.5d
 			y: -7.0d
-			subtitle: "{chapter.13.quest.5.subtitle}"
-			description: ["{chapter.13.quest.5.description.1}"]
+			subtitle: "{ftbquests.chapter.useful_commands_for_servers.quests4.subtitle}"
+			description: [
+				"{ftbquests.chapter.useful_commands_for_servers.quests4.description0}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests4.description1}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests4.description2}"
+			]
 			id: "1B36858C66C3C77F"
-			tasks: [{
-				id: "3FA502DE4B61335E"
-				type: "checkmark"
-				title: "{chapter.13.quest.5.task.1.title}"
-			}]
+			tasks: [
+				{
+					id: "3FA502DE4B61335E"
+					type: "checkmark"
+					title: "{ftbquests.chapter.useful_commands_for_servers.quests4.tasks0.title}"
+				}
+			]
 		}
 		{
 			x: -2.5d
 			y: -3.0d
-			subtitle: "{chapter.13.quest.6.subtitle}"
-			description: ["{chapter.13.quest.6.description.1}"]
+			subtitle: "{ftbquests.chapter.useful_commands_for_servers.quests5.subtitle}"
+			description: [
+				"{ftbquests.chapter.useful_commands_for_servers.quests5.description0}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests5.description1}"
+			]
 			id: "08F5174D848D7DF0"
-			tasks: [{
-				id: "62A75C3AC8B180D6"
-				type: "checkmark"
-				title: "{chapter.13.quest.6.task.1.title}"
-			}]
+			tasks: [
+				{
+					id: "62A75C3AC8B180D6"
+					type: "checkmark"
+					title: "{ftbquests.chapter.useful_commands_for_servers.quests5.tasks0.title}"
+				}
+			]
 		}
 		{
 			x: 3.5d
 			y: -6.0d
-			subtitle: "{chapter.13.quest.7.subtitle}"
-			description: ["{chapter.13.quest.7.description.1}"]
+			subtitle: "{ftbquests.chapter.useful_commands_for_servers.quests6.subtitle}"
+			description: [
+				"{ftbquests.chapter.useful_commands_for_servers.quests6.description0}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests6.description1}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests6.description2}"
+			]
 			id: "7644BDD80B6EDA44"
-			tasks: [{
-				id: "43CC8096AA6E2C33"
-				type: "checkmark"
-				title: "{chapter.13.quest.7.task.1.title}"
-			}]
+			tasks: [
+				{
+					id: "43CC8096AA6E2C33"
+					type: "checkmark"
+					title: "{ftbquests.chapter.useful_commands_for_servers.quests6.tasks0.title}"
+				}
+			]
 		}
 		{
 			x: 0.5d
 			y: -6.0d
-			subtitle: "{chapter.13.quest.8.subtitle}"
-			description: ["{chapter.13.quest.8.description.1}"]
+			subtitle: "{ftbquests.chapter.useful_commands_for_servers.quests7.subtitle}"
+			description: [
+				"{ftbquests.chapter.useful_commands_for_servers.quests7.description0}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests7.description1}"
+			]
 			id: "2294C358D1153CAE"
-			tasks: [{
-				id: "6C26B3CB7B7B5B78"
-				type: "checkmark"
-				title: "{chapter.13.quest.8.task.1.title}"
-			}]
+			tasks: [
+				{
+					id: "6C26B3CB7B7B5B78"
+					type: "checkmark"
+					title: "{ftbquests.chapter.useful_commands_for_servers.quests7.tasks0.title}"
+				}
+			]
 		}
 		{
 			x: 3.5d
 			y: -5.0d
-			subtitle: "{chapter.13.quest.9.subtitle}"
-			description: ["{chapter.13.quest.9.description.1}"]
+			subtitle: "{ftbquests.chapter.useful_commands_for_servers.quests8.subtitle}"
+			description: ["{ftbquests.chapter.useful_commands_for_servers.quests8.description}"]
 			id: "0E4410A648272A97"
-			tasks: [{
-				id: "79729BB3AB3E564D"
-				type: "checkmark"
-				title: "{chapter.13.quest.9.task.1.title}"
-			}]
+			tasks: [
+				{
+					id: "79729BB3AB3E564D"
+					type: "checkmark"
+					title: "{ftbquests.chapter.useful_commands_for_servers.quests8.tasks0.title}"
+				}
+			]
 		}
 		{
 			x: 3.5d
 			y: -4.0d
-			subtitle: "{chapter.13.quest.10.subtitle}"
-			description: ["{chapter.13.quest.10.description.1}"]
+			subtitle: "{ftbquests.chapter.useful_commands_for_servers.quests9.subtitle}"
+			description: [
+				"{ftbquests.chapter.useful_commands_for_servers.quests9.description0}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests9.description1}"
+			]
 			id: "217D8862894AE01D"
-			tasks: [{
-				id: "4882C70BB6EEE851"
-				type: "checkmark"
-				title: "{chapter.13.quest.10.task.1.title}"
-			}]
+			tasks: [
+				{
+					id: "4882C70BB6EEE851"
+					type: "checkmark"
+					title: "{ftbquests.chapter.useful_commands_for_servers.quests9.tasks0.title}"
+				}
+			]
 		}
 		{
 			x: -2.5d
 			y: -2.0d
-			subtitle: "{chapter.13.quest.11.subtitle}"
-			description: ["{chapter.13.quest.11.description.1}"]
+			subtitle: "{ftbquests.chapter.useful_commands_for_servers.quests10.subtitle}"
+			description: [
+				"{ftbquests.chapter.useful_commands_for_servers.quests10.description0}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests10.description1}"
+			]
 			id: "10180D525A3F3D4F"
-			tasks: [{
-				id: "11DFA820F8B8E6FF"
-				type: "checkmark"
-				title: "{chapter.13.quest.11.task.1.title}"
-			}]
+			tasks: [
+				{
+					id: "11DFA820F8B8E6FF"
+					type: "checkmark"
+					title: "{ftbquests.chapter.useful_commands_for_servers.quests10.tasks0.title}"
+				}
+			]
 		}
 		{
 			x: 3.5d
 			y: -7.0d
-			subtitle: "{chapter.13.quest.12.subtitle}"
-			description: ["{chapter.13.quest.12.description.1}"]
+			subtitle: "{ftbquests.chapter.useful_commands_for_servers.quests11.subtitle}"
+			description: ["{ftbquests.chapter.useful_commands_for_servers.quests11.description}"]
 			id: "2E679597791BF6B8"
-			tasks: [{
-				id: "68056F1A3F76B35D"
-				type: "checkmark"
-				title: "{chapter.13.quest.12.task.1.title}"
-			}]
+			tasks: [
+				{
+					id: "68056F1A3F76B35D"
+					type: "checkmark"
+					title: "{ftbquests.chapter.useful_commands_for_servers.quests11.tasks0.title}"
+				}
+			]
 		}
 		{
 			x: 0.5d
 			y: -5.0d
-			subtitle: "{chapter.13.quest.13.subtitle}"
-			description: ["{chapter.13.quest.13.description.1}"]
+			subtitle: "{ftbquests.chapter.useful_commands_for_servers.quests12.subtitle}"
+			description: [
+				"{ftbquests.chapter.useful_commands_for_servers.quests12.description0}"
+				"{ftbquests.chapter.useful_commands_for_servers.quests12.description1}"
+			]
 			id: "1708A5D4E536662D"
-			tasks: [{
-				id: "4708BF5BBA73E19F"
-				type: "checkmark"
-				title: "{chapter.13.quest.13.task.1.title}"
-			}]
+			tasks: [
+				{
+					id: "4708BF5BBA73E19F"
+					type: "checkmark"
+					title: "{ftbquests.chapter.useful_commands_for_servers.quests12.tasks0.title}"
+				}
+			]
 		}
 	]
 	quest_links: [ ]

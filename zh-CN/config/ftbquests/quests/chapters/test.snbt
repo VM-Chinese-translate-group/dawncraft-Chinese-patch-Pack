@@ -3,7 +3,7 @@
 	group: ""
 	order_index: 0
 	filename: "test"
-	title: "{chapter.1.title}"
+	title: "{ftbquests.chapter.test.title}"
 	always_invisible: true
 	default_quest_shape: ""
 	default_hide_dependency_lines: true
@@ -12,12 +12,14 @@
 			x: 3.0d
 			y: 2.5d
 			id: "7F2E0798CDC00FA3"
-			tasks: [{
-				id: "652B76F89DFD2A04"
-				type: "advancement"
-				advancement: "custom:trade_armorer"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "652B76F89DFD2A04"
+					type: "advancement"
+					advancement: "custom:trade_armorer"
+					criterion: ""
+				}
+			]
 			rewards: [
 				{
 					id: "6AA747F141ECBFA9"
@@ -39,12 +41,14 @@
 			x: 5.5d
 			y: 2.5d
 			id: "06D9C7BA36906C17"
-			tasks: [{
-				id: "484B11EC79BF1044"
-				type: "advancement"
-				advancement: "custom:trade_beekeeper"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "484B11EC79BF1044"
+					type: "advancement"
+					advancement: "custom:trade_beekeeper"
+					criterion: ""
+				}
+			]
 			rewards: [
 				{
 					id: "1E76EE32CA3CDDAA"
@@ -67,12 +71,14 @@
 			x: 6.5d
 			y: 0.5d
 			id: "5C8F23D62A97DFBC"
-			tasks: [{
-				id: "566B232E569CE99B"
-				type: "advancement"
-				advancement: "custom:trade_butcher"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "566B232E569CE99B"
+					type: "advancement"
+					advancement: "custom:trade_butcher"
+					criterion: ""
+				}
+			]
 			rewards: [
 				{
 					id: "22E461E6FC2E72E7"
@@ -94,12 +100,14 @@
 			x: 7.5d
 			y: 2.5d
 			id: "29420C2137124E3E"
-			tasks: [{
-				id: "15C4F8DF8DA81743"
-				type: "advancement"
-				advancement: "custom:trade_cartographer"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "15C4F8DF8DA81743"
+					type: "advancement"
+					advancement: "custom:trade_cartographer"
+					criterion: ""
+				}
+			]
 			rewards: [
 				{
 					id: "2CF08DAF400A0F1C"
@@ -121,12 +129,14 @@
 			x: 9.0d
 			y: 2.5d
 			id: "032DF3ADCFF8347F"
-			tasks: [{
-				id: "67B5BEB031216948"
-				type: "advancement"
-				advancement: "custom:trade_cleric"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "67B5BEB031216948"
+					type: "advancement"
+					advancement: "custom:trade_cleric"
+					criterion: ""
+				}
+			]
 			rewards: [
 				{
 					id: "772F043E5F503DE2"
@@ -148,12 +158,14 @@
 			x: 1.5d
 			y: 4.0d
 			id: "0C62F7AEC8DA7D6C"
-			tasks: [{
-				id: "05EA8F20D92DF90C"
-				type: "advancement"
-				advancement: "custom:trade_enderian"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "05EA8F20D92DF90C"
+					type: "advancement"
+					advancement: "custom:trade_enderian"
+					criterion: ""
+				}
+			]
 			rewards: [
 				{
 					id: "5358C9DD03526C48"
@@ -175,12 +187,14 @@
 			x: 3.0d
 			y: 4.0d
 			id: "4F88E2203AF4B696"
-			tasks: [{
-				id: "76B24891274BEBD1"
-				type: "advancement"
-				advancement: "custom:trade_engineer"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "76B24891274BEBD1"
+					type: "advancement"
+					advancement: "custom:trade_engineer"
+					criterion: ""
+				}
+			]
 			rewards: [
 				{
 					id: "68FB035DC37A611A"
@@ -202,12 +216,14 @@
 			x: 4.5d
 			y: 4.0d
 			id: "0DCB413EF4AAA229"
-			tasks: [{
-				id: "4568A8BACBC870F7"
-				type: "advancement"
-				advancement: "custom:trade_farmer"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "4568A8BACBC870F7"
+					type: "advancement"
+					advancement: "custom:trade_farmer"
+					criterion: ""
+				}
+			]
 			rewards: [
 				{
 					id: "0FAE885C4E7341FC"
@@ -229,12 +245,14 @@
 			x: 6.5d
 			y: 4.0d
 			id: "5AB6ADC191A870C1"
-			tasks: [{
-				id: "7E11A076241FDB40"
-				type: "advancement"
-				advancement: "custom:trade_fisherman"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "7E11A076241FDB40"
+					type: "advancement"
+					advancement: "custom:trade_fisherman"
+					criterion: ""
+				}
+			]
 			rewards: [
 				{
 					id: "46D1C27687CB8BA7"
@@ -256,12 +274,14 @@
 			x: 8.5d
 			y: 4.0d
 			id: "1DBD44621CF141F7"
-			tasks: [{
-				id: "0E5FCE0F62144E4F"
-				type: "advancement"
-				advancement: "custom:trade_fletcher"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "0E5FCE0F62144E4F"
+					type: "advancement"
+					advancement: "custom:trade_fletcher"
+					criterion: ""
+				}
+			]
 			rewards: [
 				{
 					id: "171F3328C6AAB9EA"
@@ -283,12 +303,14 @@
 			x: 1.5d
 			y: 5.5d
 			id: "0C1E10060FA023C1"
-			tasks: [{
-				id: "0E5289162A6FF417"
-				type: "advancement"
-				advancement: "custom:trade_florist"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "0E5289162A6FF417"
+					type: "advancement"
+					advancement: "custom:trade_florist"
+					criterion: ""
+				}
+			]
 			rewards: [
 				{
 					id: "3653E60A0B2A3C96"
@@ -310,12 +332,14 @@
 			x: 3.5d
 			y: 5.5d
 			id: "19B9A3C7AF2524FA"
-			tasks: [{
-				id: "1D3ED633F235806A"
-				type: "advancement"
-				advancement: "custom:trade_hunter"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "1D3ED633F235806A"
+					type: "advancement"
+					advancement: "custom:trade_hunter"
+					criterion: ""
+				}
+			]
 			rewards: [
 				{
 					id: "56C8F7D3C54DDC58"
@@ -337,12 +361,14 @@
 			x: 6.0d
 			y: 5.5d
 			id: "5799C4549C5C15A6"
-			tasks: [{
-				id: "48D1D8F1998C4582"
-				type: "advancement"
-				advancement: "custom:trade_leatherworker"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "48D1D8F1998C4582"
+					type: "advancement"
+					advancement: "custom:trade_leatherworker"
+					criterion: ""
+				}
+			]
 			rewards: [
 				{
 					id: "277DA6E7CD04C3BC"
@@ -364,12 +390,14 @@
 			x: 7.5d
 			y: 5.5d
 			id: "22DC67FDE0661DCB"
-			tasks: [{
-				id: "779C8F424BF18BC8"
-				type: "advancement"
-				advancement: "custom:trade_librarian"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "779C8F424BF18BC8"
+					type: "advancement"
+					advancement: "custom:trade_librarian"
+					criterion: ""
+				}
+			]
 			rewards: [
 				{
 					id: "038DCF4A9E226EC2"
@@ -391,12 +419,14 @@
 			x: 9.0d
 			y: 5.5d
 			id: "108B513B5B2E9C70"
-			tasks: [{
-				id: "26DE4BF3F023680F"
-				type: "advancement"
-				advancement: "custom:trade_mason"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "26DE4BF3F023680F"
+					type: "advancement"
+					advancement: "custom:trade_mason"
+					criterion: ""
+				}
+			]
 			rewards: [
 				{
 					id: "34E9153432087057"
@@ -418,12 +448,14 @@
 			x: 2.0d
 			y: 7.0d
 			id: "458E9812B8D915C7"
-			tasks: [{
-				id: "2C5DACD756F8D43B"
-				type: "advancement"
-				advancement: "custom:trade_netherian"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "2C5DACD756F8D43B"
+					type: "advancement"
+					advancement: "custom:trade_netherian"
+					criterion: ""
+				}
+			]
 			rewards: [
 				{
 					id: "6D055D767245E664"
@@ -445,12 +477,14 @@
 			x: 4.0d
 			y: 7.0d
 			id: "49E36CCD9E188115"
-			tasks: [{
-				id: "258D1F914324184C"
-				type: "advancement"
-				advancement: "custom:trade_oceanographer"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "258D1F914324184C"
+					type: "advancement"
+					advancement: "custom:trade_oceanographer"
+					criterion: ""
+				}
+			]
 			rewards: [
 				{
 					id: "2CABCBF4FF4E3D4E"
@@ -472,12 +506,14 @@
 			x: 6.0d
 			y: 7.0d
 			id: "3366CB8385EF82BF"
-			tasks: [{
-				id: "34DC5E891CDBB15F"
-				type: "advancement"
-				advancement: "custom:trade_shepherd"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "34DC5E891CDBB15F"
+					type: "advancement"
+					advancement: "custom:trade_shepherd"
+					criterion: ""
+				}
+			]
 			rewards: [
 				{
 					id: "055109E6EB90383E"
@@ -499,12 +535,14 @@
 			x: 8.0d
 			y: 7.0d
 			id: "36CEF24CC18BC136"
-			tasks: [{
-				id: "59397C1EED3BE270"
-				type: "advancement"
-				advancement: "custom:trade_toolsmith"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "59397C1EED3BE270"
+					type: "advancement"
+					advancement: "custom:trade_toolsmith"
+					criterion: ""
+				}
+			]
 			rewards: [
 				{
 					id: "2CBE201CB4FD7A2B"
@@ -526,12 +564,14 @@
 			x: 9.5d
 			y: 7.0d
 			id: "08D42D19765C3FD2"
-			tasks: [{
-				id: "4DCE6BFD6B0DDB2B"
-				type: "advancement"
-				advancement: "custom:trade_weaponsmith"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "4DCE6BFD6B0DDB2B"
+					type: "advancement"
+					advancement: "custom:trade_weaponsmith"
+					criterion: ""
+				}
+			]
 			rewards: [
 				{
 					id: "7E344BAAF4B162C3"
@@ -553,12 +593,14 @@
 			x: 3.0d
 			y: 8.5d
 			id: "53EFD17FE31AF7FD"
-			tasks: [{
-				id: "63238F3E46C4ABE3"
-				type: "advancement"
-				advancement: "custom:trade_woodworker"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "63238F3E46C4ABE3"
+					type: "advancement"
+					advancement: "custom:trade_woodworker"
+					criterion: ""
+				}
+			]
 			rewards: [
 				{
 					id: "3A98686ED8E2ED17"
@@ -580,37 +622,45 @@
 			x: 1.5d
 			y: 1.0d
 			id: "5A46A98020395A41"
-			tasks: [{
-				id: "3EAB79F22282A4E1"
-				type: "biome"
-				biome: "terralith:haze_mountain"
-			}]
-			rewards: [{
-				id: "2FB1DC20578FDDE0"
-				type: "advancement"
-				team_reward: false
-				auto: "enabled"
-				advancement: "custom:magical_spring"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "3EAB79F22282A4E1"
+					type: "biome"
+					biome: "terralith:haze_mountain"
+				}
+			]
+			rewards: [
+				{
+					id: "2FB1DC20578FDDE0"
+					type: "advancement"
+					team_reward: false
+					auto: "enabled"
+					advancement: "custom:magical_spring"
+					criterion: ""
+				}
+			]
 		}
 		{
 			x: 3.0d
 			y: 1.0d
 			id: "7287F9F2D9A722D7"
-			tasks: [{
-				id: "0E46D7CAE906AC64"
-				type: "biome"
-				biome: "incendium:ash_barrens"
-			}]
-			rewards: [{
-				id: "62ECBD35F6057629"
-				type: "advancement"
-				team_reward: false
-				auto: "enabled"
-				advancement: "custom:scarlet_rot"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "0E46D7CAE906AC64"
+					type: "biome"
+					biome: "incendium:ash_barrens"
+				}
+			]
+			rewards: [
+				{
+					id: "62ECBD35F6057629"
+					type: "advancement"
+					team_reward: false
+					auto: "enabled"
+					advancement: "custom:scarlet_rot"
+					criterion: ""
+				}
+			]
 		}
 		{
 			x: 5.0d
@@ -633,59 +683,71 @@
 					biome: "terralith:volcanic_peaks"
 				}
 			]
-			rewards: [{
-				id: "5FF706308659EAA4"
-				type: "advancement"
-				team_reward: false
-				auto: "enabled"
-				advancement: "custom:traveller"
-				criterion: ""
-			}]
+			rewards: [
+				{
+					id: "5FF706308659EAA4"
+					type: "advancement"
+					team_reward: false
+					auto: "enabled"
+					advancement: "custom:traveller"
+					criterion: ""
+				}
+			]
 		}
 		{
 			x: 8.0d
 			y: 1.0d
 			id: "42FD5FA83C62490F"
-			tasks: [{
-				id: "0FA3C2D11C6D9E4D"
-				type: "structure"
-				structure: "idas:castle"
-			}]
-			rewards: [{
-				id: "119D10A6345F3B6A"
-				type: "advancement"
-				advancement: "custom:castle"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "0FA3C2D11C6D9E4D"
+					type: "structure"
+					structure: "idas:castle"
+				}
+			]
+			rewards: [
+				{
+					id: "119D10A6345F3B6A"
+					type: "advancement"
+					advancement: "custom:castle"
+					criterion: ""
+				}
+			]
 		}
 		{
 			x: 6.0d
 			y: 8.5d
 			id: "6E92FEE28AD8EF22"
-			tasks: [{
-				id: "73FEE19967898DBB"
-				type: "kill"
-				entity: "simple_mobs:patronwerewolf"
-				value: 1L
-			}]
-			rewards: [{
-				id: "3FD437A2FE244602"
-				type: "gamestage"
-				team_reward: true
-				auto: "invisible"
-				stage: "wolf"
-			}]
+			tasks: [
+				{
+					id: "73FEE19967898DBB"
+					type: "kill"
+					entity: "simple_mobs:patronwerewolf"
+					value: 1L
+				}
+			]
+			rewards: [
+				{
+					id: "3FD437A2FE244602"
+					type: "gamestage"
+					team_reward: true
+					auto: "invisible"
+					stage: "wolf"
+				}
+			]
 		}
 		{
 			x: 10.0d
 			y: 4.0d
 			id: "5DD305F560236CFC"
-			tasks: [{
-				id: "58323A3D58E87339"
-				type: "advancement"
-				advancement: "custom:trade_miner"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "58323A3D58E87339"
+					type: "advancement"
+					advancement: "custom:trade_miner"
+					criterion: ""
+				}
+			]
 			rewards: [
 				{
 					id: "3421AFDB62C694F9"
@@ -706,116 +768,118 @@
 			x: 11.0d
 			y: 1.0d
 			id: "01A815B71B4C8955"
-			tasks: [{
-				id: "193DFC0C40E974F1"
-				type: "dimension"
-				dimension: "minecraft:the_nether"
-			}]
-			rewards: [{
-				id: "44A009FC69D648D4"
-				type: "gamestage"
-				auto: "invisible"
-				ignore_reward_blocking: true
-				stage: "nether"
-			}]
+			tasks: [
+				{
+					id: "193DFC0C40E974F1"
+					type: "dimension"
+					dimension: "minecraft:the_nether"
+				}
+			]
+			rewards: [
+				{
+					id: "44A009FC69D648D4"
+					type: "gamestage"
+					auto: "invisible"
+					ignore_reward_blocking: true
+					stage: "nether"
+				}
+			]
 		}
 		{
 			x: 11.5d
 			y: 2.5d
 			id: "759F8E92D4967A4F"
-			tasks: [{
-				id: "4E66627FD9F8881E"
-				type: "stat"
-				stat: "minecraft:play_time"
-				value: 90000
-			}]
-			rewards: [{
-				id: "52B64F48C2ABDE53"
-				type: "gamestage"
-				auto: "invisible"
-				ignore_reward_blocking: true
-				stage: "bloodborne"
-			}]
+			tasks: [
+				{
+					id: "4E66627FD9F8881E"
+					type: "stat"
+					stat: "minecraft:play_time"
+					value: 90000
+				}
+			]
+			rewards: [
+				{
+					id: "52B64F48C2ABDE53"
+					type: "gamestage"
+					auto: "invisible"
+					ignore_reward_blocking: true
+					stage: "bloodborne"
+				}
+			]
 		}
 		{
 			x: 12.0d
 			y: 4.0d
 			id: "2B02D51FD108A3AA"
-			tasks: [{
-				id: "3AF0AC838196247F"
-				type: "dimension"
-				title: "{chapter.1.quest.30.task.1.title}"
-				icon: {
-					id: "aquamirae:terrible_sword"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "3AF0AC838196247F"
+					type: "dimension"
+					title: "{ftbquests.chapter.test.quests29.tasks0.title}"
+					icon: {
+						id: "aquamirae:terrible_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
+					dimension: "minecraft:overworld"
 				}
-				dimension: "minecraft:overworld"
-			}]
+			]
 			rewards: [
 				{
 					id: "410AA390E054E967"
 					type: "command"
 					auto: "invisible"
 					command: "/gamerule sendCommandFeedback false"
-					player_command: false
-				}
-				{
-					id: "70A7F202E8A994DE"
-					type: "item"
-					auto: "invisible"
-					item: "minecraft:compass"
 				}
 				{
 					id: "10C5822F8E2520D0"
 					type: "command"
 					auto: "invisible"
 					command: "/gamerule keepInventory true"
-					player_command: false
 				}
 				{
 					id: "5FD0AB5036A688FE"
 					type: "command"
 					auto: "invisible"
 					command: "/gamerule playersSleepingPercentage 35"
-					player_command: false
 				}
 				{
 					id: "794FB9B72BBB0E63"
 					type: "command"
 					auto: "invisible"
 					command: "/gamerule spawnRadius 80"
-					player_command: false
 				}
 				{
 					id: "6F86E31ADC125640"
 					type: "command"
 					auto: "invisible"
 					command: "/gamerule keepSkills true"
-					player_command: false
 				}
 				{
 					id: "242FF8EBF5E31E24"
 					type: "command"
 					auto: "invisible"
 					command: "/loot give @p loot minecraft:village"
-					player_command: false
 				}
 				{
 					id: "67DC70E6BD4D2C21"
 					type: "command"
 					auto: "enabled"
-					command: "/gamerule weightPenalty 10"
-					player_command: false
+					command: "/gamerule weightPenalty 40"
 				}
 				{
 					id: "4EF4BB54C3517365"
 					type: "command"
 					auto: "enabled"
 					command: "/dc addWaypoint @p #custom:village \"First Village\""
-					player_command: false
+				}
+				{
+					id: "711AE735FF2AA67D"
+					type: "command"
+					auto: "enabled"
+					command: "/gamerule reducedDebugInfo true"
 				}
 			]
 		}
@@ -823,44 +887,47 @@
 			x: 12.0d
 			y: 5.5d
 			id: "048B6030D1921527"
-			tasks: [{
-				id: "2CCD9E4C9328E9A7"
-				type: "stat"
-				stat: "minecraft:deaths"
-				value: 1
-			}]
-			rewards: [{
-				id: "7B9F61F2A4765018"
-				type: "command"
-				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"That was your first \"},{\"text\":\"death\",\"bold\":true,\"color\":\"red\"},{\"text\":\". Although most of your inventory items will stay with you, some of your valuable items may be lost in your corpse, which decomposes after 10 minutes. You can check where your corpse is by pressing \\\"\"},{\"text\":\"I\",\"bold\":true},{\"text\":\"\\\".\\n\\nAccumulated deaths in short periods of time will cause higher level of \\\"\"},{\"text\":\"Fractured Soul\",\"bold\":true,\"color\":\"light_purple\"},{\"text\":\"\\\".\"}]"
-				player_command: false
-			}]
+			tasks: [
+				{
+					id: "2CCD9E4C9328E9A7"
+					type: "stat"
+					stat: "minecraft:deaths"
+					value: 1
+				}
+			]
+			rewards: [
+				{
+					id: "7B9F61F2A4765018"
+					type: "command"
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"That was your first \"},{\"text\":\"death\",\"bold\":true,\"color\":\"red\"},{\"text\":\". Although most of your inventory items will stay with you, some of your valuable items may be lost in your corpse, which decomposes after 10 minutes. You can check where your corpse is by pressing \\\"\"},{\"text\":\"I\",\"bold\":true},{\"text\":\"\\\".\\n\\nAccumulated deaths in short periods of time will cause higher level of \\\"\"},{\"text\":\"Fractured Soul\",\"bold\":true,\"color\":\"light_purple\"},{\"text\":\"\\\".\"}]"
+				}
+			]
 		}
 		{
 			x: 12.0d
 			y: 7.5d
 			id: "40DEC3869B853D55"
-			tasks: [{
-				id: "3D654E72296C11BF"
-				type: "advancement"
-				advancement: "simple_mobs:notorious"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "3D654E72296C11BF"
+					type: "advancement"
+					advancement: "simple_mobs:notorious"
+					criterion: ""
+				}
+			]
 			rewards: [
 				{
 					id: "0206FC6701ED673E"
 					type: "command"
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"It seems your reputation is \"},{\"text\":\"bad\",\"bold\":true,\"color\":\"red\"},{\"text\":\" among villagers. You have been \"},{\"text\":\"forgiven\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\" since this is your first offense... But next time, villagers will stop trading with you. If your reputation drops even further, guards and iron golems may start attacking you. You can improve your reputation by handing in \"},{\"text\":\"bundled currency\",\"bold\":true,\"color\":\"green\"},{\"text\":\" (craftable) \",\"italic\":true},{\"text\":\"into the ledger chests inside guild houses or stalls.\"}]"
-					player_command: false
 				}
 				{
 					id: "71CF84030CC57DE5"
 					type: "command"
 					auto: "invisible"
 					command: "/setreputation reputation:villager @p 0"
-					player_command: false
 				}
 			]
 		}
@@ -868,66 +935,77 @@
 			x: 10.0d
 			y: 10.5d
 			id: "78B3C3E4FD02F790"
-			tasks: [{
-				id: "27DD3398E5B4FB26"
-				type: "advancement"
-				advancement: "minecraft:story/form_obsidian"
-				criterion: ""
-			}]
-			rewards: [{
-				id: "23A84067614F3CE4"
-				type: "command"
-				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"It seems you have found the means to travel to \"},{\"text\":\"the Nether\",\"bold\":true,\"color\":\"red\"},{\"text\":\". This will bring chaos to not only you, but to the \"},{\"text\":\"entire realm\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\". Once you enter, it cannot be undone. Make sure you have the resolve to move forward before stepping in the portal.\"}]"
-				player_command: false
-			}]
+			tasks: [
+				{
+					id: "27DD3398E5B4FB26"
+					type: "advancement"
+					advancement: "minecraft:story/form_obsidian"
+					criterion: ""
+				}
+			]
+			rewards: [
+				{
+					id: "23A84067614F3CE4"
+					type: "command"
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"It seems you have found the means to travel to \"},{\"text\":\"the Nether\",\"bold\":true,\"color\":\"red\"},{\"text\":\". This will bring chaos to not only you, but to the \"},{\"text\":\"entire realm\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\". Once you enter, it cannot be undone. Make sure you have the resolve to move forward before stepping in the portal.\"}]"
+				}
+			]
 		}
 		{
 			x: 8.0d
 			y: 9.5d
 			id: "51C591B72D064DF6"
-			tasks: [{
-				id: "1BB39A93534297E1"
-				type: "advancement"
-				advancement: "custom:horse_taming"
-				criterion: ""
-			}]
-			rewards: [{
-				id: "3542688F80E1C6D8"
-				type: "command"
-				auto: "invisible"
-				command: "/tellraw @p {\"text\":\"Congratulations on taming your first horse! You can now set it to your personal horse (Press \\\"J\\\"), and call your horse from anywhere in the realm (Press \\\"H).\"}"
-				player_command: false
-			}]
+			tasks: [
+				{
+					id: "1BB39A93534297E1"
+					type: "advancement"
+					advancement: "custom:horse_taming"
+					criterion: ""
+				}
+			]
+			rewards: [
+				{
+					id: "3542688F80E1C6D8"
+					type: "command"
+					auto: "invisible"
+					command: "/tellraw @p {\"text\":\"Congratulations on taming your first horse! You can now set it to your personal horse (Press \\\"J\\\"), and call your horse from anywhere in the realm (Press \\\"H).\"}"
+				}
+			]
 		}
 		{
 			x: 12.0d
 			y: 11.5d
 			id: "4B8C2FA15D33F227"
-			tasks: [{
-				id: "20823B8E47A05413"
-				type: "structure"
-				structure: "#custom:village"
-			}]
-			rewards: [{
-				id: "7B0591F07EC96892"
-				type: "command"
-				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"Seems you've found a village! You can interact with villagers who have exclamation marks above their head. Some of them provide \"},{\"text\":\"knowledge \",\"bold\":true,\"color\":\"green\"},{\"text\":\"required to work with certain blocks such as Loom, Fletching Table, etc... But for most of the useful blocks, such as Anvil, Enchanting Table, Smithing Table, etc... You will want to learn it from the \"},{\"text\":\"Guild Master\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\". Find villagers wearing blue robe and start your journey!\"}]"
-				player_command: false
-			}]
+			tasks: [
+				{
+					id: "20823B8E47A05413"
+					type: "structure"
+					structure: "#custom:village"
+				}
+			]
+			rewards: [
+				{
+					id: "7B0591F07EC96892"
+					type: "command"
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"Seems you've found a village! You can interact with villagers who have exclamation marks above their head. Some of them provide \"},{\"text\":\"knowledge \",\"bold\":true,\"color\":\"green\"},{\"text\":\"required to work with certain blocks such as Loom, Fletching Table, etc... But for most of the useful blocks, such as Anvil, Enchanting Table, Smithing Table, etc... You will want to learn it from the \"},{\"text\":\"Guild Master\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\". Find villagers wearing blue robe and start your journey!\"}]"
+				}
+			]
 		}
 		{
 			x: 9.0d
 			y: 12.0d
 			id: "7421B261F576DF4A"
-			tasks: [{
-				id: "0A5CCAED8472C7E3"
-				type: "item"
-				item: "quest_giver:trading_contract_armorer"
-				consume_items: false
-				only_from_crafting: false
-			}]
+			tasks: [
+				{
+					id: "0A5CCAED8472C7E3"
+					type: "item"
+					item: "quest_giver:trading_contract_armorer"
+					consume_items: false
+					only_from_crafting: false
+				}
+			]
 		}
 		{
 			x: 12.0d
@@ -959,441 +1037,515 @@
 			]
 			dependency_requirement: "one_completed"
 			id: "35A8482178348A34"
-			tasks: [{
-				id: "0218EE8856119CA5"
-				type: "stat"
-				stat: "minecraft:play_time"
-				value: 1
-			}]
-			rewards: [{
-				id: "01214ACE5D82E719"
-				type: "command"
-				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"Seems you've obtained a trading scroll! Note that trade prices are absurdly \"},{\"text\":\"high \",\"bold\":true,\"color\":\"red\"},{\"text\":\"when you are have neutral reputation. Gain higher reputation by completing Villager quests. Once villagers start to like you, you will see the trade prices drop \"},{\"text\":\"tremendously\",\"bold\":true,\"color\":\"green\"},{\"text\":\"!\"}]"
-				player_command: false
-			}]
+			tasks: [
+				{
+					id: "0218EE8856119CA5"
+					type: "stat"
+					stat: "minecraft:play_time"
+					value: 1
+				}
+			]
+			rewards: [
+				{
+					id: "01214ACE5D82E719"
+					type: "command"
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"Seems you've obtained a trading scroll! Note that trade prices are absurdly \"},{\"text\":\"high \",\"bold\":true,\"color\":\"red\"},{\"text\":\"when you are have neutral reputation. Gain higher reputation by completing Villager quests. Once villagers start to like you, you will see the trade prices drop \"},{\"text\":\"tremendously\",\"bold\":true,\"color\":\"green\"},{\"text\":\"!\"}]"
+				}
+			]
 		}
 		{
 			x: 8.0d
 			y: 13.0d
 			id: "1F977369F2F64D5F"
-			tasks: [{
-				id: "6F9B268EEB8CFC06"
-				type: "item"
-				item: "quest_giver:trading_contract_butcher"
-				consume_items: false
-				only_from_crafting: false
-			}]
+			tasks: [
+				{
+					id: "6F9B268EEB8CFC06"
+					type: "item"
+					item: "quest_giver:trading_contract_butcher"
+					consume_items: false
+					only_from_crafting: false
+				}
+			]
 		}
 		{
 			x: 8.0d
 			y: 14.5d
 			id: "6D8450B5E1D368EC"
-			tasks: [{
-				id: "076B6B156AE5BD64"
-				type: "item"
-				item: "quest_giver:trading_contract_cartographer"
-				consume_items: false
-				only_from_crafting: false
-			}]
+			tasks: [
+				{
+					id: "076B6B156AE5BD64"
+					type: "item"
+					item: "quest_giver:trading_contract_cartographer"
+					consume_items: false
+					only_from_crafting: false
+				}
+			]
 		}
 		{
 			x: 9.5d
 			y: 15.5d
 			id: "41B762D3144BCD23"
-			tasks: [{
-				id: "40167F388ED4275A"
-				type: "item"
-				item: "quest_giver:trading_contract_cleric"
-				consume_items: false
-				only_from_crafting: false
-			}]
+			tasks: [
+				{
+					id: "40167F388ED4275A"
+					type: "item"
+					item: "quest_giver:trading_contract_cleric"
+					consume_items: false
+					only_from_crafting: false
+				}
+			]
 		}
 		{
 			x: 9.0d
 			y: 17.0d
 			id: "333219B7159F0870"
-			tasks: [{
-				id: "2B93521C491C4F51"
-				type: "item"
-				item: "quest_giver:trading_contract_farmer"
-				consume_items: false
-				only_from_crafting: false
-			}]
+			tasks: [
+				{
+					id: "2B93521C491C4F51"
+					type: "item"
+					item: "quest_giver:trading_contract_farmer"
+					consume_items: false
+					only_from_crafting: false
+				}
+			]
 		}
 		{
 			x: 10.5d
 			y: 18.0d
 			id: "7DACD6F0B43A5189"
-			tasks: [{
-				id: "500702FC1372311F"
-				type: "item"
-				item: "quest_giver:trading_contract_fisherman"
-				consume_items: false
-				only_from_crafting: false
-			}]
+			tasks: [
+				{
+					id: "500702FC1372311F"
+					type: "item"
+					item: "quest_giver:trading_contract_fisherman"
+					consume_items: false
+					only_from_crafting: false
+				}
+			]
 		}
 		{
 			x: 8.5d
 			y: 19.0d
 			id: "74822C6AEAAAFF43"
-			tasks: [{
-				id: "0F8CBE299097B30A"
-				type: "item"
-				item: "quest_giver:trading_contract_fletcher"
-				consume_items: false
-				only_from_crafting: false
-			}]
+			tasks: [
+				{
+					id: "0F8CBE299097B30A"
+					type: "item"
+					item: "quest_giver:trading_contract_fletcher"
+					consume_items: false
+					only_from_crafting: false
+				}
+			]
 		}
 		{
 			x: 12.0d
 			y: 19.0d
 			id: "04AA8348D474A740"
-			tasks: [{
-				id: "21F60E80E88D848C"
-				type: "item"
-				item: "quest_giver:trading_contract_leatherworker"
-				consume_items: false
-				only_from_crafting: false
-			}]
+			tasks: [
+				{
+					id: "21F60E80E88D848C"
+					type: "item"
+					item: "quest_giver:trading_contract_leatherworker"
+					consume_items: false
+					only_from_crafting: false
+				}
+			]
 		}
 		{
 			x: 14.0d
 			y: 18.5d
 			id: "71629BA55EB99037"
-			tasks: [{
-				id: "3C7C6D2C9D84D12A"
-				type: "item"
-				item: "quest_giver:trading_contract_librarian"
-				consume_items: false
-				only_from_crafting: false
-			}]
+			tasks: [
+				{
+					id: "3C7C6D2C9D84D12A"
+					type: "item"
+					item: "quest_giver:trading_contract_librarian"
+					consume_items: false
+					only_from_crafting: false
+				}
+			]
 		}
 		{
 			x: 13.5d
 			y: 20.0d
 			id: "4C08BA194DDD97FD"
-			tasks: [{
-				id: "229396FCF2F84ACB"
-				type: "item"
-				item: "quest_giver:trading_contract_mason"
-				consume_items: false
-				only_from_crafting: false
-			}]
+			tasks: [
+				{
+					id: "229396FCF2F84ACB"
+					type: "item"
+					item: "quest_giver:trading_contract_mason"
+					consume_items: false
+					only_from_crafting: false
+				}
+			]
 		}
 		{
 			x: 15.5d
 			y: 19.5d
 			id: "2ADB50F6C7D55A4E"
-			tasks: [{
-				id: "56CB94402479A8A1"
-				type: "item"
-				item: "quest_giver:trading_contract_shepherd"
-				consume_items: false
-				only_from_crafting: false
-			}]
+			tasks: [
+				{
+					id: "56CB94402479A8A1"
+					type: "item"
+					item: "quest_giver:trading_contract_shepherd"
+					consume_items: false
+					only_from_crafting: false
+				}
+			]
 		}
 		{
 			x: 16.5d
 			y: 18.0d
 			id: "3508C5BFAFFD2E57"
-			tasks: [{
-				id: "691F13F285B83DF1"
-				type: "item"
-				item: "quest_giver:trading_contract_toolsmith"
-				consume_items: false
-				only_from_crafting: false
-			}]
+			tasks: [
+				{
+					id: "691F13F285B83DF1"
+					type: "item"
+					item: "quest_giver:trading_contract_toolsmith"
+					consume_items: false
+					only_from_crafting: false
+				}
+			]
 		}
 		{
 			x: 16.5d
 			y: 16.5d
 			id: "465A8FD911007CFD"
-			tasks: [{
-				id: "32F6E8E32D9DE46C"
-				type: "item"
-				item: "quest_giver:trading_contract_weaponsmith"
-				consume_items: false
-				only_from_crafting: false
-			}]
+			tasks: [
+				{
+					id: "32F6E8E32D9DE46C"
+					type: "item"
+					item: "quest_giver:trading_contract_weaponsmith"
+					consume_items: false
+					only_from_crafting: false
+				}
+			]
 		}
 		{
 			x: 17.0d
 			y: 15.0d
 			id: "4A829B8241158DF4"
-			tasks: [{
-				id: "2A305B7C101FCFC6"
-				type: "item"
-				item: "quest_giver:trading_contract_enderian"
-				consume_items: false
-				only_from_crafting: false
-			}]
+			tasks: [
+				{
+					id: "2A305B7C101FCFC6"
+					type: "item"
+					item: "quest_giver:trading_contract_enderian"
+					consume_items: false
+					only_from_crafting: false
+				}
+			]
 		}
 		{
 			x: 15.5d
 			y: 13.5d
 			id: "5A0962ADC9D529B6"
-			tasks: [{
-				id: "1B73B3A07F1430C3"
-				type: "item"
-				item: "quest_giver:trading_contract_engineer"
-				consume_items: false
-				only_from_crafting: false
-			}]
+			tasks: [
+				{
+					id: "1B73B3A07F1430C3"
+					type: "item"
+					item: "quest_giver:trading_contract_engineer"
+					consume_items: false
+					only_from_crafting: false
+				}
+			]
 		}
 		{
 			x: 17.0d
 			y: 13.0d
 			id: "1A1482D754212E41"
-			tasks: [{
-				id: "3F6D9DD4864EDB7D"
-				type: "item"
-				item: "quest_giver:trading_contract_florist"
-				consume_items: false
-				only_from_crafting: false
-			}]
+			tasks: [
+				{
+					id: "3F6D9DD4864EDB7D"
+					type: "item"
+					item: "quest_giver:trading_contract_florist"
+					consume_items: false
+					only_from_crafting: false
+				}
+			]
 		}
 		{
 			x: 14.0d
 			y: 12.0d
 			id: "3F28BD56A8288635"
-			tasks: [{
-				id: "48D2F606C4CBFA6A"
-				type: "item"
-				item: "quest_giver:trading_contract_hunter"
-				consume_items: false
-				only_from_crafting: false
-			}]
+			tasks: [
+				{
+					id: "48D2F606C4CBFA6A"
+					type: "item"
+					item: "quest_giver:trading_contract_hunter"
+					consume_items: false
+					only_from_crafting: false
+				}
+			]
 		}
 		{
 			x: 16.0d
 			y: 11.0d
 			id: "4C198D7D3B8DE05F"
-			tasks: [{
-				id: "7E1448E1E85BD31E"
-				type: "item"
-				item: "quest_giver:trading_contract_netherian"
-				consume_items: false
-				only_from_crafting: false
-			}]
+			tasks: [
+				{
+					id: "7E1448E1E85BD31E"
+					type: "item"
+					item: "quest_giver:trading_contract_netherian"
+					consume_items: false
+					only_from_crafting: false
+				}
+			]
 		}
 		{
 			x: 19.0d
 			y: 14.5d
 			id: "05C300A1336C059B"
-			tasks: [{
-				id: "222267579E87B9FB"
-				type: "item"
-				item: "quest_giver:trading_contract_oceanographer"
-				consume_items: false
-				only_from_crafting: false
-			}]
+			tasks: [
+				{
+					id: "222267579E87B9FB"
+					type: "item"
+					item: "quest_giver:trading_contract_oceanographer"
+					consume_items: false
+					only_from_crafting: false
+				}
+			]
 		}
 		{
 			x: 19.0d
 			y: 16.5d
 			id: "50EDC42B9FDF0A6D"
-			tasks: [{
-				id: "500A758486598E96"
-				type: "item"
-				item: "quest_giver:trading_contract_woodworker"
-				consume_items: false
-				only_from_crafting: false
-			}]
+			tasks: [
+				{
+					id: "500A758486598E96"
+					type: "item"
+					item: "quest_giver:trading_contract_woodworker"
+					consume_items: false
+					only_from_crafting: false
+				}
+			]
 		}
 		{
 			x: 18.0d
 			y: 18.5d
 			id: "2F1E5B6BF381C876"
-			tasks: [{
-				id: "2B4B482F1450489F"
-				type: "item"
-				item: "quest_giver:trading_contract_miner"
-				consume_items: false
-				only_from_crafting: false
-			}]
+			tasks: [
+				{
+					id: "2B4B482F1450489F"
+					type: "item"
+					item: "quest_giver:trading_contract_miner"
+					consume_items: false
+					only_from_crafting: false
+				}
+			]
 		}
 		{
 			x: 14.5d
 			y: 7.5d
 			id: "6987CDB9C0CD49D1"
-			tasks: [{
-				id: "7D7A9F43F523C355"
-				type: "advancement"
-				advancement: "custom:begone_witch/begone_witch"
-				criterion: ""
-			}]
-			rewards: [{
-				id: "74D469B419C12F4A"
-				type: "command"
-				auto: "invisible"
-				command: "/advancement revoke @p only custom:tricked/tricked"
-				player_command: false
-			}]
+			tasks: [
+				{
+					id: "7D7A9F43F523C355"
+					type: "advancement"
+					advancement: "custom:begone_witch/begone_witch"
+					criterion: ""
+				}
+			]
+			rewards: [
+				{
+					id: "74D469B419C12F4A"
+					type: "command"
+					auto: "invisible"
+					command: "/advancement revoke @p only custom:tricked/tricked"
+				}
+			]
 		}
 		{
 			x: 7.5d
 			y: 11.0d
 			id: "32223884E09F7B5A"
-			tasks: [{
-				id: "3AD650A6B5CB5103"
-				type: "item"
-				item: "paraglider:essence"
-			}]
-			rewards: [{
-				id: "1246B523C0F3419C"
-				type: "command"
-				auto: "invisible"
-				command: "/tellraw @p [\"\",{\"text\":\"You have obtained an \"},{\"text\":\"essence\",\"bold\":true,\"color\":\"red\"},{\"text\":\". You'll need to consume it for the horned statue to recognize it.\"}]"
-				player_command: false
-			}]
+			tasks: [
+				{
+					id: "3AD650A6B5CB5103"
+					type: "item"
+					item: "paraglider:essence"
+				}
+			]
+			rewards: [
+				{
+					id: "1246B523C0F3419C"
+					type: "command"
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You have obtained an \"},{\"text\":\"essence\",\"bold\":true,\"color\":\"red\"},{\"text\":\". You'll need to consume it for the horned statue to recognize it.\"}]"
+				}
+			]
 		}
 		{
 			x: 15.5d
 			y: 5.5d
 			id: "1BF783F3710F1DCC"
-			tasks: [{
-				id: "2C2A64D0FD9494EC"
-				type: "item"
-				item: {
-					id: "minecraft:filled_map"
-					Count: 1b
-					tag: {
-						display: {
-							Name: "{\"text\":\"A Suspicious Map\"}"
-							Lore: ["{\"text\":\"A map given by a fallen adventurer to locate a church.\"}"]
+			tasks: [
+				{
+					id: "2C2A64D0FD9494EC"
+					type: "item"
+					item: {
+						id: "minecraft:filled_map"
+						Count: 1b
+						tag: {
+							display: {
+								Name: "{\"text\":\"A Suspicious Map\"}"
+								Lore: ["{\"text\":\"A map given by a fallen adventurer to locate a church.\"}"]
+							}
+							Decorations: [
+								{
+									type: 26b
+									x: 3840.0d
+									id: "+"
+									z: 32.0d
+									rot: 180.0d
+								}
+							]
+							map: 4
 						}
-						Decorations: [{
-							type: 26b
-							x: 3840.0d
-							id: "+"
-							z: 32.0d
-							rot: 180.0d
-						}]
-						map: 4
 					}
+					consume_items: false
+					only_from_crafting: false
+					match_nbt: true
 				}
-				consume_items: false
-				only_from_crafting: false
-				match_nbt: true
-			}]
-			rewards: [{
-				id: "428D7CF2521D1E68"
-				type: "gamestage"
-				auto: "invisible"
-				ignore_reward_blocking: true
-				stage: "dg2q"
-			}]
+			]
+			rewards: [
+				{
+					id: "428D7CF2521D1E68"
+					type: "gamestage"
+					auto: "invisible"
+					ignore_reward_blocking: true
+					stage: "dg2q"
+				}
+			]
 		}
 		{
 			x: 16.5d
 			y: 6.5d
 			id: "4B1EE4CEB29F9553"
-			tasks: [{
-				id: "1BD47793B99125A4"
-				type: "item"
-				item: {
-					id: "minecraft:filled_map"
-					Count: 1b
-					tag: {
-						display: {
-							Name: "{\"text\":\"Location of the Father\"}"
-							Lore: ["{\"text\":\"Father Gascoigne's whereabouts.\"}"]
+			tasks: [
+				{
+					id: "1BD47793B99125A4"
+					type: "item"
+					item: {
+						id: "minecraft:filled_map"
+						Count: 1b
+						tag: {
+							display: {
+								Name: "{\"text\":\"Location of the Father\"}"
+								Lore: ["{\"text\":\"Father Gascoigne's whereabouts.\"}"]
+							}
+							Decorations: [
+								{
+									type: 26b
+									x: -4400.0d
+									id: "+"
+									z: 736.0d
+									rot: 180.0d
+								}
+							]
+							map: 3
 						}
-						Decorations: [{
-							type: 26b
-							x: -4400.0d
-							id: "+"
-							z: 736.0d
-							rot: 180.0d
-						}]
-						map: 3
 					}
+					only_from_crafting: false
+					match_nbt: true
 				}
-				only_from_crafting: false
-				match_nbt: true
-			}]
-			rewards: [{
-				id: "0F361DAC16E3F56F"
-				type: "gamestage"
-				auto: "invisible"
-				ignore_reward_blocking: true
-				stage: "dg2q2"
-			}]
+			]
+			rewards: [
+				{
+					id: "0F361DAC16E3F56F"
+					type: "gamestage"
+					auto: "invisible"
+					ignore_reward_blocking: true
+					stage: "dg2q2"
+				}
+			]
 		}
 		{
 			x: 17.0d
 			y: 8.0d
 			id: "4BB2FAEBF28B584E"
-			tasks: [{
-				id: "57A723698221D811"
-				type: "item"
-				item: {
-					id: "minecraft:filled_map"
-					Count: 1b
-					tag: {
-						display: {
-							Name: "{\"text\":\"The True End's Portal\"}"
-							Lore: ["{\"text\":\"A map leading you to the most powerful being within the realm.\"}"]
+			tasks: [
+				{
+					id: "57A723698221D811"
+					type: "item"
+					item: {
+						id: "minecraft:filled_map"
+						Count: 1b
+						tag: {
+							display: {
+								Name: "{\"text\":\"The True End's Portal\"}"
+								Lore: ["{\"text\":\"A map leading you to the most powerful being within the realm.\"}"]
+							}
+							Decorations: [
+								{
+									type: 26b
+									rot: 180.0d
+									id: "+"
+									z: -416.0d
+									x: -1456.0d
+								}
+							]
+							map: 2
 						}
-						Decorations: [{
-							type: 26b
-							rot: 180.0d
-							id: "+"
-							z: -416.0d
-							x: -1456.0d
-						}]
-						map: 2
 					}
+					consume_items: false
+					only_from_crafting: false
+					match_nbt: true
 				}
-				consume_items: false
-				only_from_crafting: false
-				match_nbt: true
-			}]
-			rewards: [{
-				id: "2274C54EF9ADD546"
-				type: "gamestage"
-				auto: "invisible"
-				ignore_reward_blocking: true
-				stage: "skull"
-			}]
+			]
+			rewards: [
+				{
+					id: "2274C54EF9ADD546"
+					type: "gamestage"
+					auto: "invisible"
+					ignore_reward_blocking: true
+					stage: "skull"
+				}
+			]
 		}
 		{
-			title: "{chapter.1.quest.63.title}"
+			title: "{ftbquests.chapter.test.quests62.title}"
 			x: 4.0d
 			y: 12.0d
 			id: "39AE937D10D1E511"
-			tasks: [{
-				id: "5958189AB8F61142"
-				type: "advancement"
-				advancement: "custom:death"
-				criterion: ""
-			}]
-			rewards: [{
-				id: "01BE88C49BEF5128"
-				type: "command"
-				auto: "enabled"
-				command: "/tellraw @p [\"\",{\"text\":\"\\nIf you need a little help, click on the \\\"\"},{\"text\":\"Quests\",\"bold\":true,\"color\":\"green\"},{\"text\":\"\\\" tab while accessing your inventory.\\n \"}]"
-				player_command: false
-			}]
+			tasks: [
+				{
+					id: "5958189AB8F61142"
+					type: "advancement"
+					advancement: "custom:death"
+					criterion: ""
+				}
+			]
+			rewards: [
+				{
+					id: "01BE88C49BEF5128"
+					type: "command"
+					auto: "enabled"
+					command: "/tellraw @p [\"\",{\"text\":\"\\nIf you need a little help, click on the \\\"\"},{\"text\":\"Quests\",\"bold\":true,\"color\":\"green\"},{\"text\":\"\\\" tab while accessing your inventory.\\n \"}]"
+				}
+			]
 		}
 		{
 			x: 14.5d
 			y: 3.0d
 			id: "3F08F2F803F87980"
-			tasks: [{
-				id: "51880F9956E4D192"
-				type: "stat"
-				stat: "minecraft:walk_one_cm"
-				value: 1000
-			}]
-			rewards: [{
-				id: "6CF76406E5D73F1A"
-				type: "advancement"
-				auto: "enabled"
-				advancement: "custom:100_blocks"
-				criterion: ""
-			}]
+			tasks: [
+				{
+					id: "51880F9956E4D192"
+					type: "stat"
+					stat: "minecraft:walk_one_cm"
+					value: 1000
+				}
+			]
+			rewards: [
+				{
+					id: "6CF76406E5D73F1A"
+					type: "advancement"
+					auto: "enabled"
+					advancement: "custom:100_blocks"
+					criterion: ""
+				}
+			]
 		}
 	]
 	quest_links: [ ]

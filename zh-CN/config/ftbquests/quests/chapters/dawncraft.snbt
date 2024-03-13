@@ -1,95 +1,120 @@
 {
 	id: "3EE7B887A0FC6FCD"
-	group: ""
-	order_index: 2
+	group: "0A520B482648497B"
+	order_index: 0
 	filename: "dawncraft"
-	title: "{chapter.3.title}"
+	title: "{ftbquests.chapter.dawncraft.title}"
 	icon: "minecraft:writable_book"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "{chapter.3.quest.1.title}"
+			title: "{ftbquests.chapter.dawncraft.quests0.title}"
 			icon: "minecraft:filled_map"
 			x: -3.75d
 			y: -5.25d
-			description: ["{chapter.3.quest.1.description.1}"]
+			description: ["{ftbquests.chapter.dawncraft.quests0.description}"]
 			dependencies: ["6A377E0BD0B45BC5"]
 			size: 1.5d
 			id: "2E56DF35467BE295"
-			tasks: [{
-				id: "3AF5CCBA45F6DC78"
-				type: "checkmark"
-				title: "{chapter.3.quest.1.task.1.title}"
-			}]
-			rewards: [{
-				id: "55079C6539007C92"
-				type: "xp"
-				auto: "enabled"
-				xp: 1
-			}]
+			tasks: [
+				{
+					id: "3AF5CCBA45F6DC78"
+					type: "checkmark"
+					title: "{ftbquests.chapter.dawncraft.quests0.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "55079C6539007C92"
+					type: "xp"
+					auto: "enabled"
+					xp: 1
+				}
+				{
+					id: "4EF1DA20073480F5"
+					type: "item"
+					item: "minecraft:spyglass"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.2.title}"
+			title: "{ftbquests.chapter.dawncraft.quests1.title}"
 			icon: "ftbquests:book"
 			x: -1.5d
 			y: -5.25d
-			description: ["{chapter.3.quest.2.description.1}"]
+			description: [
+				"{ftbquests.chapter.dawncraft.quests1.description0}"
+				""
+				""
+			]
 			dependencies: ["6A377E0BD0B45BC5"]
 			size: 1.5d
 			id: "49AF23C212917B34"
-			tasks: [{
-				id: "0C802152D8EA3267"
-				type: "checkmark"
-				title: "{chapter.3.quest.2.task.1.title}"
-			}]
-			rewards: [{
-				id: "15E44BAE1B24BC74"
-				type: "xp"
-				auto: "enabled"
-				xp: 1
-			}]
+			tasks: [
+				{
+					id: "0C802152D8EA3267"
+					type: "checkmark"
+					title: "{ftbquests.chapter.dawncraft.quests1.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "15E44BAE1B24BC74"
+					type: "xp"
+					auto: "enabled"
+					xp: 1
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.3.title}"
+			title: "{ftbquests.chapter.dawncraft.quests2.title}"
 			x: -1.5d
 			y: -3.0d
-			description: ["{chapter.3.quest.3.description.1}"]
+			description: ["{ftbquests.chapter.dawncraft.quests2.description}"]
 			dependencies: ["49AF23C212917B34"]
 			id: "257D44B8882C8937"
-			tasks: [{
-				id: "0112D4788B97E2CF"
-				type: "item"
-				item: "simple_mobs:bundled_emerald"
-			}]
-			rewards: [{
-				id: "41D3DABF7AA2424E"
-				type: "item"
-				item: "minecraft:cookie"
-			}]
+			tasks: [
+				{
+					id: "0112D4788B97E2CF"
+					type: "item"
+					item: "simple_mobs:bundled_emerald"
+				}
+			]
+			rewards: [
+				{
+					id: "41D3DABF7AA2424E"
+					type: "item"
+					item: "minecraft:cookie"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.4.title}"
+			title: "{ftbquests.chapter.dawncraft.quests3.title}"
 			icon: "quest_giver:trading_contract_armorer"
 			x: -1.5d
 			y: -1.5d
-			description: ["{chapter.3.quest.4.description.1}"]
+			description: ["{ftbquests.chapter.dawncraft.quests3.description}"]
 			dependencies: ["257D44B8882C8937"]
 			id: "58CD06935381272E"
-			tasks: [{
-				id: "588DE458E9165C5C"
-				type: "checkmark"
-				title: "{chapter.3.quest.4.task.1.title}"
-			}]
-			rewards: [{
-				id: "115B9E78CBA9C892"
-				type: "xp"
-				auto: "enabled"
-				xp: 1
-			}]
+			tasks: [
+				{
+					id: "588DE458E9165C5C"
+					type: "checkmark"
+					title: "{ftbquests.chapter.dawncraft.quests3.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "115B9E78CBA9C892"
+					type: "xp"
+					auto: "enabled"
+					xp: 1
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.5.title}"
+			title: "{ftbquests.chapter.dawncraft.quests4.title}"
 			icon: {
 				id: "magistuarmory:wingedhussar_chestplate"
 				Count: 1b
@@ -166,17 +191,18 @@
 					consume_items: true
 				}
 			]
-			rewards: [{
-				id: "2DD17758B701B4FC"
-				type: "command"
-				title: "{chapter.3.quest.5.reward.1.title}"
-				icon: "quest_giver:trading_contract_toolsmith"
-				command: "/advancement grant @p only custom:trade_armorer"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "2DD17758B701B4FC"
+					type: "command"
+					title: "{ftbquests.chapter.dawncraft.quests4.rewards0.title}"
+					icon: "quest_giver:trading_contract_toolsmith"
+					command: "/advancement grant @p only custom:trade_armorer"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.6.title}"
+			title: "{ftbquests.chapter.dawncraft.quests5.title}"
 			icon: "minecraft:beef"
 			x: -3.0d
 			y: -1.5d
@@ -220,17 +246,18 @@
 					consume_items: true
 				}
 			]
-			rewards: [{
-				id: "5492946DB1DDE5EA"
-				type: "command"
-				title: "{chapter.3.quest.6.reward.1.title}"
-				icon: "quest_giver:trading_contract_cartographer"
-				command: "/advancement grant @p only custom:trade_butcher"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "5492946DB1DDE5EA"
+					type: "command"
+					title: "{ftbquests.chapter.dawncraft.quests5.rewards0.title}"
+					icon: "quest_giver:trading_contract_cartographer"
+					command: "/advancement grant @p only custom:trade_butcher"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.7.title}"
+			title: "{ftbquests.chapter.dawncraft.quests6.title}"
 			icon: "minecraft:filled_map"
 			x: -2.5d
 			y: -0.5d
@@ -274,17 +301,18 @@
 					consume_items: true
 				}
 			]
-			rewards: [{
-				id: "280B1951564FE37C"
-				type: "command"
-				title: "{chapter.3.quest.7.reward.1.title}"
-				icon: "quest_giver:trading_contract_cartographer"
-				command: "/advancement grant @p only custom:trade_cartographer"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "280B1951564FE37C"
+					type: "command"
+					title: "{ftbquests.chapter.dawncraft.quests6.rewards0.title}"
+					icon: "quest_giver:trading_contract_cartographer"
+					command: "/advancement grant @p only custom:trade_cartographer"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.8.title}"
+			title: "{ftbquests.chapter.dawncraft.quests7.title}"
 			icon: "minecraft:brewing_stand"
 			x: -1.5d
 			y: 0.0d
@@ -327,17 +355,18 @@
 					consume_items: true
 				}
 			]
-			rewards: [{
-				id: "72B10BBF2C498725"
-				type: "command"
-				title: "{chapter.3.quest.8.reward.1.title}"
-				icon: "quest_giver:trading_contract_armorer"
-				command: "/advancement grant @p only custom:trade_cleric"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "72B10BBF2C498725"
+					type: "command"
+					title: "{ftbquests.chapter.dawncraft.quests7.rewards0.title}"
+					icon: "quest_giver:trading_contract_armorer"
+					command: "/advancement grant @p only custom:trade_cleric"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.9.title}"
+			title: "{ftbquests.chapter.dawncraft.quests8.title}"
 			icon: "minecraft:wheat"
 			x: -0.5d
 			y: -0.5d
@@ -395,17 +424,18 @@
 					consume_items: true
 				}
 			]
-			rewards: [{
-				id: "75629351AA1174D7"
-				type: "command"
-				title: "{chapter.3.quest.9.reward.1.title}"
-				icon: "quest_giver:trading_contract_armorer"
-				command: "/advancement grant @p only custom:trade_farmer"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "75629351AA1174D7"
+					type: "command"
+					title: "{ftbquests.chapter.dawncraft.quests8.rewards0.title}"
+					icon: "quest_giver:trading_contract_armorer"
+					command: "/advancement grant @p only custom:trade_farmer"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.10.title}"
+			title: "{ftbquests.chapter.dawncraft.quests9.title}"
 			icon: {
 				id: "minecraft:fishing_rod"
 				Count: 1b
@@ -455,17 +485,18 @@
 					consume_items: true
 				}
 			]
-			rewards: [{
-				id: "4A4AD406EF8E16E6"
-				type: "command"
-				title: "{chapter.3.quest.10.reward.1.title}"
-				icon: "quest_giver:trading_contract_armorer"
-				command: "/advancement grant @p only custom:trade_angler"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "4A4AD406EF8E16E6"
+					type: "command"
+					title: "{ftbquests.chapter.dawncraft.quests9.rewards0.title}"
+					icon: "quest_giver:trading_contract_armorer"
+					command: "/advancement grant @p only custom:trade_angler"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.11.title}"
+			title: "{ftbquests.chapter.dawncraft.quests10.title}"
 			icon: "minecraft:spectral_arrow"
 			x: -0.5d
 			y: -2.5d
@@ -521,17 +552,18 @@
 					consume_items: true
 				}
 			]
-			rewards: [{
-				id: "4E936AD991C6DF38"
-				type: "command"
-				title: "{chapter.3.quest.11.reward.1.title}"
-				icon: "quest_giver:trading_contract_armorer"
-				command: "/advancement grant @p only custom:trade_fletcher"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "4E936AD991C6DF38"
+					type: "command"
+					title: "{ftbquests.chapter.dawncraft.quests10.rewards0.title}"
+					icon: "quest_giver:trading_contract_armorer"
+					command: "/advancement grant @p only custom:trade_fletcher"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.12.title}"
+			title: "{ftbquests.chapter.dawncraft.quests11.title}"
 			icon: "minecraft:leather"
 			x: -2.5d
 			y: 0.5d
@@ -566,17 +598,18 @@
 					consume_items: true
 				}
 			]
-			rewards: [{
-				id: "562E3BBEF3358F4D"
-				type: "command"
-				title: "{chapter.3.quest.12.reward.1.title}"
-				icon: "quest_giver:trading_contract_armorer"
-				command: "/advancement grant @p only custom:trade_leatherworker"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "562E3BBEF3358F4D"
+					type: "command"
+					title: "{ftbquests.chapter.dawncraft.quests11.rewards0.title}"
+					icon: "quest_giver:trading_contract_armorer"
+					command: "/advancement grant @p only custom:trade_leatherworker"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.13.title}"
+			title: "{ftbquests.chapter.dawncraft.quests12.title}"
 			icon: "minecraft:book"
 			x: -0.5d
 			y: 0.5d
@@ -620,17 +653,18 @@
 					consume_items: true
 				}
 			]
-			rewards: [{
-				id: "199333E8368F50FE"
-				type: "command"
-				title: "{chapter.3.quest.13.reward.1.title}"
-				icon: "quest_giver:trading_contract_armorer"
-				command: "/advancement grant @p only custom:trade_librarian"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "199333E8368F50FE"
+					type: "command"
+					title: "{ftbquests.chapter.dawncraft.quests12.rewards0.title}"
+					icon: "quest_giver:trading_contract_armorer"
+					command: "/advancement grant @p only custom:trade_librarian"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.14.title}"
+			title: "{ftbquests.chapter.dawncraft.quests13.title}"
 			icon: "minecraft:stonecutter"
 			x: 0.5d
 			y: -0.5d
@@ -667,17 +701,18 @@
 					consume_items: true
 				}
 			]
-			rewards: [{
-				id: "02EC6E6E3EA0FE54"
-				type: "command"
-				title: "{chapter.3.quest.14.reward.1.title}"
-				icon: "quest_giver:trading_contract_butcher"
-				command: "/advancement grant @p only custom:trade_mason"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "02EC6E6E3EA0FE54"
+					type: "command"
+					title: "{ftbquests.chapter.dawncraft.quests13.rewards0.title}"
+					icon: "quest_giver:trading_contract_butcher"
+					command: "/advancement grant @p only custom:trade_mason"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.15.title}"
+			title: "{ftbquests.chapter.dawncraft.quests14.title}"
 			icon: {
 				id: "minecraft:shears"
 				Count: 1b
@@ -726,17 +761,18 @@
 					consume_items: true
 				}
 			]
-			rewards: [{
-				id: "4CE7B90D24F795E6"
-				type: "command"
-				title: "{chapter.3.quest.15.reward.1.title}"
-				icon: "quest_giver:trading_contract_armorer"
-				command: "/advancement grant @p only custom:trade_shepherd"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "4CE7B90D24F795E6"
+					type: "command"
+					title: "{ftbquests.chapter.dawncraft.quests14.rewards0.title}"
+					icon: "quest_giver:trading_contract_armorer"
+					command: "/advancement grant @p only custom:trade_shepherd"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.16.title}"
+			title: "{ftbquests.chapter.dawncraft.quests15.title}"
 			icon: {
 				id: "minecraft:diamond_shovel"
 				Count: 1b
@@ -802,17 +838,18 @@
 					consume_items: true
 				}
 			]
-			rewards: [{
-				id: "224712D630BBECBD"
-				type: "command"
-				title: "{chapter.3.quest.16.reward.1.title}"
-				icon: "quest_giver:trading_contract_butcher"
-				command: "/advancement grant @p only custom:trade_toolsmith"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "224712D630BBECBD"
+					type: "command"
+					title: "{ftbquests.chapter.dawncraft.quests15.rewards0.title}"
+					icon: "quest_giver:trading_contract_butcher"
+					command: "/advancement grant @p only custom:trade_toolsmith"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.17.title}"
+			title: "{ftbquests.chapter.dawncraft.quests16.title}"
 			icon: "minecraft:ender_pearl"
 			x: -3.5d
 			y: -2.5d
@@ -842,17 +879,18 @@
 					consume_items: true
 				}
 			]
-			rewards: [{
-				id: "66A352FA29523680"
-				type: "command"
-				title: "{chapter.3.quest.17.reward.1.title}"
-				icon: "quest_giver:trading_contract_cartographer"
-				command: "/advancement grant @p only custom:trade_enderian"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "66A352FA29523680"
+					type: "command"
+					title: "{ftbquests.chapter.dawncraft.quests16.rewards0.title}"
+					icon: "quest_giver:trading_contract_cartographer"
+					command: "/advancement grant @p only custom:trade_enderian"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.18.title}"
+			title: "{ftbquests.chapter.dawncraft.quests17.title}"
 			icon: "create:cogwheel"
 			x: -2.5d
 			y: -3.5d
@@ -889,17 +927,18 @@
 					consume_items: true
 				}
 			]
-			rewards: [{
-				id: "6754EE64FC4B32A7"
-				type: "command"
-				title: "{chapter.3.quest.18.reward.1.title}"
-				icon: "quest_giver:trading_contract_butcher"
-				command: "/advancement grant @p only custom:trade_engineer"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "6754EE64FC4B32A7"
+					type: "command"
+					title: "{ftbquests.chapter.dawncraft.quests17.rewards0.title}"
+					icon: "quest_giver:trading_contract_butcher"
+					command: "/advancement grant @p only custom:trade_engineer"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.19.title}"
+			title: "{ftbquests.chapter.dawncraft.quests18.title}"
 			icon: "minecraft:cornflower"
 			x: -0.5d
 			y: -3.5d
@@ -978,17 +1017,18 @@
 					consume_items: true
 				}
 			]
-			rewards: [{
-				id: "2F78A6D4D40AC92F"
-				type: "command"
-				title: "{chapter.3.quest.19.reward.1.title}"
-				icon: "quest_giver:trading_contract_armorer"
-				command: "/advancement grant @p only custom:trade_florist"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "2F78A6D4D40AC92F"
+					type: "command"
+					title: "{ftbquests.chapter.dawncraft.quests18.rewards0.title}"
+					icon: "quest_giver:trading_contract_armorer"
+					command: "/advancement grant @p only custom:trade_florist"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.20.title}"
+			title: "{ftbquests.chapter.dawncraft.quests19.title}"
 			icon: {
 				id: "minecraft:bow"
 				Count: 1b
@@ -1038,17 +1078,18 @@
 					consume_items: true
 				}
 			]
-			rewards: [{
-				id: "4F8105978561C3F2"
-				type: "command"
-				title: "{chapter.3.quest.20.reward.1.title}"
-				icon: "quest_giver:trading_contract_armorer"
-				command: "/advancement grant @p only custom:trade_hunter"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "4F8105978561C3F2"
+					type: "command"
+					title: "{ftbquests.chapter.dawncraft.quests19.rewards0.title}"
+					icon: "quest_giver:trading_contract_armorer"
+					command: "/advancement grant @p only custom:trade_hunter"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.21.title}"
+			title: "{ftbquests.chapter.dawncraft.quests20.title}"
 			icon: "minecraft:nether_wart_block"
 			x: 1.0d
 			y: -1.5d
@@ -1082,17 +1123,18 @@
 					consume_items: true
 				}
 			]
-			rewards: [{
-				id: "36C0B6E99A563254"
-				type: "command"
-				title: "{chapter.3.quest.21.reward.1.title}"
-				icon: "quest_giver:trading_contract_armorer"
-				command: "/advancement grant @p only custom:trade_netherian"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "36C0B6E99A563254"
+					type: "command"
+					title: "{ftbquests.chapter.dawncraft.quests20.rewards0.title}"
+					icon: "quest_giver:trading_contract_armorer"
+					command: "/advancement grant @p only custom:trade_netherian"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.22.title}"
+			title: "{ftbquests.chapter.dawncraft.quests21.title}"
 			icon: "minecraft:tropical_fish"
 			x: -4.0d
 			y: -1.5d
@@ -1147,17 +1189,18 @@
 					consume_items: true
 				}
 			]
-			rewards: [{
-				id: "11D8F8F81C6EDC24"
-				type: "command"
-				title: "{chapter.3.quest.22.reward.1.title}"
-				icon: "quest_giver:trading_contract_cleric"
-				command: "/advancement grant @p only custom:trade_oceanographer"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "11D8F8F81C6EDC24"
+					type: "command"
+					title: "{ftbquests.chapter.dawncraft.quests21.rewards0.title}"
+					icon: "quest_giver:trading_contract_cleric"
+					command: "/advancement grant @p only custom:trade_oceanographer"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.23.title}"
+			title: "{ftbquests.chapter.dawncraft.quests22.title}"
 			icon: {
 				id: "minecraft:diamond_axe"
 				Count: 1b
@@ -1212,17 +1255,18 @@
 					consume_items: true
 				}
 			]
-			rewards: [{
-				id: "405D1CDE2535D2DA"
-				type: "command"
-				title: "{chapter.3.quest.23.reward.1.title}"
-				icon: "quest_giver:trading_contract_armorer"
-				command: "/advancement grant @p only custom:trade_woodworker"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "405D1CDE2535D2DA"
+					type: "command"
+					title: "{ftbquests.chapter.dawncraft.quests22.rewards0.title}"
+					icon: "quest_giver:trading_contract_armorer"
+					command: "/advancement grant @p only custom:trade_woodworker"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.24.title}"
+			title: "{ftbquests.chapter.dawncraft.quests23.title}"
 			icon: {
 				id: "minecraft:diamond_pickaxe"
 				Count: 1b
@@ -1278,17 +1322,18 @@
 					only_from_crafting: false
 				}
 			]
-			rewards: [{
-				id: "165DAF1EB8D63AD1"
-				type: "command"
-				title: "{chapter.3.quest.24.reward.1.title}"
-				icon: "quest_giver:trading_contract_cartographer"
-				command: "/advancement grant @p only custom:trade_miner"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "165DAF1EB8D63AD1"
+					type: "command"
+					title: "{ftbquests.chapter.dawncraft.quests23.rewards0.title}"
+					icon: "quest_giver:trading_contract_cartographer"
+					command: "/advancement grant @p only custom:trade_miner"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.25.title}"
+			title: "{ftbquests.chapter.dawncraft.quests24.title}"
 			icon: "minecraft:honeycomb"
 			x: 0.0d
 			y: -4.5d
@@ -1318,17 +1363,18 @@
 					consume_items: true
 				}
 			]
-			rewards: [{
-				id: "63EC80BB59C9FD0F"
-				type: "command"
-				title: "{chapter.3.quest.25.reward.1.title}"
-				icon: "quest_giver:trading_contract_armorer"
-				command: "/advancement grant @p only custom:trade_beekeeper"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "63EC80BB59C9FD0F"
+					type: "command"
+					title: "{ftbquests.chapter.dawncraft.quests24.rewards0.title}"
+					icon: "quest_giver:trading_contract_armorer"
+					command: "/advancement grant @p only custom:trade_beekeeper"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.26.title}"
+			title: "{ftbquests.chapter.dawncraft.quests25.title}"
 			icon: {
 				id: "minecraft:leather_boots"
 				Count: 1b
@@ -1338,76 +1384,98 @@
 			}
 			x: 1.5d
 			y: -5.25d
-			description: ["{chapter.3.quest.26.description.1}"]
+			description: [
+				"{ftbquests.chapter.dawncraft.quests25.description0}"
+				"{ftbquests.chapter.dawncraft.quests25.description1}"
+			]
 			dependencies: ["6A377E0BD0B45BC5"]
 			size: 1.5d
 			id: "5165327673FA3C3A"
-			tasks: [{
-				id: "6283927290D3C7E3"
-				type: "checkmark"
-				title: "{chapter.3.quest.26.task.1.title}"
-			}]
-			rewards: [{
-				id: "261360F8E570AB79"
-				type: "xp"
-				auto: "enabled"
-				xp: 1
-			}]
+			tasks: [
+				{
+					id: "6283927290D3C7E3"
+					type: "checkmark"
+					title: "{ftbquests.chapter.dawncraft.quests25.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "261360F8E570AB79"
+					type: "xp"
+					auto: "enabled"
+					xp: 1
+				}
+				{
+					id: "4DB5E42E70011D83"
+					type: "item"
+					item: "minecraft:compass"
+				}
+			]
 		}
 		{
 			x: 2.0d
 			y: -3.0d
-			description: ["{chapter.3.quest.27.description.1}"]
+			description: ["{ftbquests.chapter.dawncraft.quests26.description}"]
 			dependencies: ["5165327673FA3C3A"]
 			id: "5F8E6856198022AB"
-			tasks: [{
-				id: "24BD29A64D572082"
-				type: "item"
-				item: "paraglider:paraglider"
-			}]
-			rewards: [{
-				id: "62BF1A01EBAA2CA3"
-				type: "item"
-				item: "untamedwilds:food_bear_cooked"
-				count: 5
-			}]
+			tasks: [
+				{
+					id: "24BD29A64D572082"
+					type: "item"
+					item: "paraglider:paraglider"
+				}
+			]
+			rewards: [
+				{
+					id: "62BF1A01EBAA2CA3"
+					type: "item"
+					item: "untamedwilds:food_bear_cooked"
+					count: 5
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.28.title}"
+			title: "{ftbquests.chapter.dawncraft.quests27.title}"
 			icon: "paraglider:spirit_orb"
 			x: 2.0d
 			y: -1.5d
-			description: ["{chapter.3.quest.28.description.1}"]
+			description: ["{ftbquests.chapter.dawncraft.quests27.description}"]
 			dependencies: ["5F8E6856198022AB"]
 			id: "1C144F8F242A570F"
-			tasks: [{
-				id: "4382A321D9130B3D"
-				type: "checkmark"
-				title: "{chapter.3.quest.28.task.1.title}"
-			}]
-			rewards: [{
-				id: "61F5F77070CF6EF8"
-				type: "item"
-				item: "paraglider:essence"
-			}]
+			tasks: [
+				{
+					id: "4382A321D9130B3D"
+					type: "checkmark"
+					title: "{ftbquests.chapter.dawncraft.quests27.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "61F5F77070CF6EF8"
+					type: "item"
+					item: "paraglider:essence"
+				}
+			]
 		}
 		{
 			x: 2.0d
 			y: 0.0d
-			description: ["{chapter.3.quest.29.description.1}"]
+			description: ["{ftbquests.chapter.dawncraft.quests28.description}"]
 			dependencies: ["1C144F8F242A570F"]
 			id: "55A2F317B39F413E"
-			tasks: [{
-				id: "5E57594EE69E1505"
-				type: "item"
-				item: {
-					id: "waystones:warp_stone"
-					Count: 1b
-					tag: {
-						Damage: 0
+			tasks: [
+				{
+					id: "5E57594EE69E1505"
+					type: "item"
+					item: {
+						id: "waystones:warp_stone"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
 					}
 				}
-			}]
+			]
 			rewards: [
 				{
 					id: "67886399BDDA5533"
@@ -1424,22 +1492,26 @@
 		{
 			x: 2.0d
 			y: 1.5d
-			description: ["{chapter.3.quest.30.description.1}"]
+			description: ["{ftbquests.chapter.dawncraft.quests29.description}"]
 			dependencies: ["55A2F317B39F413E"]
 			id: "679E0992FAE07E57"
-			tasks: [{
-				id: "1946D897ED5D5DFA"
-				type: "item"
-				item: "waystones:waystone"
-			}]
-			rewards: [{
-				id: "05DB1F2646D68683"
-				type: "xp"
-				xp: 10
-			}]
+			tasks: [
+				{
+					id: "1946D897ED5D5DFA"
+					type: "item"
+					item: "waystones:waystone"
+				}
+			]
+			rewards: [
+				{
+					id: "05DB1F2646D68683"
+					type: "xp"
+					xp: 10
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.31.title}"
+			title: "{ftbquests.chapter.dawncraft.quests30.title}"
 			icon: {
 				id: "minecraft:diamond_sword"
 				Count: 1b
@@ -1449,24 +1521,32 @@
 			}
 			x: 3.75d
 			y: -5.25d
-			description: ["{chapter.3.quest.31.description.1}"]
+			description: [
+				"{ftbquests.chapter.dawncraft.quests30.description0}"
+				""
+				"{ftbquests.chapter.dawncraft.quests30.description2}"
+			]
 			dependencies: ["6A377E0BD0B45BC5"]
 			size: 1.5d
 			id: "60154554DCD1D411"
-			tasks: [{
-				id: "3D8CC03207E45A7D"
-				type: "checkmark"
-				title: "{chapter.3.quest.31.task.1.title}"
-			}]
-			rewards: [{
-				id: "3545B0608C2397E2"
-				type: "xp"
-				auto: "enabled"
-				xp: 1
-			}]
+			tasks: [
+				{
+					id: "3D8CC03207E45A7D"
+					type: "checkmark"
+					title: "{ftbquests.chapter.dawncraft.quests30.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "3545B0608C2397E2"
+					type: "xp"
+					auto: "enabled"
+					xp: 1
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.32.title}"
+			title: "{ftbquests.chapter.dawncraft.quests31.title}"
 			icon: {
 				id: "minecraft:leather_helmet"
 				Count: 1b
@@ -1476,82 +1556,98 @@
 			}
 			x: 3.5d
 			y: -1.5d
-			description: ["{chapter.3.quest.32.description.1}"]
+			description: ["{ftbquests.chapter.dawncraft.quests31.description}"]
 			dependencies: ["648C999659850F11"]
 			id: "52D8E61B177F4493"
-			tasks: [{
-				id: "7A99F7892E18E3E6"
-				type: "checkmark"
-				title: "{chapter.3.quest.32.task.1.title}"
-			}]
-			rewards: [{
-				id: "14F07029B11EA30C"
-				type: "xp"
-				auto: "enabled"
-				xp: 1
-			}]
+			tasks: [
+				{
+					id: "7A99F7892E18E3E6"
+					type: "checkmark"
+					title: "{ftbquests.chapter.dawncraft.quests31.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "14F07029B11EA30C"
+					type: "xp"
+					auto: "enabled"
+					xp: 1
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.33.title}"
+			title: "{ftbquests.chapter.dawncraft.quests32.title}"
 			icon: "apotheosis:boss_summoner"
 			x: 3.5d
 			y: -3.0d
-			description: ["{chapter.3.quest.33.description.1}"]
+			description: ["{ftbquests.chapter.dawncraft.quests32.description}"]
 			dependencies: ["60154554DCD1D411"]
 			id: "648C999659850F11"
-			tasks: [{
-				id: "73AA03CFF11003B6"
-				type: "checkmark"
-				title: "{chapter.3.quest.33.task.1.title}"
-			}]
-			rewards: [{
-				id: "2F9053F2874FF327"
-				type: "xp"
-				auto: "enabled"
-				xp: 1
-			}]
+			tasks: [
+				{
+					id: "73AA03CFF11003B6"
+					type: "checkmark"
+					title: "{ftbquests.chapter.dawncraft.quests32.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "2F9053F2874FF327"
+					type: "xp"
+					auto: "enabled"
+					xp: 1
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.34.title}"
+			title: "{ftbquests.chapter.dawncraft.quests33.title}"
 			icon: "minecraft:apple"
 			x: 5.0d
 			y: -1.5d
-			description: ["{chapter.3.quest.34.description.1}"]
+			description: ["{ftbquests.chapter.dawncraft.quests33.description}"]
 			dependencies: ["52D8E61B177F4493"]
 			id: "56A78445B3458AE9"
-			tasks: [{
-				id: "6CE1624597E3D440"
-				type: "checkmark"
-				title: "{chapter.3.quest.34.task.1.title}"
-			}]
-			rewards: [{
-				id: "0C27B0DE094838F0"
-				type: "item"
-				item: "solapplepie:food_book"
-			}]
+			tasks: [
+				{
+					id: "6CE1624597E3D440"
+					type: "checkmark"
+					title: "{ftbquests.chapter.dawncraft.quests33.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "0C27B0DE094838F0"
+					type: "item"
+					item: "solapplepie:food_book"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.35.title}"
+			title: "{ftbquests.chapter.dawncraft.quests34.title}"
 			icon: "minecraft:feather"
 			x: 5.0d
 			y: -3.0d
-			description: ["{chapter.3.quest.35.description.1}"]
+			description: ["{ftbquests.chapter.dawncraft.quests34.description}"]
 			dependencies: ["648C999659850F11"]
 			id: "76CA9142CEA54D1F"
-			tasks: [{
-				id: "22A5B0ED0BF90AA2"
-				type: "checkmark"
-				title: "{chapter.3.quest.35.task.1.title}"
-			}]
-			rewards: [{
-				id: "6DDD88CEF8F2AA85"
-				type: "xp"
-				auto: "enabled"
-				xp: 1
-			}]
+			tasks: [
+				{
+					id: "22A5B0ED0BF90AA2"
+					type: "checkmark"
+					title: "{ftbquests.chapter.dawncraft.quests34.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "6DDD88CEF8F2AA85"
+					type: "xp"
+					auto: "enabled"
+					xp: 1
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.36.title}"
+			title: "{ftbquests.chapter.dawncraft.quests35.title}"
 			icon: {
 				id: "blue_skies:crushing_hammer"
 				Count: 1b
@@ -1561,94 +1657,133 @@
 			}
 			x: 5.5d
 			y: -6.5d
-			description: ["{chapter.3.quest.36.description.1}"]
+			description: ["{ftbquests.chapter.dawncraft.quests35.description}"]
 			dependencies: ["60154554DCD1D411"]
 			id: "601DF1F35CF01A0A"
-			tasks: [{
-				id: "0E3D3998B4E7CCFE"
-				type: "checkmark"
-				title: "{chapter.3.quest.36.task.1.title}"
-			}]
-			rewards: [{
-				id: "7511E16D93F3625B"
-				type: "xp"
-				auto: "enabled"
-				xp: 1
-			}]
+			tasks: [
+				{
+					id: "0E3D3998B4E7CCFE"
+					type: "checkmark"
+					title: "{ftbquests.chapter.dawncraft.quests35.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "7511E16D93F3625B"
+					type: "xp"
+					auto: "enabled"
+					xp: 1
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.37.title}"
+			title: "{ftbquests.chapter.dawncraft.quests36.title}"
 			icon: "minecraft:clock"
 			x: 1.0d
 			y: -7.5d
-			subtitle: "{chapter.3.quest.37.subtitle}"
+			subtitle: "{ftbquests.chapter.dawncraft.quests36.subtitle}"
 			size: 2.0d
 			id: "6A377E0BD0B45BC5"
-			tasks: [{
-				id: "6BCEB5011E1496FB"
-				type: "checkmark"
-				title: "{chapter.3.quest.37.task.1.title}"
-			}]
+			tasks: [
+				{
+					id: "6BCEB5011E1496FB"
+					type: "checkmark"
+					title: "{ftbquests.chapter.dawncraft.quests36.tasks0.title}"
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.38.title}"
-			icon: "ars_nouveau:ring_of_greater_discount"
+			title: "{ftbquests.chapter.dawncraft.quests37.title}"
+			icon: {
+				id: "blue_skies:poison_arc"
+				Count: 1b
+				tag: { }
+			}
 			x: 3.75d
 			y: -7.5d
-			description: ["{chapter.3.quest.38.description.1}"]
+			description: [
+				"{ftbquests.chapter.dawncraft.quests37.description0}"
+				""
+				"{ftbquests.chapter.dawncraft.quests37.description2}"
+				"{ftbquests.chapter.dawncraft.quests37.description3}"
+				""
+				"{ftbquests.chapter.dawncraft.quests37.description5}"
+				"{ftbquests.chapter.dawncraft.quests37.description6}"
+			]
 			dependencies: ["6A377E0BD0B45BC5"]
 			size: 1.5d
 			id: "43D08D9E4A7AE9B9"
-			tasks: [{
-				id: "4C8FA1F14597A638"
-				type: "checkmark"
-				title: "{chapter.3.quest.38.task.1.title}"
-			}]
-			rewards: [{
-				id: "2E3EF9A19A511910"
-				type: "xp"
-				xp: 1
-			}]
+			tasks: [
+				{
+					id: "4C8FA1F14597A638"
+					type: "checkmark"
+					title: "{ftbquests.chapter.dawncraft.quests37.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "2E3EF9A19A511910"
+					type: "xp"
+					xp: 1
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.39.title}"
+			title: "{ftbquests.chapter.dawncraft.quests38.title}"
 			icon: "mimic:mimic_key"
 			x: -1.5d
 			y: -7.5d
-			description: ["{chapter.3.quest.39.description.1}"]
+			description: [
+				"{ftbquests.chapter.dawncraft.quests38.description0}"
+				"{ftbquests.chapter.dawncraft.quests38.description1}"
+				"{ftbquests.chapter.dawncraft.quests38.description2}"
+			]
 			dependencies: ["6A377E0BD0B45BC5"]
 			size: 1.5d
 			id: "0EACC613F198A412"
-			tasks: [{
-				id: "7DC460964D5D9D24"
-				type: "checkmark"
-				title: "{chapter.3.quest.39.task.1.title}"
-			}]
-			rewards: [{
-				id: "5EDFAB5C16E23052"
-				type: "xp"
-				auto: "enabled"
-				xp: 1
-			}]
+			tasks: [
+				{
+					id: "7DC460964D5D9D24"
+					type: "checkmark"
+					title: "{ftbquests.chapter.dawncraft.quests38.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "5EDFAB5C16E23052"
+					type: "xp"
+					auto: "enabled"
+					xp: 1
+				}
+			]
 		}
 		{
-			title: "{chapter.3.quest.40.title}"
+			title: "{ftbquests.chapter.dawncraft.quests39.title}"
 			icon: "habitat:fairy_spore_lantern"
 			x: 5.0d
 			y: -4.5d
-			description: ["{chapter.3.quest.40.description.1}"]
+			description: [
+				"{ftbquests.chapter.dawncraft.quests39.description0}"
+				""
+				"{ftbquests.chapter.dawncraft.quests39.description2}"
+				"{ftbquests.chapter.dawncraft.quests39.description3}"
+			]
 			dependencies: ["601DF1F35CF01A0A"]
 			id: "0AB45BDD23F2E85A"
-			tasks: [{
-				id: "14B632E87C7DA8DA"
-				type: "checkmark"
-				title: "{chapter.3.quest.40.task.1.title}"
-			}]
-			rewards: [{
-				id: "3F0FE4919A0EC5D6"
-				type: "xp"
-				xp: 3
-			}]
+			tasks: [
+				{
+					id: "14B632E87C7DA8DA"
+					type: "checkmark"
+					title: "{ftbquests.chapter.dawncraft.quests39.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "3F0FE4919A0EC5D6"
+					type: "xp"
+					xp: 3
+				}
+			]
 		}
 	]
 	quest_links: [ ]

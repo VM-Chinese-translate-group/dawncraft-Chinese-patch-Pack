@@ -1,5 +1,6 @@
 {
 	version: 13
+	title: "{ftbquests.chapter.data.title}"
 	default_reward_team: false
 	default_consume_items: false
 	default_autoclaim_rewards: "disabled"

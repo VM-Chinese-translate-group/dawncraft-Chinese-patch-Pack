@@ -1,15 +1,15 @@
 {
 	id: "548E6559E6915C5F"
-	group: ""
-	order_index: 10
+	group: "25047313B704629A"
+	order_index: 0
 	filename: "lost__found_quest_map_replacements"
-	title: "{chapter.11.title}"
+	title: "{ftbquests.chapter.lost__found_quest_map_replacements.title}"
 	icon: "minecraft:filled_map"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "{chapter.11.quest.1.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests0.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -18,19 +18,21 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: -4.0d
 			y: 0.0d
-			subtitle: "{chapter.11.quest.1.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests0.subtitle}"
 			dependencies: ["0ABA6BD0DB5C112A"]
 			can_repeat: true
 			id: "30835954DD5C733D"
@@ -38,28 +40,37 @@
 				{
 					id: "78167FF9B3D208AF"
 					type: "checkmark"
-					title: "{chapter.11.quest.1.task.1.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests0.tasks0.title}"
 				}
 				{
 					id: "7C99E794683023D1"
 					type: "gamestage"
-					title: "{chapter.11.quest.1.task.2.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests0.tasks1.title}"
 					icon: "minecraft:filled_map"
 					stage: "guildmaster2"
 				}
 			]
-			rewards: [{
-				id: "751657E6C6CE4190"
-				type: "command"
-				title: "{chapter.11.quest.1.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:guildmaster0"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "751657E6C6CE4190"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests0.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:guildmaster0"
+				}
+				{
+					id: "33293C72497AEEE2"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests0.rewards1.title}"
+					icon: "minecraft:compass"
+					auto: "enabled"
+					command: "/dc addWaypoint @p goblinsanddungeons:ruined_keep \"Main Quest - Goblin King's Keep (Replaced)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.2.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests1.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -68,19 +79,21 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: -4.0d
 			y: 1.5d
-			subtitle: "{chapter.11.quest.2.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests1.subtitle}"
 			dependencies: ["0ABA6BD0DB5C112A"]
 			can_repeat: true
 			id: "0D9BECCC3E3CD303"
@@ -88,28 +101,37 @@
 				{
 					id: "70B1156DFE69EE56"
 					type: "checkmark"
-					title: "{chapter.11.quest.2.task.1.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests1.tasks0.title}"
 				}
 				{
 					id: "71C5292B66DD9DE2"
 					type: "gamestage"
-					title: "{chapter.11.quest.2.task.2.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests1.tasks1.title}"
 					icon: "minecraft:filled_map"
 					stage: "guildmaster3"
 				}
 			]
-			rewards: [{
-				id: "18C97E8EBE7A45D2"
-				type: "command"
-				title: "{chapter.11.quest.2.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:guildmaster1"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "18C97E8EBE7A45D2"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests1.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:guildmaster1"
+				}
+				{
+					id: "55DFD73443DE0C25"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests1.rewards1.title}"
+					icon: "minecraft:compass"
+					auto: "enabled"
+					command: "/dc addWaypoint @p custom:ogre_dwelling \"Main Quest - Corrupted Ogre's Dwelling (Replaced)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.3.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests2.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -118,19 +140,21 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: -4.0d
 			y: 3.0d
-			subtitle: "{chapter.11.quest.3.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests2.subtitle}"
 			dependencies: ["0ABA6BD0DB5C112A"]
 			can_repeat: true
 			id: "0A4E769E4F7AB6FF"
@@ -138,28 +162,37 @@
 				{
 					id: "723509FCB82408CC"
 					type: "checkmark"
-					title: "{chapter.11.quest.3.task.1.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests2.tasks0.title}"
 				}
 				{
 					id: "39B7B6E4CDCF2CAA"
 					type: "gamestage"
-					title: "{chapter.11.quest.3.task.2.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests2.tasks1.title}"
 					icon: "minecraft:filled_map"
 					stage: "guildmaster4"
 				}
 			]
-			rewards: [{
-				id: "0458DAB209866978"
-				type: "command"
-				title: "{chapter.11.quest.3.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:guildmaster2"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "0458DAB209866978"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests2.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:guildmaster2"
+				}
+				{
+					id: "7C835CEC1DA23311"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests2.rewards1.title}"
+					icon: "minecraft:compass"
+					auto: "enabled"
+					command: "/dc addWaypoint @p custom:arena \"Main Quest - Knight Rober's Arena (Replaced)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.4.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests3.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -168,19 +201,21 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: -4.0d
 			y: 4.5d
-			subtitle: "{chapter.11.quest.4.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests3.subtitle}"
 			dependencies: ["0ABA6BD0DB5C112A"]
 			can_repeat: true
 			id: "753BD084B4C21084"
@@ -188,28 +223,37 @@
 				{
 					id: "2E396177148FC1E8"
 					type: "checkmark"
-					title: "{chapter.11.quest.4.task.1.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests3.tasks0.title}"
 				}
 				{
 					id: "6709195C61AC09FB"
 					type: "gamestage"
-					title: "{chapter.11.quest.4.task.2.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests3.tasks1.title}"
 					icon: "minecraft:filled_map"
 					stage: "guildmaster5"
 				}
 			]
-			rewards: [{
-				id: "6E4588DF0E8B4F88"
-				type: "command"
-				title: "{chapter.11.quest.4.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:guildmaster3"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "6E4588DF0E8B4F88"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests3.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:guildmaster3"
+				}
+				{
+					id: "5AFB06EE096A48F7"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests3.rewards1.title}"
+					icon: "minecraft:compass"
+					auto: "enabled"
+					command: "/dc addWaypoint @p custom:ninetail_farm \"Main Quest - Ninetail's Farm (Replaced)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.5.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests4.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -218,19 +262,21 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: -4.0d
 			y: 6.0d
-			subtitle: "{chapter.11.quest.5.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests4.subtitle}"
 			dependencies: ["0ABA6BD0DB5C112A"]
 			can_repeat: true
 			id: "508075C89E7B209C"
@@ -238,28 +284,37 @@
 				{
 					id: "276178155DD451C1"
 					type: "checkmark"
-					title: "{chapter.11.quest.5.task.1.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests4.tasks0.title}"
 				}
 				{
 					id: "3E542DE6DC7AC0E9"
 					type: "gamestage"
-					title: "{chapter.11.quest.5.task.2.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests4.tasks1.title}"
 					icon: "minecraft:filled_map"
 					stage: "guildmaster6"
 				}
 			]
-			rewards: [{
-				id: "3F193582DBBA82DC"
-				type: "command"
-				title: "{chapter.11.quest.5.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:guildmaster4"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "3F193582DBBA82DC"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests4.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:guildmaster4"
+				}
+				{
+					id: "711E074210E02BDC"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests4.rewards1.title}"
+					icon: "minecraft:compass"
+					auto: "enabled"
+					command: "/dc addWaypoint @p custom:floating_island \"Main Quest - Floating Island (Replaced)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.6.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests5.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -268,19 +323,21 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: -4.0d
 			y: 7.5d
-			subtitle: "{chapter.11.quest.6.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests5.subtitle}"
 			dependencies: ["0ABA6BD0DB5C112A"]
 			can_repeat: true
 			id: "3B8C06BBF091082F"
@@ -288,28 +345,37 @@
 				{
 					id: "278B79A125608B95"
 					type: "checkmark"
-					title: "{chapter.11.quest.6.task.1.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests5.tasks0.title}"
 				}
 				{
 					id: "2C13B1DD9625EF5F"
 					type: "gamestage"
-					title: "{chapter.11.quest.6.task.2.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests5.tasks1.title}"
 					icon: "minecraft:filled_map"
 					stage: "guildmaster7"
 				}
 			]
-			rewards: [{
-				id: "5F6531581F0F370B"
-				type: "command"
-				title: "{chapter.11.quest.6.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:guildmaster5"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "5F6531581F0F370B"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests5.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:guildmaster5"
+				}
+				{
+					id: "21772D7D9851344B"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests5.rewards1.title}"
+					icon: "minecraft:compass"
+					auto: "enabled"
+					command: "/dc addWaypoint @p custom:sentinel_tree \"Main Quest - Guardian Tree (Replaced)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.7.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests6.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -318,19 +384,21 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: -4.0d
 			y: 9.0d
-			subtitle: "{chapter.11.quest.7.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests6.subtitle}"
 			dependencies: ["0ABA6BD0DB5C112A"]
 			can_repeat: true
 			id: "49DAB9F443A7F3D5"
@@ -338,28 +406,37 @@
 				{
 					id: "6866A3E9F13F573D"
 					type: "checkmark"
-					title: "{chapter.11.quest.7.task.1.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests6.tasks0.title}"
 				}
 				{
 					id: "57A6105CD1B334A3"
 					type: "gamestage"
-					title: "{chapter.11.quest.7.task.2.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests6.tasks1.title}"
 					icon: "minecraft:filled_map"
 					stage: "guildmaster8"
 				}
 			]
-			rewards: [{
-				id: "4BE395838A48DFF0"
-				type: "command"
-				title: "{chapter.11.quest.7.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:guildmaster6"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "4BE395838A48DFF0"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests6.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:guildmaster6"
+				}
+				{
+					id: "5CCFAC4BC9AE5229"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests6.rewards1.title}"
+					icon: "minecraft:compass"
+					auto: "enabled"
+					command: "/dc addWaypoint @p custom:giant_altar \"Main Quest - Fire Giant's Altar (Replaced)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.8.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests7.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -368,39 +445,52 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: -2.5d
 			y: 0.0d
-			subtitle: "{chapter.11.quest.8.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests7.subtitle}"
 			dependencies: ["4FC5EEDBBDC49DB2"]
 			can_repeat: true
 			id: "23D8B8F8FEF40559"
-			tasks: [{
-				id: "48DB87B6C4727C9C"
-				type: "checkmark"
-				title: "{chapter.11.quest.8.task.1.title}"
-			}]
-			rewards: [{
-				id: "43D6ADD22171AAD6"
-				type: "command"
-				title: "{chapter.11.quest.8.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:armorer1"
-				player_command: false
-			}]
+			tasks: [
+				{
+					id: "48DB87B6C4727C9C"
+					type: "checkmark"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests7.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "43D6ADD22171AAD6"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests7.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:armorer1"
+				}
+				{
+					id: "141585A219F5E3B7"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests7.rewards1.title}"
+					icon: "minecraft:compass"
+					auto: "enabled"
+					command: "/dc addWaypoint @p custom:armorer_dungeon \"Armorer's Request (Replaced)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.9.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests8.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -409,19 +499,21 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: -1.0d
 			y: 0.0d
-			subtitle: "{chapter.11.quest.9.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests8.subtitle}"
 			dependencies: ["7B6C09952B8C0FC1"]
 			can_repeat: true
 			id: "35930E74020E9CD6"
@@ -429,28 +521,37 @@
 				{
 					id: "176E438B1E0E453B"
 					type: "checkmark"
-					title: "{chapter.11.quest.9.task.1.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests8.tasks0.title}"
 				}
 				{
 					id: "636658C5BBBEE9E2"
 					type: "gamestage"
-					title: "{chapter.11.quest.9.task.2.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests8.tasks1.title}"
 					icon: "minecraft:filled_map"
 					stage: "cartographer1"
 				}
 			]
-			rewards: [{
-				id: "0F47BF9881F39ECE"
-				type: "command"
-				title: "{chapter.11.quest.9.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:cartographer1"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "0F47BF9881F39ECE"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests8.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:cartographer1"
+				}
+				{
+					id: "4349ECF408D352E1"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests8.rewards1.title}"
+					icon: "minecraft:compass"
+					auto: "enabled"
+					command: "/dc addWaypoint @p custom:dojo \"Foreign Outlaws' Dojo (Compass)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.10.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests9.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -459,19 +560,21 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: -1.0d
 			y: 1.5d
-			subtitle: "{chapter.11.quest.10.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests9.subtitle}"
 			dependencies: ["7B6C09952B8C0FC1"]
 			can_repeat: true
 			id: "1C9A7B4081E86552"
@@ -479,28 +582,37 @@
 				{
 					id: "2EE8FABFB2C9BB39"
 					type: "checkmark"
-					title: "{chapter.11.quest.10.task.1.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests9.tasks0.title}"
 				}
 				{
 					id: "42AF4B9D04ACA763"
 					type: "gamestage"
-					title: "{chapter.11.quest.10.task.2.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests9.tasks1.title}"
 					icon: "minecraft:filled_map"
 					stage: "cartographer2"
 				}
 			]
-			rewards: [{
-				id: "4FB61E405470CDC9"
-				type: "command"
-				title: "{chapter.11.quest.10.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:cartographer2"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "4FB61E405470CDC9"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests9.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:cartographer2"
+				}
+				{
+					id: "4BEB41B7D187C0AC"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests9.rewards1.title}"
+					icon: "minecraft:compass"
+					auto: "enabled"
+					command: "/dc addWaypoint @p custom:summon_podium \"Summon Podium (Replaced)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.11.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests10.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -509,19 +621,21 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: 0.5d
 			y: 0.0d
-			subtitle: "{chapter.11.quest.11.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests10.subtitle}"
 			dependencies: ["5269AA694A4374B1"]
 			can_repeat: true
 			id: "5E6AC8F7BFE67F10"
@@ -529,28 +643,37 @@
 				{
 					id: "57068B5079EB2E76"
 					type: "checkmark"
-					title: "{chapter.11.quest.11.task.1.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests10.tasks0.title}"
 				}
 				{
 					id: "721DF1E67C81C25D"
 					type: "gamestage"
-					title: "{chapter.11.quest.11.task.2.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests10.tasks1.title}"
 					icon: "minecraft:filled_map"
 					stage: "dg2q"
 				}
 			]
-			rewards: [{
-				id: "57899492D3190210"
-				type: "command"
-				title: "{chapter.11.quest.11.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:dg2q"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "57899492D3190210"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests10.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:dg2q"
+				}
+				{
+					id: "0AB49DBAD72527EC"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests10.rewards1.title}"
+					icon: "minecraft:compass"
+					auto: "enabled"
+					command: "/dc addWaypoint @p custom:church \"The Cultist's Prison (Replaced)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.12.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests11.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -559,19 +682,21 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: 0.5d
 			y: 1.5d
-			subtitle: "{chapter.11.quest.12.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests11.subtitle}"
 			dependencies: ["5269AA694A4374B1"]
 			can_repeat: true
 			id: "50BB98D042F4B5AD"
@@ -579,28 +704,37 @@
 				{
 					id: "150CEACFA337840A"
 					type: "checkmark"
-					title: "{chapter.11.quest.12.task.1.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests11.tasks0.title}"
 				}
 				{
 					id: "3C494CE96A22B06B"
 					type: "gamestage"
-					title: "{chapter.11.quest.12.task.2.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests11.tasks1.title}"
 					icon: "minecraft:filled_map"
 					stage: "dg2q2"
 				}
 			]
-			rewards: [{
-				id: "4CB5B4866EE0DCC6"
-				type: "command"
-				title: "{chapter.11.quest.12.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:dg2q2"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "4CB5B4866EE0DCC6"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests11.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:dg2q2"
+				}
+				{
+					id: "53B8FB24E0C1F9BC"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests11.rewards1.title}"
+					icon: "minecraft:compass"
+					auto: "enabled"
+					command: "/dc addWaypoint @p custom:church \"Father’s Church (Replaced)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.13.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests12.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -609,36 +743,42 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: 2.0d
 			y: 0.0d
-			subtitle: "{chapter.11.quest.13.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests12.subtitle}"
 			dependencies: ["481B801AE3C24573"]
 			can_repeat: true
 			id: "31D7059E6B9E36E2"
-			tasks: [{
-				id: "35C9434F8B1607DE"
-				type: "checkmark"
-				title: "{chapter.11.quest.13.task.1.title}"
-			}]
-			rewards: [{
-				id: "20D790E9CE91D77B"
-				type: "item"
-				title: "{chapter.11.quest.13.reward.1.title}"
-				item: "simple_mobs:rolled_map_3"
-			}]
+			tasks: [
+				{
+					id: "35C9434F8B1607DE"
+					type: "checkmark"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests12.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "20D790E9CE91D77B"
+					type: "item"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests12.rewards0.title}"
+					item: "simple_mobs:rolled_map_3"
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.14.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests13.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -647,19 +787,21 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: 3.5d
 			y: 0.0d
-			subtitle: "{chapter.11.quest.14.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests13.subtitle}"
 			dependencies: ["4C90846C71FC8E0F"]
 			can_repeat: true
 			id: "1521F3AADC18655B"
@@ -667,28 +809,37 @@
 				{
 					id: "150C50F8D6F30CCD"
 					type: "checkmark"
-					title: "{chapter.11.quest.14.task.1.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests13.tasks0.title}"
 				}
 				{
 					id: "74C014F05C73AF4B"
 					type: "gamestage"
-					title: "{chapter.11.quest.14.task.2.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests13.tasks1.title}"
 					icon: "minecraft:filled_map"
 					stage: "guard1"
 				}
 			]
-			rewards: [{
-				id: "0AA8775F31D9B642"
-				type: "command"
-				title: "{chapter.11.quest.14.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:guard1"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "0AA8775F31D9B642"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests13.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:guard1"
+				}
+				{
+					id: "1101AA3A8BBF2BB6"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests13.rewards1.title}"
+					icon: "minecraft:compass"
+					auto: "enabled"
+					command: "/dc addWaypoint @p quest_giver:pillager_hideout \"Rescue Request - Pillager Hideout (Replaced)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.15.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests14.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -697,19 +848,21 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: 3.5d
 			y: 1.5d
-			subtitle: "{chapter.11.quest.15.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests14.subtitle}"
 			dependencies: ["4C90846C71FC8E0F"]
 			can_repeat: true
 			id: "773D7723BE3BC1D4"
@@ -717,28 +870,37 @@
 				{
 					id: "6AD45F9591D2875D"
 					type: "checkmark"
-					title: "{chapter.11.quest.15.task.1.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests14.tasks0.title}"
 				}
 				{
 					id: "4412BC0B4AA6F526"
 					type: "gamestage"
-					title: "{chapter.11.quest.15.task.2.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests14.tasks1.title}"
 					icon: "minecraft:filled_map"
 					stage: "guard2"
 				}
 			]
-			rewards: [{
-				id: "142917F38FABE7FB"
-				type: "command"
-				title: "{chapter.11.quest.15.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:guard2"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "142917F38FABE7FB"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests14.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:guard2"
+				}
+				{
+					id: "047CD2BC3623F1DB"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests14.rewards1.title}"
+					icon: "minecraft:compass"
+					auto: "enabled"
+					command: "/dc addWaypoint @p quest_giver:pillager_base \"Rescue Request - Pillager Base (Replaced)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.16.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests15.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -747,19 +909,21 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: 3.5d
 			y: 3.0d
-			subtitle: "{chapter.11.quest.16.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests15.subtitle}"
 			dependencies: ["4C90846C71FC8E0F"]
 			can_repeat: true
 			id: "12E531CF67D7980E"
@@ -767,28 +931,37 @@
 				{
 					id: "2902D37C90210F33"
 					type: "checkmark"
-					title: "{chapter.11.quest.16.task.1.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests15.tasks0.title}"
 				}
 				{
 					id: "332A7A3F949E25F9"
 					type: "gamestage"
-					title: "{chapter.11.quest.16.task.2.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests15.tasks1.title}"
 					icon: "minecraft:filled_map"
 					stage: "guard3"
 				}
 			]
-			rewards: [{
-				id: "39B926B467866686"
-				type: "command"
-				title: "{chapter.11.quest.16.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:guard3"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "39B926B467866686"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests15.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:guard3"
+				}
+				{
+					id: "49967491C28C4341"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests15.rewards1.title}"
+					icon: "minecraft:compass"
+					auto: "enabled"
+					command: "/dc addWaypoint @p quest_giver:cave_dwelling \"Extermination Request - Cave Dweller (Replaced)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.17.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests16.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -797,19 +970,21 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: 3.5d
 			y: 4.5d
-			subtitle: "{chapter.11.quest.17.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests16.subtitle}"
 			dependencies: ["4C90846C71FC8E0F"]
 			can_repeat: true
 			id: "40142BC026F957A9"
@@ -817,28 +992,37 @@
 				{
 					id: "4A4D3F3A1F85D88D"
 					type: "checkmark"
-					title: "{chapter.11.quest.17.task.1.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests16.tasks0.title}"
 				}
 				{
 					id: "1381C710EA32506E"
 					type: "gamestage"
-					title: "{chapter.11.quest.17.task.2.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests16.tasks1.title}"
 					icon: "minecraft:filled_map"
 					stage: "guard4"
 				}
 			]
-			rewards: [{
-				id: "0948D6C87B11C9E5"
-				type: "command"
-				title: "{chapter.11.quest.17.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:guard4"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "0948D6C87B11C9E5"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests16.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:guard4"
+				}
+				{
+					id: "74A11F0D10798E54"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests16.rewards1.title}"
+					icon: "minecraft:compass"
+					auto: "enabled"
+					command: "/dc addWaypoint @p quest_giver:giant_hideout \"Extermination Request - The Giant (Replaced)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.18.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests17.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -847,39 +1031,51 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: 5.0d
 			y: 0.0d
-			subtitle: "{chapter.11.quest.18.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests17.subtitle}"
 			dependencies: ["28B5DE41A5BB6AFE"]
 			can_repeat: true
 			id: "000D5ADAD525647F"
-			tasks: [{
-				id: "437E462185701E16"
-				type: "checkmark"
-				title: "{chapter.11.quest.18.task.1.title}"
-			}]
-			rewards: [{
-				id: "672D549FA97EE6C8"
-				type: "command"
-				title: "{chapter.11.quest.18.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:hunter1"
-				player_command: false
-			}]
+			tasks: [
+				{
+					id: "437E462185701E16"
+					type: "checkmark"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests17.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "672D549FA97EE6C8"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests17.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:hunter1"
+				}
+				{
+					id: "65ED40BBA6B9D560"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests17.rewards1.title}"
+					icon: "minecraft:compass"
+					command: "/dc addWaypoint @p custom:rootless \"Floating Palace (Replaced)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.19.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests18.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -888,39 +1084,52 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: 6.5d
 			y: 0.0d
-			subtitle: "{chapter.11.quest.19.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests18.subtitle}"
 			dependencies: ["09F497A2709AA63E"]
 			can_repeat: true
 			id: "7BDFDE66F98FE0A9"
-			tasks: [{
-				id: "639C7321C4CB352C"
-				type: "checkmark"
-				title: "{chapter.11.quest.19.task.1.title}"
-			}]
-			rewards: [{
-				id: "00E770AC02EF56A9"
-				type: "command"
-				title: "{chapter.11.quest.19.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:librarian1"
-				player_command: false
-			}]
+			tasks: [
+				{
+					id: "639C7321C4CB352C"
+					type: "checkmark"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests18.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "00E770AC02EF56A9"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests18.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:librarian1"
+				}
+				{
+					id: "4E6D5E4D6B3349C6"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests18.rewards1.title}"
+					icon: "minecraft:compass"
+					auto: "enabled"
+					command: "/dc addWaypoint @p custom:librarian_ruin \"Librarian's Request (Replaced)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.20.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests19.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -929,19 +1138,21 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: 8.0d
 			y: 0.0d
-			subtitle: "{chapter.11.quest.20.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests19.subtitle}"
 			dependencies: ["7E976B50F2FFF58B"]
 			can_repeat: true
 			id: "18876D956F663EFA"
@@ -949,28 +1160,37 @@
 				{
 					id: "387B6EB0CFF6E9B2"
 					type: "checkmark"
-					title: "{chapter.11.quest.20.task.1.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests19.tasks0.title}"
 				}
 				{
 					id: "11D56303B68F6521"
 					type: "gamestage"
-					title: "{chapter.11.quest.20.task.2.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests19.tasks1.title}"
 					icon: "minecraft:filled_map"
 					stage: "miner1"
 				}
 			]
-			rewards: [{
-				id: "6C387401AA5B2003"
-				type: "command"
-				title: "{chapter.11.quest.20.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:miner1"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "6C387401AA5B2003"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests19.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:miner1"
+				}
+				{
+					id: "0ABC50F6A06CB1AA"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests19.rewards1.title}"
+					icon: "minecraft:compass"
+					auto: "enabled"
+					command: "/dc addWaypoint @p custom:fallen_house \"Miner's Request - A Kindred Spirit (Replaced)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.21.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests20.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -979,19 +1199,21 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: 8.0d
 			y: 1.5d
-			subtitle: "{chapter.11.quest.21.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests20.subtitle}"
 			dependencies: ["7E976B50F2FFF58B"]
 			can_repeat: true
 			id: "40940A3B7104D6C8"
@@ -999,28 +1221,37 @@
 				{
 					id: "0F2DF66928F3FA4C"
 					type: "checkmark"
-					title: "{chapter.11.quest.21.task.1.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests20.tasks0.title}"
 				}
 				{
 					id: "5D365E3D15ED7668"
 					type: "gamestage"
-					title: "{chapter.11.quest.21.task.2.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests20.tasks1.title}"
 					icon: "minecraft:filled_map"
 					stage: "miner2"
 				}
 			]
-			rewards: [{
-				id: "20EFD385DABBF4A5"
-				type: "command"
-				title: "{chapter.11.quest.21.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:miner2"
-				player_command: false
-			}]
+			rewards: [
+				{
+					id: "20EFD385DABBF4A5"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests20.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:miner2"
+				}
+				{
+					id: "78E38136C6402BED"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests20.rewards1.title}"
+					icon: "minecraft:compass"
+					auto: "enabled"
+					command: "/dc addWaypoint @p custom:wolf_hideout \"Miner's Request - Creature Extermination (Replaced)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.22.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests21.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -1029,19 +1260,21 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: 9.5d
 			y: 0.0d
-			subtitle: "{chapter.11.quest.22.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests21.subtitle}"
 			dependencies: ["34B3E66AA494516A"]
 			can_repeat: true
 			id: "5B17DE6DF8637019"
@@ -1049,25 +1282,27 @@
 				{
 					id: "6DAD1DBFAA76726A"
 					type: "checkmark"
-					title: "{chapter.11.quest.22.task.1.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests21.tasks0.title}"
 				}
 				{
 					id: "20707EC905C0C160"
 					type: "gamestage"
-					title: "{chapter.11.quest.22.task.2.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests21.tasks1.title}"
 					icon: "minecraft:filled_map"
 					stage: "netherian2"
 				}
 			]
-			rewards: [{
-				id: "5D134AA06967BB5D"
-				type: "item"
-				title: "{chapter.11.quest.22.reward.1.title}"
-				item: "simple_mobs:rolled_map_1"
-			}]
+			rewards: [
+				{
+					id: "5D134AA06967BB5D"
+					type: "item"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests21.rewards0.title}"
+					item: "simple_mobs:rolled_map_1"
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.23.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests22.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -1076,19 +1311,21 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: 9.5d
 			y: 1.5d
-			subtitle: "{chapter.11.quest.23.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests22.subtitle}"
 			dependencies: ["34B3E66AA494516A"]
 			can_repeat: true
 			id: "3C20C68F7702BA74"
@@ -1096,25 +1333,27 @@
 				{
 					id: "799566938C65089B"
 					type: "checkmark"
-					title: "{chapter.11.quest.23.task.1.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests22.tasks0.title}"
 				}
 				{
 					id: "0D1ED75614C39893"
 					type: "gamestage"
-					title: "{chapter.11.quest.23.task.2.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests22.tasks1.title}"
 					icon: "minecraft:filled_map"
 					stage: "netherian3"
 				}
 			]
-			rewards: [{
-				id: "1FE70106A1BDB426"
-				type: "item"
-				title: "{chapter.11.quest.23.reward.1.title}"
-				item: "simple_mobs:rolled_map_2"
-			}]
+			rewards: [
+				{
+					id: "1FE70106A1BDB426"
+					type: "item"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests22.rewards0.title}"
+					item: "simple_mobs:rolled_map_2"
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.24.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests23.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -1123,39 +1362,52 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: 11.0d
 			y: 0.0d
-			subtitle: "{chapter.11.quest.24.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests23.subtitle}"
 			dependencies: ["3D75F9709BE33F97"]
 			can_repeat: true
 			id: "2A20AAF1015F14E4"
-			tasks: [{
-				id: "0DB69F32DFC3BC58"
-				type: "checkmark"
-				title: "{chapter.11.quest.24.task.1.title}"
-			}]
-			rewards: [{
-				id: "5293B6C4A4B609B8"
-				type: "command"
-				title: "{chapter.11.quest.24.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:netherian1"
-				player_command: false
-			}]
+			tasks: [
+				{
+					id: "0DB69F32DFC3BC58"
+					type: "checkmark"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests23.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "5293B6C4A4B609B8"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests23.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:netherian1"
+				}
+				{
+					id: "7FE460D973B84D7D"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests23.rewards1.title}"
+					icon: "minecraft:compass"
+					auto: "enabled"
+					command: "/dc addWaypoint @p custom:cult_informer_ruin \"Netherian's Request (Replaced)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.25.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests24.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -1164,39 +1416,52 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: -5.5d
 			y: 0.0d
-			subtitle: "{chapter.11.quest.25.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests24.subtitle}"
 			dependencies: ["33F3C54925241380"]
 			can_repeat: true
 			id: "40CB16418A2F000A"
-			tasks: [{
-				id: "1B5DAD404D8EC2E9"
-				type: "checkmark"
-				title: "{chapter.11.quest.25.task.1.title}"
-			}]
-			rewards: [{
-				id: "5291B8D6EC519120"
-				type: "command"
-				title: "{chapter.11.quest.25.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:pillager1"
-				player_command: false
-			}]
+			tasks: [
+				{
+					id: "1B5DAD404D8EC2E9"
+					type: "checkmark"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests24.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "5291B8D6EC519120"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests24.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:pillager1"
+				}
+				{
+					id: "0FB33B8774817DAA"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests24.rewards1.title}"
+					icon: "minecraft:compass"
+					auto: "enabled"
+					command: "/dc addWaypoint @p #custom:pillager_camp \"Main Quest - Pillager Camp (Replaced)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.26.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests25.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -1205,20 +1470,22 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: 12.5d
 			y: 0.0d
-			subtitle: "{chapter.11.quest.26.subtitle}"
-			description: ["{chapter.11.quest.26.description.1}"]
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests25.subtitle}"
+			description: ["{ftbquests.chapter.lost__found_quest_map_replacements.quests25.description}"]
 			dependencies: ["4A988B619723BE75"]
 			can_repeat: true
 			id: "55EF65B04567D5F9"
@@ -1226,28 +1493,30 @@
 				{
 					id: "0CC037FE4822A2F6"
 					type: "checkmark"
-					title: "{chapter.11.quest.26.task.1.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests25.tasks0.title}"
 				}
 				{
 					id: "57A7ABC630A4FD4F"
 					type: "gamestage"
-					title: "{chapter.11.quest.26.task.2.title}"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests25.tasks1.title}"
 					icon: "minecraft:filled_map"
 					stage: "skull"
 				}
 			]
-			rewards: [{
-				id: "2088F1B6AC1AF3FA"
-				type: "command"
-				title: "{chapter.11.quest.26.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:skull_island"
-				player_command: true
-			}]
+			rewards: [
+				{
+					id: "2088F1B6AC1AF3FA"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests25.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:skull_island"
+					player_command: true
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.27.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests26.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -1256,39 +1525,52 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: 14.0d
 			y: 0.0d
-			subtitle: "{chapter.11.quest.27.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests26.subtitle}"
 			dependencies: ["35129EA4C68F2F88"]
 			can_repeat: true
 			id: "48D40F977F0E8F22"
-			tasks: [{
-				id: "253138908BB5EE20"
-				type: "checkmark"
-				title: "{chapter.11.quest.27.task.1.title}"
-			}]
-			rewards: [{
-				id: "66CB38D637BD5EF0"
-				type: "command"
-				title: "{chapter.11.quest.27.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:toolsmith1"
-				player_command: false
-			}]
+			tasks: [
+				{
+					id: "253138908BB5EE20"
+					type: "checkmark"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests26.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "66CB38D637BD5EF0"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests26.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:toolsmith1"
+				}
+				{
+					id: "05C4AC6B1C793EA1"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests26.rewards1.title}"
+					icon: "minecraft:compass"
+					auto: "enabled"
+					command: "/dc addWaypoint @p custom:toolsmith_ruin \"Toolsmith's Request (Replaced)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.28.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests27.title}"
 			icon: {
 				id: "minecraft:filled_map"
 				Count: 1b
@@ -1297,54 +1579,76 @@
 						Name: "{\"text\":\"Village\"}"
 						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
-					Decorations: [{
-						type: 26b
-						x: -496.0d
-						id: "+"
-						z: -192.0d
-						rot: 180.0d
-					}]
+					Decorations: [
+						{
+							type: 26b
+							x: -496.0d
+							id: "+"
+							z: -192.0d
+							rot: 180.0d
+						}
+					]
 					map: 0
 				}
 			}
 			x: 15.5d
 			y: 0.0d
-			subtitle: "{chapter.11.quest.28.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests27.subtitle}"
 			dependencies: ["7F1AE7C5CF2DB045"]
 			can_repeat: true
 			id: "525717BA9952D917"
-			tasks: [{
-				id: "1E2EA2BB0BAAEE6E"
-				type: "checkmark"
-				title: "{chapter.11.quest.28.task.1.title}"
-			}]
-			rewards: [{
-				id: "2B03C6930B1768F1"
-				type: "command"
-				title: "{chapter.11.quest.28.reward.1.title}"
-				icon: "simple_mobs:rolled_map_1"
-				auto: "enabled"
-				command: "/loot give @p loot minecraft:weaponsmith1"
-				player_command: false
-			}]
+			tasks: [
+				{
+					id: "1E2EA2BB0BAAEE6E"
+					type: "checkmark"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests27.tasks0.title}"
+				}
+			]
+			rewards: [
+				{
+					id: "2B03C6930B1768F1"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests27.rewards0.title}"
+					icon: "simple_mobs:rolled_map_1"
+					auto: "enabled"
+					command: "/loot give @p loot minecraft:weaponsmith1"
+				}
+				{
+					id: "042B38F2961B6BD8"
+					type: "command"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests27.rewards1.title}"
+					icon: "minecraft:compass"
+					auto: "enabled"
+					command: "/dc addWaypoint @p custom:obsidian_spikes \"Investigate the Area the Weaponsmith Mentioned (Replaced)\""
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.29.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests28.title}"
 			icon: "minecraft:filled_map"
 			x: 5.5d
 			y: -3.5d
-			subtitle: "{chapter.11.quest.29.subtitle}"
-			description: ["{chapter.11.quest.29.description.1}"]
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests28.subtitle}"
+			description: [
+				"{ftbquests.chapter.lost__found_quest_map_replacements.quests28.description0}"
+				"{ftbquests.chapter.lost__found_quest_map_replacements.quests28.description1}"
+				""
+				"{ftbquests.chapter.lost__found_quest_map_replacements.quests28.description3}"
+				""
+				""
+			]
 			size: 2.0d
 			id: "0DA136A1D5894848"
-			tasks: [{
-				id: "65E71F39BDD07E1B"
-				type: "checkmark"
-				title: "{chapter.11.quest.29.task.1.title}"
-			}]
+			tasks: [
+				{
+					id: "65E71F39BDD07E1B"
+					type: "checkmark"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests28.tasks0.title}"
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.30.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests29.title}"
 			icon: {
 				id: "minecraft:crossbow"
 				Count: 1b
@@ -1354,33 +1658,37 @@
 			}
 			x: -5.5d
 			y: -1.0d
-			subtitle: "{chapter.11.quest.30.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests29.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "33F3C54925241380"
-			tasks: [{
-				id: "795EC2590BD66E12"
-				type: "gamestage"
-				title: "{chapter.11.quest.30.task.1.title}"
-				icon: "minecraft:filled_map"
-				stage: "guildmaster1"
-			}]
+			tasks: [
+				{
+					id: "795EC2590BD66E12"
+					type: "gamestage"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests29.tasks0.title}"
+					icon: "minecraft:filled_map"
+					stage: "guildmaster1"
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.31.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests30.title}"
 			icon: "simple_mobs:bundled_emerald"
 			x: -4.0d
 			y: -1.0d
-			subtitle: "{chapter.11.quest.31.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests30.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "0ABA6BD0DB5C112A"
-			tasks: [{
-				id: "530826E234FE06F2"
-				type: "checkmark"
-				title: "{chapter.11.quest.31.task.1.title}"
-			}]
+			tasks: [
+				{
+					id: "530826E234FE06F2"
+					type: "checkmark"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests30.tasks0.title}"
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.32.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests31.title}"
 			icon: {
 				id: "magistuarmory:xivcenturyknight_chestplate"
 				Count: 1b
@@ -1390,33 +1698,37 @@
 			}
 			x: -2.5d
 			y: -1.0d
-			subtitle: "{chapter.11.quest.32.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests31.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "4FC5EEDBBDC49DB2"
-			tasks: [{
-				id: "2253E298EB6F3AE4"
-				type: "gamestage"
-				title: "{chapter.11.quest.32.task.1.title}"
-				icon: "minecraft:filled_map"
-				stage: "armorer1"
-			}]
+			tasks: [
+				{
+					id: "2253E298EB6F3AE4"
+					type: "gamestage"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests31.tasks0.title}"
+					icon: "minecraft:filled_map"
+					stage: "armorer1"
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.33.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests32.title}"
 			icon: "supplementaries:globe"
 			x: -1.0d
 			y: -1.0d
-			subtitle: "{chapter.11.quest.33.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests32.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "7B6C09952B8C0FC1"
-			tasks: [{
-				id: "610004FF74CF43F7"
-				type: "checkmark"
-				title: "{chapter.11.quest.33.task.1.title}"
-			}]
+			tasks: [
+				{
+					id: "610004FF74CF43F7"
+					type: "checkmark"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests32.tasks0.title}"
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.34.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests33.title}"
 			icon: {
 				id: "magistuarmory:rustedchainmail_chestplate"
 				Count: 1b
@@ -1426,33 +1738,37 @@
 			}
 			x: 0.5d
 			y: -1.0d
-			subtitle: "{chapter.11.quest.34.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests33.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "5269AA694A4374B1"
-			tasks: [{
-				id: "34AB8769B42739AB"
-				type: "checkmark"
-				title: "{chapter.11.quest.34.task.1.title}"
-			}]
+			tasks: [
+				{
+					id: "34AB8769B42739AB"
+					type: "checkmark"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests33.tasks0.title}"
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.35.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests34.title}"
 			icon: "minecraft:ender_pearl"
 			x: 2.0d
 			y: -1.0d
-			subtitle: "{chapter.11.quest.35.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests34.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "481B801AE3C24573"
-			tasks: [{
-				id: "7D53AF9E3751CF3E"
-				type: "gamestage"
-				title: "{chapter.11.quest.35.task.1.title}"
-				icon: "minecraft:filled_map"
-				stage: "enderian1"
-			}]
+			tasks: [
+				{
+					id: "7D53AF9E3751CF3E"
+					type: "gamestage"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests34.tasks0.title}"
+					icon: "minecraft:filled_map"
+					stage: "enderian1"
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.36.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests35.title}"
 			icon: {
 				id: "minecraft:chainmail_helmet"
 				Count: 1b
@@ -1462,17 +1778,19 @@
 			}
 			x: 3.5d
 			y: -1.0d
-			subtitle: "{chapter.11.quest.36.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests35.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "4C90846C71FC8E0F"
-			tasks: [{
-				id: "75E33812B57EC3D7"
-				type: "checkmark"
-				title: "{chapter.11.quest.36.task.1.title}"
-			}]
+			tasks: [
+				{
+					id: "75E33812B57EC3D7"
+					type: "checkmark"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests35.tasks0.title}"
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.37.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests36.title}"
 			icon: {
 				id: "minecraft:bow"
 				Count: 1b
@@ -1482,35 +1800,39 @@
 			}
 			x: 5.0d
 			y: -1.0d
-			subtitle: "{chapter.11.quest.37.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests36.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "28B5DE41A5BB6AFE"
-			tasks: [{
-				id: "7056D7DB019D7E79"
-				type: "gamestage"
-				title: "{chapter.11.quest.37.task.1.title}"
-				icon: "minecraft:filled_map"
-				stage: "hunter1"
-			}]
+			tasks: [
+				{
+					id: "7056D7DB019D7E79"
+					type: "gamestage"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests36.tasks0.title}"
+					icon: "minecraft:filled_map"
+					stage: "hunter1"
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.38.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests37.title}"
 			icon: "minecraft:book"
 			x: 6.5d
 			y: -1.0d
-			subtitle: "{chapter.11.quest.38.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests37.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "09F497A2709AA63E"
-			tasks: [{
-				id: "238A5A837B0CC211"
-				type: "gamestage"
-				title: "{chapter.11.quest.38.task.1.title}"
-				icon: "minecraft:filled_map"
-				stage: "librarian1"
-			}]
+			tasks: [
+				{
+					id: "238A5A837B0CC211"
+					type: "gamestage"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests37.tasks0.title}"
+					icon: "minecraft:filled_map"
+					stage: "librarian1"
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.39.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests38.title}"
 			icon: {
 				id: "minecraft:iron_pickaxe"
 				Count: 1b
@@ -1520,61 +1842,69 @@
 			}
 			x: 8.0d
 			y: -1.0d
-			subtitle: "{chapter.11.quest.39.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests38.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "7E976B50F2FFF58B"
-			tasks: [{
-				id: "05FC25F21151CBC9"
-				type: "checkmark"
-				title: "{chapter.11.quest.39.task.1.title}"
-			}]
+			tasks: [
+				{
+					id: "05FC25F21151CBC9"
+					type: "checkmark"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests38.tasks0.title}"
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.40.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests39.title}"
 			icon: "minecraft:nether_wart_block"
 			x: 9.5d
 			y: -1.0d
-			subtitle: "{chapter.11.quest.40.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests39.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "34B3E66AA494516A"
-			tasks: [{
-				id: "2AE866F0DDA0323D"
-				type: "checkmark"
-				title: "{chapter.11.quest.40.task.1.title}"
-			}]
+			tasks: [
+				{
+					id: "2AE866F0DDA0323D"
+					type: "checkmark"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests39.tasks0.title}"
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.41.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests40.title}"
 			icon: "minecraft:nether_star"
 			x: 11.0d
 			y: -1.0d
-			subtitle: "{chapter.11.quest.41.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests40.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "3D75F9709BE33F97"
-			tasks: [{
-				id: "61C1AC50E5D3222D"
-				type: "gamestage"
-				title: "{chapter.11.quest.41.task.1.title}"
-				icon: "minecraft:filled_map"
-				stage: "netherian1"
-			}]
+			tasks: [
+				{
+					id: "61C1AC50E5D3222D"
+					type: "gamestage"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests40.tasks0.title}"
+					icon: "minecraft:filled_map"
+					stage: "netherian1"
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.42.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests41.title}"
 			icon: "minecraft:skeleton_skull"
 			x: 12.5d
 			y: -1.0d
-			subtitle: "{chapter.11.quest.42.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests41.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "4A988B619723BE75"
-			tasks: [{
-				id: "1B2A63391396F1DF"
-				type: "checkmark"
-				title: "{chapter.11.quest.42.task.1.title}"
-			}]
+			tasks: [
+				{
+					id: "1B2A63391396F1DF"
+					type: "checkmark"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests41.tasks0.title}"
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.43.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests42.title}"
 			icon: {
 				id: "minecraft:iron_shovel"
 				Count: 1b
@@ -1584,19 +1914,21 @@
 			}
 			x: 14.0d
 			y: -1.0d
-			subtitle: "{chapter.11.quest.43.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests42.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "35129EA4C68F2F88"
-			tasks: [{
-				id: "5D97A27229953EE9"
-				type: "gamestage"
-				title: "{chapter.11.quest.43.task.1.title}"
-				icon: "minecraft:filled_map"
-				stage: "toolsmith1"
-			}]
+			tasks: [
+				{
+					id: "5D97A27229953EE9"
+					type: "gamestage"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests42.tasks0.title}"
+					icon: "minecraft:filled_map"
+					stage: "toolsmith1"
+				}
+			]
 		}
 		{
-			title: "{chapter.11.quest.44.title}"
+			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests43.title}"
 			icon: {
 				id: "minecraft:iron_sword"
 				Count: 1b
@@ -1606,16 +1938,18 @@
 			}
 			x: 15.5d
 			y: -1.0d
-			subtitle: "{chapter.11.quest.44.subtitle}"
+			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests43.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "7F1AE7C5CF2DB045"
-			tasks: [{
-				id: "786B8B4FA2CACA49"
-				type: "gamestage"
-				title: "{chapter.11.quest.44.task.1.title}"
-				icon: "minecraft:filled_map"
-				stage: "weaponsmith1"
-			}]
+			tasks: [
+				{
+					id: "786B8B4FA2CACA49"
+					type: "gamestage"
+					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests43.tasks0.title}"
+					icon: "minecraft:filled_map"
+					stage: "weaponsmith1"
+				}
+			]
 		}
 	]
 	quest_links: [ ]
