@@ -4,7 +4,7 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "An Impossible Task!"
+      "text": "难如登天！"
     },
     "description": {
       "text": "To obtain this weapon, you must first prove yourself by accomplishing two tasks: Complete a witch's quest in a witch's hut, and lure a pooka away from the rest and pacify it with golden carrots."
@@ -12,7 +12,7 @@
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "谢谢！"
     },
     "description": {
       "text": "Excellent work! Here's the weapon. Despite its lightweight, it harbors considerable lethality."
