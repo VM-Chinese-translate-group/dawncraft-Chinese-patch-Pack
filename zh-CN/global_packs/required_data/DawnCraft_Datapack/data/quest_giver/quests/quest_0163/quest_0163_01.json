@@ -4,7 +4,7 @@
   "icon": "minecraft:map",
   "start": {
     "title": {
-      "text": "An Impossible Task!"
+      "text": "难如登天！"
     },
     "description": {
       "text": "To obtain this weapon, you must first prove yourself by accomplishing two tasks: Craft a Poltergeist block and capture a tiny bloviator in a bottle."
@@ -12,7 +12,7 @@
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "谢谢！"
     },
     "description": {
       "text": "Great job! Here are the Gesetz and Herrscher. Infused with the might of the ocean, they possess unique synergistic abilities when wielded in tandem."
