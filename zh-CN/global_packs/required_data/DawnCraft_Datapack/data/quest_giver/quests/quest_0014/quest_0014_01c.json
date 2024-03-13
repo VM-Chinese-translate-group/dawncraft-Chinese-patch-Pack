@@ -29,7 +29,7 @@
 	],
 	"rewards": [
 		{
-			"command": "/dc addWaypoint @p #custom:pillager_camp \"Main Quest - Pillager Camp\"",
+			"command": "/dc addWaypoint @p #custom:pillager_camp “主线任务——掠夺者营地”",
 			"id": "quest_giver:command"
 		},
 		{
