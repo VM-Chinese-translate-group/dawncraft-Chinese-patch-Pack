@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "黑曜石尖刺之地的地图"
+              "name": "黑曜石尖刺之地地图"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "火星人的下落。"
+                  "text": "火星人的行踪。"
                 }
               ]
             }
