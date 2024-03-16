@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "加斯科因神父的位置"
+              "name": "神父的位置"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "加斯科因神父的去向"
+                  "text": "加斯科因神父的去向。"
                 }
               ]
             }
