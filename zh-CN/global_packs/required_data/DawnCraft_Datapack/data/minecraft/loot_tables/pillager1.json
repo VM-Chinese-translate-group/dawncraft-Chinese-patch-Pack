@@ -24,7 +24,7 @@
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "距离你最近的掠夺者营地的地图。"
+                  "text": "前往距你最近的掠夺者营地的地图。"
                 }
               ]
             }
