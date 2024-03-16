@@ -7,7 +7,7 @@
             "bold": true
         },
         "description": {
-            "text": "找到三个生物群系：白色台地、古代沙海和火山之巅"
+            "text": "找到三个生物群系：白色台地、古代沙海&火山之巅。"
         },
         "icon": {
             "item": "minecraft:poppy"
