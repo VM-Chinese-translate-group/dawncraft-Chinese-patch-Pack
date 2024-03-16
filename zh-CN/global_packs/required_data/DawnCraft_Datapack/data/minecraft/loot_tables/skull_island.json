@@ -24,7 +24,7 @@
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "一张地图，指引你前往这里最强大的地方。"
+                  "text": "指引你前往这里最强大之物的地图。"
                 }
               ]
             }
