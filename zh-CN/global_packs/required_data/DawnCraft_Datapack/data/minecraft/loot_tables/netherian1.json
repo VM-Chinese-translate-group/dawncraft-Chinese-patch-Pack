@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "闹鬼废墟的地图"
+              "name": "闹鬼废墟地图"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "下界学家提供的前往侦查闹鬼之地的地图。"
+                  "text": "下界学家提供的前往调查闹鬼之地的地图。"
                 }
               ]
             }
