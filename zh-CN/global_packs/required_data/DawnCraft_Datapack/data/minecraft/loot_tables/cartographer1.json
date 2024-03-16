@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "制图师地图"
+              "name": "制图师的地图"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "由制图师提供寻找一群东部的流氓战士。"
+                  "text": "一张由制图师提供的地图，用来寻找一群东部的流氓战士。"
                 }
               ]
             }
