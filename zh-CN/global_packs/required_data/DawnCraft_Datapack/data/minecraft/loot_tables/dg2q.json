@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "可疑地图"
+              "name": "可疑的地图"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "由亡灵冒险家提供寻找一个教堂的地图。"
+                  "text": "一张由亡灵冒险家提供的地图，用来寻找一个教堂。"
                 }
               ]
             }
