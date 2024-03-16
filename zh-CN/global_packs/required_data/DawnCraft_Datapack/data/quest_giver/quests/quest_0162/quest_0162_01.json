@@ -7,7 +7,7 @@
       "text": "难如登天！"
     },
     "description": {
-      "text": "To obtain this weapon, you must first prove yourself by accomplishing two tasks: Complete a witch's quest in a witch's hut, and lure a pooka away from the rest and pacify it with golden carrots."
+      "text": "要获得这件武器，你必须先完成两项任务来证明自己：在女巫的小屋里完成女巫的任务，以及引诱一只普卡离开其他人，并用金胡萝卜安抚它。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "谢谢！"
     },
     "description": {
-      "text": "Excellent work! Here's the weapon. Despite its lightweight, it harbors considerable lethality."
+      "text": "干得漂亮！武器给你。它虽然很轻，但具有相当大的杀伤力。"
     }
   },
   "tasks": [
