@@ -1,12 +1,12 @@
 {
 	"item.epicfight.sanji": "神秘的香烟",
-	"item.epicfight.sanji.tooltip": "\"Messing with a cook of the sea is a good way to get yourself killed.....Remember that well.\"",
+	"item.epicfight.sanji.tooltip": "“骚扰海之厨师是自杀的好方法……记住这一点。”",
 	"skill.epicfight.diablejambu": "Diable jambu",
-	"skill.epicfight.diablejambu.tooltip": "\"Cooking is a gift from the god's, spices are gift from the devil. Looks like it was a little too spicy for you.\"",
+	"skill.epicfight.diablejambu.tooltip": "“烹饪是上帝的礼物，香料是魔鬼的礼物。看起来它对你来说有点太辣了。”",
 	"skill.epicfight.conqueror_haki": "霸王色霸气",
-	"skill.epicfight.conqueror_haki.tooltip": "\"They can't stand on their feet anyway.\"\n\n Hold your \"Use item/Place block\" button and press your \"Sneak\" button at the same time to activate the conqueror haki. This will do 10 damage and knock down every entity in a large area but it as a 20sec cooldown and cost half your stamina.",
+	"skill.epicfight.conqueror_haki.tooltip": "“他们无论如何都站不起来。”\n\n 按住你的“使用物品/放置方块”键，同时按下你的“潜行”键以激活霸王色霸气。这将造成10点伤害，并击倒很大范围内的所有实体，但有20秒的冷却时间，且会消耗你一半的耐力。",
 	"skill.epicfight.armement_haki": "武装色霸气",
-	"skill.epicfight.armement_haki.tooltip": "Hold your \"Use item/placeblock\" button While attacking will activate the Armement Haki. This will increase your damage by 50% and decrease the damage you take by 50% at the cost of stamina.",
+	"skill.epicfight.armement_haki.tooltip": "按住你的“使用物品/放置方块”键同时攻击会激活武装色霸气。这将使你造成的伤害增加50%，并以耐力为代价减少50%你受到的伤害。",
 	"entity.common.armement_haki": "武装色霸气",
 	"entity.common.conqueror_haki": "霸王色霸气"
 }
