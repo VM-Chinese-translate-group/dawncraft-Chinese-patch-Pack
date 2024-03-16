@@ -7,12 +7,12 @@
 			"text": "那么？"
 		},
 		"description": {
-			"text": "你能收集到$(red)10张纸$()吗？"
+			"text": "你收集到$(red)10张纸$()了吗？"
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "感謝！"
+			"text": "感谢！"
 		},
 		"description": {
 			"text": "谢谢。我现在没有绿宝石可以付给你……这样付款如何？"
