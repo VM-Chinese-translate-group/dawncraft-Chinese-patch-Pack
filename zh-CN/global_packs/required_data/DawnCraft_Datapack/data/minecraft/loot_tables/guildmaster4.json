@@ -24,7 +24,7 @@
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "这是骷髅领主的行踪，它是眼睛守护者之一"
+                  "text": "这是眼睛守护者之一——骷髅领主的行踪。"
                 }
               ]
             }
