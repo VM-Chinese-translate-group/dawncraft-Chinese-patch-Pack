@@ -7,7 +7,7 @@
       "text": "难如登天！"
     },
     "description": {
-      "text": "Before I entrust you with the ender blasters, you must accomplish two tasks to prove your worth: Extinguish a Pipelin Sentry from Nether's infernal dunes, and shear a fully mature mushroom colony. Keep in mind that you will need to develop rich soil in order to achieve that."
+      "text": "在我将终末挽歌交给你之前，你必须完成两项任务来证明你的价值：在下界的炼狱沙丘中击杀一位管道哨兵；收获一个成熟的菌落。请记住，你需要在沃土上种植蘑菇以获取菌落。"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "谢谢！"
     },
     "description": {
-      "text": "Congratulations! Here it is. This blaster delivers a powerful punch packed with a massive energy source."
+      "text": "恭喜！给你。这把武器拥有强大的威力，蕴含巨大的终末能量。"
     }
   },
   "tasks": [
