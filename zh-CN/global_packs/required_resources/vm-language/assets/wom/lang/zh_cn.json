@@ -48,7 +48,7 @@
 	"item.wom.moonless": "无月",
 	"item.wom.moonless.tooltip": "什么是一把没有柄的刀，一束不会映出影子的光……一个没有月亮的夜晚\n无月有两套攻击方式，裏与表\n冲刺攻击以切换它们",
 	"skill.wom.lunar_eclipse": "月蚀斩",
-	"skill.wom.lunar_eclipse.tooltip": "\"Cease light, cease life... Cease hope\"\n\n Strike foes in front of you\n and makes them glow for 7sec.\n\n In Recto : \n  - Attaking Glowing targets, stack your damage\n    and increase their Glowing lvl.\n  - Attaking Blind targets, stack your damage\n    and remove their Blindness.\n\n In Verso: \n  - Attaking Glowing targets, stack your damage\n    and remove their Glowing.\n  - Attaking Blind targets, increase their Blindness lvl\n\n Recto Jump attack ( Crescent )\n  Unleash all stacked damage on the target.\n  If it kills the target, it bounce to the closest target\n  and loose 5% of its damage.\n    Glowing increase the bounce range.\n    Blindness increase the damage.\n\n Verso Jump attack ( Fullmoon )\n  Unleash 70% of the stacked damage in Aoe.\n    Blindness increase the damage.",
+	"skill.wom.lunar_eclipse.tooltip": "“熄灭光明，终结生命……泯灭希望”\n\n 攻击你面前的敌人\n 并使其发光7秒。\n\n 裏： \n  - 攻击发光的目标，堆叠你的伤害\n    并增加其发光等级。\n  - 攻击失明的目标，堆叠你的伤害\n    并清除其失明效果。\n\n 表： \n  - 攻击发光的目标，堆叠你的伤害\n    并清除其发光效果。\n  - 攻击失明的目标，增加其失明等级\n\n 裏之跳劈（新月）\n  释放目标上所有堆叠的伤害。\n  如果杀死了目标，则会反弹到最近的目标上\n  并损失5%的伤害。\n    发光会增加反弹范围。\n    失明会增加伤害。\n\n 表之跳劈（满月）\n  以Aoe伤害的形式释放70%的堆叠的伤害。\n    失明会增加伤害。",
 	"item.wom.solar": "太阳",
 	"item.wom.solar.tooltip": "太阳的力量，掌握在我的手中",
 	"item.wom.antitheus": "撒旦",
