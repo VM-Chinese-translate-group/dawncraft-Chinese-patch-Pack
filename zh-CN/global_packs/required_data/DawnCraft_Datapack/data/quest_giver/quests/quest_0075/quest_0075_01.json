@@ -7,7 +7,7 @@
       "text": "一矿难求"
     },
     "description": {
-      "text": "你拿到一个$(red)远古残骸$()了吗？"
+      "text": "你拿到一块$(red)远古残骸$()了吗？"
     }
   },
   "complete": {
