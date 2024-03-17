@@ -7,7 +7,7 @@
       "text": "制作箭矢"
     },
     "description": {
-      "text": "你带来了$(red)两片羽毛$()了吗？"
+      "text": "你带来$(red)两片羽毛$()了吗？"
     }
   },
   "complete": {
