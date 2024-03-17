@@ -4,10 +4,10 @@
   "icon": "minecraft:redstone",
   "start": {
     "title": {
-      "text": "所以？"
+      "text": "那么？"
     },
     "description": {
-      "text": "你击败了大地傀儡然后取得了$(red)大地守卫之眼$()吗？"
+      "text": "你击败大地傀儡并取得$(red)大地守卫之眼$()了吗？"
     }
   },
   "complete": {
