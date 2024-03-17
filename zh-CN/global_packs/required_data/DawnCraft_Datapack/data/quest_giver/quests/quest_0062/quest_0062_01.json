@@ -7,7 +7,7 @@
       "text": "收集羽毛"
     },
     "description": {
-      "text": "你带来了$(red)2片走鹃羽毛$()了吗？"
+      "text": "你带来$(red)2片走鹃羽毛$()了吗？"
     }
   },
   "complete": {
