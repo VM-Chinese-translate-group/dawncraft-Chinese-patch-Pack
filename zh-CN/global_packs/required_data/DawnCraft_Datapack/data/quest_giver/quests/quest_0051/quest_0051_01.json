@@ -4,7 +4,7 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "所以？"
+      "text": "那么？"
     },
     "description": {
       "text": "获得$(red)南瓜种子()了吗？"
