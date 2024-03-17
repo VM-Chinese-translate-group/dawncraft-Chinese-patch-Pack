@@ -1,0 +1,18 @@
+{
+	"class.dawncraft.brawler" : "Brawler",
+	"class.dawncraft.astrologer" : "Astrologer",
+	"class.dawncraft.ronin" : "Ronin",
+	"class.dawncraft.warrior" : "Warrior",
+	"class.dawncraft.berserker" : "Berserker",
+	"class.dawncraft.tank" : "Tank",
+	"class.dawncraft.lancer" : "Lancer",
+	"class.dawncraft.roamer" : "Roamer",
+	"class.dawncraft.brawler.desc" : "Brawlers feature well above-average health and average stamina, making them formidable in close-quarters combat with enduring strength.",
+	"class.dawncraft.astrologer.desc" : "Astrologers, with low health and below-average stamina, their strength lies in the powerful Ender Step for strategic movements, complemented by a basic spell book for magic casting.",
+	"class.dawncraft.ronin.desc" : "With low health and average stamina, Ronins are agile katana wielding warriors, delivering precise strikes while skillfully avoiding harm.",
+	"class.dawncraft.warrior.desc" : "Formidable champions with above average stamina and health, making them a balanced force on the battlefield.",
+	"class.dawncraft.berserker.desc" : "Relentless ferocity balanced with average health and above-average stamina. Berserkers excels in extended battles with their special skills tailored for prolonged combat.",
+	"class.dawncraft.tank.desc" : "High health and below-average stamina define the Tank class, built to endure relentless assaults. With a unique stun resistant skill, Tanks are unyielding protectors on the battlefield.",
+	"class.dawncraft.lancer.desc" : "Lancers, with average health and stamina, showcase precision and agility. They excel at exploiting enemy weak points and employ a swift dodge for nimble combat maneuvers.",
+	"class.dawncraft.roamer.desc" : "Armed with a bow and arrows, Roamers embrace agility, featuring below-average health and high stamina."
+}
