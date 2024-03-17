@@ -1,0 +1,12 @@
+{
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "你好！"
+    },
+    "description": {
+      "text": "传奇武器——无月，是我的武器，但在你证明了自己值得它以后，我便会将它传给你。"
+    }
+  }
+}

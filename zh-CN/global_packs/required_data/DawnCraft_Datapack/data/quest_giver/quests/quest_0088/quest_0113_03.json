@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0113_02",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "又见面了！"
+    },
+    "description": {
+      "text": "还在努力钻研中！你拿到木棍了吗？"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "给你。"
+    },
+    "description": {
+      "text": "给你。这可能是我迄今为止最好的作品，哈哈。"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:stick"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "simple_mobs:gem_sword"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    },
+    {
+      "command": "/addreputation reputation:villager @p 3",
+      "id": "quest_giver:command"
+    }
+  ]
+}

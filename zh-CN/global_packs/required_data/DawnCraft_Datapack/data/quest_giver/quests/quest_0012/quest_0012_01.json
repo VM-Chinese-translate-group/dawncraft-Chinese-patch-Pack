@@ -4,10 +4,10 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "牛奶桶"
+      "text": "牛奶桶！"
     },
     "description": {
-      "text": "请你快些吧。我急需一桶$(red)牛奶$()"
+      "text": "请你快些吧。我急需一桶$(red)牛奶$()！"
     }
   },
   "complete": {

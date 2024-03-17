@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"dawncraft:roll",
+		"dawncraft:hypervitality"
+	],
+	"icon": {
+		"item": "epicfight:glove"
+	},
+	"order": 10,
+	"impact": 1,
+	"name": "格斗家",
+	"description": "格斗家拥有远高于平均水平的生命值和一般水平的耐力，使他们在近战中拥有持久的力量。"
+}

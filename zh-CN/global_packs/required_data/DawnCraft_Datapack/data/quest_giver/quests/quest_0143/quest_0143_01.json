@@ -1,0 +1,36 @@
+{
+	"parent": "quest_giver:root",
+	"reputation": 15,
+	"icon": "minecraft:iron_sword",
+	"start": {
+		"title": {
+			"text": "所以？"
+		},
+		"description": {
+			"text": "我可以教你这个技能——霸王色霸气，价格为30个绿宝石。你觉得怎么样？"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "感谢！"
+		},
+		"description": {
+			"text": "去吧。在敌人堆里用技能小心点！"
+		}
+	},
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:gift",
+			"times": 30
+		}
+	],
+	"rewards": [
+		{
+			"command": "give @p epicfight:skillbook{skill:\"epicfight:conqueror_haki\"}",
+			"id": "quest_giver:command"
+		}
+	]
+}

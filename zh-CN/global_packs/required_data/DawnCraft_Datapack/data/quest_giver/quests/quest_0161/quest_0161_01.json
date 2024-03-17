@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "难如登天！"
+    },
+    "description": {
+      "text": "完成两项令我满意的任务以获得支配撒旦的权利：与其他三名乘客一起骑炽岩，以及剪一只哞花。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "恭喜！给你。这把武器拥有强大的威力，蕴含巨大的能量。"
+    }
+  },
+  "tasks": [
+    {
+      "id": "afptweaks:advancement",
+      "advancement": "alexsmobs:alexsmobs/laviathan_four_passengers"
+    },
+    {
+      "id": "afptweaks:advancement",
+      "advancement": "friendsandfoes:husbandry/shear_a_moobloom"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "wom:antitheus"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

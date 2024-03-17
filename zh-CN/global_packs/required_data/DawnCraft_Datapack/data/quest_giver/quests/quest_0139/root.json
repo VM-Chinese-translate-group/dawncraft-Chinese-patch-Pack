@@ -1,0 +1,12 @@
+{
+  "reputation": 15,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "嘿!"
+    },
+    "description": {
+      "text": "嘿，如果你愿意的话，我可以教你一个战斗技能……当然，这是要付出代价的。"
+    }
+  }
+}

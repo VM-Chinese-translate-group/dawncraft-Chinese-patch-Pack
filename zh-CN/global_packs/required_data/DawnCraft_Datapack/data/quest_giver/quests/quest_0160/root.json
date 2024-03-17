@@ -1,0 +1,12 @@
+{
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "你好！"
+    },
+    "description": {
+      "text": "神迹武装——终末挽歌，现在在我的手中，但在赠予你之前，你必须证明你的价值。"
+    }
+  }
+}

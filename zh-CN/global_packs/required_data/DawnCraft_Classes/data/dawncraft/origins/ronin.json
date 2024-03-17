@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"dawncraft:roll",
+		"dawncraft:guard",
+		"dawncraft:pain_retribution"
+	],
+	"icon": {
+		"item": "epicfight:uchigatana"
+	},
+	"order": 10,
+	"impact": 2,
+	"name": "浪人",
+	"description": "浪人生命值较低，耐力一般，是手持武士刀的敏捷战士，能够精确打击敌人的同时巧妙地避开伤害。"
+}

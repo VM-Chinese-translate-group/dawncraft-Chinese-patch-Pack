@@ -1,0 +1,36 @@
+{
+	"parent": "quest_giver:root",
+	"reputation": 15,
+	"icon": "minecraft:iron_sword",
+	"start": {
+		"title": {
+			"text": "所以？"
+		},
+		"description": {
+			"text": "我可以教你这个技能——暗影步伐，价格为25个绿宝石。你觉得怎么样？"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "感谢！"
+		},
+		"description": {
+			"text": "一种可怕的技术，不是吗？"
+		}
+	},
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:gift",
+			"times": 25
+		}
+	],
+	"rewards": [
+		{
+			"command": "give @p epicfight:skillbook{skill:\"wom:shadow_step\"}",
+			"id": "quest_giver:command"
+		}
+	]
+}

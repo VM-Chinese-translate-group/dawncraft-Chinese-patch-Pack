@@ -1,0 +1,12 @@
+{
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "你好！"
+    },
+    "description": {
+      "text": "我拥有传奇武器——花吹雪，但是否授予你取决于你对自己价值的证明。"
+    }
+  }
+}

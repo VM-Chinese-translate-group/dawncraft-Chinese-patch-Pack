@@ -29,6 +29,10 @@
   ],
   "rewards": [
     {
+      "command": "/dc addWaypoint @p quest_giver:pillager_base \"救援请求——掠夺者基地\"",
+      "id": "quest_giver:command"
+    },
+    {
       "command": "/loot give @p loot minecraft:guard2",
       "id": "quest_giver:command"
     },

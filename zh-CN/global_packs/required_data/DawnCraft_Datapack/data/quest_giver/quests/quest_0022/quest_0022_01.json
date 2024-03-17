@@ -7,12 +7,12 @@
       "text": "那么？"
     },
     "description": {
-      "text": "你已经找到了$(red)恼人至高木原木$()了吗？"
+      "text": "你拿到$(red)桃花心木原木$()了吗？"
     }
   },
   "complete": {
     "title": {
-      "text": "感谢！"
+      "text": "谢谢！"
     },
     "description": {
       "text": "谢谢。这是你的奖励。"
@@ -21,7 +21,7 @@
   "tasks": [
     {
       "item": {
-        "item": "ars_nouveau:purple_archwood_log"
+        "item": "hexerei:mahogany_log"
       },
       "id": "quest_giver:gift",
       "times": 1

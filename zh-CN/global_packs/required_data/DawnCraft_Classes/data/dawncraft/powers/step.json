@@ -1,0 +1,5 @@
+{
+    "type": "origins:simple",
+    "name": "跨步",
+    "description": "朝你移动的方向快速移动一小段距离。闪避所有攻击。"
+}

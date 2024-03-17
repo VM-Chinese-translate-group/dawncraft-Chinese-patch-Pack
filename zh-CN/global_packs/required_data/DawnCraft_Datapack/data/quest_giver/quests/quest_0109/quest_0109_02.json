@@ -15,7 +15,7 @@
 			"text": "解救孩童：完成"
 		},
 		"description": {
-			"text": "太棒了！你真的做到了！说实话，我原以为孩子能生还的希望渺茫……拿着，我会教你一项新技能——技巧大师。这是我唯一能报答你的方式。"
+			"text": "太棒了！你真的做到了！说实话，我原以为孩子能生还的希望渺茫……拿着，我会教你一项新技能——流星猛击。这是我唯一能报答你的方式。"
 		}
 	},
 	"tasks": [
@@ -26,7 +26,7 @@
 	],
 	"rewards": [
 		{
-			"command": "/give @p epicfight:skillbook{skill:\"epicfight:swordmaster\"}",
+			"command": "/give @p epicfight:skillbook{skill:\"epicfight:meteor_slam\"}",
 			"id": "quest_giver:command"
 		},
 		{

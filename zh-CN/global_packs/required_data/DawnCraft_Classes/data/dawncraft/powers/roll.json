@@ -1,0 +1,5 @@
+{
+    "type": "origins:simple",
+    "name": "翻滚",
+    "description": "朝你移动的方向翻滚。闪避所有打来的攻击。"
+}

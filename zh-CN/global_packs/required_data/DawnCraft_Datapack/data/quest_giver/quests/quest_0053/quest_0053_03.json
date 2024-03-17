@@ -4,18 +4,18 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "所以？"
+      "text": "那么？"
     },
     "description": {
-      "text": "所以，你摘到$(red)4个甜浆果$()了吗？"
+      "text": "那么，你摘到$(red)4个甜浆果$()了吗？"
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "感谢！"
     },
     "description": {
-      "text": "你太热心了，年轻人。能再帮我个忙吗？我还需要两棵甜菜根……我保证这是我最后一个请求了。"
+      "text": "你太热心了，年轻人。能再帮我个忙吗？我还需要2棵甜菜根……我保证这是我最后一个请求了。"
     }
   },
   "tasks": [

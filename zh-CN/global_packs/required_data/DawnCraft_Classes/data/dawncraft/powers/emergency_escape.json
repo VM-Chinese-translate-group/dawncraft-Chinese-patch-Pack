@@ -1,0 +1,9 @@
+{
+   "type": "origins:action_on_callback",
+   "entity_action_gained": {
+      "type": "origins:execute_command",
+      "command": "/pickClass @p dawncraft:roamer"
+   },
+   "name": "紧急逃生",
+   "description": "通过闪避来取消你的攻击动作的能力。在耐力耗尽时允许进行一次闪避。"
+}

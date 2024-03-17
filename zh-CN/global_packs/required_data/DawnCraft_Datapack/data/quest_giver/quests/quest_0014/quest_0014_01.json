@@ -12,10 +12,10 @@
 	},
 	"complete": {
 		"title": {
-			"text": "初窥门径"
+			"text": "牛刀小试"
 		},
 		"description": {
-			"text": "给，打开书学习这项技能吧。如果你想获取更多的技能书，我建议你去守卫那儿接一些任务。祝你旅途愉快。"
+			"text": "来，在$(green)女神雕像$()那用这些进行你的第一次升级！如果你想学一些新技能，我建议你和这里的一些守卫聊聊，如果你想学点新技能的话。祝你旅途愉快。"
 		}
 	},
 	"tasks": [
@@ -27,7 +27,14 @@
 	],
 	"rewards": [
 		{
-			"command": "/give @p epicfight:skillbook{skill:\"epicfight:roll\"}",
+			"item": {
+				"item": "paraglider:spirit_orb"
+			},
+			"id": "quest_giver:item",
+			"times": 4
+		},
+		{
+			"command": "/dc addWaypoint @p goblinsanddungeons:ruined_keep \"任务 - 哥布林之王的藏身之处\"",
 			"id": "quest_giver:command"
 		},
 		{

@@ -1,0 +1,12 @@
+{
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "你好！"
+    },
+    "description": {
+      "text": "我的确持有神迹武装——驱影。要证明你值得拥有，你必须证明你的勇气和价值。"
+    }
+  }
+}

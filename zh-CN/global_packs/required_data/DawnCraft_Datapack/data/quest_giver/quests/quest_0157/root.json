@@ -1,0 +1,12 @@
+{
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "你好！"
+    },
+    "description": {
+      "text": "传说之刃现在就在我手中——痛苦魔枪。但是，为了发挥他的全部力量，你必须向它证明你的力量。"
+    }
+  }
+}

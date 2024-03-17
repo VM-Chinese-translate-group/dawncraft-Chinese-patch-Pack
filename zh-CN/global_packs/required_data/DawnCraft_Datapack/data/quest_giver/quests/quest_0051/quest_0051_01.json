@@ -4,7 +4,7 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "所以？"
+      "text": "那么？"
     },
     "description": {
       "text": "获得$(red)南瓜种子()了吗？"
@@ -12,7 +12,7 @@
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "感谢！"
     },
     "description": {
       "text": "非常感谢，现在我可以在房子后面种植一小块南瓜田然后开始我的研究了，哈哈！"

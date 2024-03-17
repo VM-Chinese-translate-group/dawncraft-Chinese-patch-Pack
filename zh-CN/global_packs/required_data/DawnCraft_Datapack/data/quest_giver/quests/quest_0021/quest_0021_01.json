@@ -7,7 +7,7 @@
       "text": "那么？"
     },
     "description": {
-      "text": "你拿到一个 $(red)海洋之心$()了吗？"
+      "text": "你拿到一个$(red)海洋之心$()了吗？"
     }
   },
   "complete": {

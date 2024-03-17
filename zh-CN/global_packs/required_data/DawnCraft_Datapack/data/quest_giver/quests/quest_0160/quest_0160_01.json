@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "难如登天！"
+    },
+    "description": {
+      "text": "在我将终末挽歌交给你之前，你必须完成两项任务来证明你的价值：在下界的炼狱沙丘中击杀一位管道哨兵；收获一个成熟的菌落。请记住，你需要在沃土上种植蘑菇以获取菌落。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "恭喜！给你。这把武器拥有强大的威力，蕴含巨大的终末能量。"
+    }
+  },
+  "tasks": [
+    {
+      "id": "afptweaks:advancement",
+      "advancement": "incendium:infernal_dunes/pipeline/kill_sentry"
+    },
+    {
+      "id": "afptweaks:advancement",
+      "advancement": "farmersdelight:main/get_mushroom_colony"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "wom:ender_blaster"
+      },
+      "id": "quest_giver:item",
+      "times": 2
+    }
+  ]
+}

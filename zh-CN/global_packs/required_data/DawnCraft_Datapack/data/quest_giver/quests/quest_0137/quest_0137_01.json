@@ -1,0 +1,36 @@
+{
+	"parent": "quest_giver:root",
+	"reputation": 15,
+	"icon": "minecraft:iron_sword",
+	"start": {
+		"title": {
+			"text": "所以？"
+		},
+		"description": {
+			"text": "我了解技能 - 超强活力，但是教你要花20个绿宝石！"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "感谢！"
+		},
+		"description": {
+			"text": "这本书应该能为你提供这门艺术的秘密。"
+		}
+	},
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:gift",
+			"times": 20
+		}
+	],
+	"rewards": [
+		{
+			"command": "give @p epicfight:skillbook{skill:\"epicfight:hypervitality\"}",
+			"id": "quest_giver:command"
+		}
+	]
+}

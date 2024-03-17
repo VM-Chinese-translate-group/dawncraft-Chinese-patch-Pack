@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"dawncraft:warrior"
+	],
+	"icon": {
+		"item": "minecraft:iron_sword"
+	},
+	"order": 10,
+	"impact": 1,
+	"name": "翻滚",
+	"description": "战士是令人敬畏的冠军，具有高于平均水平的耐力和生命值，使他们成为战场上一支均衡的力量。"
+}

@@ -7,7 +7,7 @@
 			"text": "为民除害"
 		},
 		"description": {
-			"text": "莫非，你是个冒险者……那太好了，帮我找来一张纸。我会告诉你我们在附近发现的掠夺者营地的位置。"
+			"text": "考虑到你是个冒险者……很好。帮我找张纸来。我会告诉你我们发现的最近的掠夺者营地的位置。"
 		}
 	},
 	"complete": {
@@ -28,6 +28,10 @@
 		}
 	],
 	"rewards": [
+		{
+			"command": "/dc addWaypoint @p #custom:pillager_camp \"主线任务——掠夺者营地\"",
+			"id": "quest_giver:command"
+		},
 		{
 			"command": "/loot give @p loot minecraft:pillager1",
 			"id": "quest_giver:command"

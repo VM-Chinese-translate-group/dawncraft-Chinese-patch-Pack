@@ -1,0 +1,5 @@
+{
+    "type": "origins:simple",
+    "name": "防守",
+    "description": "右击防御正面攻击。 持续的格挡会消耗更多的耐力。"
+}

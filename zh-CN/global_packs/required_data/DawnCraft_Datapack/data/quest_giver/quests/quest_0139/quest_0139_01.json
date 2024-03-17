@@ -1,0 +1,36 @@
+{
+	"parent": "quest_giver:root",
+	"reputation": 15,
+	"icon": "minecraft:iron_sword",
+	"start": {
+		"title": {
+			"text": "所以？"
+		},
+		"description": {
+			"text": "我可以教你认真滚动技能，价格为18个绿宝石。"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "感谢！"
+		},
+		"description": {
+			"text": "拿好。"
+		}
+	},
+	"tasks": [
+		{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:gift",
+			"times": 18
+		}
+	],
+	"rewards": [
+		{
+			"command": "give @p epicfight:skillbook{skill:\"wom:precise_roll\"}",
+			"id": "quest_giver:command"
+		}
+	]
+}

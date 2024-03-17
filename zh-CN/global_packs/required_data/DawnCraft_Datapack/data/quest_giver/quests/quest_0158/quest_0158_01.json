@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "难如登天"
+    },
+    "description": {
+      "text": "有两项任务摆在你面前：给白头海雕戴上兜帽，操控它击杀100格以外的任何生物；或者是给一头猪喂食发酵的蜘蛛眼，然后向它扔化学X药水。完成这些任务，我才能信任你，才能把这神噬者交给你。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "感謝！"
+    },
+    "description": {
+      "text": "干得好！这是你的奖励。它的前主人是一只可怕的猪灵战士。"
+    }
+  },
+  "tasks": [
+    {
+      "id": "afptweaks:advancement",
+      "advancement": "alexsmobs:alexsmobs/bald_eagle_challenge"
+    },
+    {
+      "id": "afptweaks:advancement",
+      "advancement": "mutantmonsters:spider_pig_spider_pig"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "wom:tormented_mind"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

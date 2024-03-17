@@ -12,7 +12,7 @@
 	},
 	"complete": {
 		"title": {
-			"text": "谢谢！"
+			"text": "感謝！"
 		},
 		"description": {
 			"text": "真是太有趣了！在完全不同的环境中生长出的植物竟然有着相同的特征，这是怎么回事？等我以后再好好研究吧，这是你的报酬。"
@@ -52,10 +52,10 @@
 		},
 		{
 			"item": {
-				"item": "ars_nouveau:source_gem"
+				"item": "irons_spellbooks:arcane_ingot"
 			},
 			"id": "quest_giver:item",
-			"times": 20
+			"times": 10
 		}
 	]
 }

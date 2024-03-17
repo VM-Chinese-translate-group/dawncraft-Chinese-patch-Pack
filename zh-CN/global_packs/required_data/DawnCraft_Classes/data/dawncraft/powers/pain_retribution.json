@@ -1,0 +1,9 @@
+{
+   "type": "origins:action_on_callback",
+   "entity_action_gained": {
+      "type": "origins:execute_command",
+      "command": "/pickClass @p dawncraft:ronin"
+   },
+   "name": "预测疼痛",
+   "description": "如果2秒内没有任何行动，获得预测，这将使你免疫眩晕效果，并减少40%接下来2秒内的下一个动作受到的伤害。"
+}

@@ -2,8 +2,8 @@
 	"type": "minecraft:gift",
 	"pools": [
 		{
-			"rolls": 1.0,
-			"bonus_rolls": 0.0,
+			"rolls": "1",
+			"bonus_rolls": "0",
 			"entries": [
 				{
 					"type": "minecraft:item",
@@ -24,7 +24,7 @@
 							"function": "minecraft:set_lore",
 							"lore": [
 								{
-									"text": "标记了离你最近的村庄的一张地图……我想知道它为什么在这"
+									"text": "一张标记了离你最近的村庄的地图……我想知道它为什么在这。"
 								}
 							]
 						}

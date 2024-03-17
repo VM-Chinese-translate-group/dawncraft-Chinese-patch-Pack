@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "一个不可能完成的任务！"
+    },
+    "description": {
+      "text": "我希望你能完成两项任务：获得高贵的太阳鸟的祝福，然后召唤一个雪傀儡变异体。然后我就可以考虑把痛苦魔枪交给你。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "感謝！"
+    },
+    "description": {
+      "text": "值得注意的是，它之前的主人落入了野兽之口。希望你不会落得那般下场。"
+    }
+  },
+  "tasks": [
+    {
+      "id": "afptweaks:advancement",
+      "advancement": "mutantmonsters:frosty_the_snow_golem"
+    },
+    {
+      "id": "afptweaks:advancement",
+      "advancement": "alexsmobs:alexsmobs/sunbird_blessing"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "wom:agony"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

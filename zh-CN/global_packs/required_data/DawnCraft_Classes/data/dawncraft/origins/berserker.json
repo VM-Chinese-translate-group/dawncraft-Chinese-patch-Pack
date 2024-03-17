@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"dawncraft:roll",
+		"dawncraft:berserker",
+		"dawncraft:forbidden_strength"
+	],
+	"icon": {
+		"item": "epicfight:iron_greatsword"
+	},
+	"order": 10,
+	"impact": 1,
+	"name": "狂战士",
+	"description": "狂战士的特点为无尽的狂野，平均的生命值以及高于平均水平的耐力。在长时间的战斗中，狂战士凭借其为持久战斗量身定制的特殊技能表现出色"
+}

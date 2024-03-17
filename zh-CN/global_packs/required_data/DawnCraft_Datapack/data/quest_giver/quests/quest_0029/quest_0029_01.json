@@ -7,7 +7,7 @@
       "text": "蘑菇煲！"
     },
     "description": {
-      "text": "你做好了$(red)蘑菇煲$()吗？"
+      "text": "你做好$(red)蘑菇煲$()了吗？"
     }
   },
   "complete": {

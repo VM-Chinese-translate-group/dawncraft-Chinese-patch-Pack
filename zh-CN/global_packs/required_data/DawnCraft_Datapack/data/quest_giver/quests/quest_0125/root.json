@@ -1,0 +1,12 @@
+{
+  "reputation": 15,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "嘿!"
+    },
+    "description": {
+      "text": "教你点技能，但是要花15个绿宝石！"
+    }
+  }
+}

@@ -12,7 +12,7 @@
 	},
 	"complete": {
 		"title": {
-			"text": "谢谢！"
+			"text": "感謝！"
 		},
 		"description": {
 			"text": "对我来说，这本书……背后所承载的东西太多太多了。多谢您的援助，我感激不尽。我听说冒险者也能施展魔法，请收下这些吧，算是我的一些心意。"
@@ -35,7 +35,7 @@
 		},
 		{
 			"item": {
-				"item": "ars_nouveau:source_gem"
+				"item": "irons_spellbooks:arcane_ingot"
 			},
 			"id": "quest_giver:item",
 			"times": 3

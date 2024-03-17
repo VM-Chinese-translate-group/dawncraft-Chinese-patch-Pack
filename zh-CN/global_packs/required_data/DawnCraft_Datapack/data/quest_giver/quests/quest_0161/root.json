@@ -1,0 +1,12 @@
+{
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "你好！"
+    },
+    "description": {
+      "text": "拥有传奇武器——撒旦的我有责任把它传给像你这样的战士。然而，我需要你证明你的价值，然后才能将它授予你。"
+    }
+  }
+}

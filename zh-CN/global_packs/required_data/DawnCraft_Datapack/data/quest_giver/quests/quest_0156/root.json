@@ -1,0 +1,12 @@
+{
+  "reputation": 15,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "嘿!"
+    },
+    "description": {
+      "text": "哦你好，我可以教你一种简单但强大的技能！"
+    }
+  }
+}

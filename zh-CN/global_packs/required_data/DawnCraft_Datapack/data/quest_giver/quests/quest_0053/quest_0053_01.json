@@ -4,15 +4,15 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "所以？"
+      "text": "那么？"
     },
     "description": {
-      "text": "你拿到了$(red)2棵洋葱$()吗？"
+      "text": "你拿到$(red)2个洋葱$()了吗？"
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "感谢！"
     },
     "description": {
       "text": "干得不错，孩子。能再给我$(red)2粒西瓜种子$()吗？"

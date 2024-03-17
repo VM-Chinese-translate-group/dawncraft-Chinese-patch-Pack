@@ -7,15 +7,15 @@
       "text": "传授剑艺"
     },
     "description": {
-      "text": "25个绿宝石，我会教你如何双持巨剑。"
+      "text": "给我15个绿宝石，我会教你跨步技能。"
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "感谢！"
     },
     "description": {
-      "text": "很高兴能和你切磋剑术。好好练习，但是劳逸结合，别把自己累垮了。"
+      "text": "给你。我更喜欢使用这个，而不是在泥里滚来滚去！"
     }
   },
   "tasks": [
@@ -24,12 +24,12 @@
         "item": "minecraft:emerald"
       },
       "id": "quest_giver:gift",
-      "amount": 25
+      "amount": 15
     }
   ],
   "rewards": [
     {
-      "command": "/give @p epicfight:skillbook{skill:\"epicfight:dualgreatsword\"}",
+      "command": "/give @p epicfight:skillbook{skill:\"epicfight:step\"}",
       "id": "quest_giver:command"
     }
   ]

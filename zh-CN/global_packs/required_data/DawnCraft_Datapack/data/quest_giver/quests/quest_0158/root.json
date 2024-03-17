@@ -1,0 +1,12 @@
+{
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "你好！"
+    },
+    "description": {
+      "text": "我挥舞着传奇的剑——神噬者。然而，为了赢得它的认可，你必须展现出你的勇气和价值。"
+    }
+  }
+}
