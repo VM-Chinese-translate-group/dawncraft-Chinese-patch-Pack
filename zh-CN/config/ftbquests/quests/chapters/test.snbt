@@ -900,7 +900,7 @@
 					id: "7B9F61F2A4765018"
 					type: "command"
 					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"这是你的第一次\"},{\"text\":\"死亡\",\"bold\":true,\"color\":\"red\"},{\"text\":\"。尽管你的物品栏中的大部分物品将会保留，但仍有一些有价值的物品将会从你的遗体中失去，10分钟后将会腐烂。你可以按“\"},{\"text\":\"I\",\"bold\":true},{\"text\":\"”检查你的遗体的位置。\\n\\n.\\n\\n短时间内累积多次死亡将会造成更高等级的“\"},{\"text\":\"粉碎之魂\",\"bold\":true,\"color\":\"light_purple\"},{\"text\":\"”。\"}]"
+					command: "/tellraw @p [\"\",{\"text\":\"这是你的第一次\"},{\"text\":\"死亡\",\"bold\":true,\"color\":\"red\"},{\"text\":\"。尽管你的物品栏中的大部分物品将会保留，但仍有一些有价值的物品将会从你的遗体中失去，10分钟后将会腐烂。你可以按“\"},{\"text\":\"I\",\"bold\":true},{\"text\":\"”检查你的遗体的位置。\n\n.\n\n短时间内累积多次死亡将会造成更高等级的“\"},{\"text\":\"粉碎之魂\",\"bold\":true,\"color\":\"light_purple\"},{\"text\":\"”。\"}]"
 				}
 			]
 		}
@@ -1521,7 +1521,7 @@
 					id: "01BE88C49BEF5128"
 					type: "command"
 					auto: "enabled"
-					command: "/tellraw @p [\"\",{\"text\":\"\\n如果你需要点帮助，请访问你的物品栏点击\\\"\"},{\"text\":\"任务\",\"bold\":true,\"color\":\"green\"},{\"text\":\"\\\"选项卡\\n \"}]"
+					command: "/tellraw @p [\"\",{\"text\":\"\n如果你需要点帮助，请访问你的物品栏点击\"\"},{\"text\":\"任务\",\"bold\":true,\"color\":\"green\"},{\"text\":\"\"选项卡\n \"}]"
 				}
 			]
 		}
