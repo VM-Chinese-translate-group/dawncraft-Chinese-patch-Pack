@@ -4,15 +4,15 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "解救孩童"
+      "text": "失踪儿童"
     },
     "description": {
-      "text": "求你救救那个孩子，把他安全送回来。"
+      "text": "求求你救救那个孩子，把他安全送回来。"
     }
   },
   "complete": {
     "title": {
-      "text": "解救孩童：完成"
+      "text": "失踪儿童：完成"
     },
     "description": {
       "text": "冒险者，你是一位真正的英雄。我们永远不会忘记你为我们所做的一切。来吧，我会教你一项新的战斗技能——死亡收割。"
