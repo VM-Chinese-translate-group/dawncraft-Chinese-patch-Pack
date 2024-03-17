@@ -4,10 +4,10 @@
 	"icon": "minecraft:wheat_seeds",
 	"start": {
 		"title": {
-			"text": "所以？"
+			"text": "那么？"
 		},
 		"description": {
-			"text": "如果可以的话，你能帮我们做$(red)2个面包$()吗？不过不用着急。"
+			"text": "如果可以的话，你能帮我们做$(red)2个面包$()吗？不过不急！"
 		}
 	},
 	"complete": {
