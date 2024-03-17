@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/dc addWaypoint @p custom:arena “主线任务——罗伯骑士的竞技场”",
+      "command": "/dc addWaypoint @p custom:arena \"主线任务——罗伯骑士的竞技场\"",
       "id": "quest_giver:command"
     },
     {
