@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/dc addWaypoint @p custom:wolf_hideout “矿工的请求——生物清剿”",
+      "command": "/dc addWaypoint @p custom:wolf_hideout \"矿工的请求——生物清剿\"",
       "id": "quest_giver:command"
     },
     {
