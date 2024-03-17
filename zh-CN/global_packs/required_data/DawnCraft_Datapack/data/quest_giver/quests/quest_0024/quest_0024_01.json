@@ -15,7 +15,7 @@
       "text": "给你。"
     },
     "description": {
-      "text": "给你，请你尽快出发！我们不知道他们会对那个孩子做些什么。"
+      "text": "给你。请尽快出发！我们不知道他们会对那个孩子做些什么。"
     }
   },
   "tasks": [
@@ -28,6 +28,10 @@
     }
   ],
   "rewards": [
+    {
+      "command": "/dc addWaypoint @p quest_giver:pillager_hideout \"救援请求——掠夺者藏身地\"",
+      "id": "quest_giver:command"
+    },
     {
       "command": "/loot give @p loot minecraft:guard1",
       "id": "quest_giver:command"

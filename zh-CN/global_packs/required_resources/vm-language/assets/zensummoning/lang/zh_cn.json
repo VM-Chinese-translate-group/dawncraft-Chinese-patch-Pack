@@ -10,7 +10,7 @@
   "chat.zensummoning.unsatisfied_hand": "祭坛对你献出的祭品不满意。",
   "chat.zensummoning.unknown_error": "发生了未知错误，无法进行预期的召唤。",
   "jei.zensummoning.recipe.altar": "召唤祭坛",
-  "jei.zensummoning.catalyst.lore": "{\"text\":\"待所有祭品都安置在祭坛上后按住Shift键并右击祭坛即可开始召唤\", \"color\":\"dark_aqua\"}",
+  "jei.zensummoning.catalyst.lore": "{\\\"text\\\":\\\"待所有祭品都安置在祭坛上后按住Shift键并右击祭坛即可开始召唤\\\", \\\"color\\\":\\\"dark_aqua\\\"}",
   "jei.zensummoning.recipe.altar.isCatalystConsumed": "消耗物品：%1$s",
   "jei.zensummoning.recipe.altar.weight": "概率：%f",
   "jei.zensummoning.recipe.altar.entity": "%1$dx%2$s"

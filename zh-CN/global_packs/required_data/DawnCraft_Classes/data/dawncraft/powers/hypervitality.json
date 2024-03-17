@@ -1,0 +1,9 @@
+{
+   "type": "origins:action_on_callback",
+   "entity_action_gained": {
+      "type": "origins:execute_command",
+      "command": "/pickClass @p dawncraft:brawler"
+   },
+   "name": "超强活力",
+   "description": "允许将耐力用于武器技能。"
+}

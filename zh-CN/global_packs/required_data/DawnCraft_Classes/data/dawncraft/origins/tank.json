@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"dawncraft:roll",
+		"dawncraft:endurance"
+	],
+	"icon": {
+		"item": "magistuarmory:jousting_chestplate"
+	},
+	"order": 10,
+	"impact": 2,
+	"name": "坦克",
+	"description": "坦克职业以高生命值和低于平均水平的耐力为特征，其设计目的是为了承受无情的攻势。凭借独特的抗震技能，坦克在战场上是坚不可摧的保护者。"
+}

@@ -1,6 +1,6 @@
 {
   "entity": "minecraft:zombie",
-  "name": "淦，没用的东西。用于增加战利品生成表失败的几率。",
+  "name": "淦，没用的东西。用于增加战利品生成表出问题的几率。",
   "spawnatchest": {
     "minecraft:chests/simple_dungeon": 20,
     "minecraft:chests/shipwreck_supply": 1,

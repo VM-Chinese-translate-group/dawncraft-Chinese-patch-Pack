@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"dawncraft:roll",
+		"dawncraft:emergency_escape"
+	],
+	"icon": {
+		"item": "alexsmobs:roadrunner_boots"
+	},
+	"order": 10,
+	"impact": 2,
+	"name": "游侠",
+	"description": "装备着弓箭的游侠以敏捷为荣，他们的生命值低于平均水平，但拥有很高耐力。"
+}

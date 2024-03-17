@@ -1,0 +1,12 @@
+{
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "你好！"
+    },
+    "description": {
+      "text": "你好啊冒险者。传奇武器君主和律法在我这里，等待你展示你的价值后授予你。"
+    }
+  }
+}

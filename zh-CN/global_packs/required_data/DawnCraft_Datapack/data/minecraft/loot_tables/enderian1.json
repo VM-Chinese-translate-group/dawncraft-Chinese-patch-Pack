@@ -2,8 +2,8 @@
   "type": "minecraft:gift",
   "pools": [
     {
-      "rolls": 1.0,
-      "bonus_rolls": 0.0,
+      "rolls": "1",
+      "bonus_rolls": "0",
       "entries": [
         {
           "type": "minecraft:item",
@@ -18,13 +18,13 @@
             },
             {
               "function": "minecraft:set_name",
-              "name": "到城堡废墟的地图"
+              "name": "废弃堡垒地图"
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "text": "末影守卫的去向"
+                  "text": "末影守卫的去向。"
                 }
               ]
             }

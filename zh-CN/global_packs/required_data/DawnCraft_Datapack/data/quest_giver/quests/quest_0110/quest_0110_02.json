@@ -12,10 +12,10 @@
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "感謝！"
     },
     "description": {
-      "text": "很难想象有一种生物有着如此坚韧的天然装甲……不过，它已经死了，这让我感到欣慰。作为报酬，我将教你一项新技能——跨步，希望你能从中受益。"
+      "text": "很难想象有一种生物有着如此坚韧的天然装甲……不过，它已经死了，这让我感到欣慰。作为报酬，我将教你一项新技能——双持巨剑，希望你能从中受益。"
     }
   },
   "tasks": [
@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/give @p epicfight:skillbook{skill:\"epicfight:step\"}",
+      "command": "/give @p epicfight:skillbook{skill:\"efdg:dualgreatsword\"}",
       "id": "quest_giver:command"
     }
   ]

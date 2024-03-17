@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"dawncraft:ender_step"
+	],
+	"icon": {
+		"item": "biomemakeover:witch_hat"
+	},
+	"order": 10,
+	"impact": 3,
+	"name": "占星术士",
+	"description": "占星术士拥有较低的生命值和低于平均水平的耐力，但他们能够驾驭宇宙能量。他们的力量在于强大的「终末步伐」，用于战略性移动，同时还拥有一本基础的魔法书以施放魔法。"
+}

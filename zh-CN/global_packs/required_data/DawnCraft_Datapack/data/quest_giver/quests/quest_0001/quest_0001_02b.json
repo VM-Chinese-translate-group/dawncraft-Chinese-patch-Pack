@@ -4,10 +4,10 @@
   "icon": "minecraft:wooden_sword",
   "start": {
     "title": {
-      "text": "过来听听……"
+      "text": "想来……"
     },
     "description": {
-      "text": "过来听听……有个办法让我能报答你。你能拿张纸让我给你画张地图吗？"
+      "text": "想来……有个办法让我能报答你。你能拿张纸来，让我给你画张地图吗？"
     }
   }
 }

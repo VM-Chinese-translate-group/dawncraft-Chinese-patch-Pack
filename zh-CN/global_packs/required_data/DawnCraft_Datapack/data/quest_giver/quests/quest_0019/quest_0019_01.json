@@ -29,6 +29,10 @@
   ],
   "rewards": [
     {
+      "command": "/dc addWaypoint @p custom:fallen_house \"矿工的请求——善良的幽灵\"",
+      "id": "quest_giver:command"
+    },
+    {
       "command": "/loot give @p loot minecraft:miner1",
       "id": "quest_giver:command"
     },

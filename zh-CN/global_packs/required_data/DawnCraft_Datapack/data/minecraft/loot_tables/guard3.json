@@ -2,8 +2,8 @@
 	"type": "minecraft:gift",
 	"pools": [
 		{
-			"rolls": 1.0,
-			"bonus_rolls": 0.0,
+			"rolls": "1",
+			"bonus_rolls": "0",
 			"entries": [
 				{
 					"type": "minecraft:item",
@@ -24,7 +24,7 @@
 							"function": "minecraft:set_lore",
 							"lore": [
 								{
-									"text": "这是怪物在地下的行踪。向深处前进并击败怪物。"
+									"text": "这是地下的一只怪物的行踪。向深处前进并击败怪物。"
 								}
 							]
 						}

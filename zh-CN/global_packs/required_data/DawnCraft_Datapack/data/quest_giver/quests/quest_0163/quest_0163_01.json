@@ -1,0 +1,47 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "难如登天！"
+    },
+    "description": {
+      "text": "要获得这件武器，你必须先完成两项任务来证明自己：制作一个吵闹鬼方块，并把一只小型吐气云捉入瓶中。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "干得好！这是律法与君主。融入了海洋力量的它们在一起使用时具有独特的协同增效能力。"
+    }
+  },
+  "tasks": [
+    {
+      "id": "afptweaks:advancement",
+      "advancement": "biomemakeover:biomemakeover/poltergeist"
+    },
+    {
+      "id": "afptweaks:advancement",
+      "advancement": "cloudstorage:cloudstorage/angry_cloud_in_a_bottle"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "wom:herrscher"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    },
+    {
+      "item": {
+        "item": "wom:gesetz"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

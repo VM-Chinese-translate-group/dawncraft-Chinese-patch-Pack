@@ -1,6 +1,6 @@
 {
 	"entity": "simple_mobs:skeletonlord",
-	"name": "骷髅领主，魔法之王",
+	"name": "魔法之王，骷髅领主",
 	"namevisible": false,
 	"showbossbar": false,
 	"ai-goals": {

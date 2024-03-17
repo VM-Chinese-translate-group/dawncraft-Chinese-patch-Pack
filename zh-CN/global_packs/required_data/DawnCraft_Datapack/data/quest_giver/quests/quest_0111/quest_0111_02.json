@@ -7,15 +7,15 @@
       "text": "所以？"
     },
     "description": {
-      "text": "你消灭了洞穴栖兽了吗？如果是的话，请把它的掉落物带给我。"
+      "text": "你消灭了巨人了吗？如果是的话，请把它的掉落物带给我。"
     }
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "感谢！"
     },
     "description": {
-      "text": "好样的！这是它的一只眼睛，好吧……让我们看看，我将教你战斗技能——格挡，作为报酬。这是一个人在这个维度可以学到的最重要的技能之一。"
+      "text": "好样的！这是它的一只眼睛，好吧……让我们看看，我将教你战斗技能——毁坏跳跃，作为报酬。这个技能大大提升了你在战斗中的敏捷度。"
     }
   },
   "tasks": [
@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/give @p epicfight:skillbook{skill:\"epicfight:guard\"}",
+      "command": "/give @p epicfight:skillbook{skill:\"epicfight:demolition_leap\"}",
       "id": "quest_giver:command"
     }
   ]

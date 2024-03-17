@@ -7,7 +7,7 @@
 			"text": "那么？"
 		},
 		"description": {
-			"text": "你能收集到$(red)10张纸$()吗？"
+			"text": "你收集到$(red)10张纸$()了吗？"
 		}
 	},
 	"complete": {
@@ -32,7 +32,7 @@
 			"item": {
 				"type": "minecraft:item_nbt",
 				"item": "minecraft:enchanted_book",
-				"nbt": "{Enchantments:[{id:mending,lvl:1}]}"
+				"nbt": "{StoredEnchantments:[{id:\"minecraft:mending\",lvl:1}]}"
 			},
 			"id": "quest_giver:item",
 			"times": 1

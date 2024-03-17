@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "难如登天"
+    },
+    "description": {
+      "text": "你只有完成了我提出的这两项任务，我才能赐予你强大的驱影。喂食老虎并获得虎佑；在下界的毒料堆中搜寻下界反应堆。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "感謝！"
+    },
+    "description": {
+      "text": "干得漂亮！这是你的奖励。许多知识被封存在刀刃的边缘之中……"
+    }
+  },
+  "tasks": [
+    {
+      "id": "afptweaks:advancement",
+      "advancement": "alexsmobs:alexsmobs/tigers_blessing"
+    },
+    {
+      "id": "afptweaks:advancement",
+      "advancement": "incendium:toxic_heap/nuclear_fusion"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "wom:ruine"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

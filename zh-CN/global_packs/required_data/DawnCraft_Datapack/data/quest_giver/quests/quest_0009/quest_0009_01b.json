@@ -4,7 +4,7 @@
   "icon": "minecraft:book",
   "start": {
     "title": {
-      "text": "需要帮助"
+      "text": "帮助请求"
     },
     "description": {
       "text": "你能帮我找回4个鱿鱼墨囊吗？"

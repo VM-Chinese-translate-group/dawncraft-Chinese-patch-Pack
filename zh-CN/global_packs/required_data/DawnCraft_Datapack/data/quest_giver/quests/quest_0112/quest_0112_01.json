@@ -12,7 +12,7 @@
   },
   "complete": {
     "title": {
-      "text": "谢谢！"
+      "text": "感谢！"
     },
     "description": {
       "text": "谢谢。该生物居住在这个区域附近。要小心。"
@@ -28,6 +28,10 @@
     }
   ],
   "rewards": [
+    {
+      "command": "/dc addWaypoint @p custom:wolf_hideout \"矿工的请求——生物清剿\"",
+      "id": "quest_giver:command"
+    },
     {
       "command": "/loot give @p loot minecraft:miner2",
       "id": "quest_giver:command"

@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "难如登天！"
+    },
+    "description": {
+      "text": "完成两项任务来证明你已准备就绪：获得一个切叶蚁蛹，它可以放在泥土上，孕育一个新的切叶蚁群。以及，建造一个沙堡来保护海龟蛋。然后，也只有到那时，我才会把这把武器赐予你。"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "谢谢！"
+    },
+    "description": {
+      "text": "恭喜！给你。潜影的影响已经使这把武器面目全非，完全吞噬了它的原始形态。"
+    }
+  },
+  "tasks": [
+    {
+      "id": "afptweaks:advancement",
+      "advancement": "ecologics:husbandry/sandcastle"
+    },
+    {
+      "id": "afptweaks:advancement",
+      "advancement": "alexsmobs:alexsmobs/leafcutter_ant_pupa"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "wom:moonless"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

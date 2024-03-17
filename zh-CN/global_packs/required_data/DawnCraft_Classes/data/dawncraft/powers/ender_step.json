@@ -1,0 +1,9 @@
+{
+   "type": "origins:action_on_callback",
+   "entity_action_gained": {
+      "type": "origins:execute_command",
+      "command": "/pickClass @p dawncraft:astrologer"
+   },
+   "name": "终末步伐",
+   "description": "快速传送脱离危险。在使用这个技能时，玩家将对大多数攻击免疫。"
+}

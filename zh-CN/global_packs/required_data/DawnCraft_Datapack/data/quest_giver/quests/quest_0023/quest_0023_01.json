@@ -7,7 +7,7 @@
 			"text": "那么？"
 		},
 		"description": {
-			"text": "我可以教你技能——灵活防守。只需要支付给我15个绿宝石。"
+			"text": "我可以教你技能——紧急逃生。只需要支付给我15个绿宝石。"
 		}
 	},
 	"complete": {
@@ -29,7 +29,7 @@
 	],
 	"rewards": [
 		{
-			"command": "/give @p epicfight:skillbook{skill:\"epicfight:active_guard\"}",
+			"command": "/give @p epicfight:skillbook{skill:\"epicfight:emergency_escape\"}",
 			"id": "quest_giver:command"
 		}
 	]

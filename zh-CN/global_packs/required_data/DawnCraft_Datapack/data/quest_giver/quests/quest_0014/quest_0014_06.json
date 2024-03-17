@@ -15,7 +15,7 @@
       "text": "寻眼之路"
     },
     "description": {
-      "text": "嗯…到这个地步，我甚至都不感到惊讶了。干的漂亮。九尾是一个恶名昭著的凶灵……我不知道它为什么决定金盆洗手藏在一座废弃的谷仓。不管怎样，这是下一个眼睛守护者的行踪。万分小心，这次与你之前所面对的完全不同。"
+      "text": "嗯……到这个地步，我甚至都不感到惊讶了。干的漂亮。九尾是一个恶名昭著的凶灵……我不知道它为什么决定金盆洗手藏在一座废弃的谷仓。不管怎样，这是下一个眼睛守护者的行踪。万分小心，这次与你之前所面对的完全不同。"
     }
   },
   "tasks": [
@@ -28,6 +28,10 @@
     }
   ],
   "rewards": [
+    {
+      "command": "/dc addWaypoint @p custom:floating_island \"主线任务 - 浮空岛\"",
+      "id": "quest_giver:command"
+    },
     {
       "command": "/loot give @p loot minecraft:guildmaster4",
       "id": "quest_giver:command"

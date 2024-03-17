@@ -1,0 +1,12 @@
+{
+  "reputation": 15,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "嘿!"
+    },
+    "description": {
+      "text": "我可以教你怎么做一个简单的翻滚以躲避攻击，以防你还不知道怎么做……"
+    }
+  }
+}

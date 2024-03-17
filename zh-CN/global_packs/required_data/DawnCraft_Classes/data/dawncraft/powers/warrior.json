@@ -1,0 +1,9 @@
+{
+   "type": "origins:action_on_callback",
+   "entity_action_gained": {
+      "type": "origins:execute_command",
+      "command": "/pickClass @p dawncraft:warrior"
+   },
+   "name": "Roll",
+   "description": "朝你移动的方向翻滚。闪避所有攻击。"
+}
