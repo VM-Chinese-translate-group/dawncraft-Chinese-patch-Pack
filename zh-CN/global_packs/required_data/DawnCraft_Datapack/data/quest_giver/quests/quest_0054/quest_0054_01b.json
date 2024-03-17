@@ -4,7 +4,7 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "所以？"
+      "text": "那么？"
     },
     "description": {
       "text": "我们的农具都有点旧了……你能给我们找一把$(red)铁锄$()吗？"
