@@ -1,6 +1,6 @@
 {
 	"entity": "simple_mobs:corrupted_ogre",
-	"name": "饥饿的食人魔，眼睛守护者",
+	"name": "腐化食人魔，眼睛守护者",
 	"namevisible": false,
 	"ai-goals": {
 		"brutalbosses:aftercombatregen": {
