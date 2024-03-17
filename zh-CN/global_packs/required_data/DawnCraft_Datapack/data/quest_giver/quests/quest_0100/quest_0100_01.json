@@ -4,7 +4,7 @@
   "icon": "minecraft:poppy",
   "start": {
     "title": {
-      "text": "所以？"
+      "text": "那么？"
     },
     "description": {
       "text": "你拿到$(red)孢子花$()了吗？"
@@ -15,7 +15,7 @@
       "text": "感谢！"
     },
     "description": {
-      "text": "非常感谢！"
+      "text": "非常感谢。"
     }
   },
   "tasks": [
