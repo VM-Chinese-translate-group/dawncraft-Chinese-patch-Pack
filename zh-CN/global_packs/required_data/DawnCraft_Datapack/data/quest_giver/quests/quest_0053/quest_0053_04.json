@@ -4,10 +4,10 @@
   "icon": "minecraft:wheat_seeds",
   "start": {
     "title": {
-      "text": "所以？"
+      "text": "那么？"
     },
     "description": {
-      "text": "你好，你拿来$(red) 2棵甜菜根$()了吗？"
+      "text": "你好，你拿来$(red)2棵甜菜根$()了吗？"
     }
   },
   "complete": {
