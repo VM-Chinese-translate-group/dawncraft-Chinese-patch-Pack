@@ -4,7 +4,7 @@
   "icon": "minecraft:redstone",
   "start": {
     "title": {
-      "text": "所以？"
+      "text": "那么？"
     },
     "description": {
       "text": "你拿到$(red)10个红石粉$()了吗？"
