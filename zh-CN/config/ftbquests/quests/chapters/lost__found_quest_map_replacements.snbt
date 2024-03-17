@@ -126,7 +126,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests1.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:ogre_dwelling \"主线任务——饥饿食人魔的栖息地（替换）\""
+					command: "/dc addWaypoint @p custom:ogre_dwelling \"主线任务——腐化食人魔的栖息地（替换）\""
 				}
 			]
 		}
