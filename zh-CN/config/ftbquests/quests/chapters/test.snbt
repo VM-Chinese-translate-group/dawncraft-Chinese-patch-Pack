@@ -873,7 +873,7 @@
 					id: "4EF4BB54C3517365"
 					type: "command"
 					auto: "enabled"
-					command: "/dc addWaypoint @p #custom:village “第一个村庄”"
+					command: "/dc addWaypoint @p #custom:village \"第一个村庄\""
 				}
 				{
 					id: "711AE735FF2AA67D"
