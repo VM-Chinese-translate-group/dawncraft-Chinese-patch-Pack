@@ -4,7 +4,7 @@
 	"icon": "minecraft:cod",
 	"start": {
 		"title": {
-			"text": "所以？"
+			"text": "那么？"
 		},
 		"description": {
 			"text": "你带来红石粉了吗？我想我只要1个就够了。"
@@ -15,7 +15,7 @@
 			"text": "感谢！"
 		},
 		"description": {
-			"text": "麻烦你了，这是给你的谢礼。"
+			"text": "麻烦你了！这是给你的谢礼。"
 		}
 	},
 	"tasks": [
