@@ -4,10 +4,10 @@
 	"icon": "minecraft:wheat_seeds",
 	"start": {
 		"title": {
-			"text": "所以？"
+			"text": "那么？"
 		},
 		"description": {
-			"text": "不记得了吗？没关系，让我提醒你一下。我需要1捆$(red)稻草$()。"
+			"text": "不记得了吗？没关系，让我提醒你一下。我需要$(red)一捆稻草$()。"
 		}
 	},
 	"complete": {
