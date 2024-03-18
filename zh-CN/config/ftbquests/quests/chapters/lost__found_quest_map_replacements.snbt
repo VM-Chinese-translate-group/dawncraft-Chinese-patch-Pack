@@ -15,16 +15,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -65,7 +65,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests0.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p goblinsanddungeons:ruined_keep \"主线任务——哥布林国王的城堡（替换）\""
+					command: "/dc addWaypoint @p goblinsanddungeons:ruined_keep \"Main Quest - Goblin King's Keep (Replaced)\""
 				}
 			]
 		}
@@ -76,16 +76,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -126,7 +126,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests1.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:ogre_dwelling \"主线任务——腐化食人魔的栖息地（替换）\""
+					command: "/dc addWaypoint @p custom:ogre_dwelling \"Main Quest - Corrupted Ogre's Dwelling (Replaced)\""
 				}
 			]
 		}
@@ -137,16 +137,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -187,7 +187,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests2.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:arena \"主线任务——罗伯骑士的竞技场（替换）\""
+					command: "/dc addWaypoint @p custom:arena \"Main Quest - Knight Rober's Arena (Replaced)\""
 				}
 			]
 		}
@@ -198,16 +198,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -248,7 +248,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests3.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:ninetail_farm \"主线任务——九尾的农场（替换）\""
+					command: "/dc addWaypoint @p custom:ninetail_farm \"Main Quest - Ninetail's Farm (Replaced)\""
 				}
 			]
 		}
@@ -259,16 +259,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -309,7 +309,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests4.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:floating_island \"主线任务——浮空岛（替换）\""
+					command: "/dc addWaypoint @p custom:floating_island \"Main Quest - Floating Island (Replaced)\""
 				}
 			]
 		}
@@ -320,16 +320,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -370,7 +370,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests5.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:sentinel_tree \"主线任务——守卫之树（替换）\""
+					command: "/dc addWaypoint @p custom:sentinel_tree \"Main Quest - Guardian Tree (Replaced)\""
 				}
 			]
 		}
@@ -381,16 +381,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -431,7 +431,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests6.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:giant_altar \"主线任务——火焰巨人的祭坛（替换）\""
+					command: "/dc addWaypoint @p custom:giant_altar \"Main Quest - Fire Giant's Altar (Replaced)\""
 				}
 			]
 		}
@@ -442,16 +442,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -485,7 +485,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests7.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:armorer_dungeon \"盔甲匠的请求（替换）\""
+					command: "/dc addWaypoint @p custom:armorer_dungeon \"Armorer's Request (Replaced)\""
 				}
 			]
 		}
@@ -496,16 +496,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -546,7 +546,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests8.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:dojo \"外国逃犯的道场（指南针）\""
+					command: "/dc addWaypoint @p custom:dojo \"Foreign Outlaws' Dojo (Compass)\""
 				}
 			]
 		}
@@ -557,16 +557,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -607,7 +607,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests9.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:summon_podium \"召唤展台（替换）\""
+					command: "/dc addWaypoint @p custom:summon_podium \"Summon Podium (Replaced)\""
 				}
 			]
 		}
@@ -618,16 +618,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -668,7 +668,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests10.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:church \"信徒监狱（替换）\""
+					command: "/dc addWaypoint @p custom:church \"The Cultist's Prison (Replaced)\""
 				}
 			]
 		}
@@ -679,16 +679,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -729,7 +729,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests11.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:church \"神父教堂（替换）\""
+					command: "/dc addWaypoint @p custom:church \"Father’s Church (Replaced)\""
 				}
 			]
 		}
@@ -740,16 +740,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -784,16 +784,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -834,7 +834,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests13.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p quest_giver:pillager_hideout \"救援请求——掠夺者藏身地（替换）\""
+					command: "/dc addWaypoint @p quest_giver:pillager_hideout \"Rescue Request - Pillager Hideout (Replaced)\""
 				}
 			]
 		}
@@ -845,16 +845,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -906,16 +906,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -956,7 +956,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests15.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p quest_giver:cave_dwelling \"清剿请求——洞穴栖兽（替换）\""
+					command: "/dc addWaypoint @p quest_giver:cave_dwelling \"Extermination Request - Cave Dweller (Replaced)\""
 				}
 			]
 		}
@@ -967,16 +967,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -1017,7 +1017,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests16.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p quest_giver:giant_hideout \"清剿请求——巨人（替换）\""
+					command: "/dc addWaypoint @p quest_giver:giant_hideout \"Extermination Request - The Giant (Replaced)\""
 				}
 			]
 		}
@@ -1028,16 +1028,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -1070,7 +1070,7 @@
 					type: "command"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests17.rewards1.title}"
 					icon: "minecraft:compass"
-					command: "/dc addWaypoint @p custom:rootless \"漂浮之地（替换）\""
+					command: "/dc addWaypoint @p custom:rootless \"Floating Palace (Replaced)\""
 				}
 			]
 		}
@@ -1081,16 +1081,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -1124,7 +1124,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests18.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:librarian_ruin \"图书管理员的请求（替换）\""
+					command: "/dc addWaypoint @p custom:librarian_ruin \"Librarian's Request (Replaced)\""
 				}
 			]
 		}
@@ -1135,16 +1135,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -1185,7 +1185,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests19.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:fallen_house \"矿工的请求——善良的幽灵（替换）\""
+					command: "/dc addWaypoint @p custom:fallen_house \"Miner's Request - A Kindred Spirit (Replaced)\""
 				}
 			]
 		}
@@ -1196,16 +1196,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -1246,7 +1246,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests20.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:wolf_hideout \"矿工的请求——生物清剿（替换）\""
+					command: "/dc addWaypoint @p custom:wolf_hideout \"Miner's Request - Creature Extermination (Replaced)\""
 				}
 			]
 		}
@@ -1257,16 +1257,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -1308,16 +1308,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -1359,16 +1359,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -1402,7 +1402,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests23.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:cult_informer_ruin \"下界学家的请求（替换）\""
+					command: "/dc addWaypoint @p custom:cult_informer_ruin \"Netherian's Request (Replaced)\""
 				}
 			]
 		}
@@ -1413,16 +1413,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -1456,7 +1456,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests24.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p #custom:pillager_camp \"主线任务——掠夺者营地（替换）\""
+					command: "/dc addWaypoint @p #custom:pillager_camp \"Main Quest - Pillager Camp (Replaced)\""
 				}
 			]
 		}
@@ -1467,16 +1467,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -1522,16 +1522,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -1565,7 +1565,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests26.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:toolsmith_ruin \"工具匠的请求（请求）\""
+					command: "/dc addWaypoint @p custom:toolsmith_ruin \"Toolsmith's Request (Replaced)\""
 				}
 			]
 		}
@@ -1576,16 +1576,16 @@
 				Count: 1b
 				tag: {
 					display: {
-						Name: "{\"text\":\"村庄\"}"
-						Lore: ["{\"text\":\"在地图上标出距你最近的村庄……不知道为什么会在这。\"}"]
+						Name: "{\"text\":\"Village\"}"
+						Lore: ["{\"text\":\"A map marking the closest village near you... I wonder why it's here.\"}"]
 					}
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -1619,7 +1619,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests27.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:obsidian_spikes \"调查武器匠提到的区域（替换）\""
+					command: "/dc addWaypoint @p custom:obsidian_spikes \"Investigate the Area the Weaponsmith Mentioned (Replaced)\""
 				}
 			]
 		}

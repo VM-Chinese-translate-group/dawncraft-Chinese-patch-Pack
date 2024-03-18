@@ -31,6 +31,10 @@
 		"times": 4
 		},
 		{
+			"command": "/dc removeWaypoint @p \"Main Quest - Pillager Camp\"",
+			"id": "quest_giver:command"
+		},		
+		{
 			"command": "/dc addWaypoint @p goblinsanddungeons:ruined_keep \"Main Quest - Goblin King's Keep\"",
 			"id": "quest_giver:command"
 		}, 

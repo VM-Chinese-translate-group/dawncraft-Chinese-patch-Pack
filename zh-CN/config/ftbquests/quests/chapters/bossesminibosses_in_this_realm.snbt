@@ -302,6 +302,7 @@
 			x: -3.5d
 			y: -12.0d
 			shape: "square"
+			description: ["{ftbquests.chapter.bossesminibosses_in_this_realm.quests10.description}"]
 			id: "7279CC337EDCA3C4"
 			tasks: [
 				{
@@ -548,6 +549,7 @@
 			x: -4.5d
 			y: -14.0d
 			shape: "square"
+			description: ["{ftbquests.chapter.bossesminibosses_in_this_realm.quests19.description}"]
 			id: "73108E762D8A3C88"
 			tasks: [
 				{
@@ -783,6 +785,7 @@
 			x: -9.5d
 			y: -12.0d
 			shape: "square"
+			description: ["{ftbquests.chapter.bossesminibosses_in_this_realm.quests28.description}"]
 			id: "0BF852B15581A857"
 			tasks: [
 				{
@@ -853,6 +856,7 @@
 			x: -5.5d
 			y: -12.0d
 			shape: "square"
+			description: ["{ftbquests.chapter.bossesminibosses_in_this_realm.quests31.description}"]
 			id: "2CB9D4F9C95D2BBB"
 			tasks: [
 				{
@@ -906,6 +910,7 @@
 			x: -6.5d
 			y: -12.0d
 			shape: "square"
+			description: ["{ftbquests.chapter.bossesminibosses_in_this_realm.quests33.description}"]
 			hide: false
 			id: "0CE38C187D08EA00"
 			tasks: [
@@ -937,6 +942,7 @@
 			x: -8.5d
 			y: -12.0d
 			shape: "square"
+			description: ["{ftbquests.chapter.bossesminibosses_in_this_realm.quests34.description}"]
 			id: "7DE3F1C0DDCACC6D"
 			tasks: [
 				{
@@ -1019,6 +1025,7 @@
 			x: -7.5d
 			y: -12.0d
 			shape: "square"
+			description: ["{ftbquests.chapter.bossesminibosses_in_this_realm.quests37.description}"]
 			id: "01CF56DCE8E72465"
 			tasks: [
 				{
@@ -1197,8 +1204,8 @@
 										id: 33
 									}
 								]
-								activeSpellIndex: 0
 								spellSlots: 5
+								activeSpellIndex: 0
 							}
 						}
 					}
@@ -1277,13 +1284,7 @@
 						Count: 1b
 						tag: {
 							RepairCost: 1
-							affix_data: {
-								name: "{\"color\":\"#808080\",\"translate\":\"%s %s\",\"with\":[{\"translate\":\"affix.apotheosis:ironforged\"},\"\",\"\"]}"
-								affixes: {
-									"apotheosis:ironforged": 0.058177173f
-								}
-								rarity: "common"
-							}
+							Damage: 0
 							BlockEntityTag: {
 								Base: 15
 								Patterns: [
@@ -1313,9 +1314,29 @@
 									}
 								]
 							}
-							Damage: 0
+							affix_data: {
+								name: "{\"color\":\"#808080\",\"translate\":\"%s %s\",\"with\":[{\"translate\":\"affix.apotheosis:ironforged\"},\"\",\"\"]}"
+								affixes: {
+									"apotheosis:ironforged": 0.058177173f
+								}
+								rarity: "common"
+							}
 							HideFlags: 32
-							CustomModelData: 1450300
+							AttributeModifiers: [
+								{
+									Amount: -0.029904954135417938d
+									Name: "weaken"
+									Operation: 1
+									UUID: [I;
+										112035901
+										1134379090
+										-1220404660
+										-221377395
+									]
+									AttributeName: "minecraft:generic.attack_damage"
+									Slot: "offhand"
+								}
+							]
 							display: {
 								Name: "{\"italic\":false,\"color\":\"#993333\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Necrotic Shield\",{\"translate\":\"incendium.item.necrotic_shield.name\"}]}"
 								Lore: [
@@ -1325,21 +1346,7 @@
 									"{\"italic\":true,\"color\":\"#FF8000\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Incendium\",{\"translate\":\"incendium\"}]}"
 								]
 							}
-							AttributeModifiers: [
-								{
-									Amount: -0.029904954135417938d
-									Slot: "offhand"
-									Operation: 1
-									UUID: [I;
-										112035901
-										1134379090
-										-1220404660
-										-221377395
-									]
-									AttributeName: "minecraft:generic.attack_damage"
-									Name: "weaken"
-								}
-							]
+							CustomModelData: 1450300
 							incendium: {
 								item: "necrotic_shield"
 							}
@@ -1454,6 +1461,7 @@
 			x: -3.5d
 			y: -14.0d
 			shape: "square"
+			description: ["{ftbquests.chapter.bossesminibosses_in_this_realm.quests51.description}"]
 			id: "0BC7EFD07CFA9E62"
 			tasks: [
 				{
@@ -1507,6 +1515,7 @@
 			x: -6.5d
 			y: -14.0d
 			shape: "square"
+			description: ["{ftbquests.chapter.bossesminibosses_in_this_realm.quests53.description}"]
 			id: "59E87C0B92B13B3B"
 			tasks: [
 				{
@@ -1532,6 +1541,7 @@
 			x: -5.5d
 			y: -14.0d
 			shape: "square"
+			description: ["{ftbquests.chapter.bossesminibosses_in_this_realm.quests54.description}"]
 			id: "6EF35391CF28105A"
 			tasks: [
 				{

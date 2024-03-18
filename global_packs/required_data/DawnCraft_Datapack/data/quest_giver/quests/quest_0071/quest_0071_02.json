@@ -31,6 +31,10 @@
 			"id": "quest_giver:command"
 		},
 		{
+			"command": "/dc removeWaypoint @p \"Librarian's Request\"",
+			"id": "quest_giver:command"
+		},  		
+		{
 			"item": {
 				"item": "irons_spellbooks:arcane_ingot"
 			},

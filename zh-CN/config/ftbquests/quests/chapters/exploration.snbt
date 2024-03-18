@@ -156,11 +156,11 @@
 						Count: 1b
 						tag: {
 							display: {
-								Name: "{\"text\":\"§b永昼之地传送门\"}"
+								Name: "{\"text\":\"§bEverbright Portal\"}"
 								Lore: [
-									"{\"text\":\"创造出一个小型永昼之地传送门。\"}"
-									"{\"text\":\"需要下界传送门\"}"
-									"{\"text\":\"那么大的空间\"}"
+									"{\"text\":\"Creates a lit Everbright portal.\"}"
+									"{\"text\":\"Requires the same space as a\"}"
+									"{\"text\":\"Nether Portal\"}"
 								]
 							}
 						}
@@ -183,11 +183,11 @@
 						Count: 1b
 						tag: {
 							display: {
-								Name: "{\"text\":\"§b恒晓之地传送门\"}"
+								Name: "{\"text\":\"§bEverdawn Portal\"}"
 								Lore: [
-									"{\"text\":\"创造出一个小型恒晓之地传送门。\"}"
-									"{\"text\":\"需要下界传送门\"}"
-									"{\"text\":\"那么大的空间\"}"
+									"{\"text\":\"Creates a lit EverDawn portal.\"}"
+									"{\"text\":\"Requires the same space as a\"}"
+									"{\"text\":\"Nether Portal\"}"
 								]
 							}
 						}
