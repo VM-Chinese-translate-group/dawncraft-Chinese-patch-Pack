@@ -30,7 +30,7 @@
 			"id": "quest_giver:command"
 		},
 		{
-			"command": "/dc removeWaypoint @p \"Rescue Request - Pillager Base\"",
+			"command": "/addreputation reputation:villager @p 2",
 			"id": "quest_giver:command"
 		},
 		{
