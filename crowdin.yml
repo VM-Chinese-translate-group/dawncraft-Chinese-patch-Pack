@@ -11,3 +11,5 @@ files:
     ignore:
       - zh-CN
     translation: '%original_path%/%original_file_name%'
+  - source: /config/dcclasses/assets/dawncraft/lang/en_us.json
+    translation: '%original_path%/zh_cn.json'
