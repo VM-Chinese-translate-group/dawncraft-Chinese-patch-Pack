@@ -34,7 +34,7 @@
       "times": 6
     },
     {
-      "command": "/dc removeWaypoint @p \"Miner's Request - Creature Extermination\"",
+      "command": "/addreputation reputation:villager @p 3",
       "id": "quest_giver:command"
     },
     {
