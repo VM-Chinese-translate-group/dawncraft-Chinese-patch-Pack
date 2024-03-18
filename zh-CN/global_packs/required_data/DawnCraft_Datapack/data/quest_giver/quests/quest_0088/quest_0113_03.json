@@ -36,6 +36,10 @@
       "times": 1
     },
     {
+      "command": "/dc removeWaypoint @p \"Investigate the Area the Weaponsmith Mentioned\"",
+      "id": "quest_giver:command"
+    },
+    {
       "command": "/addreputation reputation:villager @p 3",
       "id": "quest_giver:command"
     }
