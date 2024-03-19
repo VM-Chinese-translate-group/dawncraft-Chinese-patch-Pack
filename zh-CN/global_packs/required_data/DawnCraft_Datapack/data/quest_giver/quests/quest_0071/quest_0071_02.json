@@ -34,7 +34,7 @@
 			"id": "quest_giver:command"
 		},
 		{
-			"command": "/dc removeWaypoint @p \"Librarian's Request\"",
+			"command": "/dc removeWaypoint @p \"图书管理员的请求\"",
 			"id": "quest_giver:command"
 		},
 		{
