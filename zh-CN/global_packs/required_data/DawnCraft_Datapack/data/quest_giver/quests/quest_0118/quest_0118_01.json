@@ -4,7 +4,7 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "火龙之心"
+      "text": "龙之心"
     },
     "description": {
       "text": "别问我为什么。孩子，你知道得越少越好。只需要给我$(red)火龙心脏$()就行了。"
