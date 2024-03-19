@@ -37,7 +37,7 @@
 			"times": 2
 		},
 		{
-			"command": "/addreputation reputation:villager @p 2",
+			"command": "/dc removeWaypoint @p \"工具匠的请求\"",
 			"id": "quest_giver:command"
 		},
 		{
