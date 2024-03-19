@@ -4,7 +4,7 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "解救孩童"
+			"text": "失踪儿童"
 		},
 		"description": {
 			"text": "救救这个孩子，拜托了。把他带回家。"
@@ -12,7 +12,7 @@
 	},
 	"complete": {
 		"title": {
-			"text": "解救孩童：完成"
+			"text": "失踪儿童：完成"
 		},
 		"description": {
 			"text": "太棒了！你真的做到了！说实话，我原以为孩子能生还的希望渺茫……拿着，我会教你一项新技能——流星猛击。这是我唯一能报答你的方式。"
@@ -30,7 +30,7 @@
 			"id": "quest_giver:command"
 		},
 		{
-			"command": "/addreputation reputation:villager @p 2",
+			"command": "/dc removeWaypoint @p \"救援请求——掠夺者基地\"",
 			"id": "quest_giver:command"
 		},
 		{
