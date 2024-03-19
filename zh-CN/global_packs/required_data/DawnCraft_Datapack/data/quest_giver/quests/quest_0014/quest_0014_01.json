@@ -34,11 +34,11 @@
 			"times": 4
 		},
 		{
-			"command": "/dc addWaypoint @p goblinsanddungeons:ruined_keep \"任务 - 哥布林之王的藏身之处\"",
+			"command": "/dc removeWaypoint @p \"主线任务——掠夺者营地\"",
 			"id": "quest_giver:command"
 		},
 		{
-			"command": "/loot give @p loot minecraft:guildmaster0",
+			"command": "/dc addWaypoint @p goblinsanddungeons:ruined_keep \"主线任务——哥布林之王的藏身之处\"",
 			"id": "quest_giver:command"
 		},
 		{
