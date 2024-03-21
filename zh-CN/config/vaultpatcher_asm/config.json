@@ -1,0 +1,11 @@
+{
+  "mods": [
+    "dawncraft_mobs"
+  ],
+  "debug_mode": {
+    "is_enable": false,
+    "use_cache": true,
+    "output_format": "<source> -> <target> in <class> [<ordinal>]",
+    "output_mode": 0
+  }
+}
