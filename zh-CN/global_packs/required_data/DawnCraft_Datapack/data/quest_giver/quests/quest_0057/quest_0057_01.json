@@ -7,7 +7,7 @@
       "text": "制作钓鱼竿"
     },
     "description": {
-      "text": "你带来$(red)钓鱼竿$()了吗？"
+      "text": "你带$(red)钓鱼竿$()了吗？"
     }
   },
   "complete": {

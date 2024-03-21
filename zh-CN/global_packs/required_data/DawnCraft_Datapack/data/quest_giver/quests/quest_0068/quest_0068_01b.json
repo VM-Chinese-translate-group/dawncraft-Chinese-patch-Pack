@@ -4,7 +4,7 @@
   "icon": "minecraft:leather",
   "start": {
     "title": {
-      "text": "求助"
+      "text": "请求"
     },
     "description": {
       "text": "太好了。你能不能做一道叫$(red)蜂蜜酱火腿$()的菜？我和我的朋友都很想再尝尝这道菜。"

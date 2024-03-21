@@ -4,10 +4,10 @@
 	"icon": "minecraft:ender_pearl",
 	"start": {
 		"title": {
-			"text": "所以？"
+			"text": "那么？"
 		},
 		"description": {
-			"text": "请在你获得$(red)龙蛋$()后让我看一看。"
+			"text": "在你获得$(red)龙蛋$()后请让我看一看。"
 		}
 	},
 	"complete": {

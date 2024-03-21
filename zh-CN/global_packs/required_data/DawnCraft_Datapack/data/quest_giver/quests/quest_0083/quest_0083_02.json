@@ -4,7 +4,7 @@
 	"icon": "minecraft:iron_axe",
 	"start": {
 		"title": {
-			"text": "所以？"
+			"text": "那么？"
 		},
 		"description": {
 			"text": "你拿回我的铁斧了吗？请快些去吧。"
@@ -35,6 +35,10 @@
 			},
 			"id": "quest_giver:item",
 			"times": 2
+		},
+		{
+			"command": "/dc removeWaypoint @p \"工具匠的请求\"",
+			"id": "quest_giver:command"
 		},
 		{
 			"command": "/addreputation reputation:villager @p 2",

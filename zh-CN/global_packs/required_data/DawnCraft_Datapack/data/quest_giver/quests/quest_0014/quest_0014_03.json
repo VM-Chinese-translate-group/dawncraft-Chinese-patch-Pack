@@ -15,7 +15,7 @@
       "text": "寻眼之路"
     },
     "description": {
-      "text": "你的表现非常出色。似乎你已经准备好挑战$(red)饥饿的食人魔$()了。在标记处栖息着一只食人魔，它守护着其中一只眼睛。"
+      "text": "你的表现非常出色。似乎你已经准备好挑战$(red)腐化食人魔$()了。在标记处栖息着一只食人魔，它守护着其中一只眼睛。"
     }
   },
   "tasks": [
@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/dc addWaypoint @p custom:ogre_dwelling \"主线任务 - 饥饿食人魔的栖息地\"",
+      "command": "/dc addWaypoint @p custom:ogre_dwelling \"主线任务 - 腐化食人魔的栖息地\"",
       "id": "quest_giver:command"
     },
     {

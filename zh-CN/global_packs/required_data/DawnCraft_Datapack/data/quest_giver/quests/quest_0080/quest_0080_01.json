@@ -7,7 +7,7 @@
       "text": "制作剪刀"
     },
     "description": {
-      "text": "你拿到了$(red)1把剪刀$()吗？"
+      "text": "你拿到$(red)剪刀$()了吗？"
     }
   },
   "complete": {

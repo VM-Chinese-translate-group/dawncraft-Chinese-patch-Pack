@@ -29,6 +29,10 @@
   ],
   "rewards": [
     {
+      "command": "/dc removeWaypoint @p \"盔甲匠的请求\"",
+      "id": "quest_giver:command"
+    },
+    {
       "item": {
         "type": "minecraft:item_nbt",
         "item": "minecraft:iron_chestplate",

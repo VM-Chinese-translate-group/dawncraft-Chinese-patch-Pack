@@ -4,10 +4,10 @@
   "icon": "minecraft:stone",
   "start": {
     "title": {
-      "text": "异界之石Ⅲ"
+      "text": "异界之石"
     },
     "description": {
-      "text": "当你抵达末地之时，记得帮我带上$(red)末地石$()。"
+      "text": "当你抵达末地时，记得帮我带点$(red)末地石$()"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "感谢！"
     },
     "description": {
-      "text": "嗯……这个品质……还行吧。我会好好利用它的，谢谢。"
+      "text": "嗯……这个品质……还行吧。我会好好利用它的，谢谢！"
     }
   },
   "tasks": [

@@ -4,7 +4,7 @@
 	"icon": "minecraft:stone",
 	"start": {
 		"title": {
-			"text": "异界之石Ⅲ"
+			"text": "异界之石"
 		},
 		"description": {
 			"text": "你拿到$(red)绿松石$()了吗？你可以在永昼之地找到它们。"
@@ -15,7 +15,7 @@
 			"text": "感谢！"
 		},
 		"description": {
-			"text": "嗯……这个品质……还行吧。我会好好利用它的，谢谢。"
+			"text": "嗯……这个品质……还行吧。我会好好利用它的，谢谢！"
 		}
 	},
 	"tasks": [

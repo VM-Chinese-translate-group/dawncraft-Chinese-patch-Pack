@@ -4,7 +4,7 @@
   "icon": "minecraft:leather",
   "start": {
     "title": {
-      "text": "所以？"
+      "text": "那么？"
     },
     "description": {
       "text": "你拿到$(red)兔子皮$()了吗？ "

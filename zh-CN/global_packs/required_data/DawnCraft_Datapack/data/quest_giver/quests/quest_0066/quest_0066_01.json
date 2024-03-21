@@ -4,10 +4,10 @@
   "icon": "minecraft:leather",
   "start": {
     "title": {
-      "text": "所以？"
+      "text": "那么？"
     },
     "description": {
-      "text": "你拿到货了吗？ $(red)2个黑熊毛皮$()。"
+      "text": "你拿到货了吗？$(red)2个黑熊毛皮$()。"
     }
   },
   "complete": {

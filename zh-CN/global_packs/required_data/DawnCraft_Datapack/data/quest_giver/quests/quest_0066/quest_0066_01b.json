@@ -4,10 +4,10 @@
   "icon": "minecraft:leather",
   "start": {
     "title": {
-      "text": "求助"
+      "text": "请求"
     },
     "description": {
-      "text": "我需要你收集$(red)2张黑熊毛皮$()。当你拿到货后再来。"
+      "text": "我需要你收集$(red)2张黑熊毛皮$()。拿到货后再来吧。"
     }
   }
 }

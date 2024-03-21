@@ -7,7 +7,7 @@
       "text": "制箭大师"
     },
     "description": {
-      "text": "你拿到了$(red)4个云杉木原木$()吗？"
+      "text": "你拿到$(red)4个云杉木原木$()了吗？"
     }
   },
   "complete": {

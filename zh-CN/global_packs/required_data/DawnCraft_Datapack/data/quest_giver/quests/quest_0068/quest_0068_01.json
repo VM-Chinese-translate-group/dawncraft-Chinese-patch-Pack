@@ -4,7 +4,7 @@
 	"icon": "minecraft:leather",
 	"start": {
 		"title": {
-			"text": "所以？"
+			"text": "那么？"
 		},
 		"description": {
 			"text": "$(red)蜂蜜酱火腿$()的烹饪进展如何？ "

@@ -7,7 +7,7 @@
       "text": "下界合金锭"
     },
     "description": {
-      "text": "你有多余的$(red)下界合金锭$()吗？"
+      "text": "你有$(red)下界合金锭$()吗？"
     }
   },
   "complete": {
