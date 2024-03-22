@@ -1,3 +1,4 @@
 {
-	"effect.paraglider.exhausted": "Exhausted"
+	"effect.paraglider.exhausted": "Exhausted",
+	"attribute.name.paragliders.max_stamina":"Max Stamina"
 }
