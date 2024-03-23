@@ -30,7 +30,7 @@
   "item.obscure_api.vial_of_knowledge": "知识之瓶",
   "rarity.legendary.name": "传奇",
   "rarity.mythic.name": "神话",
-  "tooltip.collapse": "§f§8能力",
+  "tooltip.collapse": "§f\uEA17§8能力",
   "tooltip.expand": "§f\uEA16§8按住Shift",
   "tooltip.knowledge": "知识:",
   "tooltip.lore.vial_of_knowledge": "§9知识 (2:00)",
