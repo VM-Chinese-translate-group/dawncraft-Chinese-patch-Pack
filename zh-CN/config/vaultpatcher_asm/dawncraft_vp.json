@@ -1556,6 +1556,337 @@
     },
     "k": "The armor absorbed a fatal blow, allowing you to refuse death. Fight on!",
     "v": "盔甲吸收了致命一击，阻止了你的死亡。继续战斗！"
-  }
+  },
+  
+  {
+    "t": {
+      "n": "com.calculusmaster.difficultraids.commands.AdvanceRaidWaveCommand",
+      "m": ""
+    },
+    "p": [
+	  {
+        "k": "You must be near a Raid to use this command!",
+        "v": "你必须在袭击附近才能使用此命令！"
+	  },
+	  {
+        "k": "Wave successfully cleared!",
+        "v": "波次已成功清除！"
+	  }
+	]
+  },
+  {
+    "t": {
+      "n": "com.calculusmaster.difficultraids.commands.PrintRaidersCommand",
+      "m": ""
+    },
+    "p": [
+	  {
+        "k": "You must be near a Raid to use this command!",
+        "v": "你必须在袭击附近才能使用此命令！"
+	  },
+	  {
+        "k": "Raiders Currently Alive:\n",
+        "v": "当前存活的袭击者：\n"
+	  },
+	  {
+        "k": "Total Raiders Alive: ",
+        "v": "全部存活的袭击者："
+	  }
+	]
+  },
+  {
+    "t": {
+      "n": "com.calculusmaster.difficultraids.commands.SetRaidDifficultyCommand",
+      "m": ""
+    },
+    "p": [
+	  {
+        "k": "You must be in a Raid or have some level of Bad Omen to check the Raid Difficulty!",
+        "v": "你必须在袭击中或有不祥之兆效果才能查看袭击难度！"
+	  },
+	  {
+        "k": "Entering a Village will initiate a Raid at the Raid Difficulty of ",
+        "v": "进入村庄会发起一次难度为"
+	  },
+	  {
+        "k": "!",
+        "v": "的袭击！"
+	  },
+	  {
+        "k": "The current Raid is at a Raid Difficulty of ",
+        "v": "当前袭击是难度为"
+	  },
+	  {
+        "k": "Entering a Village will now spawn a Raid of Raid Difficulty ",
+        "v": "进入村庄会立即生成一次难度为"
+	  },
+	  {
+        "k": "To select a Raid Difficulty, obtain higher levels of Bad Omen. Level 1 spawns a Default Vanilla Raid, and higher levels spawn tougher Raids added by this DifficultRaids (2: Hero, 3: Legend, 4: Master, 5: Grandmaster).",
+        "v": "要选择袭击难度，请获得更高等级的不祥之兆。1级会生成一个默认的原版袭击，而更高等级会生成由此模组添加的更强大的袭击（2：英雄，3：传奇，4：大师，5：宗师）。"
+	  }
+	]
+  },
+  {
+    "t": {
+      "n": "com.calculusmaster.difficultraids.entity.entities.elite.ModurEliteEntity",
+      "m": ""
+    },
+    "k": "Modur, Harbinger of Thunder",
+    "v": "莫杜尔，雷霆的先驱"
+  },
+  {
+    "t": {
+      "n": "com.calculusmaster.difficultraids.entity.entities.elite.NuaosEliteEntity",
+      "m": ""
+    },
+    "k": "Nuaos, The Chosen",
+    "v": "努奥斯，天选者"
+  },
+  {
+    "t": {
+      "n": "com.calculusmaster.difficultraids.entity.entities.elite.VoldonEliteEntity",
+      "m": ""
+    },
+    "k": "Voldon, The Protected",
+    "v": "伏尔登，被守护者"
+  },
+  {
+    "t": {
+      "n": "com.calculusmaster.difficultraids.entity.entities.elite.ModurEliteEntity",
+      "m": ""
+    },
+    "k": "Xydrax, Windborne",
+    "v": "西德拉克斯，御风之人"
+  },
+  {
+    "t": {
+      "n": "com.calculusmaster.difficultraids.items.GMArmorItem",
+      "m": ""
+    },
+    "k": "Reduces damage taken from Raiders by 10%.\nFull Set Bonus: Applies Regeneration II & Speed I constantly.",
+    "v": "减少10%袭击者造成的伤害。\n套装加成：获得持续的生命恢复II和速度I。"
+  },
+  {
+    "t": {
+      "n": "com.calculusmaster.difficultraids.mixins.RaidMixin",
+      "m": ""
+    },
+    "p": [
+	  {
+        "k": "Reinforcements have arrived!",
+        "v": "增援部队已抵达！"
+	  },
+	  {
+        "k": "Additional mobs have joined!",
+        "v": "更多的怪物加入了！"
+	  },
+	  {
+        "k": "An extra group of mobs has appeared!",
+        "v": "又有一群怪物出现了！"
+	  },
+	  {
+        "k": "The Illagers have called in reinforcements!",
+        "v": "灾厄村民已召集增援部队！"
+	  },
+	  {
+        "k": "The Illagers have called for backup!",
+        "v": "灾厄村民已请求支援！"
+	  },
+	  {
+        "k": "Raid Rewards have spawned at X: %s Y: %s Z: %s!",
+        "v": "袭击奖励已生成在X: %s Y: %s Z: %s！"
+	  }
+	]
+  },
 
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.AciddicsackbowlItem",
+      "m": "m_7373_"
+    },
+    "k": "Bowls but better",
+    "v": "更好的碗"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.AcidsackItem",
+      "m": "m_7373_"
+    },
+    "k": "Funni fanta balloon",
+    "v": "趣味幻想风气球"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.ArapoholiasprayItem",
+      "m": "m_7373_"
+    },
+    "k": "Mobs that are sprayed will be target by the Moonflowers",
+    "v": "被喷到的怪物将成为月亮花的目标"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.BeespheromonesItem",
+      "m": "m_7373_"
+    },
+    "k": "Once owned by a malicious bee keeper",
+    "v": "曾经为一个恶毒的养蜂人所拥有"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.undeadrevamp.item.BostroxsetItem$Boots",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.undeadrevamp.item.BostroxsetItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.undeadrevamp.item.BostroxsetItem$Helmet",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "Funkin Invincible!",
+    "v": "不可战胜牛波一！"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.BostroxswordItem",
+      "m": "m_7373_"
+    },
+    "k": "Massive knockback",
+    "v": "大量击退"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.FIresackItem",
+      "m": "m_7373_"
+    },
+    "k": "Funni Pineapple Fanta",
+    "v": "趣味菠萝风味"
+  },
+  {
+    "s": [
+	  {
+        "n": "net.mcreator.undeadrevamp.item.FizzysnowgooItem",
+        "m": "m_7373_"
+      },
+	  {
+        "n": "net.mcreator.undeadrevamp.item.SpiiterfriedeggItem",
+        "m": "m_7373_"
+      }
+	],
+    "k": "Taste like milk shakes",
+    "v": "尝起来像奶昔"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.FlightsackItem",
+      "m": "m_7373_"
+    },
+    "k": "Need LV4 XP to use. (Shift right Click)",
+    "v": "需要4级经验才能使用。（Shift右击）"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.HuntereyeItem",
+      "m": "m_7373_"
+    },
+    "k": "Eat for xp",
+    "v": "食用获得经验"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.HuntersackredItem",
+      "m": "m_7373_"
+    },
+    "k": "Shift right click to trade xp for health. Need LV 4 XP to use",
+    "v": "Shift右击以消耗经验恢复生命值。需要4级经验才能使用"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.LuckysackItem",
+      "m": "m_7373_"
+    },
+    "k": "Need LV 8 XP to use. (Shidt Right Click)",
+    "v": "需要8级经验才能使用。（Shift右击）"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.QueenbeeperfumeItem",
+      "m": "m_7373_"
+    },
+    "k": "Mobs that are sprayed will be target by the bees",
+    "v": "被喷到的怪物将成为蜜蜂的目标"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.RawbostroxItem",
+      "m": "m_7373_"
+    },
+    "k": "Zelda reference!?",
+    "v": "抄袭塞尔达！？"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.WincallerfanItem",
+      "m": "m_7373_"
+    },
+    "k": "Spit out a powerful blade",
+    "v": "吐出强大的刀刃"
+  },
+
+  {
+    "t": {
+      "n": "com.nitespring.monsterplus.common.item.CrystalArmour",
+      "m": "m_7373_"
+    },
+    "k": "§7§o+15% Protection from Magic Damage",
+    "v": "§7§o+15%魔法伤害保护"
+  },
+  {
+    "t": {
+      "n": "com.nitespring.monsterplus.common.item.CrystalArrowItem",
+      "m": "m_7373_"
+    },
+    "k": "§7§oSummons Crystal Spikes from the ground in the place where it hits",
+    "v": "§7§o命中时在命中位置的地面上生成水晶尖刺"
+  },
+  {
+    "t": {
+      "n": "com.nitespring.monsterplus.common.item.CrystalClumpItem",
+      "m": "m_7373_"
+    },
+    "k": "§7§oSummons Crystal Spikes from the ground when thrown",
+    "v": "§7§o扔出时在地面上生成水晶尖刺"
+  },
+  {
+    "t": {
+      "n": "com.nitespring.monsterplus.common.item.CrystalSword",
+      "m": "m_7373_"
+    },
+    "k": "§7§oSummons Crystal Spikes from the ground when you hit enemies",
+    "v": "§7§o命中敌人时在地面上生成水晶尖刺"
+  },
+
+  {
+    "t": {
+      "n": "com.itayfeder.restored_earth.client.gui.screen.JournalScreen",
+      "m": ""
+    },
+    "p": [
+	    {
+        "k": "Name: ",
+        "v": "名称："
+	    },
+	    {
+        "k": "Health: ",
+        "v": "生命值："
+	    },
+	    {
+        "k": "Family: ",
+        "v": "家族："
+	    }
+	  ]
+  }
 ]
