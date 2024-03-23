@@ -1,0 +1,978 @@
+[
+  {
+    "authors": "x209, DrIceTea",
+    "name": "Dawncraft部分模组汉化",
+    "desc": "！！！mcr坏批！！！",
+    "mods": "dawncraft_mobs等",
+    "dynamic": false
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.block.entity.BlackmarketSignBlockEntity",
+      "m": "m_5446_"
+    },
+    "k": "Blackmarket Sign",
+    "v": "黑市标志"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.block.entity.GiantSummonerClosedBlockEntity",
+      "m": "m_5446_"
+    },
+    "k": "Giant Summoner",
+    "v": "巨人召唤器"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.simplemobs.block.entity.ImpHidden2BlockEntity",
+        "m": "m_5446_"
+      },
+      {
+        "n": "net.mcreator.simplemobs.block.entity.ImpHiddenBlockEntity",
+        "m": "m_5446_"
+      }
+    ],
+    "k": "Hidden Imp Statue",
+    "v": "隐藏小鬼雕像"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.block.entity.PuzzleBlockEntity",
+      "m": "m_5446_"
+    },
+    "k": "Puzzle",
+    "v": "魔方"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.simplemobs.item.DragonashArmorFireItem$Boots",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.simplemobs.item.DragonashArmorFireItem$Chestplates",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.simplemobs.item.DragonashArmorFireItem$Helmet",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.simplemobs.item.DragonashArmorFireItem$Leggings",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "Full Set: Catching on fire heals you when you have low health.",
+    "v": "全套效果：生命值低时着火会治疗你。"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.simplemobs.item.DragonashArmorIceItem$Boots",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.simplemobs.item.DragonashArmorIceItem$Chestplates",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.simplemobs.item.DragonashArmorIceItem$Helmet",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.simplemobs.item.DragonashArmorIceItem$Leggings",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "Full Set: Taking damage on low health somtimes trigger freezing effect.",
+    "v": "全套效果：生命值低时受到伤害有可能触发冻结效果。"
+  },
+  {
+    "s": [
+	  {
+        "n": "net.mcreator.simplemobs.item.GaelGreatswordEnragedItem",
+        "m": "m_7373_"
+      },
+	  {
+        "n": "net.mcreator.simplemobs.item.GaelGreatswordItem",
+        "m": "m_7373_"
+      }
+	],
+    "k": "Slave Knight Gael's Greatsword.",
+    "v": "奴隶骑士Gael的大剑。"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.item.GetsugaItem$Helmet",
+      "m": "m_7373_"
+    },
+    "k": "The Helmet of the Invader Getsuga_65.",
+    "v": "入侵者Getsuga_65的头盔。"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.item.ImpGuardCreatorItem",
+      "m": "m_7373_"
+    },
+    "p": [
+      {
+        "k": "Right click on a stone brick to summon an Imp Guard.",
+        "v": "右击石砖，召唤一名小鬼守卫。"
+      },
+      {
+        "k": "Imp Guard - An inmovable guardian that takes 1 minute to set up. Its special ability can only be activated when a villager is present within 24 blocks radius.",
+        "v": "小鬼守卫——一个不可移动的守卫，安装需要1分钟。只有在24格范围内有村民时才能激活它的特殊能力。"
+      }
+    ]
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.item.LightningdragonHeartItem",
+      "m": "m_7373_"
+    },
+    "p": [
+      {
+        "k": "The heart of a lightning dragon.",
+        "v": "电龙的心脏。"
+      },
+      {
+        "k": "Can be consumed to reduce the effect of shock.",
+        "v": "可使用以减弱触电效果。"
+      }
+    ]
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.item.SummoningbellItem",
+      "m": "m_7373_"
+    },
+    "p": [
+      {
+        "k": "Used to call the spirit of past adventurers",
+        "v": "用来呼唤已逝的冒险家的灵魂。"
+      },
+      {
+        "k": "Must be used and kept on the offhand.",
+        "v": "必须在副手持有时使用。"
+      }
+    ]
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.ForgeEventDiesProcedure",
+      "m": ""
+    },
+    "p": [
+      {
+        "k": "/dc removeWaypoint @p \"Main Quest - Goblin King's Keep\"",
+        "v": "/dc removeWaypoint @p \"Main Quest - Goblin King's Keep\""
+      },
+      {
+        "k": "/dc removeWaypoint @p \"Father’s Church\"",
+        "v": "/dc removeWaypoint @p \"Father’s Church\""
+      }
+    ]
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.LProcedure",
+      "m": ""
+    },
+    "p": [
+      {
+        "k": "You've already paid today, try again tomorrow!",
+        "v": "你今天已经付过款了，请明天再试！"
+      },
+      {
+        "k": "You've paid for your crimes.... Now maybe you should sleep on it.",
+        "v": "你为自己的罪行付出了代价……现在也许你应该睡一觉。"
+      }
+    ]
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.ProcaveddeathProcedure",
+      "m": ""
+    },
+    "k": "/dc removeWaypoint @p \"Extermination Request - Cave Dweller\"",
+    "v": "/dc removeWaypoint @p \"Extermination Request - Cave Dweller\""
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.ProcodeathProcedure",
+      "m": ""
+    },
+    "k": "/dc removeWaypoint @p \"Main Quest - Corrupted Ogre's Dwelling\"",
+    "v": "/dc removeWaypoint @p \"Main Quest - Corrupted Ogre's Dwelling\""
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.ProcultistdeathProcedure",
+      "m": ""
+    },
+    "k": "/dc removeWaypoint @p \"The Cultist's Prison\"",
+    "v": "/dc removeWaypoint @p \"The Cultist's Prison\""
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.ProfgdeathProcedure",
+      "m": ""
+    },
+    "k": "/dc removeWaypoint @p \"Main Quest - Fire Giant's Altar\"",
+    "v": "/dc removeWaypoint @p \"Main Quest - Fire Giant's Altar\""
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.ProelementaldeathProcedure$1",
+      "m": ""
+    },
+    "p": [
+      {
+        "k": "/tellraw @a[distance=..80] {\"text\":\"Congratulations! You have defeated the elemental deity. The world's balance is once again restored... You can right click on one of the dancing koroks to go back.\",\"bold\":true}",
+        "v": "/tellraw @a[distance=..80] {\"text\":\"Congratulations! You have defeated the elemental deity. The world's balance is once again restored... You can right click on one of the dancing koroks to go back.\",\"bold\":true}"
+      },
+      {
+        "k": "/title @a[distance=..80] subtitle {\"text\":\"You have defeated the corrupted deity.\",\"bold\":true,\"italic\":true}",
+        "v": "/title @a[distance=..80] subtitle {\"text\":\"You have defeated the corrupted deity.\",\"bold\":true,\"italic\":true}"
+      }
+    ]
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.ProentdeathProcedure",
+      "m": ""
+    },
+    "k": "Staff",
+    "v": "法杖"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.ProgiantdeathProcedure",
+      "m": ""
+    },
+    "k": "/dc removeWaypoint @p \"Extermination Request - The Giant\"",
+    "v": "/dc removeWaypoint @p \"Extermination Request - The Giant\""
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.ProknightdeathProcedure",
+      "m": ""
+    },
+    "k": "/dc removeWaypoint @p \"Main Quest - Knight Rober's Arena\"",
+    "v": "/dc removeWaypoint @p \"Main Quest - Knight Rober's Arena\""
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.Promap1Procedure",
+      "m": ""
+    },
+    "k": "/dc AddWaypoints @p custom:soul_black_smith \"Soul Blacksmith\"",
+    "v": "/dc AddWaypoints @p custom:soul_black_smith \"Soul Blacksmith\""
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.Promap2Procedure",
+      "m": ""
+    },
+    "k": "/dc AddWaypoints @p custom:burning_arena \"Burning Arena\"",
+    "v": "/dc AddWaypoints @p custom:burning_arena \"Burning Arena\""
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.Promap3Procedure",
+      "m": ""
+    },
+    "k": "/dc AddWaypoints @p custom:ruined_citadel \"Ruined Citadel\"",
+    "v": "/dc AddWaypoints @p custom:ruined_citadel \"Ruined Citadel\""
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.ProntdeathProcedure",
+      "m": ""
+    },
+    "k": "/dc removeWaypoint @p \"Main Quest - Ninetail's Farm\"",
+    "v": "/dc removeWaypoint @p \"Main Quest - Ninetail's Farm\""
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.ProraiddetectProcedure",
+      "m": ""
+    },
+    "k": "tellraw @a[distance=..100] {\"text\":\"You successfully drove away the witches! ...For now.\",\"color\":\"light_purple\"}",
+    "v": "tellraw @a[distance=..100] {\"text\":\"You successfully drove away the witches! ...For now.\",\"color\":\"light_purple\"}"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.ProratsstomachProcedure",
+      "m": ""
+    },
+    "k": "There's nothing inside...",
+    "v": "里面什么都没有……"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.ProsgclickProcedure",
+      "m": "execute"
+    },
+    "k": "** You cannot enter his dream for now **",
+    "v": "** 你现在还不能进入他的梦中 **"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.ProskdeathProcedure",
+      "m": ""
+    },
+    "k": "/dc removeWaypoint @p \"Main Quest - Guardian Tree\"",
+    "v": "/dc removeWaypoint @p \"Main Quest - Guardian Tree\""
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.ProsldeathProcedure",
+      "m": ""
+    },
+    "k": "/dc removeWaypoint @p \"Main Quest - Floating Island\"",
+    "v": "/dc removeWaypoint @p \"Main Quest - Floating Island\""
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.ProsummonercloseProcedure",
+      "m": ""
+    },
+    "k": "The giant is resting now, give it time.",
+    "v": "巨人正在休息，让他歇歇吧。"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.ProsummonerProcedure",
+      "m": ""
+    },
+    "k": "You are not worthy to summon the fire giant yet.",
+    "v": "你现在还不配召唤火焰巨人。"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.ProsummonProcedure",
+      "m": ""
+    },
+    "p": [
+      {
+        "k": "Spirit Summoned.",
+        "v": "灵魂已召唤。"
+      },
+      {
+        "k": "Summoning Spirit",
+        "v": "灵魂召唤中"
+      },
+      {
+        "k": "Summoning Spirit.",
+        "v": "灵魂召唤中."
+      },
+      {
+        "k": "Summoning Spirit..",
+        "v": "灵魂召唤中.."
+      },
+      {
+        "k": "Summoning Spirit...",
+        "v": "灵魂召唤中..."
+      }
+    ]
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.WhenPlayerTypesProcedure",
+      "m": ""
+    },
+    "p": [
+      {
+        "k": "From shadowed realm, arise Herobrine's might! Legends unite, grant power in darkest night!",
+        "v": "唤影呼主，高扬盛威。联奇赋力，与冥同寐！"
+      },
+      {
+        "k": "§eHerobrine joined the game",
+        "v": "§eHerobrine加入了游戏"
+      }
+    ]
+  },
+  {
+    "t": {
+      "n": "net.mcreator.simplemobs.procedures.ProspiritrightclickProcedure",
+      "m": "execute"
+    },
+    "k": "Right click again to send the spirit away",
+    "v": "再右击一次以送别灵魂。"
+  },
+  
+  {
+    "s": [
+      {
+        "n": "net.mcreator.enlightened_end.block.entity.ChorusVineBlockEntity",
+        "m": "m_5446_"
+      },
+      {
+        "n": "net.mcreator.enlightened_end.block.entity.ChorusVineTopBlockEntity",
+        "m": "m_5446_"
+      }
+    ],
+    "k": "Parasol Vine",
+    "v": "伞状藤蔓"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.enlightened_end.block.entity.EbonyStalkBlockEntity",
+        "m": "m_5446_"
+      },
+      {
+        "n": "net.mcreator.enlightened_end.block.entity.EbonyStalkBulbBlockEntity",
+        "m": "m_5446_"
+      }
+    ],
+    "k": "Ebony Stalk",
+    "v": "檀木"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.enlightened_end.item.ActivatedMagnetItem",
+      "m": "m_7373_"
+    },
+    "k": "§7Active",
+    "v": "§7激活"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.enlightened_end.item.MagnetItem",
+      "m": "m_7373_"
+    },
+    "k": "§7Inactive",
+    "v": "§7未激活"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.enlightened_end.item.SeradedWhipItem",
+      "m": "m_7373_"
+    },
+    "k": "§7Reeling",
+    "v": "§7卷起"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.enlightened_end.item.VoidsteelArmorItem$Boots",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.enlightened_end.item.VoidsteelArmorItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.enlightened_end.item.VoidsteelArmorItem$Helmet",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.enlightened_end.item.VoidsteelArmorItem$Leggings",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.enlightened_end.item.VoidsteelAxeItem",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.enlightened_end.item.VoidsteelHoeItem",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.enlightened_end.item.VoidsteelPickaxeItem",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.enlightened_end.item.VoidsteelShovelItem",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.enlightened_end.item.VoidsteelSwordItem",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "§dUnbreakable",
+    "v": "§d无法破坏"
+  },
+  
+  {
+    "t": {
+      "n": "net.mcreator.scatteredweapons.item.BackstaberItem",
+      "m": "m_7373_"
+    },
+    "k": "when hitting will apply slowness and when right cliked will teleport you to the nearest mob in a small range",
+    "v": "命中时施加缓慢，右击时将你传送到小范围内最近的怪物处"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.scatteredweapons.item.DarkkatanaItem",
+      "m": "m_7373_"
+    },
+    "k": "when right cliked you can teleport and damage near mobs",
+    "v": "右击时可以传送并伤害近距离的怪物"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.scatteredweapons.item.EthernalknifeItem",
+      "m": "m_7373_"
+    },
+    "k": "this weapon will add more xp per kill and when right cliked will give regeneration for some xp",
+    "v": "此武器会增加每次击杀怪物的经验值，右击时消耗经验值提供生命恢复"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.scatteredweapons.item.FirebrandItem",
+      "m": "m_7373_"
+    },
+    "k": "this weapon has a chance of burning the target and when right cliked this weapon will spawn a fire ball",
+    "v": "此武器有概率点燃目标，右击时生成一个火球"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.scatteredweapons.item.HeartstealerItem",
+      "m": "m_7373_"
+    },
+    "k": "when right click the blade can instantaneously kill the target if his helth is below 25% andonce hiting the target this weapon has a chance of stealing the target's health",
+    "v": "右击可以瞬间击杀生命值低于25%的目标，并且击中目标时有概率窃取目标的生命值"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.scatteredweapons.item.JailorsskytheItem",
+      "m": "m_7373_"
+    },
+    "k": "when killing an entity with more than 7 health this weapon will stack souls and when right cliking will release them for a temporary buff (when killing you can stack up multiple souls and when releaset will give a stronger buff 5 souls is the max but when killing target the souls will automatically be released therefore loosing the buffs .This weapon also can apply wither to the targget",
+    "v": "此武器击杀生命值大于7的实体时会获得灵魂层数，右击时消耗灵魂层数以获得临时增益（灵魂层数可以叠加，层数越多增益效果越强，5层时达到最大效果）。增益效果期间若击杀目标则灵魂逸散，增益消失。此武器也会对目标施加凋零"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.scatteredweapons.item.NamelessbladeItem",
+      "m": "m_7373_"
+    },
+    "k": "when hitting the target multiple times in a row this weapon will give you an advantage",
+    "v": "此武器多次连续击中目标时会提供增益"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.scatteredweapons.item.NightmaresbiteItem",
+      "m": "m_7373_"
+    },
+    "k": "this weapon has a chance off apply poison to the target and when right clicked will give you a dash and temporary strength",
+    "v": "此武器有概率为目标施加中毒，右击时进行一次冲刺并获得临时的力量效果"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.scatteredweapons.item.ToughtingotItem",
+      "m": "m_7373_"
+    },
+    "k": "right click with the proper enchantement and with 30xp levels to make it suitable for upgrading your gear.",
+    "v": "当附有适当的魔咒并拥有30级经验时右击，使此物品能用于升级你的装备。"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.scatteredweapons.item.UniquerapierItem",
+      "m": "m_7373_"
+    },
+    "k": "this weapons has a chance of multihitting the target and when right cliked will turn into op sword for a few moments",
+    "v": "此武器有概率对目标造成多次攻击，右击时变成op剑一段时间"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.scatteredweapons.item.WhisperingspearItem",
+      "m": "m_7373_"
+    },
+    "k": "this weapon has more knokback and will prevent you from dying every 9 minutes",
+    "v": "此武器有更高的击退，并且每9分钟可以防止你死亡1次"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.scatteredweapons.procedures.ToughtingotRightclickedProcedure",
+      "m": ""
+    },
+    "k": "you need to enchant it with the proper enchantment and have 30 xp levels to make it suitable for upgrading.",
+    "v": "你需要为此物品附上适当的魔咒，并拥有30级经验等级，才能使此物品可以用于升级。"
+  },
+  
+  {
+    "t": {
+      "n": "com.nitespring.darksouls.common.items.miscellaneous.GreatBelfryItem",
+      "m": "m_7373_"
+    },
+    "p": [
+	  {
+		"k": "§5To follow the path of the Dragon, do not ring the Great Bell",
+        "v": "§5要前往巨龙路线，就不要敲响钟"
+	  },
+	  {
+		"k": "§8§oSummons the Nameless King",
+        "v": "§8§o召唤无名王者"
+	  },
+	  {
+		"k": "§5§oNothing will remain once the bell has tolled",
+        "v": "§5§o钟声一响，就什么也不会留下"
+	  }
+	]
+  },
+  {
+    "s": [
+      {
+        "n": "com.nitespring.darksouls.common.items.weapons.parent.DarkSoulsCustomWeapon",
+        "m": "m_7373_"
+      },
+      {
+        "n": "com.nitespring.bloodborne.common.items.weapons.guns.GunItem",
+        "m": "m_7373_"
+      },
+      {
+        "n": "com.nitespring.bloodborne.common.items.weapons.parent.BloodborneWeapon",
+        "m": "m_7373_"
+      }
+	],
+    "p": [
+	  {
+		"k": "§8§oPress shift for more information",
+        "v": "§8§o按Shift以查看更多信息"
+	  },
+	  {
+		"k": " Physical Damage",
+        "v": " 物理伤害"
+	  },
+	  {
+		"k": " Fire Damage",
+        "v": " 火焰伤害"
+	  },
+	  {
+		"k": " Magic Damage",
+        "v": " 魔法伤害"
+	  },
+	  {
+		"k": " Lightning Damage",
+        "v": " 雷电伤害"
+	  },
+	  {
+		"k": " Dark Damage",
+        "v": " 黑暗伤害"
+	  }
+	]
+  },
+
+  {
+    "t": {
+      "n": "com.nitespring.bloodborne.common.items.bullets.BulletItem",
+      "m": "m_7373_"
+    },
+    "k": " Damage",
+    "v": " 伤害"
+  },
+  {
+    "t": {
+      "n": "com.nitespring.bloodborne.common.items.weapons.guns.GunItem",
+      "m": "m_7373_"
+    },
+    "p": [
+	  {
+        "k": "§8Loaded",
+        "v": "§8已装弹"
+	  },
+	  {
+		"k": " Base Damage",
+        "v": " 基础伤害"
+	  }
+	]
+  },
+  {
+    "t": {
+      "n": "com.nitespring.bloodborne.common.items.weapons.parent.BloodborneWeapon",
+      "m": "m_7373_"
+    },
+    "p": [
+	  {
+        "k": "§7§oSerrated",
+        "v": "§7§o锯齿"
+	  },
+	  {
+        "k": "§7§oRighteous",
+        "v": "§7§o正义"
+	  },
+	  {
+		"k": " Bolt Damage",
+        "v": " 电击伤害"
+	  },
+	  {
+		"k": " Arcane Damage",
+        "v": " 神秘伤害"
+	  },
+	  {
+		"k": " Blood Damage",
+        "v": " 血液伤害"
+	  }
+	]
+  },
+  {
+    "t": {
+      "n": "com.nitespring.bloodborne.common.items.weapons.parent.TrickWeapon",
+      "m": "m_7373_"
+    },
+    "k": "§8§oPress left_alt to transform",
+    "v": "§8§o按左Alt以变形"
+  },
+  {
+    "t": {
+      "n": "com.nitespring.bloodborne.common.items.BloodVial",
+      "m": "m_7373_"
+    },
+    "p": [
+	  {
+        "k": "§5Special blood with curative properties",
+        "v": "§5具有治愈特性的特殊血液"
+	  },
+	  {
+		"k": "§8§oUse to heal",
+        "v": "§8§o使用以治疗"
+	  }
+	]
+  },
+  {
+    "t": {
+      "n": "com.nitespring.bloodborne.common.items.BlossomedEyeItem",
+      "m": "m_7373_"
+    },
+    "p": [
+	  {
+        "k": "§5Oh Kos... or some say Kosm... Grant Us Eyes!",
+        "v": "§5Oh Kos... or some say Kosm... Grant Us Eyes!"
+	  },
+	  {
+        "k": "§8§oSummons the mad rector of the School of Mensis, the dreamer Micolash",
+        "v": "§8§oSummons the mad rector of the School of Mensis, the dreamer Micolash"
+	  },
+	  {
+		"k": "§5§oIt is said that to ascend to the Gods, one must grow Eyes on the Inside",
+        "v": "§5§oIt is said that to ascend to the Gods, one must grow Eyes on the Inside"
+	  }
+	]
+  },
+  {
+    "t": {
+      "n": "com.nitespring.bloodborne.common.items.MusicBoxItem",
+      "m": "m_7373_"
+    },
+    "p": [
+	  {
+        "k": "§5Plays a soothing lullaby",
+        "v": "§5Plays a soothing lullaby"
+	  },
+	  {
+        "k": "§8§oIt appears to have a special connection to the Old Hunter Father Gascoigne's past",
+        "v": "§8§oIt appears to have a special connection to the Old Hunter Father Gascoigne's past"
+	  },
+	  {
+		"k": "§5§oIn order to survive the beastly scourge, one must not forget their own past",
+        "v": "§5§oIn order to survive the beastly scourge, one must not forget their own past"
+	  }
+	]
+  },
+  {
+    "t": {
+      "n": "com.nitespring.bloodborne.common.items.RedJewelItem",
+      "m": "m_7373_"
+    },
+    "p": [
+	  {
+        "k": "§5The Sweet Blood... It sings to me!",
+        "v": "§5The Sweet Blood... It sings to me!"
+	  },
+	  {
+        "k": "§8§oSummons the old hunter Father Gascoigne",
+        "v": "§8§oSummons the old hunter Father Gascoigne"
+	  },
+	  {
+		"k": "§5§oIn order to survive the beastly scourge, one must not forget their own past",
+        "v": "§5§oIn order to survive the beastly scourge, one must not forget their own past"
+	  }
+	]
+  },
+  {
+    "t": {
+      "n": "com.nitespring.bloodborne.common.items.ShardItem",
+      "m": "m_7373_"
+    },
+    "k": "§5Used at the Hunter's Workshop to Upgrade Weapons to +",
+    "v": "§5用于在猎人工坊中将武器升级到+"
+  },
+  {
+    "t": {
+      "n": "com.nitespring.bloodborne.common.items.WorkshopItem",
+      "m": "m_7373_"
+    },
+    "k": "§5Used to upgrade weapons using Blood Stones",
+    "v": "§5用于使用血石升级武器"
+  },
+
+  {
+    "s": [
+      {
+        "n": "com.duke.orcz.item.GreatJungleArmourItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "com.duke.orcz.item.GreatJungleArmourItem$Helmet",
+        "m": "m_7373_"
+      },
+      {
+        "n": "com.duke.orcz.item.GreatJungleArmourItem$Leggings",
+        "m": "m_7373_"
+      }
+	],
+    "p": [
+	  {
+		"k": "Can sense leaves vibration",
+        "v": "能感觉到树叶的振动"
+	  },
+	  {
+		"k": "(Full Armour Set For camouflage ability that decreases 30% when sneaking near biotania blocks)",
+        "v": "（全套盔甲有伪装能力，当在生物方块附近潜行时会降低30%）"
+	  }
+	]
+  },
+  {
+    "t": {
+      "n": "com.duke.orcz.item.HeavyorchammerItem",
+      "m": "m_7373_"
+    },
+    "k": "Time to bash some skulls",
+    "v": "是时候砸点头颅了"
+  },
+  {
+    "s": [
+      {
+        "n": "com.duke.orcz.item.Orcteeth_toolAxeItem",
+        "m": "m_7373_"
+      },
+      {
+        "n": "com.duke.orcz.item.Orcteeth_toolHoeItem",
+        "m": "m_7373_"
+      },
+      {
+        "n": "com.duke.orcz.item.Orcteeth_toolPickaxeItem",
+        "m": "m_7373_"
+      },
+      {
+        "n": "com.duke.orcz.item.Orcteeth_toolShovelItem",
+        "m": "m_7373_"
+      },
+      {
+        "n": "com.duke.orcz.item.Orcteeth_toolSwordItem",
+        "m": "m_7373_"
+      },
+      {
+        "n": "com.duke.orcz.item.OrcteethpaxelItem",
+        "m": "m_7373_"
+      }
+	],
+	"k": "Hard as iron but brittle as stone!",
+    "v": "硬如铁，脆如石！"
+  },
+  {
+    "t": {
+      "n": "com.duke.orcz.item.SkullwandorcItem",
+      "m": "m_7373_"
+    },
+    "k": "Right click to summon wither strike",
+    "v": "右击以召唤凋灵的攻击"
+  },
+  {
+    "t": {
+      "n": "com.duke.orcz.procedures.OrcteetharmorArmorHelmetTickEventProcedure",
+      "m": ""
+    },
+    "p": [
+	  {
+        "k": "Safe Landing Mode Enabled",
+        "v": "安全降落模式已启用"
+	  },
+	  {
+        "k": "Safe Landing Mode Disabled",
+        "v": "安全降落模式已禁用"
+	  }
+	]
+  },
+
+  {
+    "t": {
+      "name": "com.afunproject.dawncraft.classes.client.ItemSlot",
+      "method": "getTooltip",
+	  "local": "MgetSlot"
+    },
+    "p": [
+	  {
+        "k": "Head",
+        "v": "头部"
+	  },
+	  {
+        "k": "Chest",
+        "v": "上身"
+	  },
+	  {
+        "k": "Legs",
+        "v": "腿部"
+	  },
+	  {
+        "k": "Feet",
+        "v": "脚部"
+	  },
+	  {
+        "k": "Main Hand",
+        "v": "主手"
+	  },
+	  {
+        "k": "Off Hand",
+        "v": "副手"
+	  }
+	]
+  },
+
+  {
+    "t": {
+      "n": "net.obscuria.core.item.RunicManualItem$1",
+      "m": "m_5446_"
+    },
+    "k": "Runic Manual",
+    "v": "符文手册"
+  },
+  {
+    "t": {
+      "n": "net.obscuria.core.procedures.AfterlifeKeyEffectProcedure",
+      "m": ""
+    },
+    "p": [
+	  {
+        "k": "/summon minecraft:vindicator ~ ~ ~ {CustomName:\"Revived Vindicator\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/afterlife_key_zombie\",HandItems:[{id:\"minecraft:diamond_axe\",Count:1},{}],HandDropChances:[0.1F,0F]}",
+        "v": "/summon minecraft:vindicator ~ ~ ~ {CustomName:\"复活的卫道士\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/afterlife_key_zombie\",HandItems:[{id:\"minecraft:diamond_axe\",Count:1},{}],HandDropChances:[0.1F,0F]}"
+	  },
+	  {
+        "k": "/summon minecraft:pillager ~ ~ ~ {CustomName:\"Revived Pillager\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/afterlife_key_zombie\",HandItems:[{id:\"minecraft:crossbow\",Count:1},{}],HandDropChances:[0.1F,0F]}",
+        "v": "/summon minecraft:pillager ~ ~ ~ {CustomName:\"复活的掠夺者\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/afterlife_key_zombie\",HandItems:[{id:\"minecraft:crossbow\",Count:1},{}],HandDropChances:[0.1F,0F]}"
+	  }
+	]
+  },
+  {
+    "t": {
+      "n": "net.obscuria.core.procedures.AncientPaladinSpawnProcedure",
+      "m": ""
+    },
+    "p": [
+	  {
+        "k": "/summon minecraft:wither_skeleton ~ ~ ~ {CustomName:\"Ancient Paladin\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/ancient_paladin\",HandItems:[{id:\"minecraft:diamond_axe\",Count:1},{}],HandDropChances:[0.01F,0F],ArmorItems:[{id:\"ob_core:paladin_boots\",Count:1},{id:\"ob_core:paladin_leggings\",Count:1},{id:\"ob_core:paladin_chestplate\",Count:1},{id:\"ob_core:paladin_helmet\",Count:1}],ArmorDropChances:[0F,0F,0F,0F]}",
+        "v": "/summon minecraft:wither_skeleton ~ ~ ~ {CustomName:\"远古圣骑士\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/ancient_paladin\",HandItems:[{id:\"minecraft:diamond_axe\",Count:1},{}],HandDropChances:[0.01F,0F],ArmorItems:[{id:\"ob_core:paladin_boots\",Count:1},{id:\"ob_core:paladin_leggings\",Count:1},{id:\"ob_core:paladin_chestplate\",Count:1},{id:\"ob_core:paladin_helmet\",Count:1}],ArmorDropChances:[0F,0F,0F,0F]}"
+	  },
+	  {
+        "k": "/summon minecraft:wither_skeleton ~ ~ ~ {CustomName:\"Ancient Paladin\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/ancient_paladin\",HandItems:[{id:\"minecraft:diamond_sword\",Count:1},{}],HandDropChances:[0.1F,0F],ArmorItems:[{id:\"ob_core:paladin_boots\",Count:1},{id:\"ob_core:paladin_leggings\",Count:1},{id:\"ob_core:paladin_chestplate\",Count:1},{id:\"ob_core:paladin_extra_helmet\",Count:1}],ArmorDropChances:[0F,0F,0F,0F]}",
+        "v": "/summon minecraft:wither_skeleton ~ ~ ~ {CustomName:\"远古圣骑士\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/ancient_paladin\",HandItems:[{id:\"minecraft:diamond_sword\",Count:1},{}],HandDropChances:[0.1F,0F],ArmorItems:[{id:\"ob_core:paladin_boots\",Count:1},{id:\"ob_core:paladin_leggings\",Count:1},{id:\"ob_core:paladin_chestplate\",Count:1},{id:\"ob_core:paladin_extra_helmet\",Count:1}],ArmorDropChances:[0F,0F,0F,0F]}"
+	  }
+	]
+  }
+
+]
