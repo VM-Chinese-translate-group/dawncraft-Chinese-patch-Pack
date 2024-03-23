@@ -98,15 +98,15 @@
   },
   {
     "s": [
-	  {
+      {
         "n": "net.mcreator.simplemobs.item.GaelGreatswordEnragedItem",
         "m": "m_7373_"
       },
-	  {
+      {
         "n": "net.mcreator.simplemobs.item.GaelGreatswordItem",
         "m": "m_7373_"
       }
-	],
+    ],
     "k": "Slave Knight Gael's Greatsword.",
     "v": "奴隶骑士Gael的大剑。"
   },
@@ -410,7 +410,6 @@
     "k": "Right click again to send the spirit away",
     "v": "再右击一次以送别灵魂。"
   },
-  
   {
     "s": [
       {
@@ -505,7 +504,6 @@
     "k": "§dUnbreakable",
     "v": "§d无法破坏"
   },
-  
   {
     "t": {
       "n": "net.mcreator.scatteredweapons.item.BackstaberItem",
@@ -602,26 +600,25 @@
     "k": "you need to enchant it with the proper enchantment and have 30 xp levels to make it suitable for upgrading.",
     "v": "你需要为此物品附上适当的魔咒，并拥有30级经验等级，才能使此物品可以用于升级。"
   },
-  
   {
     "t": {
       "n": "com.nitespring.darksouls.common.items.miscellaneous.GreatBelfryItem",
       "m": "m_7373_"
     },
     "p": [
-	  {
-		"k": "§5To follow the path of the Dragon, do not ring the Great Bell",
+      {
+        "k": "§5To follow the path of the Dragon, do not ring the Great Bell",
         "v": "§5要前往巨龙路线，就不要敲响钟"
-	  },
-	  {
-		"k": "§8§oSummons the Nameless King",
+      },
+      {
+        "k": "§8§oSummons the Nameless King",
         "v": "§8§o召唤无名王者"
-	  },
-	  {
-		"k": "§5§oNothing will remain once the bell has tolled",
+      },
+      {
+        "k": "§5§oNothing will remain once the bell has tolled",
         "v": "§5§o钟声一响，就什么也不会留下"
-	  }
-	]
+      }
+    ]
   },
   {
     "s": [
@@ -637,35 +634,34 @@
         "n": "com.nitespring.bloodborne.common.items.weapons.parent.BloodborneWeapon",
         "m": "m_7373_"
       }
-	],
+    ],
     "p": [
-	  {
-		"k": "§8§oPress shift for more information",
+      {
+        "k": "§8§oPress shift for more information",
         "v": "§8§o按Shift以查看更多信息"
-	  },
-	  {
-		"k": " Physical Damage",
+      },
+      {
+        "k": " Physical Damage",
         "v": " 物理伤害"
-	  },
-	  {
-		"k": " Fire Damage",
+      },
+      {
+        "k": " Fire Damage",
         "v": " 火焰伤害"
-	  },
-	  {
-		"k": " Magic Damage",
+      },
+      {
+        "k": " Magic Damage",
         "v": " 魔法伤害"
-	  },
-	  {
-		"k": " Lightning Damage",
+      },
+      {
+        "k": " Lightning Damage",
         "v": " 雷电伤害"
-	  },
-	  {
-		"k": " Dark Damage",
+      },
+      {
+        "k": " Dark Damage",
         "v": " 黑暗伤害"
-	  }
-	]
+      }
+    ]
   },
-
   {
     "t": {
       "n": "com.nitespring.bloodborne.common.items.bullets.BulletItem",
@@ -680,15 +676,15 @@
       "m": "m_7373_"
     },
     "p": [
-	  {
+      {
         "k": "§8Loaded",
         "v": "§8已装弹"
-	  },
-	  {
-		"k": " Base Damage",
+      },
+      {
+        "k": " Base Damage",
         "v": " 基础伤害"
-	  }
-	]
+      }
+    ]
   },
   {
     "t": {
@@ -696,27 +692,27 @@
       "m": "m_7373_"
     },
     "p": [
-	  {
+      {
         "k": "§7§oSerrated",
         "v": "§7§o锯齿"
-	  },
-	  {
+      },
+      {
         "k": "§7§oRighteous",
         "v": "§7§o正义"
-	  },
-	  {
-		"k": " Bolt Damage",
+      },
+      {
+        "k": " Bolt Damage",
         "v": " 电击伤害"
-	  },
-	  {
-		"k": " Arcane Damage",
+      },
+      {
+        "k": " Arcane Damage",
         "v": " 神秘伤害"
-	  },
-	  {
-		"k": " Blood Damage",
+      },
+      {
+        "k": " Blood Damage",
         "v": " 血液伤害"
-	  }
-	]
+      }
+    ]
   },
   {
     "t": {
@@ -732,15 +728,15 @@
       "m": "m_7373_"
     },
     "p": [
-	  {
+      {
         "k": "§5Special blood with curative properties",
         "v": "§5具有治愈特性的特殊血液"
-	  },
-	  {
-		"k": "§8§oUse to heal",
+      },
+      {
+        "k": "§8§oUse to heal",
         "v": "§8§o使用以治疗"
-	  }
-	]
+      }
+    ]
   },
   {
     "t": {
@@ -748,19 +744,19 @@
       "m": "m_7373_"
     },
     "p": [
-	  {
+      {
         "k": "§5Oh Kos... or some say Kosm... Grant Us Eyes!",
         "v": "§5Oh Kos... or some say Kosm... Grant Us Eyes!"
-	  },
-	  {
+      },
+      {
         "k": "§8§oSummons the mad rector of the School of Mensis, the dreamer Micolash",
         "v": "§8§oSummons the mad rector of the School of Mensis, the dreamer Micolash"
-	  },
-	  {
-		"k": "§5§oIt is said that to ascend to the Gods, one must grow Eyes on the Inside",
+      },
+      {
+        "k": "§5§oIt is said that to ascend to the Gods, one must grow Eyes on the Inside",
         "v": "§5§oIt is said that to ascend to the Gods, one must grow Eyes on the Inside"
-	  }
-	]
+      }
+    ]
   },
   {
     "t": {
@@ -768,19 +764,19 @@
       "m": "m_7373_"
     },
     "p": [
-	  {
+      {
         "k": "§5Plays a soothing lullaby",
         "v": "§5Plays a soothing lullaby"
-	  },
-	  {
+      },
+      {
         "k": "§8§oIt appears to have a special connection to the Old Hunter Father Gascoigne's past",
         "v": "§8§oIt appears to have a special connection to the Old Hunter Father Gascoigne's past"
-	  },
-	  {
-		"k": "§5§oIn order to survive the beastly scourge, one must not forget their own past",
+      },
+      {
+        "k": "§5§oIn order to survive the beastly scourge, one must not forget their own past",
         "v": "§5§oIn order to survive the beastly scourge, one must not forget their own past"
-	  }
-	]
+      }
+    ]
   },
   {
     "t": {
@@ -788,19 +784,19 @@
       "m": "m_7373_"
     },
     "p": [
-	  {
+      {
         "k": "§5The Sweet Blood... It sings to me!",
         "v": "§5The Sweet Blood... It sings to me!"
-	  },
-	  {
+      },
+      {
         "k": "§8§oSummons the old hunter Father Gascoigne",
         "v": "§8§oSummons the old hunter Father Gascoigne"
-	  },
-	  {
-		"k": "§5§oIn order to survive the beastly scourge, one must not forget their own past",
+      },
+      {
+        "k": "§5§oIn order to survive the beastly scourge, one must not forget their own past",
         "v": "§5§oIn order to survive the beastly scourge, one must not forget their own past"
-	  }
-	]
+      }
+    ]
   },
   {
     "t": {
@@ -818,7 +814,6 @@
     "k": "§5Used to upgrade weapons using Blood Stones",
     "v": "§5用于使用血石升级武器"
   },
-
   {
     "s": [
       {
@@ -833,17 +828,17 @@
         "n": "com.duke.orcz.item.GreatJungleArmourItem$Leggings",
         "m": "m_7373_"
       }
-	],
+    ],
     "p": [
-	  {
-		"k": "Can sense leaves vibration",
+      {
+        "k": "Can sense leaves vibration",
         "v": "能感觉到树叶的振动"
-	  },
-	  {
-		"k": "(Full Armour Set For camouflage ability that decreases 30% when sneaking near biotania blocks)",
+      },
+      {
+        "k": "(Full Armour Set For camouflage ability that decreases 30% when sneaking near biotania blocks)",
         "v": "（全套盔甲有伪装能力，当在生物方块附近潜行时会降低30%）"
-	  }
-	]
+      }
+    ]
   },
   {
     "t": {
@@ -879,8 +874,8 @@
         "n": "com.duke.orcz.item.OrcteethpaxelItem",
         "m": "m_7373_"
       }
-	],
-	"k": "Hard as iron but brittle as stone!",
+    ],
+    "k": "Hard as iron but brittle as stone!",
     "v": "硬如铁，脆如石！"
   },
   {
@@ -897,55 +892,53 @@
       "m": ""
     },
     "p": [
-	  {
+      {
         "k": "Safe Landing Mode Enabled",
         "v": "安全降落模式已启用"
-	  },
-	  {
+      },
+      {
         "k": "Safe Landing Mode Disabled",
         "v": "安全降落模式已禁用"
-	  }
-	]
+      }
+    ]
   },
-
   {
     "t": {
       "name": "com.afunproject.dawncraft.classes.client.ItemSlot",
       "method": "getTooltip",
-	  "local": "MgetSlot"
+      "local": "MgetSlot"
     },
     "p": [
-	  {
+      {
         "k": "Head",
         "v": "头部"
-	  },
-	  {
+      },
+      {
         "k": "Chest",
         "v": "上身"
-	  },
-	  {
+      },
+      {
         "k": "Legs",
         "v": "腿部"
-	  },
-	  {
+      },
+      {
         "k": "Feet",
         "v": "脚部"
-	  },
-	  {
+      },
+      {
         "k": "Mainhand",
         "v": "主手"
-	  },
-	  {
+      },
+      {
         "k": "Offhand",
         "v": "副手"
-	  },
-	  {
+      },
+      {
         "k": "Quiver",
         "v": "箭袋"
-	  }
-	]
+      }
+    ]
   },
-
   {
     "t": {
       "n": "net.obscuria.core.item.RunicManualItem$1",
@@ -960,15 +953,15 @@
       "m": ""
     },
     "p": [
-	  {
+      {
         "k": "/summon minecraft:vindicator ~ ~ ~ {CustomName:\"Revived Vindicator\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/afterlife_key_zombie\",HandItems:[{id:\"minecraft:diamond_axe\",Count:1},{}],HandDropChances:[0.1F,0F]}",
         "v": "/summon minecraft:vindicator ~ ~ ~ {CustomName:\"复活的卫道士\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/afterlife_key_zombie\",HandItems:[{id:\"minecraft:diamond_axe\",Count:1},{}],HandDropChances:[0.1F,0F]}"
-	  },
-	  {
+      },
+      {
         "k": "/summon minecraft:pillager ~ ~ ~ {CustomName:\"Revived Pillager\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/afterlife_key_zombie\",HandItems:[{id:\"minecraft:crossbow\",Count:1},{}],HandDropChances:[0.1F,0F]}",
         "v": "/summon minecraft:pillager ~ ~ ~ {CustomName:\"复活的掠夺者\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/afterlife_key_zombie\",HandItems:[{id:\"minecraft:crossbow\",Count:1},{}],HandDropChances:[0.1F,0F]}"
-	  }
-	]
+      }
+    ]
   },
   {
     "t": {
@@ -976,17 +969,16 @@
       "m": ""
     },
     "p": [
-	  {
+      {
         "k": "/summon minecraft:wither_skeleton ~ ~ ~ {CustomName:\"Ancient Paladin\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/ancient_paladin\",HandItems:[{id:\"minecraft:diamond_axe\",Count:1},{}],HandDropChances:[0.01F,0F],ArmorItems:[{id:\"ob_core:paladin_boots\",Count:1},{id:\"ob_core:paladin_leggings\",Count:1},{id:\"ob_core:paladin_chestplate\",Count:1},{id:\"ob_core:paladin_helmet\",Count:1}],ArmorDropChances:[0F,0F,0F,0F]}",
         "v": "/summon minecraft:wither_skeleton ~ ~ ~ {CustomName:\"远古圣骑士\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/ancient_paladin\",HandItems:[{id:\"minecraft:diamond_axe\",Count:1},{}],HandDropChances:[0.01F,0F],ArmorItems:[{id:\"ob_core:paladin_boots\",Count:1},{id:\"ob_core:paladin_leggings\",Count:1},{id:\"ob_core:paladin_chestplate\",Count:1},{id:\"ob_core:paladin_helmet\",Count:1}],ArmorDropChances:[0F,0F,0F,0F]}"
-	  },
-	  {
+      },
+      {
         "k": "/summon minecraft:wither_skeleton ~ ~ ~ {CustomName:\"Ancient Paladin\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/ancient_paladin\",HandItems:[{id:\"minecraft:diamond_sword\",Count:1},{}],HandDropChances:[0.1F,0F],ArmorItems:[{id:\"ob_core:paladin_boots\",Count:1},{id:\"ob_core:paladin_leggings\",Count:1},{id:\"ob_core:paladin_chestplate\",Count:1},{id:\"ob_core:paladin_extra_helmet\",Count:1}],ArmorDropChances:[0F,0F,0F,0F]}",
         "v": "/summon minecraft:wither_skeleton ~ ~ ~ {CustomName:\"远古圣骑士\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/ancient_paladin\",HandItems:[{id:\"minecraft:diamond_sword\",Count:1},{}],HandDropChances:[0.1F,0F],ArmorItems:[{id:\"ob_core:paladin_boots\",Count:1},{id:\"ob_core:paladin_leggings\",Count:1},{id:\"ob_core:paladin_chestplate\",Count:1},{id:\"ob_core:paladin_extra_helmet\",Count:1}],ArmorDropChances:[0F,0F,0F,0F]}"
-	  }
-	]
+      }
+    ]
   },
-  
   {
     "s": [
       {
@@ -1015,15 +1007,15 @@
       "m": "m_7373_"
     },
     "p": [
-	  {
+      {
         "k": "The helmet of a fallen hero",
         "v": "堕落的英雄的头盔"
-	  },
-	  {
+      },
+      {
         "k": "but something feels off.",
         "v": "但感觉有些不对劲。"
-	  }
-	]
+      }
+    ]
   },
   {
     "t": {
@@ -1073,7 +1065,7 @@
         "n": "net.mcreator.jet_and_elias_armors.item.BlueSamuraiSetItem$Leggings",
         "m": "m_7373_"
       },
-	  {
+      {
         "n": "net.mcreator.jet_and_elias_armors.item.SamuraiSetItem$Boots",
         "m": "m_7373_"
       },
@@ -1116,11 +1108,15 @@
     "v": "目前为止用钱能买到的最重、最耐用的盔甲。甚至能对那些想攻击你的人造成伤害！高度的保护，尽管会减慢你的移动速度。"
   },
   {
+    "t": {
+      "n": "net.mcreator.jet_and_elias_armors.item.CrusaderArmorItem$Boots",
+      "m": "m_7373_"
+    },
+    "k": "Standard boots for any Crusading Knights",
+    "v": "所有十字军骑士的标准靴子"
+  },
+  {
     "s": [
-      {
-        "n": "net.mcreator.jet_and_elias_armors.item.CrusaderArmorItem$Boots",
-        "m": "m_7373_"
-      },
       {
         "n": "net.mcreator.jet_and_elias_armors.item.CrusaderArmorItem$Chestplate",
         "m": "m_7373_"
@@ -1134,8 +1130,8 @@
         "m": "m_7373_"
       }
     ],
-    "k": "Standard boots for any Crusading Knights",
-    "v": "所有十字军骑士的标准靴子"
+    "k": "For the Desianic Republic!",
+    "v": "为了德西安共和国！"
   },
   {
     "s": [
@@ -1247,7 +1243,7 @@
   },
   {
     "s": [
-	  {
+      {
         "n": "net.mcreator.jet_and_elias_armors.item.BigHavocKnigheHelmetItem$Helmet",
         "m": "m_7373_"
       },
@@ -1267,17 +1263,17 @@
         "n": "net.mcreator.jet_and_elias_armors.item.HavocKnightArmorItem$Leggings",
         "m": "m_7373_"
       }
-	],
+    ],
     "p": [
-	  {
+      {
         "k": "Equip all four pieces at once for great power",
         "v": "同时装备所有4件，以获得巨大的力量"
-	  },
-	  {
+      },
+      {
         "k": "at a cost...",
         "v": "但代价是……"
-	  }
-	]
+      }
+    ]
   },
   {
     "s": [
@@ -1295,7 +1291,7 @@
   },
   {
     "t": {
-      "n": "net.mcreator.jet_and_elias_armors.item.EliteSentinelSetItem$Helmet",
+      "n": "net.mcreator.jet_and_elias_armors.item.MenacingKnightHelmetBIGItem$Helmet",
       "m": "m_7373_"
     },
     "k": "For those who like this helmet but with layered skins",
@@ -1378,20 +1374,26 @@
         "m": "m_7373_"
       },
       {
-        "n": "net.mcreator.jet_and_elias_armors.item.SentinelSetItem$Chestplate",
-        "m": "m_7373_"
-      },
-      {
-        "n": "net.mcreator.jet_and_elias_armors.item.SentinelSetItem$Helmet",
-        "m": "m_7373_"
-      },
-      {
         "n": "net.mcreator.jet_and_elias_armors.item.SentinelSetItem$Leggings",
         "m": "m_7373_"
       }
     ],
     "k": "Heavy armor worn by hardened veterans. Wearing the full set grants a 10% chance for the armor to fully block an attack",
     "v": "久经沙场的老兵所穿的厚重盔甲。穿上全套可以使护甲有10%的概率完全阻挡攻击"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.SentinelSetItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.SentinelSetItem$Helmet",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "Heavy armor worn by hardened veterans. Wearing the full set grants a 10% chance for the armor to fully block an attack. Can be upgraded.",
+    "v": "久经沙场的老兵所穿的厚重盔甲。穿上全套可以使护甲有10%的概率完全阻挡攻击。可升级。"
   },
   {
     "s": [
@@ -1545,7 +1547,7 @@
         "n": "net.mcreator.jet_and_elias_armors.procedures.SentinelFullSetPassiveScrioptProcedure",
         "m": ""
       }
-	],
+    ],
     "k": "Your armor fully blocked the attack!",
     "v": "你的盔甲完全抵挡了攻击！"
   },
@@ -1557,22 +1559,21 @@
     "k": "The armor absorbed a fatal blow, allowing you to refuse death. Fight on!",
     "v": "盔甲吸收了致命一击，阻止了你的死亡。继续战斗！"
   },
-  
   {
     "t": {
       "n": "com.calculusmaster.difficultraids.commands.AdvanceRaidWaveCommand",
       "m": ""
     },
     "p": [
-	  {
+      {
         "k": "You must be near a Raid to use this command!",
         "v": "你必须在袭击附近才能使用此命令！"
-	  },
-	  {
+      },
+      {
         "k": "Wave successfully cleared!",
         "v": "波次已成功清除！"
-	  }
-	]
+      }
+    ]
   },
   {
     "t": {
@@ -1580,19 +1581,19 @@
       "m": ""
     },
     "p": [
-	  {
+      {
         "k": "You must be near a Raid to use this command!",
         "v": "你必须在袭击附近才能使用此命令！"
-	  },
-	  {
+      },
+      {
         "k": "Raiders Currently Alive:\n",
         "v": "当前存活的袭击者：\n"
-	  },
-	  {
+      },
+      {
         "k": "Total Raiders Alive: ",
         "v": "全部存活的袭击者："
-	  }
-	]
+      }
+    ]
   },
   {
     "t": {
@@ -1600,31 +1601,31 @@
       "m": ""
     },
     "p": [
-	  {
+      {
         "k": "You must be in a Raid or have some level of Bad Omen to check the Raid Difficulty!",
         "v": "你必须在袭击中或有不祥之兆效果才能查看袭击难度！"
-	  },
-	  {
+      },
+      {
         "k": "Entering a Village will initiate a Raid at the Raid Difficulty of ",
         "v": "进入村庄会发起一次难度为"
-	  },
-	  {
+      },
+      {
         "k": "!",
         "v": "的袭击！"
-	  },
-	  {
+      },
+      {
         "k": "The current Raid is at a Raid Difficulty of ",
         "v": "当前袭击是难度为"
-	  },
-	  {
+      },
+      {
         "k": "Entering a Village will now spawn a Raid of Raid Difficulty ",
         "v": "进入村庄会立即生成一次难度为"
-	  },
-	  {
+      },
+      {
         "k": "To select a Raid Difficulty, obtain higher levels of Bad Omen. Level 1 spawns a Default Vanilla Raid, and higher levels spawn tougher Raids added by this DifficultRaids (2: Hero, 3: Legend, 4: Master, 5: Grandmaster).",
         "v": "要选择袭击难度，请获得更高等级的不祥之兆。1级会生成一个默认的原版袭击，而更高等级会生成由此模组添加的更强大的袭击（2：英雄，3：传奇，4：大师，5：宗师）。"
-	  }
-	]
+      }
+    ]
   },
   {
     "t": {
@@ -1672,33 +1673,32 @@
       "m": ""
     },
     "p": [
-	  {
+      {
         "k": "Reinforcements have arrived!",
         "v": "增援部队已抵达！"
-	  },
-	  {
+      },
+      {
         "k": "Additional mobs have joined!",
         "v": "更多的怪物加入了！"
-	  },
-	  {
+      },
+      {
         "k": "An extra group of mobs has appeared!",
         "v": "又有一群怪物出现了！"
-	  },
-	  {
+      },
+      {
         "k": "The Illagers have called in reinforcements!",
         "v": "灾厄村民已召集增援部队！"
-	  },
-	  {
+      },
+      {
         "k": "The Illagers have called for backup!",
         "v": "灾厄村民已请求支援！"
-	  },
-	  {
+      },
+      {
         "k": "Raid Rewards have spawned at X: %s Y: %s Z: %s!",
         "v": "袭击奖励已生成在X: %s Y: %s Z: %s！"
-	  }
-	]
+      }
+    ]
   },
-
   {
     "t": {
       "n": "net.mcreator.undeadrevamp.item.AciddicsackbowlItem",
@@ -1732,6 +1732,14 @@
     "v": "曾经为一个恶毒的养蜂人所拥有"
   },
   {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.BostroxingotItem",
+      "m": "m_7373_"
+    },
+    "k": "hot and rubbery",
+    "v": "又热又有弹性"
+  },
+  {
     "s": [
       {
         "n": "net.mcreator.undeadrevamp.item.BostroxsetItem$Boots",
@@ -1763,19 +1771,19 @@
       "m": "m_7373_"
     },
     "k": "Funni Pineapple Fanta",
-    "v": "趣味菠萝风味"
+    "v": "趣味菠萝风"
   },
   {
     "s": [
-	  {
+      {
         "n": "net.mcreator.undeadrevamp.item.FizzysnowgooItem",
         "m": "m_7373_"
       },
-	  {
+      {
         "n": "net.mcreator.undeadrevamp.item.SpiiterfriedeggItem",
         "m": "m_7373_"
       }
-	],
+    ],
     "k": "Taste like milk shakes",
     "v": "尝起来像奶昔"
   },
@@ -1835,7 +1843,6 @@
     "k": "Spit out a powerful blade",
     "v": "吐出强大的刀刃"
   },
-
   {
     "t": {
       "n": "com.nitespring.monsterplus.common.item.CrystalArmour",
@@ -1868,25 +1875,24 @@
     "k": "§7§oSummons Crystal Spikes from the ground when you hit enemies",
     "v": "§7§o命中敌人时在地面上生成水晶尖刺"
   },
-
   {
     "t": {
       "n": "com.itayfeder.restored_earth.client.gui.screen.JournalScreen",
       "m": ""
     },
     "p": [
-	    {
+      {
         "k": "Name: ",
         "v": "名称："
-	    },
-	    {
+      },
+      {
         "k": "Health: ",
         "v": "生命值："
-	    },
-	    {
+      },
+      {
         "k": "Family: ",
         "v": "家族："
-	    }
-	  ]
+      }
+    ]
   }
 ]
