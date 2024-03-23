@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/dc addWaypoint @p custom:ninetail_farm \"主线任务 - 九尾的农场\"",
+      "command": "/dc addWaypoint @p custom:ninetail_farm \"主线任务——九尾的农场\"",
       "id": "quest_giver:command"
     },
     {

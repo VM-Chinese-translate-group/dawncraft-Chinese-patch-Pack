@@ -166,11 +166,11 @@
     "p": [
       {
         "k": "/dc removeWaypoint @p \"Main Quest - Goblin King's Keep\"",
-        "v": "/dc removeWaypoint @p \"Main Quest - Goblin King's Keep\""
+        "v": "/dc removeWaypoint @p \"主线任务——哥布林之王的藏身之处\""
       },
       {
         "k": "/dc removeWaypoint @p \"Father’s Church\"",
-        "v": "/dc removeWaypoint @p \"Father’s Church\""
+        "v": "/dc removeWaypoint @p \"神父的教堂\""
       }
     ]
   },
@@ -196,7 +196,7 @@
       "m": ""
     },
     "k": "/dc removeWaypoint @p \"Extermination Request - Cave Dweller\"",
-    "v": "/dc removeWaypoint @p \"Extermination Request - Cave Dweller\""
+    "v": "/dc removeWaypoint @p \"清剿任务——洞穴栖兽\""
   },
   {
     "t": {
@@ -204,7 +204,7 @@
       "m": ""
     },
     "k": "/dc removeWaypoint @p \"Main Quest - Corrupted Ogre's Dwelling\"",
-    "v": "/dc removeWaypoint @p \"Main Quest - Corrupted Ogre's Dwelling\""
+    "v": "/dc removeWaypoint @p \"主线任务——腐化食人魔的栖息地\""
   },
   {
     "t": {
@@ -212,7 +212,7 @@
       "m": ""
     },
     "k": "/dc removeWaypoint @p \"The Cultist's Prison\"",
-    "v": "/dc removeWaypoint @p \"The Cultist's Prison\""
+    "v": "/dc removeWaypoint @p \"信徒监狱\""
   },
   {
     "t": {
@@ -220,7 +220,7 @@
       "m": ""
     },
     "k": "/dc removeWaypoint @p \"Main Quest - Fire Giant's Altar\"",
-    "v": "/dc removeWaypoint @p \"Main Quest - Fire Giant's Altar\""
+    "v": "/dc removeWaypoint @p \"主线任务——火焰巨人的祭坛\""
   },
   {
     "t": {
@@ -230,11 +230,11 @@
     "p": [
       {
         "k": "/tellraw @a[distance=..80] {\"text\":\"Congratulations! You have defeated the elemental deity. The world's balance is once again restored... You can right click on one of the dancing koroks to go back.\",\"bold\":true}",
-        "v": "/tellraw @a[distance=..80] {\"text\":\"Congratulations! You have defeated the elemental deity. The world's balance is once again restored... You can right click on one of the dancing koroks to go back.\",\"bold\":true}"
+        "v": "/tellraw @a[distance=..80] {\"text\":\"恭喜！你已经打败了元素之神。世界的平衡再次恢复……你可以右击一只跳舞的科罗斯以返回。\",\"bold\":true}"
       },
       {
         "k": "/title @a[distance=..80] subtitle {\"text\":\"You have defeated the corrupted deity.\",\"bold\":true,\"italic\":true}",
-        "v": "/title @a[distance=..80] subtitle {\"text\":\"You have defeated the corrupted deity.\",\"bold\":true,\"italic\":true}"
+        "v": "/title @a[distance=..80] subtitle {\"text\":\"你已经击败了腐化的神祗。\",\"bold\":true,\"italic\":true}"
       }
     ]
   },
@@ -252,7 +252,7 @@
       "m": ""
     },
     "k": "/dc removeWaypoint @p \"Extermination Request - The Giant\"",
-    "v": "/dc removeWaypoint @p \"Extermination Request - The Giant\""
+    "v": "/dc removeWaypoint @p \"清剿请求——巨人\""
   },
   {
     "t": {

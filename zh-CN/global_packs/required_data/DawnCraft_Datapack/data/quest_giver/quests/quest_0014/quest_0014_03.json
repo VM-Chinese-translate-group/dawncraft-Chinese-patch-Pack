@@ -29,7 +29,7 @@
   ],
   "rewards": [
     {
-      "command": "/dc addWaypoint @p custom:ogre_dwelling \"主线任务 - 腐化食人魔的栖息地\"",
+      "command": "/dc addWaypoint @p custom:ogre_dwelling \"主线任务——腐化食人魔的栖息地\"",
       "id": "quest_giver:command"
     },
     {

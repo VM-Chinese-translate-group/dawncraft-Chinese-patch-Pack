@@ -1,0 +1,10 @@
+{
+  "entity.bosses_of_mass_destruction.lich": "暗夜巫妖",
+  "entity.bosses_of_mass_destruction.lich.bossbar": "\uE913",  
+  "entity.bosses_of_mass_destruction.void_blossom" : "虚空之花",
+  "entity.bosses_of_mass_destruction.void_blossom.bossbar" : "\uE914",  
+  "entity.bosses_of_mass_destruction.obsidilith" : "黑曜巨石柱",
+  "entity.bosses_of_mass_destruction.obsidilith.bossbar" : "\uE915",  
+  "entity.bosses_of_mass_destruction.gauntlet" : "下界铁掌",
+  "entity.bosses_of_mass_destruction.gauntlet.bossbar" : "\uE916"  
+}
