@@ -924,5 +924,19 @@
   "item.minecraft.tipped_arrow.effect.withering_ii": "凋零之箭",
   "entity.simple_mobs.multipartbody_2": "多部位2",
   "subtitles.ogre_sleep": "",
-  "item.simple_mobs.wither_ray_spawn_egg": "凋零射线刷怪蛋"
+  "item.simple_mobs.wither_ray_spawn_egg": "凋零射线刷怪蛋",
+  "entity.simple_mobs.corrupted_ogre.bossbar": "",
+  "entity.simple_mobs.knight_4.bossbar": "",
+  "entity.simple_mobs.nine_tails.bossbar": "",
+  "entity.simple_mobs.sentinel_knight.bossbar": "",
+  "entity.simple_mobs.martian.bossbar": "",
+  "entity.simple_mobs.fire_giant.bossbar": "",
+  "entity.simple_mobs.notch_boss.bossbar": "",
+  "entity.simple_mobs.elemental_deity.bossbar": "",
+  "entity.simple_mobs.herobrine.bossbar": "",
+  "entity.simple_mobs.dragon_lord.bossbar": "",
+  "entity.simple_mobs.ent.bossbar": "",
+  "entity.simple_mobs.samurai_4.bossbar": "",
+  "entity.simple_mobs.samurai_5.bossbar": "",
+  "entity.simple_mobs.skeletonlord.bossbar": ""
 }
