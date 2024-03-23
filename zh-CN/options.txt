@@ -39,7 +39,7 @@ renderClouds:true
 resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","quark:emote_resources","file/mount1.3.zip","file/Excalibur_V1.18.1.zip","file/Excalibur_Mod_Support_V1.18.1.1.zip","file/Skyrim Soundpack v5.8b.zip","Immersive Weathering Generated Pack","file/Scourge\u0027s J\u0026E Armors (WIP).zip","tinyskeletons","file/IORR +Terralith Legacy v3.0.zip","file/EmbellishedStone-1.18-1.0.0.zip","builtin/mod_support/ctm","file/WOM_1.18_TEST.zip","file/EFMxIrons_Spells_v1.2.zip","file/[1.4] Enhanced Boss Bars.zip","file/DawnCraft_Resources.zip","C:\\Users\\Jason_New\\curseforge\\minecraft\\Instances\\DawnCraft\\config\\dcclasses"]
 incompatibleResourcePacks:["quark:emote_resources"]
 lastServer:
-lang:en_us
+lang:zh_cn
 soundDevice:
 chatVisibility:0
 chatOpacity:1.0
