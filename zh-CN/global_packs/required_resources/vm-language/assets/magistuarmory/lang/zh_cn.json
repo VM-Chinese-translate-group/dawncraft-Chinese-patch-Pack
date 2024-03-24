@@ -1,3 +1,6 @@
 {
-  "armorpiercing": "%1$f护甲穿透"
+  "armorpiercing": "%1$f%% 护甲穿透",
+  "kgweight": "%1$fkg 重", 
+  "maxdamageblock": "%1$f 格挡伤害上限",
+  "bonusattackreach": "%1$f 延伸范围"
 }

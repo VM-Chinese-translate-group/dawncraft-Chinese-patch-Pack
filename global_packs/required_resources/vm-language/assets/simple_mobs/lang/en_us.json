@@ -924,5 +924,19 @@
   "item.minecraft.tipped_arrow.effect.withering_ii": "Arrow of Withering",
   "entity.simple_mobs.multipartbody_2": "Multipartbody2",
   "subtitles.ogre_sleep": "",
-  "item.simple_mobs.wither_ray_spawn_egg": "Wither Ray Spawn Egg"
+  "item.simple_mobs.wither_ray_spawn_egg": "Wither Ray Spawn Egg",
+  "entity.simple_mobs.corrupted_ogre.bossbar": "\uE884",
+  "entity.simple_mobs.knight_4.bossbar": "\uE887",
+  "entity.simple_mobs.nine_tails.bossbar": "\uE889",
+  "entity.simple_mobs.sentinel_knight.bossbar": "\uE892",
+  "entity.simple_mobs.martian.bossbar": "\uE888",
+  "entity.simple_mobs.fire_giant.bossbar": "\uE886",
+  "entity.simple_mobs.notch_boss.bossbar": "\uE986",
+  "entity.simple_mobs.elemental_deity.bossbar": "\uE987",
+  "entity.simple_mobs.herobrine.bossbar": "\uE988",
+  "entity.simple_mobs.dragon_lord.bossbar": "\uE989",
+  "entity.simple_mobs.ent.bossbar": "\uE885",
+  "entity.simple_mobs.samurai_4.bossbar": "\uE890",
+  "entity.simple_mobs.samurai_5.bossbar": "\uE891",
+  "entity.simple_mobs.skeletonlord.bossbar": "\uE893"
 }

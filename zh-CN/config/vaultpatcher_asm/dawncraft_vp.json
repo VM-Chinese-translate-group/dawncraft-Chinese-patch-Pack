@@ -51,7 +51,7 @@
         "m": "m_7373_"
       },
       {
-        "n": "net.mcreator.simplemobs.item.DragonashArmorFireItem$Chestplates",
+        "n": "net.mcreator.simplemobs.item.DragonashArmorFireItem$Chestplate",
         "m": "m_7373_"
       },
       {
@@ -73,7 +73,7 @@
         "m": "m_7373_"
       },
       {
-        "n": "net.mcreator.simplemobs.item.DragonashArmorIceItem$Chestplates",
+        "n": "net.mcreator.simplemobs.item.DragonashArmorIceItem$Chestplate",
         "m": "m_7373_"
       },
       {
@@ -89,16 +89,24 @@
     "v": "全套效果：生命值低时受到伤害有可能触发冻结效果。"
   },
   {
+    "t": {
+      "n": "net.mcreator.simplemobs.item.DragonLordEssenceNuggetItem",
+      "m": "m_7373_"
+    },
+    "k": "The essence of Dragon Lord, torn into 4 pieces.",
+    "v": "龙王的至纯精粹撕裂成的4个碎片之一。"
+  },
+  {
     "s": [
-	  {
+      {
         "n": "net.mcreator.simplemobs.item.GaelGreatswordEnragedItem",
         "m": "m_7373_"
       },
-	  {
+      {
         "n": "net.mcreator.simplemobs.item.GaelGreatswordItem",
         "m": "m_7373_"
       }
-	],
+    ],
     "k": "Slave Knight Gael's Greatsword.",
     "v": "奴隶骑士Gael的大剑。"
   },
@@ -138,7 +146,7 @@
       },
       {
         "k": "Can be consumed to reduce the effect of shock.",
-        "v": "可使用以减弱触电效果。"
+        "v": "可食用以减弱触电效果。"
       }
     ]
   },
@@ -402,7 +410,6 @@
     "k": "Right click again to send the spirit away",
     "v": "再右击一次以送别灵魂。"
   },
-  
   {
     "s": [
       {
@@ -437,7 +444,7 @@
       "m": "m_7373_"
     },
     "k": "§7Active",
-    "v": "§7激活"
+    "v": "§7已激活"
   },
   {
     "t": {
@@ -497,7 +504,6 @@
     "k": "§dUnbreakable",
     "v": "§d无法破坏"
   },
-  
   {
     "t": {
       "n": "net.mcreator.scatteredweapons.item.BackstaberItem",
@@ -594,26 +600,25 @@
     "k": "you need to enchant it with the proper enchantment and have 30 xp levels to make it suitable for upgrading.",
     "v": "你需要为此物品附上适当的魔咒，并拥有30级经验等级，才能使此物品可以用于升级。"
   },
-  
   {
     "t": {
       "n": "com.nitespring.darksouls.common.items.miscellaneous.GreatBelfryItem",
       "m": "m_7373_"
     },
     "p": [
-	  {
-		"k": "§5To follow the path of the Dragon, do not ring the Great Bell",
+      {
+        "k": "§5To follow the path of the Dragon, do not ring the Great Bell",
         "v": "§5要前往巨龙路线，就不要敲响钟"
-	  },
-	  {
-		"k": "§8§oSummons the Nameless King",
+      },
+      {
+        "k": "§8§oSummons the Nameless King",
         "v": "§8§o召唤无名王者"
-	  },
-	  {
-		"k": "§5§oNothing will remain once the bell has tolled",
+      },
+      {
+        "k": "§5§oNothing will remain once the bell has tolled",
         "v": "§5§o钟声一响，就什么也不会留下"
-	  }
-	]
+      }
+    ]
   },
   {
     "s": [
@@ -629,35 +634,34 @@
         "n": "com.nitespring.bloodborne.common.items.weapons.parent.BloodborneWeapon",
         "m": "m_7373_"
       }
-	],
+    ],
     "p": [
-	  {
-		"k": "§8§oPress shift for more information",
+      {
+        "k": "§8§oPress shift for more information",
         "v": "§8§o按Shift以查看更多信息"
-	  },
-	  {
-		"k": " Physical Damage",
+      },
+      {
+        "k": " Physical Damage",
         "v": " 物理伤害"
-	  },
-	  {
-		"k": " Fire Damage",
+      },
+      {
+        "k": " Fire Damage",
         "v": " 火焰伤害"
-	  },
-	  {
-		"k": " Magic Damage",
+      },
+      {
+        "k": " Magic Damage",
         "v": " 魔法伤害"
-	  },
-	  {
-		"k": " Lightning Damage",
+      },
+      {
+        "k": " Lightning Damage",
         "v": " 雷电伤害"
-	  },
-	  {
-		"k": " Dark Damage",
+      },
+      {
+        "k": " Dark Damage",
         "v": " 黑暗伤害"
-	  }
-	]
+      }
+    ]
   },
-
   {
     "t": {
       "n": "com.nitespring.bloodborne.common.items.bullets.BulletItem",
@@ -672,15 +676,15 @@
       "m": "m_7373_"
     },
     "p": [
-	  {
+      {
         "k": "§8Loaded",
         "v": "§8已装弹"
-	  },
-	  {
-		"k": " Base Damage",
+      },
+      {
+        "k": " Base Damage",
         "v": " 基础伤害"
-	  }
-	]
+      }
+    ]
   },
   {
     "t": {
@@ -688,27 +692,27 @@
       "m": "m_7373_"
     },
     "p": [
-	  {
+      {
         "k": "§7§oSerrated",
         "v": "§7§o锯齿"
-	  },
-	  {
+      },
+      {
         "k": "§7§oRighteous",
         "v": "§7§o正义"
-	  },
-	  {
-		"k": " Bolt Damage",
+      },
+      {
+        "k": " Bolt Damage",
         "v": " 电击伤害"
-	  },
-	  {
-		"k": " Arcane Damage",
+      },
+      {
+        "k": " Arcane Damage",
         "v": " 神秘伤害"
-	  },
-	  {
-		"k": " Blood Damage",
+      },
+      {
+        "k": " Blood Damage",
         "v": " 血液伤害"
-	  }
-	]
+      }
+    ]
   },
   {
     "t": {
@@ -724,15 +728,15 @@
       "m": "m_7373_"
     },
     "p": [
-	  {
+      {
         "k": "§5Special blood with curative properties",
         "v": "§5具有治愈特性的特殊血液"
-	  },
-	  {
-		"k": "§8§oUse to heal",
+      },
+      {
+        "k": "§8§oUse to heal",
         "v": "§8§o使用以治疗"
-	  }
-	]
+      }
+    ]
   },
   {
     "t": {
@@ -740,19 +744,19 @@
       "m": "m_7373_"
     },
     "p": [
-	  {
+      {
         "k": "§5Oh Kos... or some say Kosm... Grant Us Eyes!",
-        "v": "§5Oh Kos... or some say Kosm... Grant Us Eyes!"
-	  },
-	  {
+        "v": "§5哦，科斯……或者说科斯穆……赐予我们眼睛吧！"
+      },
+      {
         "k": "§8§oSummons the mad rector of the School of Mensis, the dreamer Micolash",
-        "v": "§8§oSummons the mad rector of the School of Mensis, the dreamer Micolash"
-	  },
-	  {
-		"k": "§5§oIt is said that to ascend to the Gods, one must grow Eyes on the Inside",
-        "v": "§5§oIt is said that to ascend to the Gods, one must grow Eyes on the Inside"
-	  }
-	]
+        "v": "§8§o召唤曼西斯学院的疯校长，噩梦之主米克拉什"
+      },
+      {
+        "k": "§5§oIt is said that to ascend to the Gods, one must grow Eyes on the Inside",
+        "v": "§5§o据说想要飞升成神，他必须要长出内在之眼"
+      }
+    ]
   },
   {
     "t": {
@@ -760,19 +764,19 @@
       "m": "m_7373_"
     },
     "p": [
-	  {
+      {
         "k": "§5Plays a soothing lullaby",
-        "v": "§5Plays a soothing lullaby"
-	  },
-	  {
+        "v": "§5播放一段舒缓的摇篮曲"
+      },
+      {
         "k": "§8§oIt appears to have a special connection to the Old Hunter Father Gascoigne's past",
-        "v": "§8§oIt appears to have a special connection to the Old Hunter Father Gascoigne's past"
-	  },
-	  {
-		"k": "§5§oIn order to survive the beastly scourge, one must not forget their own past",
-        "v": "§5§oIn order to survive the beastly scourge, one must not forget their own past"
-	  }
-	]
+        "v": "§8§o它似乎与老猎人加斯科因神父的过去有着特殊的联系"
+      },
+      {
+        "k": "§5§oIn order to survive the beastly scourge, one must not forget their own past",
+        "v": "§5§o要想从这场兽化的灾难中幸存下来，他一定不能忘记他们自己的过去"
+      }
+    ]
   },
   {
     "t": {
@@ -780,19 +784,19 @@
       "m": "m_7373_"
     },
     "p": [
-	  {
+      {
         "k": "§5The Sweet Blood... It sings to me!",
-        "v": "§5The Sweet Blood... It sings to me!"
-	  },
-	  {
+        "v": "§5这甜美的血液……它在对我歌唱！"
+      },
+      {
         "k": "§8§oSummons the old hunter Father Gascoigne",
-        "v": "§8§oSummons the old hunter Father Gascoigne"
-	  },
-	  {
-		"k": "§5§oIn order to survive the beastly scourge, one must not forget their own past",
-        "v": "§5§oIn order to survive the beastly scourge, one must not forget their own past"
-	  }
-	]
+        "v": "§8§o召唤老猎人加斯科因神父"
+      },
+      {
+        "k": "§5§oIn order to survive the beastly scourge, one must not forget their own past",
+        "v": "§5§o要想从这场兽化的灾难中幸存下来，他一定不能忘记他们自己的过去"
+      }
+    ]
   },
   {
     "t": {
@@ -810,7 +814,6 @@
     "k": "§5Used to upgrade weapons using Blood Stones",
     "v": "§5用于使用血石升级武器"
   },
-
   {
     "s": [
       {
@@ -825,17 +828,17 @@
         "n": "com.duke.orcz.item.GreatJungleArmourItem$Leggings",
         "m": "m_7373_"
       }
-	],
+    ],
     "p": [
-	  {
-		"k": "Can sense leaves vibration",
+      {
+        "k": "Can sense leaves vibration",
         "v": "能感觉到树叶的振动"
-	  },
-	  {
-		"k": "(Full Armour Set For camouflage ability that decreases 30% when sneaking near biotania blocks)",
+      },
+      {
+        "k": "(Full Armour Set For camouflage ability that decreases 30% when sneaking near biotania blocks)",
         "v": "（全套盔甲有伪装能力，当在生物方块附近潜行时会降低30%）"
-	  }
-	]
+      }
+    ]
   },
   {
     "t": {
@@ -871,8 +874,8 @@
         "n": "com.duke.orcz.item.OrcteethpaxelItem",
         "m": "m_7373_"
       }
-	],
-	"k": "Hard as iron but brittle as stone!",
+    ],
+    "k": "Hard as iron but brittle as stone!",
     "v": "硬如铁，脆如石！"
   },
   {
@@ -889,51 +892,53 @@
       "m": ""
     },
     "p": [
-	  {
+      {
         "k": "Safe Landing Mode Enabled",
         "v": "安全降落模式已启用"
-	  },
-	  {
+      },
+      {
         "k": "Safe Landing Mode Disabled",
         "v": "安全降落模式已禁用"
-	  }
-	]
+      }
+    ]
   },
-
   {
     "t": {
       "name": "com.afunproject.dawncraft.classes.client.ItemSlot",
       "method": "getTooltip",
-	  "local": "MgetSlot"
+      "local": "MgetSlot"
     },
     "p": [
-	  {
+      {
         "k": "Head",
         "v": "头部"
-	  },
-	  {
+      },
+      {
         "k": "Chest",
         "v": "上身"
-	  },
-	  {
+      },
+      {
         "k": "Legs",
         "v": "腿部"
-	  },
-	  {
+      },
+      {
         "k": "Feet",
         "v": "脚部"
-	  },
-	  {
-        "k": "Main Hand",
+      },
+      {
+        "k": "Mainhand",
         "v": "主手"
-	  },
-	  {
-        "k": "Off Hand",
+      },
+      {
+        "k": "Offhand",
         "v": "副手"
-	  }
-	]
+      },
+      {
+        "k": "Quiver",
+        "v": "箭袋"
+      }
+    ]
   },
-
   {
     "t": {
       "n": "net.obscuria.core.item.RunicManualItem$1",
@@ -948,15 +953,15 @@
       "m": ""
     },
     "p": [
-	  {
+      {
         "k": "/summon minecraft:vindicator ~ ~ ~ {CustomName:\"Revived Vindicator\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/afterlife_key_zombie\",HandItems:[{id:\"minecraft:diamond_axe\",Count:1},{}],HandDropChances:[0.1F,0F]}",
         "v": "/summon minecraft:vindicator ~ ~ ~ {CustomName:\"复活的卫道士\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/afterlife_key_zombie\",HandItems:[{id:\"minecraft:diamond_axe\",Count:1},{}],HandDropChances:[0.1F,0F]}"
-	  },
-	  {
+      },
+      {
         "k": "/summon minecraft:pillager ~ ~ ~ {CustomName:\"Revived Pillager\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/afterlife_key_zombie\",HandItems:[{id:\"minecraft:crossbow\",Count:1},{}],HandDropChances:[0.1F,0F]}",
         "v": "/summon minecraft:pillager ~ ~ ~ {CustomName:\"复活的掠夺者\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/afterlife_key_zombie\",HandItems:[{id:\"minecraft:crossbow\",Count:1},{}],HandDropChances:[0.1F,0F]}"
-	  }
-	]
+      }
+    ]
   },
   {
     "t": {
@@ -964,15 +969,930 @@
       "m": ""
     },
     "p": [
-	  {
+      {
         "k": "/summon minecraft:wither_skeleton ~ ~ ~ {CustomName:\"Ancient Paladin\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/ancient_paladin\",HandItems:[{id:\"minecraft:diamond_axe\",Count:1},{}],HandDropChances:[0.01F,0F],ArmorItems:[{id:\"ob_core:paladin_boots\",Count:1},{id:\"ob_core:paladin_leggings\",Count:1},{id:\"ob_core:paladin_chestplate\",Count:1},{id:\"ob_core:paladin_helmet\",Count:1}],ArmorDropChances:[0F,0F,0F,0F]}",
         "v": "/summon minecraft:wither_skeleton ~ ~ ~ {CustomName:\"远古圣骑士\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/ancient_paladin\",HandItems:[{id:\"minecraft:diamond_axe\",Count:1},{}],HandDropChances:[0.01F,0F],ArmorItems:[{id:\"ob_core:paladin_boots\",Count:1},{id:\"ob_core:paladin_leggings\",Count:1},{id:\"ob_core:paladin_chestplate\",Count:1},{id:\"ob_core:paladin_helmet\",Count:1}],ArmorDropChances:[0F,0F,0F,0F]}"
-	  },
-	  {
+      },
+      {
         "k": "/summon minecraft:wither_skeleton ~ ~ ~ {CustomName:\"Ancient Paladin\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/ancient_paladin\",HandItems:[{id:\"minecraft:diamond_sword\",Count:1},{}],HandDropChances:[0.1F,0F],ArmorItems:[{id:\"ob_core:paladin_boots\",Count:1},{id:\"ob_core:paladin_leggings\",Count:1},{id:\"ob_core:paladin_chestplate\",Count:1},{id:\"ob_core:paladin_extra_helmet\",Count:1}],ArmorDropChances:[0F,0F,0F,0F]}",
         "v": "/summon minecraft:wither_skeleton ~ ~ ~ {CustomName:\"远古圣骑士\",CustomNameVisible:0,PersistenceRequired:1b,CanPickUpLoot:1b,Health:40,Attributes:[{Name:\"generic.maxHealth\",Base:40},{Name:\"generic.Health\",Base:40}],DeathLootTable:\"ob_core:entities/ancient_paladin\",HandItems:[{id:\"minecraft:diamond_sword\",Count:1},{}],HandDropChances:[0.1F,0F],ArmorItems:[{id:\"ob_core:paladin_boots\",Count:1},{id:\"ob_core:paladin_leggings\",Count:1},{id:\"ob_core:paladin_chestplate\",Count:1},{id:\"ob_core:paladin_extra_helmet\",Count:1}],ArmorDropChances:[0F,0F,0F,0F]}"
-	  }
-	]
+      }
+    ]
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.AvalonArmorItem$Boots",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.AvalonArmorItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.AvalonArmorItem$Helmet",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.AvalonArmorItem$Leggings",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "The helmet of a redeemed hero... Press F to temporarily regenerate health and gain resistance at the cost of hunger.",
+    "v": "被救赎的英雄的头盔……按F可以暂时恢复生命值并获得抗性提升，代价是获得饥饿。"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.jet_and_elias_armors.item.AvalonCursedHelmetItem$Helmet",
+      "m": "m_7373_"
+    },
+    "p": [
+      {
+        "k": "The helmet of a fallen hero",
+        "v": "堕落的英雄的头盔"
+      },
+      {
+        "k": "but something feels off.",
+        "v": "但感觉有些不对劲。"
+      }
+    ]
+  },
+  {
+    "t": {
+      "n": "net.mcreator.jet_and_elias_armors.item.AvalonsHelmetMaskedItem$Helmet",
+      "m": "m_7373_"
+    },
+    "k": "The helmet of a rogue hero... Press F to temporarily regenerate health and gain resistance at the expense of hunger.",
+    "v": "一个流氓英雄的头盔……按F可以暂时恢复生命值并获得抗性提升，代价是获得饥饿。"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.BanditArmorItem$Boots",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.BanditArmorItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.BanditArmorItem$Helmet",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.BanditArmorItem$Leggings",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "Common gear used by those who wander without a name",
+    "v": "那些无名的流浪者使用的普通装备"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.BlueSamuraiSetItem$Boots",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.BlueSamuraiSetItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.BlueSamuraiSetItem$Helmet",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.BlueSamuraiSetItem$Leggings",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.SamuraiSetItem$Boots",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.SamuraiSetItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.SamuraiSetItem$Helmet",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.SamuraiSetItem$Leggings",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "More durable than normal samurai armor. Wearing the full set grants bonus movement and attack speed",
+    "v": "比普通的武士盔甲更耐用。穿戴全套装备可获得额外的移动和攻击速度"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.BulwarkArmorItem$Boots",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.BulwarkArmorItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.BulwarkArmorItem$Helmet",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.BulwarkArmorItem$Leggings",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "By far the heaviest and most durable armor money can buy.Even capable of dealing damage to those who manage to hit you! Highly protective although your movement speed is slowed.",
+    "v": "目前为止用钱能买到的最重、最耐用的盔甲。甚至能对那些想攻击你的人造成伤害！高度的保护，尽管会减慢你的移动速度。"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.jet_and_elias_armors.item.CrusaderArmorItem$Boots",
+      "m": "m_7373_"
+    },
+    "k": "Standard boots for any Crusading Knights",
+    "v": "所有十字军骑士的标准靴子"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.CrusaderArmorItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.CrusaderArmorItem$Helmet",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.CrusaderArmorItem$Leggings",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "For the Desianic Republic!",
+    "v": "为了德西安共和国！"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.DarkCrusaderArmorItem$Boots",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.DarkCrusaderArmorItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.DarkCrusaderArmorItem$Helmet",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.DarkCrusaderArmorItem$Leggings",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "Worn by a crusader so devoted to his cause that he overcame death itself to see it through.",
+    "v": "一位献身事业的十字军战士所穿戴的装备，他克服了死亡本身，度过了难关。"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.DeathKnightArmorItem$Boots",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.DeathKnightArmorItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.DeathKnightArmorItem$Helmet",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.DeathKnightArmorItem$Leggings",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "Armor worn by undead beings who's only goal is the destruction of the living. Grants the wearer the ability to purge poison and wither if afflicted.",
+    "v": "亡灵生物所穿的盔甲，他们的唯一目标是毁灭活物。赋予装备者清除受到的中毒和凋零效果的能力。"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.jet_and_elias_armors.item.DrifterHoodArmorItem$Helmet",
+      "m": "m_7373_"
+    },
+    "k": "Common gear used by those who wander without a name.",
+    "v": "那些无名的流浪者使用的普通装备。"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.jet_and_elias_armors.item.EliteSentinelSetItem$Chestplate",
+      "m": "m_7373_"
+    },
+    "k": "Armor worn by elite warriors from a long past war. Wearing this with the Elite Sentinel's Helmet and normal Sentinel legs and boots grant you a 20% chance for the armor to fully block an attack.",
+    "v": "很久以前的战争中精英战士所穿的盔甲。将其与精英哨兵头盔、普通哨兵护腿和靴子搭配使用，可使盔甲有20%的概率完全阻挡攻击。"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.jet_and_elias_armors.item.EliteSentinelSetItem$Helmet",
+      "m": "m_7373_"
+    },
+    "k": "Armor worn by elite warriors from a long past war. Wearing this with the Elite Sentinel's Plate Armor and normal Sentinel legs and boots grant a 20% chance for the armor to fully block an attack.",
+    "v": "很久以前的战争中精英战士所穿的盔甲。将其与精英哨兵板甲、普通哨兵护腿和靴子搭配使用，可使盔甲有20%的概率完全阻挡攻击。"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.EstaneseCrusaderArmorItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.EstaneseCrusaderArmorItem$Helmet",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.EstaneseCrusaderArmorItem$Leggings",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "For the Estanese Order!",
+    "v": "为了伊斯坦骑士团！"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.GladiatorArmorItem$Boots",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.GladiatorArmorItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.GladiatorArmorItem$Helmet",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.GladiatorArmorItem$Leggings",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "Audaces fortuna juvat! Less protection for increased strength.",
+    "v": "愿命运之神保佑勇者！较低的保护能力，但能增加力量。"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.BigHavocKnigheHelmetItem$Helmet",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.HavocKnightArmorItem$Boots",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.HavocKnightArmorItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.HavocKnightArmorItem$Helmet",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.HavocKnightArmorItem$Leggings",
+        "m": "m_7373_"
+      }
+    ],
+    "p": [
+      {
+        "k": "Equip all four pieces at once for great power",
+        "v": "同时装备所有4件，以获得巨大的力量"
+      },
+      {
+        "k": "at a cost...",
+        "v": "但代价是……"
+      }
+    ]
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.HeavyKnightArmorItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.HeavyKnightArmorItem$Leggings",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "Great protection at the cost of speed",
+    "v": "以速度为代价获得大量保护能力"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.jet_and_elias_armors.item.MenacingKnightHelmetBIGItem$Helmet",
+      "m": "m_7373_"
+    },
+    "k": "For those who like this helmet but with layered skins",
+    "v": "提供给那些喜欢这款头盔但皮肤有头部分层的玩家"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.OutriderSetItem$Boots",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.OutriderSetItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.OutriderSetItem$Helmet",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.OutriderSetItem$Leggings",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "Normal attire for a bounty hunter. Lightweight and easy to maintain.",
+    "v": "赏金猎人的正常着装。重量轻，易维护。"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.RefalianCrusaderArmorItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.RefalianCrusaderArmorItem$Helmet",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.RefalianCrusaderArmorItem$Leggings",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "For the Refalian Empire!",
+    "v": "为了雷法利亚帝国！"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.RoninSetItem$Boots",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.RoninSetItem$Leggings",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "Standard Ronin attire. Wearing this with the Elite Ronin Robes and Oni mask to get the Oni Rush ability",
+    "v": "标准的浪人服装。搭配翘楚浪人长袍和极鬼面斗笠，获得鬼魂冲刺能力"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.jet_and_elias_armors.item.RoninSetItem$Chestplate",
+      "m": "m_7373_"
+    },
+    "k": "A set of robes worn by a warrior who was said to fight like a demon. Wearing the full set grants the Oni Rush ability",
+    "v": "传说中像魔鬼一样战斗的战士所穿的长袍。穿戴全套装备以获得鬼魂冲刺能力"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.jet_and_elias_armors.item.RoninSetItem$Helmet",
+      "m": "m_7373_"
+    },
+    "k": "A mask and hat worn by a warrior who was said to fight like a demon. Wearing the full set grants the Oni Rush ability",
+    "v": "传说中像魔鬼一样战斗的战士所戴的面具和帽子。穿戴全套装备以获得鬼魂冲刺能力"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.SentinelSetItem$Boots",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.SentinelSetItem$Leggings",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "Heavy armor worn by hardened veterans. Wearing the full set grants a 10% chance for the armor to fully block an attack",
+    "v": "久经沙场的老兵所穿的厚重盔甲。穿上全套可以使护甲有10%的概率完全阻挡攻击"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.SentinelSetItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.SentinelSetItem$Helmet",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "Heavy armor worn by hardened veterans. Wearing the full set grants a 10% chance for the armor to fully block an attack. Can be upgraded.",
+    "v": "久经沙场的老兵所穿的厚重盔甲。穿上全套可以使护甲有10%的概率完全阻挡攻击。可升级。"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.TakemaruArmorItem$Boots",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.TakemaruArmorItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.TakemaruArmorItem$Helmet",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.TakemaruArmorItem$Leggings",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "An ancient set of armor worn by a warrior who's existence transcends human understanding known as the Demon of the Mist. Equipping the full set grants the wearer the ability to temporarily heighten their endurance and attack speed at the cost of movement speed",
+    "v": "一位超越人类理解的、被称为迷雾之魔的存在所穿的一套古老的盔甲。装备全套盔甲使佩戴者能够以移动速度为代价暂时提高耐力和攻击速度"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.WokouArmorBlackItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.WokouArmorBlackItem$Helmet",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.WokouArmorBlueItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.WokouArmorBlueItem$Helmet",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.WokouArmorItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.WokouArmorItem$Helmet",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "Rugged and simple equipment",
+    "v": "坚固又简单的装备"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.WokouArmorBlackItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.WokouArmorBlackItem$Helmet",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "fit for a traveller. Especially under the cover of night",
+    "v": "适合旅行者。尤其是在夜晚的掩护下"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.WokouArmorBlueItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.WokouArmorBlueItem$Helmet",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.WokouArmorItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.item.WokouArmorItem$Helmet",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "fit for a traveller",
+    "v": "适合旅行者"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.jet_and_elias_armors.procedures.AbilityTemplateProcedure",
+        "m": ""
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.procedures.AvalonsArmorMaskedFullSetAbilityProcedure",
+        "m": ""
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.procedures.AvalonsCurseProcedure",
+        "m": ""
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.procedures.DeathKnightPassiveProcedure",
+        "m": ""
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.procedures.EnenraActiveAbilityProcedure",
+        "m": ""
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.procedures.OniRushAbilityProcedure",
+        "m": ""
+      }
+    ],
+    "k": "Ability is in cooldown",
+    "v": "技能正在冷却"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.jet_and_elias_armors.procedures.AvalonsCurseProcedure$1",
+      "m": ""
+    },
+    "k": "You feel sick to your stomach",
+    "v": "你觉得胃很不舒服"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.jet_and_elias_armors.procedures.BulwarkArrowBlockProcedure",
+      "m": ""
+    },
+    "k": "Your armor reflected the attack!",
+    "v": "你的盔甲反弹了攻击！"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.jet_and_elias_armors.procedures.DeathKnightPassiveProcedure",
+      "m": ""
+    },
+    "k": "Ailment purged!",
+    "v": "病痛已被清除！"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.jet_and_elias_armors.procedures.EliteSentinelFullSetBonusProcedure",
+        "m": ""
+      },
+      {
+        "n": "net.mcreator.jet_and_elias_armors.procedures.SentinelFullSetPassiveScrioptProcedure",
+        "m": ""
+      }
+    ],
+    "k": "Your armor fully blocked the attack!",
+    "v": "你的盔甲完全抵挡了攻击！"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.jet_and_elias_armors.procedures.ResurrectionScriptProcedure",
+      "m": ""
+    },
+    "k": "The armor absorbed a fatal blow, allowing you to refuse death. Fight on!",
+    "v": "盔甲吸收了致命一击，阻止了你的死亡。继续战斗！"
+  },
+  {
+    "t": {
+      "n": "com.calculusmaster.difficultraids.commands.AdvanceRaidWaveCommand",
+      "m": ""
+    },
+    "p": [
+      {
+        "k": "You must be near a Raid to use this command!",
+        "v": "你必须在袭击附近才能使用此命令！"
+      },
+      {
+        "k": "Wave successfully cleared!",
+        "v": "波次已成功清除！"
+      }
+    ]
+  },
+  {
+    "t": {
+      "n": "com.calculusmaster.difficultraids.commands.PrintRaidersCommand",
+      "m": ""
+    },
+    "p": [
+      {
+        "k": "You must be near a Raid to use this command!",
+        "v": "你必须在袭击附近才能使用此命令！"
+      },
+      {
+        "k": "Raiders Currently Alive:\n",
+        "v": "当前存活的袭击者：\n"
+      },
+      {
+        "k": "Total Raiders Alive: ",
+        "v": "全部存活的袭击者："
+      }
+    ]
+  },
+  {
+    "t": {
+      "n": "com.calculusmaster.difficultraids.commands.SetRaidDifficultyCommand",
+      "m": ""
+    },
+    "p": [
+      {
+        "k": "You must be in a Raid or have some level of Bad Omen to check the Raid Difficulty!",
+        "v": "你必须在袭击中或有不祥之兆效果才能查看袭击难度！"
+      },
+      {
+        "k": "Entering a Village will initiate a Raid at the Raid Difficulty of ",
+        "v": "进入村庄会发起一次难度为"
+      },
+      {
+        "k": "!",
+        "v": "的袭击！"
+      },
+      {
+        "k": "The current Raid is at a Raid Difficulty of ",
+        "v": "当前袭击是难度为"
+      },
+      {
+        "k": "Entering a Village will now spawn a Raid of Raid Difficulty ",
+        "v": "进入村庄会立即生成一次难度为"
+      },
+      {
+        "k": "To select a Raid Difficulty, obtain higher levels of Bad Omen. Level 1 spawns a Default Vanilla Raid, and higher levels spawn tougher Raids added by this DifficultRaids (2: Hero, 3: Legend, 4: Master, 5: Grandmaster).",
+        "v": "要选择袭击难度，请获得更高等级的不祥之兆。1级会生成一个默认的原版袭击，而更高等级会生成由此模组添加的更强大的袭击（2：英雄，3：传奇，4：大师，5：宗师）。"
+      }
+    ]
+  },
+  {
+    "t": {
+      "n": "com.calculusmaster.difficultraids.entity.entities.elite.ModurEliteEntity",
+      "m": ""
+    },
+    "k": "Modur, Harbinger of Thunder",
+    "v": "莫杜尔，雷霆的先驱"
+  },
+  {
+    "t": {
+      "n": "com.calculusmaster.difficultraids.entity.entities.elite.NuaosEliteEntity",
+      "m": ""
+    },
+    "k": "Nuaos, The Chosen",
+    "v": "努奥斯，天选者"
+  },
+  {
+    "t": {
+      "n": "com.calculusmaster.difficultraids.entity.entities.elite.VoldonEliteEntity",
+      "m": ""
+    },
+    "k": "Voldon, The Protected",
+    "v": "伏尔登，被守护者"
+  },
+  {
+    "t": {
+      "n": "com.calculusmaster.difficultraids.entity.entities.elite.ModurEliteEntity",
+      "m": ""
+    },
+    "k": "Xydrax, Windborne",
+    "v": "西德拉克斯，御风之人"
+  },
+  {
+    "t": {
+      "n": "com.calculusmaster.difficultraids.items.GMArmorItem",
+      "m": ""
+    },
+    "k": "Reduces damage taken from Raiders by 10%.\nFull Set Bonus: Applies Regeneration II & Speed I constantly.",
+    "v": "减少10%袭击者造成的伤害。\n套装加成：获得持续的生命恢复II和速度I。"
+  },
+  {
+    "t": {
+      "n": "com.calculusmaster.difficultraids.mixins.RaidMixin",
+      "m": ""
+    },
+    "p": [
+      {
+        "k": "Reinforcements have arrived!",
+        "v": "增援部队已抵达！"
+      },
+      {
+        "k": "Additional mobs have joined!",
+        "v": "更多的怪物加入了！"
+      },
+      {
+        "k": "An extra group of mobs has appeared!",
+        "v": "又有一群怪物出现了！"
+      },
+      {
+        "k": "The Illagers have called in reinforcements!",
+        "v": "灾厄村民已召集增援部队！"
+      },
+      {
+        "k": "The Illagers have called for backup!",
+        "v": "灾厄村民已请求支援！"
+      },
+      {
+        "k": "Raid Rewards have spawned at X: %s Y: %s Z: %s!",
+        "v": "袭击奖励已生成在X: %s Y: %s Z: %s！"
+      }
+    ]
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.AciddicsackbowlItem",
+      "m": "m_7373_"
+    },
+    "k": "Bowls but better",
+    "v": "更好的碗"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.AcidsackItem",
+      "m": "m_7373_"
+    },
+    "k": "Funni fanta balloon",
+    "v": "趣味幻想风气球"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.ArapoholiasprayItem",
+      "m": "m_7373_"
+    },
+    "k": "Mobs that are sprayed will be target by the Moonflowers",
+    "v": "被喷到的怪物将成为月亮花的目标"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.BeespheromonesItem",
+      "m": "m_7373_"
+    },
+    "k": "Once owned by a malicious bee keeper",
+    "v": "曾经为一个恶毒的养蜂人所拥有"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.BostroxingotItem",
+      "m": "m_7373_"
+    },
+    "k": "hot and rubbery",
+    "v": "又热又有弹性"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.undeadrevamp.item.BostroxsetItem$Boots",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.undeadrevamp.item.BostroxsetItem$Chestplate",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.undeadrevamp.item.BostroxsetItem$Helmet",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "Funkin Invincible!",
+    "v": "不可战胜牛波一！"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.BostroxswordItem",
+      "m": "m_7373_"
+    },
+    "k": "Massive knockback",
+    "v": "大量击退"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.FIresackItem",
+      "m": "m_7373_"
+    },
+    "k": "Funni Pineapple Fanta",
+    "v": "趣味菠萝风"
+  },
+  {
+    "s": [
+      {
+        "n": "net.mcreator.undeadrevamp.item.FizzysnowgooItem",
+        "m": "m_7373_"
+      },
+      {
+        "n": "net.mcreator.undeadrevamp.item.SpiiterfriedeggItem",
+        "m": "m_7373_"
+      }
+    ],
+    "k": "Taste like milk shakes",
+    "v": "尝起来像奶昔"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.FlightsackItem",
+      "m": "m_7373_"
+    },
+    "k": "Need LV4 XP to use. (Shift right Click)",
+    "v": "需要4级经验才能使用。（Shift右击）"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.HuntereyeItem",
+      "m": "m_7373_"
+    },
+    "k": "Eat for xp",
+    "v": "食用获得经验"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.HuntersackredItem",
+      "m": "m_7373_"
+    },
+    "k": "Shift right click to trade xp for health. Need LV 4 XP to use",
+    "v": "Shift右击以消耗经验恢复生命值。需要4级经验才能使用"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.LuckysackItem",
+      "m": "m_7373_"
+    },
+    "k": "Need LV 8 XP to use. (Shidt Right Click)",
+    "v": "需要8级经验才能使用。（Shift右击）"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.QueenbeeperfumeItem",
+      "m": "m_7373_"
+    },
+    "k": "Mobs that are sprayed will be target by the bees",
+    "v": "被喷到的怪物将成为蜜蜂的目标"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.RawbostroxItem",
+      "m": "m_7373_"
+    },
+    "k": "Zelda reference!?",
+    "v": "抄袭塞尔达！？"
+  },
+  {
+    "t": {
+      "n": "net.mcreator.undeadrevamp.item.WincallerfanItem",
+      "m": "m_7373_"
+    },
+    "k": "Spit out a powerful blade",
+    "v": "吐出强大的刀刃"
+  },
+  {
+    "t": {
+      "n": "com.nitespring.monsterplus.common.item.CrystalArmour",
+      "m": "m_7373_"
+    },
+    "k": "§7§o+15% Protection from Magic Damage",
+    "v": "§7§o+15%魔法伤害保护"
+  },
+  {
+    "t": {
+      "n": "com.nitespring.monsterplus.common.item.CrystalArrowItem",
+      "m": "m_7373_"
+    },
+    "k": "§7§oSummons Crystal Spikes from the ground in the place where it hits",
+    "v": "§7§o命中时在命中位置的地面上生成水晶尖刺"
+  },
+  {
+    "t": {
+      "n": "com.nitespring.monsterplus.common.item.CrystalClumpItem",
+      "m": "m_7373_"
+    },
+    "k": "§7§oSummons Crystal Spikes from the ground when thrown",
+    "v": "§7§o扔出时在地面上生成水晶尖刺"
+  },
+  {
+    "t": {
+      "n": "com.nitespring.monsterplus.common.item.CrystalSword",
+      "m": "m_7373_"
+    },
+    "k": "§7§oSummons Crystal Spikes from the ground when you hit enemies",
+    "v": "§7§o命中敌人时在地面上生成水晶尖刺"
+  },
+  {
+    "t": {
+      "n": "com.itayfeder.restored_earth.client.gui.screen.JournalScreen",
+      "m": ""
+    },
+    "p": [
+      {
+        "k": "Name: ",
+        "v": "名称："
+      },
+      {
+        "k": "Health: ",
+        "v": "生命值："
+      },
+      {
+        "k": "Family: ",
+        "v": "家族："
+      }
+    ]
   }
-
 ]
