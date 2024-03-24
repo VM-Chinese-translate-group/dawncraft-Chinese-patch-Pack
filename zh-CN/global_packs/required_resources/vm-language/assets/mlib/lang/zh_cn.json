@@ -1,0 +1,7 @@
+{
+  "mlib.items.advanced_hint": "按住Shift以查看详情……",
+  "mlib.item_sets.item_title": "%1$s（%2$d/%3$d）",
+  "mlib.item_sets.item": " %1$s",
+  "mlib.item_sets.bonus_title": "%1$s增益：",
+  "mlib.item_sets.bonus": " [%1$s] %2$s"
+}

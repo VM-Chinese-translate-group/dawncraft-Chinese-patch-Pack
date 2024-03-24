@@ -1,0 +1,13 @@
+{
+    "attribute.name.forge.swim_speed": "游泳速度",
+    "attribute.name.forge.nametag_distance": "名称标签渲染距离",
+    "attribute.name.forge.entity_gravity": "实体重力",
+    "attribute.name.generic.reach_distance": "触及距离",
+    "attribute.name.generic.attack_range": "攻击范围",
+    "forge.swimSpeed": "游泳速度",
+    "forge.nameTagDistance": "名称标签渲染距离",
+    "forge.entity_gravity": "实体重力",
+    "generic.reachDistance": "触及距离",
+    "generic.attack_range": "攻击范围",
+    "forge.stepHeight": "上坡高度"
+}
