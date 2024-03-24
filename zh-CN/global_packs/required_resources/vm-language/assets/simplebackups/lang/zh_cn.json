@@ -1,0 +1,7 @@
+{
+  "simplebackups.backup_started": "备份开始……",
+  "simplebackups.backup_finished": "备份完成于 %s (%s | %s)",
+  "simplebackups.commands.only_modified": "不仅备份了修改后的文件，还检查了的配置文件",
+  "simplebackups.commands.is_merging": "合并操作正在进行中",
+  "simplebackups.commands.finished": "合并备份已成功完成"
+}
