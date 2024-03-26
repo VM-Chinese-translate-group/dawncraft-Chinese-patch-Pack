@@ -1,7 +1,6 @@
 {
-  "block.reputation.ledger": "Ledger",
-  "block.reputation.ledger_book": "Ledger Book",
-  "item.reputation.faction_bag": "Bundled Currency",
-  "ledger.reputation.container": "Ledger Container",
-  "ledger.reputation.checked": "Ledger has been checked"
+  "block.reputation.ledger": "Ledger (Oudated, do not use)",
+  "block.reputation.ledger_book": "Ledger Book (Oudated, do not use)",
+  "item.reputation.faction_bag": "Bundled Currency (Oudated, do not use)",
+  "ledger.reputation.container": "Ledger Container (Oudated, do not use)"
 }
