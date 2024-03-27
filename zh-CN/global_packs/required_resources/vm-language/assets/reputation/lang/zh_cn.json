@@ -1,6 +1,6 @@
 {
-  "block.reputation.ledger": "Ledger (Oudated, do not use)",
-  "block.reputation.ledger_book": "Ledger Book (Oudated, do not use)",
-  "item.reputation.faction_bag": "Bundled Currency (Oudated, do not use)",
-  "ledger.reputation.container": "Ledger Container (Oudated, do not use)"
+  "block.reputation.ledger": "声望（已过期，不要使用）",
+  "block.reputation.ledger_book": "声望账簿（已过期，不要使用）",
+  "item.reputation.faction_bag": "袋装货币（已过期，不要使用）",
+  "ledger.reputation.container": "账簿箱（已过期，不要使用）"
 }
