@@ -32,7 +32,7 @@
       "item": {
         "type": "minecraft:item_nbt",
         "item": "minecraft:iron_chestplate",
-        "nbt": "{display:{Name:'[{\"text\":\"Oathkeeper\",\"italic\":false}]',Lore:['[{\"text\":\"A chestplate the armorer specifically made for his champion.\",\"italic\":false}]']},Enchantments:[{id:mending,lvl:1},{id:protection,lvl:2}]}"
+        "nbt": "{display:{Name:'[{\"text\":\"守誓之铠\",\"italic\":false}]',Lore:['[{\"text\":\"A chestplate the armorer specifically made for his champion.\",\"italic\":false}]']},Enchantments:[{id:mending,lvl:1},{id:protection,lvl:2}]}"
       },
       "id": "quest_giver:item",
       "times": 1
