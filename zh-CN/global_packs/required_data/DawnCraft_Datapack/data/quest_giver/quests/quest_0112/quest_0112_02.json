@@ -34,10 +34,6 @@
       "times": 6
     },
     {
-      "command": "/dc removeWaypoint @p \"矿工的请求——生物清剿\"",
-      "id": "quest_giver:command"
-    },
-    {
       "command": "/addreputation reputation:villager @p 3",
       "id": "quest_giver:command"
     },
