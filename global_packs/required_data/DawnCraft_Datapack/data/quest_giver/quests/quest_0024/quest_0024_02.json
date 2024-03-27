@@ -26,10 +26,6 @@
     }
   ],
   "rewards": [
-	{
-		"command": "/dc removeWaypoint @p \"Rescue Request - Pillager Hideout\"",
-		"id": "quest_giver:command"
-	},   
     {
       "command": "/give @p epicfight:skillbook{skill:\"epicfight:death_harvest\"}",
       "id": "quest_giver:command"

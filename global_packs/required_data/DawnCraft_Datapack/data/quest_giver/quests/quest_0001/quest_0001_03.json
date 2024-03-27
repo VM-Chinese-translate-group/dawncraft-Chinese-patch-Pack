@@ -29,10 +29,6 @@
   ],
   "rewards": [
     {
-      "command": "/dc removeWaypoint @p \"Armorer's Request\"",
-      "id": "quest_giver:command"
-    },    
-    {
       "item": {
  	   "type": "minecraft:item_nbt",
            "item": "minecraft:iron_chestplate",
