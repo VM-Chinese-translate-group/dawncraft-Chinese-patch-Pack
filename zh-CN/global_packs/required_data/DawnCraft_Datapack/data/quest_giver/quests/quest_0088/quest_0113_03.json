@@ -36,10 +36,6 @@
       "times": 1
     },
     {
-      "command": "/dc removeWaypoint @p \"调查武器匠提到的区域\"",
-      "id": "quest_giver:command"
-    },
-    {
       "command": "/addreputation reputation:villager @p 3",
       "id": "quest_giver:command"
     }

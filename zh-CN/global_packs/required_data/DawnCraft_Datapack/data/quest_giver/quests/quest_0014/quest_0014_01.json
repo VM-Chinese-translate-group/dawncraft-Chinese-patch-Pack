@@ -34,10 +34,6 @@
 			"times": 4
 		},
 		{
-			"command": "/dc removeWaypoint @p \"主线任务——掠夺者营地\"",
-			"id": "quest_giver:command"
-		},
-		{
 			"command": "/dc addWaypoint @p goblinsanddungeons:ruined_keep \"主线任务——哥布林之王的藏身之处\"",
 			"id": "quest_giver:command"
 		},
