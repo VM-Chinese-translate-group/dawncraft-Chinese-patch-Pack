@@ -4,9 +4,9 @@
 	order_index: 0
 	filename: "test"
 	title: "{ftbquests.chapter.test.title}"
-	always_invisible: true
+	always_invisible: "true"
 	default_quest_shape: ""
-	default_hide_dependency_lines: true
+	default_hide_dependency_lines: "true"
 	quests: [
 		{
 			x: 1.0d
@@ -26,12 +26,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_armorer"
-					only_one: true
+					only_one: "true"
 				}
 				{
 					id: "1A29EC4E400A62AD"
 					type: "gamestage"
-					team_reward: false
+					team_reward: "false"
 					auto: "enabled"
 					stage: "Armorer"
 				}
@@ -55,14 +55,14 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_beekeeper"
-					only_one: true
+					only_one: "true"
 				}
 				{
 					id: "6680DC06EA028119"
 					type: "gamestage"
-					team_reward: false
+					team_reward: "false"
 					auto: "enabled"
-					ignore_reward_blocking: true
+					ignore_reward_blocking: "true"
 					stage: "Beekeeper"
 				}
 			]
@@ -85,12 +85,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_butcher"
-					only_one: true
+					only_one: "true"
 				}
 				{
 					id: "6EC20F68C35294A2"
 					type: "gamestage"
-					team_reward: false
+					team_reward: "false"
 					auto: "enabled"
 					stage: "Butcher"
 				}
@@ -114,12 +114,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_cartographer"
-					only_one: true
+					only_one: "true"
 				}
 				{
 					id: "4FDEDB299D07B8ED"
 					type: "gamestage"
-					team_reward: false
+					team_reward: "false"
 					auto: "enabled"
 					stage: "Cartographer"
 				}
@@ -143,12 +143,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_cleric"
-					only_one: true
+					only_one: "true"
 				}
 				{
 					id: "30D10EEAC3702FE2"
 					type: "gamestage"
-					team_reward: false
+					team_reward: "false"
 					auto: "enabled"
 					stage: "Cleric"
 				}
@@ -172,12 +172,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_enderian"
-					only_one: true
+					only_one: "true"
 				}
 				{
 					id: "1B0C4AB95C82CC00"
 					type: "gamestage"
-					team_reward: false
+					team_reward: "false"
 					auto: "enabled"
 					stage: "Enderian"
 				}
@@ -201,12 +201,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_engineer"
-					only_one: true
+					only_one: "true"
 				}
 				{
 					id: "5C22B1C144B5AFA7"
 					type: "gamestage"
-					team_reward: false
+					team_reward: "false"
 					auto: "enabled"
 					stage: "Engineer"
 				}
@@ -230,12 +230,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_farmer"
-					only_one: true
+					only_one: "true"
 				}
 				{
 					id: "786D7D4DA5B98FBB"
 					type: "gamestage"
-					team_reward: false
+					team_reward: "false"
 					auto: "enabled"
 					stage: "Farmer"
 				}
@@ -259,12 +259,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_fisherman"
-					only_one: true
+					only_one: "true"
 				}
 				{
 					id: "2FBFBB4944AC7717"
 					type: "gamestage"
-					team_reward: false
+					team_reward: "false"
 					auto: "enabled"
 					stage: "Fisherman"
 				}
@@ -288,12 +288,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_fletcher"
-					only_one: true
+					only_one: "true"
 				}
 				{
 					id: "38E03ED958EA92B1"
 					type: "gamestage"
-					team_reward: false
+					team_reward: "false"
 					auto: "enabled"
 					stage: "Fletcher"
 				}
@@ -317,12 +317,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_florist"
-					only_one: true
+					only_one: "true"
 				}
 				{
 					id: "062DEDB141ACF1AD"
 					type: "gamestage"
-					team_reward: false
+					team_reward: "false"
 					auto: "enabled"
 					stage: "Florist"
 				}
@@ -346,12 +346,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_hunter"
-					only_one: true
+					only_one: "true"
 				}
 				{
 					id: "6D0781267B76087C"
 					type: "gamestage"
-					team_reward: false
+					team_reward: "false"
 					auto: "enabled"
 					stage: "Hunter"
 				}
@@ -375,12 +375,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_leatherworker"
-					only_one: true
+					only_one: "true"
 				}
 				{
 					id: "2C8ED7E6FE12A3E1"
 					type: "gamestage"
-					team_reward: false
+					team_reward: "false"
 					auto: "enabled"
 					stage: "Leatherworker"
 				}
@@ -404,12 +404,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_librarian"
-					only_one: true
+					only_one: "true"
 				}
 				{
 					id: "370A6F2103412D21"
 					type: "gamestage"
-					team_reward: false
+					team_reward: "false"
 					auto: "enabled"
 					stage: "Librarian"
 				}
@@ -433,12 +433,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_mason"
-					only_one: true
+					only_one: "true"
 				}
 				{
 					id: "458FB80F0569901B"
 					type: "gamestage"
-					team_reward: false
+					team_reward: "false"
 					auto: "invisible"
 					stage: "Mason"
 				}
@@ -462,12 +462,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_netherian"
-					only_one: true
+					only_one: "true"
 				}
 				{
 					id: "54E28368A6651B57"
 					type: "gamestage"
-					team_reward: false
+					team_reward: "false"
 					auto: "invisible"
 					stage: "Netherian"
 				}
@@ -491,12 +491,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_oceanographer"
-					only_one: true
+					only_one: "true"
 				}
 				{
 					id: "058D3B0970AD9F8D"
 					type: "gamestage"
-					team_reward: false
+					team_reward: "false"
 					auto: "invisible"
 					stage: "Oceanographer"
 				}
@@ -520,12 +520,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_shepherd"
-					only_one: true
+					only_one: "true"
 				}
 				{
 					id: "57B4C86BFBC0B78A"
 					type: "gamestage"
-					team_reward: false
+					team_reward: "false"
 					auto: "invisible"
 					stage: "Shepherd"
 				}
@@ -549,12 +549,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_toolsmith"
-					only_one: true
+					only_one: "true"
 				}
 				{
 					id: "61B894031764D49D"
 					type: "gamestage"
-					team_reward: false
+					team_reward: "false"
 					auto: "invisible"
 					stage: "Toolsmith"
 				}
@@ -578,12 +578,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_weaponsmith"
-					only_one: true
+					only_one: "true"
 				}
 				{
 					id: "477FC8AF0C48C6BF"
 					type: "gamestage"
-					team_reward: false
+					team_reward: "false"
 					auto: "invisible"
 					stage: "Weaponsmith"
 				}
@@ -607,12 +607,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_woodworker"
-					only_one: true
+					only_one: "true"
 				}
 				{
 					id: "3B9CCD4C2D75CC93"
 					type: "gamestage"
-					team_reward: false
+					team_reward: "false"
 					auto: "invisible"
 					stage: "Woodworker"
 				}
@@ -633,7 +633,7 @@
 				{
 					id: "2FB1DC20578FDDE0"
 					type: "advancement"
-					team_reward: false
+					team_reward: "false"
 					auto: "enabled"
 					advancement: "custom:magical_spring"
 					criterion: ""
@@ -655,7 +655,7 @@
 				{
 					id: "62ECBD35F6057629"
 					type: "advancement"
-					team_reward: false
+					team_reward: "false"
 					auto: "enabled"
 					advancement: "custom:scarlet_rot"
 					criterion: ""
@@ -687,7 +687,7 @@
 				{
 					id: "5FF706308659EAA4"
 					type: "advancement"
-					team_reward: false
+					team_reward: "false"
 					auto: "enabled"
 					advancement: "custom:traveller"
 					criterion: ""
@@ -730,7 +730,7 @@
 				{
 					id: "3FD437A2FE244602"
 					type: "gamestage"
-					team_reward: true
+					team_reward: "true"
 					auto: "invisible"
 					stage: "wolf"
 				}
@@ -752,7 +752,7 @@
 				{
 					id: "3421AFDB62C694F9"
 					type: "item"
-					team_reward: false
+					team_reward: "false"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_miner"
 				}
@@ -780,7 +780,7 @@
 					id: "44A009FC69D648D4"
 					type: "gamestage"
 					auto: "invisible"
-					ignore_reward_blocking: true
+					ignore_reward_blocking: "true"
 					stage: "nether"
 				}
 			]
@@ -802,7 +802,7 @@
 					id: "52B64F48C2ABDE53"
 					type: "gamestage"
 					auto: "invisible"
-					ignore_reward_blocking: true
+					ignore_reward_blocking: "true"
 					stage: "bloodborne"
 				}
 			]
@@ -900,7 +900,7 @@
 					id: "7B9F61F2A4765018"
 					type: "command"
 					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"这是你的第一次\"},{\"text\":\"死亡\",\"bold\":true,\"color\":\"red\"},{\"text\":\"。尽管你的物品栏中的大部分物品将会保留，但仍有一些有价值的物品将会从你的遗体中失去，10分钟后将会腐烂。你可以按“\"},{\"text\":\"I\",\"bold\":true},{\"text\":\"”检查你的遗体的位置。\n\n.\n\n短时间内累积多次死亡将会造成更高等级的“\"},{\"text\":\"粉碎之魂\",\"bold\":true,\"color\":\"light_purple\"},{\"text\":\"”。\"}]"				
+					command: "/tellraw @p [\"\",{\"text\":\"That was your first \"},{\"text\":\"death\",\"bold\":true,\"color\":\"red\"},{\"text\":\". Although most of your inventory items will stay with you, some of your valuable items may be lost in your corpse, which decomposes after 10 minutes. You can check where your corpse is by pressing \\\"\"},{\"text\":\"I\",\"bold\":true},{\"text\":\"\\\".\\n\\nAccumulated deaths in short periods of time will cause higher level of \\\"\"},{\"text\":\"Fractured Soul\",\"bold\":true,\"color\":\"light_purple\"},{\"text\":\"\\\".\"}]"
 				}
 			]
 		}
@@ -921,7 +921,7 @@
 					id: "0206FC6701ED673E"
 					type: "command"
 					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"似乎你的声望在村民中很\"},{\"text\":\"差\",\"bold\":true,\"color\":\"red\"},{\"text\":\"。你已被\"},{\"text\":\"原谅\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\"，因为这是你的第一次罪行……但下一次，村民们将不再与你交易。甚至如果你的声望掉得更低，守卫和铁傀儡将会开始攻击你。你可以通过将\"},{\"text\":\"袋装货币\",\"bold\":true,\"color\":\"green\"},{\"text\":\"（可合成）\",\"italic\":true},{\"text\":\"上交至公会房屋或摊位中的声望账簿箱来增加你的声望。\"}]"				
+					command: "/tellraw @p [\"\",{\"text\":\"It seems your reputation is \"},{\"text\":\"bad\",\"bold\":true,\"color\":\"red\"},{\"text\":\" among villagers. You have been \"},{\"text\":\"forgiven\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\" since this is your first offense... But next time, villagers will stop trading with you. If your reputation drops even further, guards and iron golems may start attacking you. You can improve your reputation by handing in \"},{\"text\":\"bundled currency\",\"bold\":true,\"color\":\"green\"},{\"text\":\" (craftable) \",\"italic\":true},{\"text\":\"into the ledger chests inside guild houses or stalls.\"}]"
 				}
 				{
 					id: "71CF84030CC57DE5"
@@ -948,7 +948,7 @@
 					id: "23A84067614F3CE4"
 					type: "command"
 					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"似乎你找到了去\"},{\"text\":\"下界\",\"bold\":true,\"color\":\"red\"},{\"text\":\"的方法。这不仅会给你带来混沌，更会使\"},{\"text\":\"整个领域\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\"混乱。一旦你进入了，这就无法停止。确保你迈入传送门前有能力解决未来之事。\"}]"				
+					command: "/tellraw @p [\"\",{\"text\":\"It seems you have found the means to travel to \"},{\"text\":\"the Nether\",\"bold\":true,\"color\":\"red\"},{\"text\":\". This will bring chaos to not only you, but to the \"},{\"text\":\"entire realm\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\". Once you enter, it cannot be undone. Make sure you have the resolve to move forward before stepping in the portal.\"}]"
 				}
 			]
 		}
@@ -969,7 +969,7 @@
 					id: "3542688F80E1C6D8"
 					type: "command"
 					auto: "invisible"
-					command: "/tellraw @p {\"text\":\"恭喜你驯服了第一匹马！现在你可以将它设置为你的个人马匹（按“J”），并且你在领域中的任何地方，都能召唤来你的马（按“H”）。\"}"				
+					command: "/tellraw @p {\"text\":\"Congratulations on taming your first horse! You can now set it to your personal horse (Press \\\"J\\\"), and call your horse from anywhere in the realm (Press \\\"H).\"}"
 				}
 			]
 		}
@@ -989,13 +989,13 @@
 					id: "7B0591F07EC96892"
 					type: "command"
 					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"似乎你发现了村庄！你可以与头顶上有标记的村民交互。他们中的一些能提供给你\"},{\"text\":\"知识\",\"bold\":true,\"color\":\"green\"},{\"text\":\"，能让你可以使用织布机、制箭台等方块……但是对于一些很有用的方块来说，如铁砧、附魔台、锻造台等……你需要从\"},{\"text\":\"冒险者公会会长\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\"那里学到知识。找到那些穿着蓝色袍子的村民来开始你的旅途吧！\"}]"				
+					command: "/tellraw @p [\"\",{\"text\":\"Seems you've found a village! You can interact with villagers who have exclamation marks above their head. Some of them provide \"},{\"text\":\"knowledge \",\"bold\":true,\"color\":\"green\"},{\"text\":\"required to work with certain blocks such as Loom, Fletching Table, etc... But for most of the useful blocks, such as Anvil, Enchanting Table, Smithing Table, etc... You will want to learn it from the \"},{\"text\":\"Guild Master\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\". Find villagers wearing blue robe and start your journey!\"}]"
 				}
 				{
 					id: "703945A1131E180E"
 					type: "command"
 					auto: "enabled"
-					command: "/dc removeWaypoint @p \"第一个村庄\""
+					command: "/dc removeWaypoint @p \"First Village\""
 				}
 			]
 		}
@@ -1008,15 +1008,15 @@
 					id: "0A5CCAED8472C7E3"
 					type: "item"
 					item: "quest_giver:trading_contract_armorer"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
 		{
 			x: 12.0d
 			y: 14.5d
-			hide_dependency_lines: false
+			hide_dependency_lines: "false"
 			min_required_dependencies: 1
 			dependencies: [
 				"7DACD6F0B43A5189"
@@ -1056,7 +1056,7 @@
 					id: "01214ACE5D82E719"
 					type: "command"
 					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"似乎你已获得交易卷轴！注意，当你声望中立时，交易价格会离谱得\"},{\"text\":\"高\",\"bold\":true,\"color\":\"red\"},{\"text\":\"。完成村民的任务可以提高声望。一旦村民开始对你产生好感，你会发现交易价格降低了\"},{\"text\":\"出奇的多\",\"bold\":true,\"color\":\"green\"},{\"text\":\"！\"}]"				
+					command: "/tellraw @p [\"\",{\"text\":\"Seems you've obtained a trading scroll! Note that trade prices are absurdly \"},{\"text\":\"high \",\"bold\":true,\"color\":\"red\"},{\"text\":\"when you are have neutral reputation. Gain higher reputation by completing Villager quests. Once villagers start to like you, you will see the trade prices drop \"},{\"text\":\"tremendously\",\"bold\":true,\"color\":\"green\"},{\"text\":\"!\"}]"
 				}
 			]
 		}
@@ -1069,8 +1069,8 @@
 					id: "6F9B268EEB8CFC06"
 					type: "item"
 					item: "quest_giver:trading_contract_butcher"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -1083,8 +1083,8 @@
 					id: "076B6B156AE5BD64"
 					type: "item"
 					item: "quest_giver:trading_contract_cartographer"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -1097,8 +1097,8 @@
 					id: "40167F388ED4275A"
 					type: "item"
 					item: "quest_giver:trading_contract_cleric"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -1111,8 +1111,8 @@
 					id: "2B93521C491C4F51"
 					type: "item"
 					item: "quest_giver:trading_contract_farmer"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -1125,8 +1125,8 @@
 					id: "500702FC1372311F"
 					type: "item"
 					item: "quest_giver:trading_contract_fisherman"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -1139,8 +1139,8 @@
 					id: "0F8CBE299097B30A"
 					type: "item"
 					item: "quest_giver:trading_contract_fletcher"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -1153,8 +1153,8 @@
 					id: "21F60E80E88D848C"
 					type: "item"
 					item: "quest_giver:trading_contract_leatherworker"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -1167,8 +1167,8 @@
 					id: "3C7C6D2C9D84D12A"
 					type: "item"
 					item: "quest_giver:trading_contract_librarian"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -1181,8 +1181,8 @@
 					id: "229396FCF2F84ACB"
 					type: "item"
 					item: "quest_giver:trading_contract_mason"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -1195,8 +1195,8 @@
 					id: "56CB94402479A8A1"
 					type: "item"
 					item: "quest_giver:trading_contract_shepherd"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -1209,8 +1209,8 @@
 					id: "691F13F285B83DF1"
 					type: "item"
 					item: "quest_giver:trading_contract_toolsmith"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -1223,8 +1223,8 @@
 					id: "32F6E8E32D9DE46C"
 					type: "item"
 					item: "quest_giver:trading_contract_weaponsmith"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -1237,8 +1237,8 @@
 					id: "2A305B7C101FCFC6"
 					type: "item"
 					item: "quest_giver:trading_contract_enderian"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -1251,8 +1251,8 @@
 					id: "1B73B3A07F1430C3"
 					type: "item"
 					item: "quest_giver:trading_contract_engineer"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -1265,8 +1265,8 @@
 					id: "3F6D9DD4864EDB7D"
 					type: "item"
 					item: "quest_giver:trading_contract_florist"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -1279,8 +1279,8 @@
 					id: "48D2F606C4CBFA6A"
 					type: "item"
 					item: "quest_giver:trading_contract_hunter"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -1293,8 +1293,8 @@
 					id: "7E1448E1E85BD31E"
 					type: "item"
 					item: "quest_giver:trading_contract_netherian"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -1307,8 +1307,8 @@
 					id: "222267579E87B9FB"
 					type: "item"
 					item: "quest_giver:trading_contract_oceanographer"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -1321,8 +1321,8 @@
 					id: "500A758486598E96"
 					type: "item"
 					item: "quest_giver:trading_contract_woodworker"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -1335,8 +1335,8 @@
 					id: "2B4B482F1450489F"
 					type: "item"
 					item: "quest_giver:trading_contract_miner"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -1377,7 +1377,7 @@
 					id: "1246B523C0F3419C"
 					type: "command"
 					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"你已获得一个\"},{\"text\":\"精华\",\"bold\":true,\"color\":\"red\"},{\"text\":\"。你需要将它献给恶魔雕像以了解它，\"}]"			
+					command: "/tellraw @p [\"\",{\"text\":\"You have obtained an \"},{\"text\":\"essence\",\"bold\":true,\"color\":\"red\"},{\"text\":\". You'll need to consume it for the horned statue to recognize it.\"}]"
 				}
 			]
 		}
@@ -1394,24 +1394,24 @@
 						Count: 1b
 						tag: {
 							display: {
-								Name: "{\"text\":\"一张可疑的地图\"}"
-								Lore: ["{\"text\":\"亡灵冒险家给予的定位教堂的地图。\"}"]
+								Name: "{\"text\":\"A Suspicious Map\"}"
+								Lore: ["{\"text\":\"A map given by a fallen adventurer to locate a church.\"}"]
 							}
 							Decorations: [
 								{
 									type: 26b
-									rot: 180.0d
+									x: 3840.0d
 									id: "+"
 									z: 32.0d
-									x: 3840.0d
+									rot: 180.0d
 								}
 							]
 							map: 4
 						}
 					}
-					consume_items: false
-					only_from_crafting: false
-					match_nbt: true
+					consume_items: "false"
+					only_from_crafting: "false"
+					match_nbt: "true"
 				}
 			]
 			rewards: [
@@ -1419,7 +1419,7 @@
 					id: "428D7CF2521D1E68"
 					type: "gamestage"
 					auto: "invisible"
-					ignore_reward_blocking: true
+					ignore_reward_blocking: "true"
 					stage: "dg2q"
 				}
 			]
@@ -1437,23 +1437,23 @@
 						Count: 1b
 						tag: {
 							display: {
-								Name: "{\"text\":\"神父的位置\"}"
-								Lore: ["{\"text\":\"加斯科因神父的去向。\"}"]
+								Name: "{\"text\":\"Location of the Father\"}"
+								Lore: ["{\"text\":\"Father Gascoigne's whereabouts.\"}"]
 							}
 							Decorations: [
 								{
 									type: 26b
-									rot: 180.0d
+									x: -4400.0d
 									id: "+"
 									z: 736.0d
-									x: -4400.0d
+									rot: 180.0d
 								}
 							]
 							map: 3
 						}
 					}
-					only_from_crafting: false
-					match_nbt: true
+					only_from_crafting: "false"
+					match_nbt: "true"
 				}
 			]
 			rewards: [
@@ -1461,7 +1461,7 @@
 					id: "0F361DAC16E3F56F"
 					type: "gamestage"
 					auto: "invisible"
-					ignore_reward_blocking: true
+					ignore_reward_blocking: "true"
 					stage: "dg2q2"
 				}
 			]
@@ -1479,24 +1479,24 @@
 						Count: 1b
 						tag: {
 							display: {
-								Name: "{\"text\":\"真正的末地传送门\"}"
-								Lore: ["{\"text\":\"指引你找到领域中最强大的存在。\"}"]
+								Name: "{\"text\":\"The True End's Portal\"}"
+								Lore: ["{\"text\":\"A map leading you to the most powerful being within the realm.\"}"]
 							}
 							Decorations: [
 								{
 									type: 26b
-									x: -1456.0d
+									rot: 180.0d
 									id: "+"
 									z: -416.0d
-									rot: 180.0d
+									x: -1456.0d
 								}
 							]
 							map: 2
 						}
 					}
-					consume_items: false
-					only_from_crafting: false
-					match_nbt: true
+					consume_items: "false"
+					only_from_crafting: "false"
+					match_nbt: "true"
 				}
 			]
 			rewards: [
@@ -1504,7 +1504,7 @@
 					id: "2274C54EF9ADD546"
 					type: "gamestage"
 					auto: "invisible"
-					ignore_reward_blocking: true
+					ignore_reward_blocking: "true"
 					stage: "skull"
 				}
 			]
@@ -1527,7 +1527,7 @@
 					id: "01BE88C49BEF5128"
 					type: "command"
 					auto: "enabled"
-					command: "/tellraw @p [\"\",{\"text\":\"\n如果你需要点帮助，请访问你的物品栏点击\"\"},{\"text\":\"任务\",\"bold\":true,\"color\":\"green\"},{\"text\":\"\"选项卡\n \"}]"				
+					command: "/tellraw @p [\"\",{\"text\":\"\\nIf you need a little help, click on the \\\"\"},{\"text\":\"Quests\",\"bold\":true,\"color\":\"green\"},{\"text\":\"\\\" tab while accessing your inventory.\\n \"}]"
 				}
 			]
 		}

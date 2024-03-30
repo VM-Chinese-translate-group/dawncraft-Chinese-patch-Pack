@@ -7,13 +7,13 @@
 	icon: "apotheosis:boss_summoner"
 	subtitle: ["{ftbquests.chapter.bossesminibosses_in_this_realm.subtitle}"]
 	default_quest_shape: ""
-	default_hide_dependency_lines: false
+	default_hide_dependency_lines: "false"
 	quests: [
 		{
 			title: "{ftbquests.chapter.bossesminibosses_in_this_realm.quests0.title}"
 			icon: "simple_mobs:giant_knot"
 			x: -4.5d
-			y: -9.0d
+			y: -10.0d
 			shape: "square"
 			id: "232BCBAFD1BCDD94"
 			tasks: [
@@ -42,7 +42,7 @@
 		{
 			title: "{ftbquests.chapter.bossesminibosses_in_this_realm.quests1.title}"
 			icon: "simple_mobs:sentinelkey"
-			x: -6.5d
+			x: -10.5d
 			y: -9.0d
 			shape: "square"
 			id: "1F511C4B84DEB0CD"
@@ -72,7 +72,7 @@
 		{
 			title: "{ftbquests.chapter.bossesminibosses_in_this_realm.quests2.title}"
 			x: -8.5d
-			y: -8.0d
+			y: -9.0d
 			shape: "square"
 			id: "5347DB3655BAC44D"
 			tasks: [
@@ -165,7 +165,7 @@
 		}
 		{
 			x: -7.5d
-			y: -9.0d
+			y: -8.0d
 			shape: "square"
 			id: "27A79E9E56494551"
 			tasks: [
@@ -194,7 +194,7 @@
 		}
 		{
 			x: -5.5d
-			y: -9.0d
+			y: -10.0d
 			shape: "square"
 			id: "3F3ED8C432582996"
 			tasks: [
@@ -218,7 +218,7 @@
 		}
 		{
 			x: -3.5d
-			y: -8.0d
+			y: -9.0d
 			shape: "square"
 			id: "467C581554F45E4E"
 			tasks: [
@@ -270,7 +270,7 @@
 			]
 		}
 		{
-			x: -4.5d
+			x: -11.5d
 			y: -10.0d
 			shape: "square"
 			id: "1D4D66A4666640C0"
@@ -330,8 +330,8 @@
 			]
 		}
 		{
-			x: -3.5d
-			y: -10.0d
+			x: -11.5d
+			y: -12.0d
 			shape: "square"
 			id: "2680E2C671E5E738"
 			tasks: [
@@ -349,12 +349,13 @@
 					id: "14E865537ACD985F"
 					type: "item"
 					item: "libraryferret:netherite_coins_jtl"
+					count: 2
 				}
 			]
 		}
 		{
 			x: -5.5d
-			y: -8.0d
+			y: -9.0d
 			shape: "square"
 			id: "4F33DC71CFC4F30D"
 			tasks: [
@@ -383,9 +384,9 @@
 		}
 		{
 			x: -0.5d
-			y: -7.0d
+			y: -8.0d
 			shape: "square"
-			hide: false
+			hide: "false"
 			id: "30E6359CC2E8F7A6"
 			tasks: [
 				{
@@ -436,7 +437,7 @@
 		}
 		{
 			x: -5.5d
-			y: -10.0d
+			y: -8.0d
 			shape: "square"
 			id: "436D5FDF800C6D94"
 			tasks: [
@@ -501,7 +502,7 @@
 		}
 		{
 			x: -8.5d
-			y: -9.0d
+			y: -8.0d
 			shape: "square"
 			id: "1B2B39B68B8DCB37"
 			tasks: [
@@ -578,7 +579,7 @@
 		}
 		{
 			x: -3.5d
-			y: -9.0d
+			y: -10.0d
 			shape: "square"
 			id: "3F3E14D8B56AB9DC"
 			tasks: [
@@ -600,8 +601,8 @@
 			]
 		}
 		{
-			x: -1.5d
-			y: -10.0d
+			x: 2.5d
+			y: -12.0d
 			shape: "square"
 			id: "343FD5BF6B3AB0B1"
 			tasks: [
@@ -619,12 +620,13 @@
 					id: "62AA281E4DE3FFB4"
 					type: "item"
 					item: "libraryferret:netherite_coins_jtl"
+					count: 2
 				}
 			]
 		}
 		{
-			x: -1.5d
-			y: -7.0d
+			x: 1.5d
+			y: -10.0d
 			shape: "square"
 			id: "4E1536B87DDD7AF2"
 			tasks: [
@@ -646,8 +648,8 @@
 			]
 		}
 		{
-			x: -8.5d
-			y: -7.0d
+			x: -9.5d
+			y: -9.0d
 			shape: "square"
 			id: "48C10A799E93C0FB"
 			tasks: [
@@ -678,7 +680,7 @@
 			x: -5.5d
 			y: -16.0d
 			shape: "square"
-			hide: false
+			hide: "false"
 			id: "7DC5F1EFE3DE5709"
 			tasks: [
 				{
@@ -695,7 +697,7 @@
 					id: "7B9538122EC8A08F"
 					type: "item"
 					item: "libraryferret:netherite_coins_jtl"
-					count: 2
+					count: 3
 				}
 			]
 		}
@@ -724,8 +726,8 @@
 			]
 		}
 		{
-			x: -0.5d
-			y: -9.0d
+			x: 0.5d
+			y: -10.0d
 			shape: "square"
 			id: "1383DC854742EF6C"
 			tasks: [
@@ -808,7 +810,7 @@
 		}
 		{
 			x: -0.5d
-			y: -8.0d
+			y: -9.0d
 			shape: "square"
 			id: "7D499166477745E4"
 			tasks: [
@@ -911,7 +913,7 @@
 			y: -12.0d
 			shape: "square"
 			description: ["{ftbquests.chapter.bossesminibosses_in_this_realm.quests33.description}"]
-			hide: false
+			hide: "false"
 			id: "0CE38C187D08EA00"
 			tasks: [
 				{
@@ -965,7 +967,7 @@
 		}
 		{
 			x: -6.5d
-			y: -8.0d
+			y: -9.0d
 			shape: "square"
 			id: "387628D157DB14C6"
 			tasks: [
@@ -994,7 +996,7 @@
 		}
 		{
 			x: -7.5d
-			y: -8.0d
+			y: -9.0d
 			shape: "square"
 			id: "26A81FA8D7FD065E"
 			tasks: [
@@ -1072,7 +1074,7 @@
 		}
 		{
 			x: -4.5d
-			y: -8.0d
+			y: -9.0d
 			shape: "square"
 			id: "1FA5378CB756CDEF"
 			tasks: [
@@ -1094,8 +1096,8 @@
 			]
 		}
 		{
-			x: -9.5d
-			y: -9.0d
+			x: -1.5d
+			y: -10.0d
 			shape: "square"
 			id: "3D1EF85D04AABC1E"
 			tasks: [
@@ -1163,8 +1165,8 @@
 			]
 		}
 		{
-			x: -9.5d
-			y: -7.0d
+			x: -10.5d
+			y: -10.0d
 			shape: "square"
 			id: "6DBE392A143B7359"
 			tasks: [
@@ -1204,8 +1206,8 @@
 										id: 33
 									}
 								]
-								spellSlots: 5
 								activeSpellIndex: 0
+								spellSlots: 5
 							}
 						}
 					}
@@ -1222,8 +1224,8 @@
 			]
 		}
 		{
-			x: -7.5d
-			y: -7.0d
+			x: -12.5d
+			y: -12.0d
 			shape: "square"
 			id: "6A59230529DD338B"
 			tasks: [
@@ -1241,12 +1243,13 @@
 					id: "1D8D9C894B82C008"
 					type: "item"
 					item: "libraryferret:netherite_coins_jtl"
+					count: 2
 				}
 			]
 		}
 		{
 			x: -6.5d
-			y: -7.0d
+			y: -8.0d
 			shape: "square"
 			description: ["{ftbquests.chapter.bossesminibosses_in_this_realm.quests45.description}"]
 			id: "34035B17673778E8"
@@ -1269,8 +1272,8 @@
 			]
 		}
 		{
-			x: -5.5d
-			y: -7.0d
+			x: 1.5d
+			y: -12.0d
 			shape: "square"
 			description: ["{ftbquests.chapter.bossesminibosses_in_this_realm.quests46.description}"]
 			id: "6292500CB25FD6CC"
@@ -1284,7 +1287,13 @@
 						Count: 1b
 						tag: {
 							RepairCost: 1
-							Damage: 0
+							affix_data: {
+								name: "{\"color\":\"#808080\",\"translate\":\"%s %s\",\"with\":[{\"translate\":\"affix.apotheosis:ironforged\"},\"\",\"\"]}"
+								affixes: {
+									"apotheosis:ironforged": 0.058177173f
+								}
+								rarity: "common"
+							}
 							BlockEntityTag: {
 								Base: 15
 								Patterns: [
@@ -1314,29 +1323,9 @@
 									}
 								]
 							}
-							affix_data: {
-								name: "{\"color\":\"#808080\",\"translate\":\"%s %s\",\"with\":[{\"translate\":\"affix.apotheosis:ironforged\"},\"\",\"\"]}"
-								affixes: {
-									"apotheosis:ironforged": 0.058177173f
-								}
-								rarity: "common"
-							}
+							Damage: 0
 							HideFlags: 32
-							AttributeModifiers: [
-								{
-									Amount: -0.029904954135417938d
-									Name: "weaken"
-									Operation: 1
-									UUID: [I;
-										112035901
-										1134379090
-										-1220404660
-										-221377395
-									]
-									AttributeName: "minecraft:generic.attack_damage"
-									Slot: "offhand"
-								}
-							]
+							CustomModelData: 1450300
 							display: {
 								Name: "{\"italic\":false,\"color\":\"#993333\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Necrotic Shield\",{\"translate\":\"incendium.item.necrotic_shield.name\"}]}"
 								Lore: [
@@ -1346,7 +1335,21 @@
 									"{\"italic\":true,\"color\":\"#FF8000\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Incendium\",{\"translate\":\"incendium\"}]}"
 								]
 							}
-							CustomModelData: 1450300
+							AttributeModifiers: [
+								{
+									Amount: -0.029904954135417938d
+									Slot: "offhand"
+									Operation: 1
+									UUID: [I;
+										112035901
+										1134379090
+										-1220404660
+										-221377395
+									]
+									AttributeName: "minecraft:generic.attack_damage"
+									Name: "weaken"
+								}
+							]
 							incendium: {
 								item: "necrotic_shield"
 							}
@@ -1361,6 +1364,7 @@
 					id: "5D1A07CD01C5DE93"
 					type: "item"
 					item: "libraryferret:netherite_coins_jtl"
+					count: 2
 				}
 			]
 		}
@@ -1368,6 +1372,7 @@
 			x: -2.5d
 			y: -12.0d
 			shape: "square"
+			description: ["{ftbquests.chapter.bossesminibosses_in_this_realm.quests47.description}"]
 			id: "11D2A941F4F89B5C"
 			tasks: [
 				{
@@ -1390,7 +1395,7 @@
 		}
 		{
 			x: -3.5d
-			y: -7.0d
+			y: -8.0d
 			shape: "square"
 			id: "10D1374677DBD7CE"
 			tasks: [
@@ -1412,8 +1417,8 @@
 			]
 		}
 		{
-			x: -2.5d
-			y: -7.0d
+			x: 0.5d
+			y: -9.0d
 			shape: "square"
 			id: "3CFF1BF1471E4D84"
 			tasks: [
@@ -1484,7 +1489,7 @@
 		}
 		{
 			x: -4.5d
-			y: -7.0d
+			y: -8.0d
 			shape: "square"
 			id: "4DB740AE2FEC622C"
 			tasks: [
@@ -1572,6 +1577,7 @@
 			x: -1.5d
 			y: -12.0d
 			shape: "square"
+			description: ["{ftbquests.chapter.bossesminibosses_in_this_realm.quests55.description}"]
 			id: "0BC25BC4525253F3"
 			tasks: [
 				{
@@ -1593,6 +1599,77 @@
 				{
 					id: "7448098F2B02C638"
 					type: "item"
+					item: "libraryferret:netherite_coins_jtl"
+					count: 2
+				}
+			]
+		}
+		{
+			icon: {
+				id: "simple_mobs:gael_greatsword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -10.5d
+			y: -12.0d
+			shape: "square"
+			description: ["{ftbquests.chapter.bossesminibosses_in_this_realm.quests56.description}"]
+			id: "693D9DB70A0A9278"
+			tasks: [
+				{
+					id: "7D223457BF094B88"
+					type: "kill"
+					title: "{ftbquests.chapter.bossesminibosses_in_this_realm.quests56.tasks0.title}"
+					icon: {
+						id: "simple_mobs:gael_greatsword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					entity: "simple_mobs:gael"
+					value: 1L
+				}
+			]
+			rewards: [
+				{
+					id: "4BF2B97FF16FEC8F"
+					type: "item"
+					auto: "disabled"
+					item: "libraryferret:netherite_coins_jtl"
+					count: 2
+				}
+			]
+		}
+		{
+			title: "{ftbquests.chapter.bossesminibosses_in_this_realm.quests57.title}"
+			x: 0.5d
+			y: -12.0d
+			shape: "square"
+			description: ["{ftbquests.chapter.bossesminibosses_in_this_realm.quests57.description}"]
+			id: "09598B0D8D9A5D05"
+			tasks: [
+				{
+					id: "2F7B0BF9EB5E4578"
+					type: "kill"
+					icon: {
+						id: "simple_mobs:omen_armor_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					entity: "simple_mobs:morgott"
+					value: 1L
+				}
+			]
+			rewards: [
+				{
+					id: "7DC3FF726B89F1EF"
+					type: "item"
+					auto: "disabled"
 					item: "libraryferret:netherite_coins_jtl"
 					count: 2
 				}

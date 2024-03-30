@@ -6,7 +6,7 @@
 	title: "{ftbquests.chapter.magic.title}"
 	icon: "irons_spellbooks:mana_ring"
 	default_quest_shape: ""
-	default_hide_dependency_lines: false
+	default_hide_dependency_lines: "false"
 	quests: [
 		{
 			title: "{ftbquests.chapter.magic.quests0.title}"
@@ -64,8 +64,8 @@
 				tag: {
 					ISB_spellbook: {
 						spells: [ ]
-						spellSlots: 12
 						activeSpellIndex: -1
+						spellSlots: 12
 					}
 				}
 			}
@@ -93,8 +93,8 @@
 					id: "069021CAEE611130"
 					type: "item"
 					item: "irons_spellbooks:inscription_table"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 			rewards: [
@@ -116,8 +116,8 @@
 					id: "56950BA8A3BB0936"
 					type: "item"
 					item: "irons_spellbooks:scroll_forge"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -179,8 +179,8 @@
 					id: "04C0D0354D3DFBA3"
 					type: "item"
 					item: "irons_spellbooks:arcane_essence"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -233,8 +233,8 @@
 					id: "1B902538D23196EB"
 					type: "item"
 					item: "irons_spellbooks:blank_rune"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -334,8 +334,8 @@
 					id: "65079F0A627BA537"
 					type: "item"
 					item: "irons_spellbooks:arcane_anvil"
-					consume_items: false
-					only_from_crafting: false
+					consume_items: "false"
+					only_from_crafting: "false"
 				}
 			]
 		}
@@ -359,7 +359,7 @@
 			x: -6.8d
 			y: -2.55d
 			description: ["{ftbquests.chapter.magic.quests16.description}"]
-			hide_dependency_lines: true
+			hide_dependency_lines: "true"
 			dependencies: ["43BE75F09C4043F8"]
 			size: 1.7d
 			id: "142D6C7E522A3208"
