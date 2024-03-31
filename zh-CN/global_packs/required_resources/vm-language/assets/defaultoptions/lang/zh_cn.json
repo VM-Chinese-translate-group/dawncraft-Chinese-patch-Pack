@@ -1,0 +1,5 @@
+{
+  "text.autoconfig.defaultoptions.title": "默认设置",
+  "text.autoconfig.defaultoptions.option.defaultDifficulty": "默认难度",
+  "text.autoconfig.defaultoptions.option.lockDifficulty": "锁定难度"
+}

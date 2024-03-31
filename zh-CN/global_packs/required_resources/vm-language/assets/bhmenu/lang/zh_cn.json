@@ -1,0 +1,71 @@
+{
+  "screen.config.mod": "BisectHosting服务器集成目录",
+  "screen.config.features": "特性",
+  "screen.config.save": "保存",
+  "screen.config.discard": "放弃",
+  "screen.config.close": "关闭",
+
+  "screen.config.user.title": "用户配置屏幕",
+  "screen.config.pack.title": "整合包配置屏幕",
+
+  "config.pack_id": "整合包ID",
+  "config.partner_id": "伙伴ID",
+  "config.pack_edit_mode": "整合包编辑模式",
+
+  "screen.config.modules.server_creator_banner.name": "服务器列表横幅",
+  "modules.server_creator_banner.config.title": "标题",
+  "modules.server_creator_banner.config.description": "描述",
+  "modules.server_creator_banner.config.use_language_files": "使用语言文件",
+  "modules.server_creator_banner.config.display_banner": "显示横幅",
+
+  "screen.config.modules.public_server_list.name": "公共服务器列表",
+  "modules.public_server_list.open_screen.text": "公共服务器",
+  "modules.public_server_list.open_screen.tooltip": "查看公共服务器",
+  "modules.public_server_list.title": "公共服务器",
+  "modules.public_server_list.how_to": "添加你的服务器",
+  "modules.public_server_list.last_played_label": "上次游玩",
+  "modules.public_server_list.public_servers_label": "公共服务器",
+  "modules.public_server_list.loading.title": "公共服务器加载屏幕",
+  "modules.public_server_list.loading.loading": "正在加载公共服务器",
+  "modules.public_server_list.loading.failed": "加载公共服务器失败",
+  "modules.public_server_list.filter.name": "按名称过滤",
+  "modules.public_server_list.sort.player_count": "按玩家数量排序",
+  "modules.public_server_list.sort.ping": "按延迟排序",
+  "modules.public_server_list.config.button_x": "左侧按钮位置",
+  "modules.public_server_list.config.button_y": "顶部按钮位置",
+  "modules.public_server_list.config.button_width": "按钮宽度",
+  "modules.public_server_list.config.vanilla_button": "原版按钮",
+  "modules.public_server_list.no_servers": "列表中没有公共服务器。",
+  "modules.public_server_list.first_server": "成为第一个添加服务器的人！",
+
+  "configs.boolean.true": "是",
+  "configs.boolean.false": "否",
+
+  "step.base.create_your_server": "一起创建你的Minecraft服务器。",
+  "step.base.back": "返回",
+
+  "step.loading_plans.loading": "正在加载方案",
+  "step.loading_plans.failed": "加载方案失败",
+
+  "step.player_count.question": "你希望同时有多少玩家在服务器上？",
+  "step.player_count.next": "下一页",
+
+  "step.recommended_jar.detected": "我们检测到你正在运行：",
+  "step.recommended_jar.choice": "按“选择”使用此整合包，或按“更改”选择其他整合包。",
+  "step.recommended_jar.select": "选择",
+  "step.recommended_jar.change": "更改",
+
+  "step.select_jar.name_filter": "按名称过滤",
+  "step.select_jar.platform_filter": "按平台过滤",
+  "step.select_jar.select_pack": "选择整合包",
+  "step.select_jar.select": "选择",
+
+  "step.select_package.plan": "我们为你选择了完美的方案！",
+  "step.select_package.slider": "移动滑块以选择不同方案",
+  "step.select_package.order_plan": "订购方案",
+  "step.select_package.price": "$%s/月",
+
+  "step.select_plan.choose_plan": "选择方案类型",
+  "step.select_plan.choose_budget": "选择预算",
+  "step.select_plan.choose_premium": "选择附加费"
+}

@@ -1,0 +1,4 @@
+{
+  "bcc.gui.tooltip.compatible_server": "§3服务端：{0}\n§2客户端（你）：{1}",
+  "bcc.gui.tooltip.incompatible_server": "§6你运行的整合包版本与该服务端不同：(\n \n§4服务端：{0}\n§4客户端（你）：{1}"
+}
