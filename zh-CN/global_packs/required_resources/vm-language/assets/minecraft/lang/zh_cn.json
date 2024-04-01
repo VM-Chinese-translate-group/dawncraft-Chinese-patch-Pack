@@ -43,5 +43,15 @@
   "pmmo.exploration": "知识",
   "pmmo.charisma": "知识",
   "pmmo.msg.denial.entity_interact": "你还不知道如何与%1$s交互",
-  "pmmo.enum.ENTITY": "驯服实体"
+  "pmmo.enum.ENTITY": "驯服实体",
+  
+  "options.biomeBlendRadius.17": "17x17（大）",
+  "options.biomeBlendRadius.19": "19x19（非常大）",
+  "options.biomeBlendRadius.21": "21x21（巨大）",
+  "options.biomeBlendRadius.23": "23x23（大得头晕）",
+  "options.biomeBlendRadius.25": "25x25（超级巨大）",
+  "options.biomeBlendRadius.27": "27x27（无与伦比）",
+  "options.biomeBlendRadius.29": "29x29（哇哦！）",
+  "options.biomeBlendRadiusTooltip": "BetterBiomeBlend始终使用29x29"
+
 }

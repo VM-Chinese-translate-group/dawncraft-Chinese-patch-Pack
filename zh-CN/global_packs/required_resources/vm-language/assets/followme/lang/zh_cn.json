@@ -1,0 +1,11 @@
+{
+	"message.followme.follow":"%1$s正在跟随你。",
+	"message.followme.unfollow":"%1$s不再跟随你了。",
+	"message.followme.followingplayer":"%1$s已经在跟随%2$s。",
+	"text.followme.following":"正在跟随",
+
+	"key.followme.follow.desc":"开始/停止跟随",
+	"key.followme.stop.desc":"停止所有跟随",
+	"key.followme.category":"跟着我"
+	
+}

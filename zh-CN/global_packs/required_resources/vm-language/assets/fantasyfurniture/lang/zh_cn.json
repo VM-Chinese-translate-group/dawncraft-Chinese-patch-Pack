@@ -4,7 +4,7 @@
   "block.fantasyfurniture.bone.skeleton.bed_single": "骨制单人床",
   "block.fantasyfurniture.bone.skeleton.bed_single.occupied": "此床已被占用",
   "block.fantasyfurniture.bone.skeleton.bench": "骨制长凳",
-  "block.fantasyfurniture.bone.skeleton.bench.bone": "座位已被占用",
+  "block.fantasyfurniture.bone.skeleton.bench.occupied": "座位已被占用",
   "block.fantasyfurniture.bone.skeleton.bookshelf": "骨制书架",
   "block.fantasyfurniture.bone.skeleton.carpet": "骨制地毯",
   "block.fantasyfurniture.bone.skeleton.chair": "骨制椅子",
