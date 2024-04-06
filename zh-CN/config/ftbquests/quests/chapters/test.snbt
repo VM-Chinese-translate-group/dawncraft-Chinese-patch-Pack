@@ -4,9 +4,9 @@
 	order_index: 0
 	filename: "test"
 	title: "{ftbquests.chapter.test.title}"
-	always_invisible: "true"
+	always_invisible: true
 	default_quest_shape: ""
-	default_hide_dependency_lines: "true"
+	default_hide_dependency_lines: true
 	quests: [
 		{
 			x: 1.0d
@@ -26,12 +26,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_armorer"
-					only_one: "true"
+					only_one: true
 				}
 				{
 					id: "1A29EC4E400A62AD"
 					type: "gamestage"
-					team_reward: "false"
+					team_reward: false
 					auto: "enabled"
 					stage: "Armorer"
 				}
@@ -55,14 +55,14 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_beekeeper"
-					only_one: "true"
+					only_one: true
 				}
 				{
 					id: "6680DC06EA028119"
 					type: "gamestage"
-					team_reward: "false"
+					team_reward: false
 					auto: "enabled"
-					ignore_reward_blocking: "true"
+					ignore_reward_blocking: true
 					stage: "Beekeeper"
 				}
 			]
@@ -85,12 +85,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_butcher"
-					only_one: "true"
+					only_one: true
 				}
 				{
 					id: "6EC20F68C35294A2"
 					type: "gamestage"
-					team_reward: "false"
+					team_reward: false
 					auto: "enabled"
 					stage: "Butcher"
 				}
@@ -114,12 +114,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_cartographer"
-					only_one: "true"
+					only_one: true
 				}
 				{
 					id: "4FDEDB299D07B8ED"
 					type: "gamestage"
-					team_reward: "false"
+					team_reward: false
 					auto: "enabled"
 					stage: "Cartographer"
 				}
@@ -143,12 +143,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_cleric"
-					only_one: "true"
+					only_one: true
 				}
 				{
 					id: "30D10EEAC3702FE2"
 					type: "gamestage"
-					team_reward: "false"
+					team_reward: false
 					auto: "enabled"
 					stage: "Cleric"
 				}
@@ -172,12 +172,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_enderian"
-					only_one: "true"
+					only_one: true
 				}
 				{
 					id: "1B0C4AB95C82CC00"
 					type: "gamestage"
-					team_reward: "false"
+					team_reward: false
 					auto: "enabled"
 					stage: "Enderian"
 				}
@@ -201,12 +201,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_engineer"
-					only_one: "true"
+					only_one: true
 				}
 				{
 					id: "5C22B1C144B5AFA7"
 					type: "gamestage"
-					team_reward: "false"
+					team_reward: false
 					auto: "enabled"
 					stage: "Engineer"
 				}
@@ -230,12 +230,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_farmer"
-					only_one: "true"
+					only_one: true
 				}
 				{
 					id: "786D7D4DA5B98FBB"
 					type: "gamestage"
-					team_reward: "false"
+					team_reward: false
 					auto: "enabled"
 					stage: "Farmer"
 				}
@@ -259,12 +259,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_fisherman"
-					only_one: "true"
+					only_one: true
 				}
 				{
 					id: "2FBFBB4944AC7717"
 					type: "gamestage"
-					team_reward: "false"
+					team_reward: false
 					auto: "enabled"
 					stage: "Fisherman"
 				}
@@ -288,12 +288,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_fletcher"
-					only_one: "true"
+					only_one: true
 				}
 				{
 					id: "38E03ED958EA92B1"
 					type: "gamestage"
-					team_reward: "false"
+					team_reward: false
 					auto: "enabled"
 					stage: "Fletcher"
 				}
@@ -317,12 +317,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_florist"
-					only_one: "true"
+					only_one: true
 				}
 				{
 					id: "062DEDB141ACF1AD"
 					type: "gamestage"
-					team_reward: "false"
+					team_reward: false
 					auto: "enabled"
 					stage: "Florist"
 				}
@@ -346,12 +346,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_hunter"
-					only_one: "true"
+					only_one: true
 				}
 				{
 					id: "6D0781267B76087C"
 					type: "gamestage"
-					team_reward: "false"
+					team_reward: false
 					auto: "enabled"
 					stage: "Hunter"
 				}
@@ -375,12 +375,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_leatherworker"
-					only_one: "true"
+					only_one: true
 				}
 				{
 					id: "2C8ED7E6FE12A3E1"
 					type: "gamestage"
-					team_reward: "false"
+					team_reward: false
 					auto: "enabled"
 					stage: "Leatherworker"
 				}
@@ -404,12 +404,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_librarian"
-					only_one: "true"
+					only_one: true
 				}
 				{
 					id: "370A6F2103412D21"
 					type: "gamestage"
-					team_reward: "false"
+					team_reward: false
 					auto: "enabled"
 					stage: "Librarian"
 				}
@@ -433,12 +433,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_mason"
-					only_one: "true"
+					only_one: true
 				}
 				{
 					id: "458FB80F0569901B"
 					type: "gamestage"
-					team_reward: "false"
+					team_reward: false
 					auto: "invisible"
 					stage: "Mason"
 				}
@@ -462,12 +462,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_netherian"
-					only_one: "true"
+					only_one: true
 				}
 				{
 					id: "54E28368A6651B57"
 					type: "gamestage"
-					team_reward: "false"
+					team_reward: false
 					auto: "invisible"
 					stage: "Netherian"
 				}
@@ -491,12 +491,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_oceanographer"
-					only_one: "true"
+					only_one: true
 				}
 				{
 					id: "058D3B0970AD9F8D"
 					type: "gamestage"
-					team_reward: "false"
+					team_reward: false
 					auto: "invisible"
 					stage: "Oceanographer"
 				}
@@ -520,12 +520,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_shepherd"
-					only_one: "true"
+					only_one: true
 				}
 				{
 					id: "57B4C86BFBC0B78A"
 					type: "gamestage"
-					team_reward: "false"
+					team_reward: false
 					auto: "invisible"
 					stage: "Shepherd"
 				}
@@ -549,12 +549,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_toolsmith"
-					only_one: "true"
+					only_one: true
 				}
 				{
 					id: "61B894031764D49D"
 					type: "gamestage"
-					team_reward: "false"
+					team_reward: false
 					auto: "invisible"
 					stage: "Toolsmith"
 				}
@@ -578,12 +578,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_weaponsmith"
-					only_one: "true"
+					only_one: true
 				}
 				{
 					id: "477FC8AF0C48C6BF"
 					type: "gamestage"
-					team_reward: "false"
+					team_reward: false
 					auto: "invisible"
 					stage: "Weaponsmith"
 				}
@@ -607,12 +607,12 @@
 					type: "item"
 					auto: "enabled"
 					item: "quest_giver:trading_contract_woodworker"
-					only_one: "true"
+					only_one: true
 				}
 				{
 					id: "3B9CCD4C2D75CC93"
 					type: "gamestage"
-					team_reward: "false"
+					team_reward: false
 					auto: "invisible"
 					stage: "Woodworker"
 				}
@@ -633,7 +633,7 @@
 				{
 					id: "2FB1DC20578FDDE0"
 					type: "advancement"
-					team_reward: "false"
+					team_reward: false
 					auto: "enabled"
 					advancement: "custom:magical_spring"
 					criterion: ""
@@ -655,7 +655,7 @@
 				{
 					id: "62ECBD35F6057629"
 					type: "advancement"
-					team_reward: "false"
+					team_reward: false
 					auto: "enabled"
 					advancement: "custom:scarlet_rot"
 					criterion: ""
@@ -687,7 +687,7 @@
 				{
 					id: "5FF706308659EAA4"
 					type: "advancement"
-					team_reward: "false"
+					team_reward: false
 					auto: "enabled"
 					advancement: "custom:traveller"
 					criterion: ""
@@ -730,7 +730,7 @@
 				{
 					id: "3FD437A2FE244602"
 					type: "gamestage"
-					team_reward: "true"
+					team_reward: true
 					auto: "invisible"
 					stage: "wolf"
 				}
@@ -752,7 +752,7 @@
 				{
 					id: "3421AFDB62C694F9"
 					type: "item"
-					team_reward: "false"
+					team_reward: false
 					auto: "enabled"
 					item: "quest_giver:trading_contract_miner"
 				}
@@ -780,7 +780,7 @@
 					id: "44A009FC69D648D4"
 					type: "gamestage"
 					auto: "invisible"
-					ignore_reward_blocking: "true"
+					ignore_reward_blocking: true
 					stage: "nether"
 				}
 			]
@@ -802,7 +802,7 @@
 					id: "52B64F48C2ABDE53"
 					type: "gamestage"
 					auto: "invisible"
-					ignore_reward_blocking: "true"
+					ignore_reward_blocking: true
 					stage: "bloodborne"
 				}
 			]
@@ -1008,15 +1008,15 @@
 					id: "0A5CCAED8472C7E3"
 					type: "item"
 					item: "quest_giver:trading_contract_armorer"
-					consume_items: "false"
-					only_from_crafting: "false"
+					consume_items: false
+					only_from_crafting: false
 				}
 			]
 		}
 		{
 			x: 12.0d
 			y: 14.5d
-			hide_dependency_lines: "false"
+			hide_dependency_lines: false
 			min_required_dependencies: 1
 			dependencies: [
 				"7DACD6F0B43A5189"
@@ -1069,8 +1069,8 @@
 					id: "6F9B268EEB8CFC06"
 					type: "item"
 					item: "quest_giver:trading_contract_butcher"
-					consume_items: "false"
-					only_from_crafting: "false"
+					consume_items: false
+					only_from_crafting: false
 				}
 			]
 		}
@@ -1083,8 +1083,8 @@
 					id: "076B6B156AE5BD64"
 					type: "item"
 					item: "quest_giver:trading_contract_cartographer"
-					consume_items: "false"
-					only_from_crafting: "false"
+					consume_items: false
+					only_from_crafting: false
 				}
 			]
 		}
@@ -1097,8 +1097,8 @@
 					id: "40167F388ED4275A"
 					type: "item"
 					item: "quest_giver:trading_contract_cleric"
-					consume_items: "false"
-					only_from_crafting: "false"
+					consume_items: false
+					only_from_crafting: false
 				}
 			]
 		}
@@ -1111,8 +1111,8 @@
 					id: "2B93521C491C4F51"
 					type: "item"
 					item: "quest_giver:trading_contract_farmer"
-					consume_items: "false"
-					only_from_crafting: "false"
+					consume_items: false
+					only_from_crafting: false
 				}
 			]
 		}
@@ -1125,8 +1125,8 @@
 					id: "500702FC1372311F"
 					type: "item"
 					item: "quest_giver:trading_contract_fisherman"
-					consume_items: "false"
-					only_from_crafting: "false"
+					consume_items: false
+					only_from_crafting: false
 				}
 			]
 		}
@@ -1139,8 +1139,8 @@
 					id: "0F8CBE299097B30A"
 					type: "item"
 					item: "quest_giver:trading_contract_fletcher"
-					consume_items: "false"
-					only_from_crafting: "false"
+					consume_items: false
+					only_from_crafting: false
 				}
 			]
 		}
@@ -1153,8 +1153,8 @@
 					id: "21F60E80E88D848C"
 					type: "item"
 					item: "quest_giver:trading_contract_leatherworker"
-					consume_items: "false"
-					only_from_crafting: "false"
+					consume_items: false
+					only_from_crafting: false
 				}
 			]
 		}
@@ -1167,8 +1167,8 @@
 					id: "3C7C6D2C9D84D12A"
 					type: "item"
 					item: "quest_giver:trading_contract_librarian"
-					consume_items: "false"
-					only_from_crafting: "false"
+					consume_items: false
+					only_from_crafting: false
 				}
 			]
 		}
@@ -1181,8 +1181,8 @@
 					id: "229396FCF2F84ACB"
 					type: "item"
 					item: "quest_giver:trading_contract_mason"
-					consume_items: "false"
-					only_from_crafting: "false"
+					consume_items: false
+					only_from_crafting: false
 				}
 			]
 		}
@@ -1195,8 +1195,8 @@
 					id: "56CB94402479A8A1"
 					type: "item"
 					item: "quest_giver:trading_contract_shepherd"
-					consume_items: "false"
-					only_from_crafting: "false"
+					consume_items: false
+					only_from_crafting: false
 				}
 			]
 		}
@@ -1209,8 +1209,8 @@
 					id: "691F13F285B83DF1"
 					type: "item"
 					item: "quest_giver:trading_contract_toolsmith"
-					consume_items: "false"
-					only_from_crafting: "false"
+					consume_items: false
+					only_from_crafting: false
 				}
 			]
 		}
@@ -1223,8 +1223,8 @@
 					id: "32F6E8E32D9DE46C"
 					type: "item"
 					item: "quest_giver:trading_contract_weaponsmith"
-					consume_items: "false"
-					only_from_crafting: "false"
+					consume_items: false
+					only_from_crafting: false
 				}
 			]
 		}
@@ -1237,8 +1237,8 @@
 					id: "2A305B7C101FCFC6"
 					type: "item"
 					item: "quest_giver:trading_contract_enderian"
-					consume_items: "false"
-					only_from_crafting: "false"
+					consume_items: false
+					only_from_crafting: false
 				}
 			]
 		}
@@ -1251,8 +1251,8 @@
 					id: "1B73B3A07F1430C3"
 					type: "item"
 					item: "quest_giver:trading_contract_engineer"
-					consume_items: "false"
-					only_from_crafting: "false"
+					consume_items: false
+					only_from_crafting: false
 				}
 			]
 		}
@@ -1265,8 +1265,8 @@
 					id: "3F6D9DD4864EDB7D"
 					type: "item"
 					item: "quest_giver:trading_contract_florist"
-					consume_items: "false"
-					only_from_crafting: "false"
+					consume_items: false
+					only_from_crafting: false
 				}
 			]
 		}
@@ -1279,8 +1279,8 @@
 					id: "48D2F606C4CBFA6A"
 					type: "item"
 					item: "quest_giver:trading_contract_hunter"
-					consume_items: "false"
-					only_from_crafting: "false"
+					consume_items: false
+					only_from_crafting: false
 				}
 			]
 		}
@@ -1293,8 +1293,8 @@
 					id: "7E1448E1E85BD31E"
 					type: "item"
 					item: "quest_giver:trading_contract_netherian"
-					consume_items: "false"
-					only_from_crafting: "false"
+					consume_items: false
+					only_from_crafting: false
 				}
 			]
 		}
@@ -1307,8 +1307,8 @@
 					id: "222267579E87B9FB"
 					type: "item"
 					item: "quest_giver:trading_contract_oceanographer"
-					consume_items: "false"
-					only_from_crafting: "false"
+					consume_items: false
+					only_from_crafting: false
 				}
 			]
 		}
@@ -1321,8 +1321,8 @@
 					id: "500A758486598E96"
 					type: "item"
 					item: "quest_giver:trading_contract_woodworker"
-					consume_items: "false"
-					only_from_crafting: "false"
+					consume_items: false
+					only_from_crafting: false
 				}
 			]
 		}
@@ -1335,8 +1335,8 @@
 					id: "2B4B482F1450489F"
 					type: "item"
 					item: "quest_giver:trading_contract_miner"
-					consume_items: "false"
-					only_from_crafting: "false"
+					consume_items: false
+					only_from_crafting: false
 				}
 			]
 		}
@@ -1409,9 +1409,9 @@
 							map: 4
 						}
 					}
-					consume_items: "false"
-					only_from_crafting: "false"
-					match_nbt: "true"
+					consume_items: false
+					only_from_crafting: false
+					match_nbt: true
 				}
 			]
 			rewards: [
@@ -1419,7 +1419,7 @@
 					id: "428D7CF2521D1E68"
 					type: "gamestage"
 					auto: "invisible"
-					ignore_reward_blocking: "true"
+					ignore_reward_blocking: true
 					stage: "dg2q"
 				}
 			]
@@ -1452,8 +1452,8 @@
 							map: 3
 						}
 					}
-					only_from_crafting: "false"
-					match_nbt: "true"
+					only_from_crafting: false
+					match_nbt: true
 				}
 			]
 			rewards: [
@@ -1461,7 +1461,7 @@
 					id: "0F361DAC16E3F56F"
 					type: "gamestage"
 					auto: "invisible"
-					ignore_reward_blocking: "true"
+					ignore_reward_blocking: true
 					stage: "dg2q2"
 				}
 			]
@@ -1494,9 +1494,9 @@
 							map: 2
 						}
 					}
-					consume_items: "false"
-					only_from_crafting: "false"
-					match_nbt: "true"
+					consume_items: false
+					only_from_crafting: false
+					match_nbt: true
 				}
 			]
 			rewards: [
@@ -1504,7 +1504,7 @@
 					id: "2274C54EF9ADD546"
 					type: "gamestage"
 					auto: "invisible"
-					ignore_reward_blocking: "true"
+					ignore_reward_blocking: true
 					stage: "skull"
 				}
 			]

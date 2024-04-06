@@ -5,7 +5,7 @@
 	filename: "useful_commands_for_servers"
 	title: "{ftbquests.chapter.useful_commands_for_servers.title}"
 	default_quest_shape: ""
-	default_hide_dependency_lines: "false"
+	default_hide_dependency_lines: false
 	images: [
 		{
 			x: -2.5d
@@ -16,8 +16,8 @@
 			image: "ftbteams:textures/accept.png"
 			hover: ["{ftbquests.chapter.useful_commands_for_servers.images0.hover}"]
 			click: ""
-			dev: "false"
-			corner: "false"
+			dev: false
+			corner: false
 		}
 		{
 			x: 0.5d
@@ -28,8 +28,8 @@
 			image: "ftbteams:textures/accept.png"
 			hover: ["{ftbquests.chapter.useful_commands_for_servers.images1.hover}"]
 			click: ""
-			dev: "false"
-			corner: "false"
+			dev: false
+			corner: false
 		}
 		{
 			x: 3.5d
@@ -40,8 +40,8 @@
 			image: "orcz:textures/aaquestionmark.png"
 			hover: ["{ftbquests.chapter.useful_commands_for_servers.images2.hover}"]
 			click: ""
-			dev: "false"
-			corner: "false"
+			dev: false
+			corner: false
 		}
 	]
 	quests: [

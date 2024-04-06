@@ -6,7 +6,7 @@
 	title: "{ftbquests.chapter.exploration.title}"
 	icon: "supplementaries:globe"
 	default_quest_shape: ""
-	default_hide_dependency_lines: "false"
+	default_hide_dependency_lines: false
 	quests: [
 		{
 			title: "{ftbquests.chapter.exploration.quests0.title}"
@@ -203,7 +203,7 @@
 				"{ftbquests.chapter.exploration.quests7.description1}"
 			]
 			dependencies: ["57EDE0CC1790AEBD"]
-			hide: "true"
+			hide: true
 			id: "2AE188E073009A12"
 			tasks: [
 				{
@@ -232,7 +232,7 @@
 			y: -1.0d
 			description: ["{ftbquests.chapter.exploration.quests8.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
-			hide: "true"
+			hide: true
 			id: "27E0894F6EC59E41"
 			tasks: [
 				{
@@ -261,7 +261,7 @@
 			y: 0.0d
 			description: ["{ftbquests.chapter.exploration.quests9.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
-			hide: "true"
+			hide: true
 			id: "1DE383D583863F67"
 			tasks: [
 				{
@@ -290,7 +290,7 @@
 			y: 1.0d
 			description: ["{ftbquests.chapter.exploration.quests10.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
-			hide: "true"
+			hide: true
 			id: "1A00AA6649D04596"
 			tasks: [
 				{
@@ -319,7 +319,7 @@
 			y: -2.0d
 			description: ["{ftbquests.chapter.exploration.quests11.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
-			hide: "true"
+			hide: true
 			id: "2124AE11DC610CC1"
 			tasks: [
 				{
@@ -348,7 +348,7 @@
 			y: -1.0d
 			description: ["{ftbquests.chapter.exploration.quests12.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
-			hide: "true"
+			hide: true
 			id: "0B132D9B1280D572"
 			tasks: [
 				{
@@ -377,7 +377,7 @@
 			y: 0.0d
 			description: ["{ftbquests.chapter.exploration.quests13.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
-			hide: "true"
+			hide: true
 			id: "2813959518A55FA9"
 			tasks: [
 				{
@@ -411,7 +411,7 @@
 			y: 1.0d
 			description: ["{ftbquests.chapter.exploration.quests14.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
-			hide: "true"
+			hide: true
 			id: "05624949F0147925"
 			tasks: [
 				{
@@ -439,7 +439,7 @@
 			y: -2.0d
 			description: ["{ftbquests.chapter.exploration.quests15.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
-			hide: "true"
+			hide: true
 			id: "2ED8F709AB0A1E66"
 			tasks: [
 				{
@@ -473,7 +473,7 @@
 			y: -1.0d
 			description: ["{ftbquests.chapter.exploration.quests16.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
-			hide: "true"
+			hide: true
 			id: "2974355CE2A6BE98"
 			tasks: [
 				{
@@ -502,7 +502,7 @@
 			y: 0.0d
 			description: ["{ftbquests.chapter.exploration.quests17.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
-			hide: "true"
+			hide: true
 			id: "2F938B98834890FF"
 			tasks: [
 				{
@@ -537,7 +537,7 @@
 			y: 1.0d
 			description: ["{ftbquests.chapter.exploration.quests18.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
-			hide: "true"
+			hide: true
 			id: "01521D24D1CA17D0"
 			tasks: [
 				{
@@ -565,7 +565,7 @@
 			y: 2.0d
 			description: ["{ftbquests.chapter.exploration.quests19.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
-			hide: "true"
+			hide: true
 			id: "7E38E271D8341C63"
 			tasks: [
 				{
@@ -593,7 +593,7 @@
 			y: 2.0d
 			description: ["{ftbquests.chapter.exploration.quests20.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
-			hide: "true"
+			hide: true
 			id: "645605CFF7A94936"
 			tasks: [
 				{
@@ -622,7 +622,7 @@
 			y: 2.0d
 			description: ["{ftbquests.chapter.exploration.quests21.description}"]
 			dependencies: ["57EDE0CC1790AEBD"]
-			hide: "true"
+			hide: true
 			id: "57D9FF8914AB6540"
 			tasks: [
 				{
@@ -656,9 +656,9 @@
 					id: "2A33CB2A044D0A89"
 					type: "item"
 					item: "blue_skies:blue_journal"
-					consume_items: "false"
-					only_from_crafting: "false"
-					match_nbt: "false"
+					consume_items: false
+					only_from_crafting: false
+					match_nbt: false
 				}
 			]
 			rewards: [

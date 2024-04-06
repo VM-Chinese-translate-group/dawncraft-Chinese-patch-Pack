@@ -6,7 +6,7 @@
 	title: "{ftbquests.chapter.a_little_help.title}"
 	icon: "minecraft:skeleton_skull"
 	default_quest_shape: ""
-	default_hide_dependency_lines: "false"
+	default_hide_dependency_lines: false
 	quests: [
 		{
 			icon: {
@@ -24,7 +24,7 @@
 				"{ftbquests.chapter.a_little_help.quests0.description2}"
 			]
 			dependencies: ["39AE937D10D1E511"]
-			hide: "true"
+			hide: true
 			size: 6.0d
 			id: "2D58B982762B47E4"
 			tasks: [

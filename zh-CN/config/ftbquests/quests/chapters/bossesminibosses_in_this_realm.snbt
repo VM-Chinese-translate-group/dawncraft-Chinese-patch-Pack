@@ -7,7 +7,7 @@
 	icon: "apotheosis:boss_summoner"
 	subtitle: ["{ftbquests.chapter.bossesminibosses_in_this_realm.subtitle}"]
 	default_quest_shape: ""
-	default_hide_dependency_lines: "false"
+	default_hide_dependency_lines: false
 	quests: [
 		{
 			title: "{ftbquests.chapter.bossesminibosses_in_this_realm.quests0.title}"
@@ -386,7 +386,7 @@
 			x: -0.5d
 			y: -8.0d
 			shape: "square"
-			hide: "false"
+			hide: false
 			id: "30E6359CC2E8F7A6"
 			tasks: [
 				{
@@ -680,7 +680,7 @@
 			x: -5.5d
 			y: -16.0d
 			shape: "square"
-			hide: "false"
+			hide: false
 			id: "7DC5F1EFE3DE5709"
 			tasks: [
 				{
@@ -913,7 +913,7 @@
 			y: -12.0d
 			shape: "square"
 			description: ["{ftbquests.chapter.bossesminibosses_in_this_realm.quests33.description}"]
-			hide: "false"
+			hide: false
 			id: "0CE38C187D08EA00"
 			tasks: [
 				{
