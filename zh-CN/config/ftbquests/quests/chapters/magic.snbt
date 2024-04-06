@@ -64,8 +64,8 @@
 				tag: {
 					ISB_spellbook: {
 						spells: [ ]
-						activeSpellIndex: -1
 						spellSlots: 12
+						activeSpellIndex: -1
 					}
 				}
 			}

@@ -1,7 +1,7 @@
 {
 	id: "26EE9B177AC3CF7E"
 	group: "1F30A450079557C6"
-	order_index: 2
+	order_index: 1
 	filename: "monster_coins"
 	title: "{ftbquests.chapter.monster_coins.title}"
 	icon: "libraryferret:netherite_coins_jtl"
