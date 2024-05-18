@@ -279,6 +279,8 @@
     "item.irons_spellbooks.cast_time_ring": "速吟之戒",
     "item.irons_spellbooks.cinder_essence": "灰烬源质",
     "item.irons_spellbooks.common_ink": "普通墨水",
+    "item.irons_spellbooks.concentration_amulet": "专注护身符",
+    "item.irons_spellbooks.concentration_amulet.desc": "持续施法无法被打断",
     "item.irons_spellbooks.conjurers_talisman": "召唤师护符",
     "item.irons_spellbooks.cooldown_ring": "复效之戒",
     "item.irons_spellbooks.cooldown_rune": "冷却缩减符文",

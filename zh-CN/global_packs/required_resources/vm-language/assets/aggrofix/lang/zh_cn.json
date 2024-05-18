@@ -1,0 +1,5 @@
+{
+  "gamerule.useAggroFix": "使用挑衅系统",
+  "enchantment.aggrofix.aggronizing": "挑衅",
+  "gamerule.useAggroFix.description": "切换挑衅系统开关"
+}
