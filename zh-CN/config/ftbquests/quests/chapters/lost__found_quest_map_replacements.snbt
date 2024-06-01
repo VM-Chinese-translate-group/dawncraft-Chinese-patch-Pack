@@ -21,10 +21,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -82,10 +82,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -143,10 +143,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -204,10 +204,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -265,10 +265,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -326,10 +326,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -387,10 +387,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -448,10 +448,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -502,10 +502,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -563,10 +563,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -624,10 +624,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -685,10 +685,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -746,10 +746,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -790,10 +790,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -851,10 +851,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -912,10 +912,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -973,10 +973,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -1034,10 +1034,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -1087,10 +1087,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -1141,10 +1141,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -1202,10 +1202,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -1263,10 +1263,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -1314,10 +1314,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -1365,10 +1365,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -1419,10 +1419,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -1473,10 +1473,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -1528,10 +1528,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0
@@ -1582,10 +1582,10 @@
 					Decorations: [
 						{
 							type: 26b
-							x: -496.0d
+							rot: 180.0d
 							id: "+"
 							z: -192.0d
-							rot: 180.0d
+							x: -496.0d
 						}
 					]
 					map: 0

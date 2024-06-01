@@ -7,7 +7,7 @@
 			"text": "所以？"
 		},
 		"description": {
-			"text": "我可以教你这个技能——潜在报复，价格为18个绿宝石。"
+			"text": "我可以教你这个技能——裁雨留虹，价格为25个绿宝石。"
 		}
 	},
 	"complete": {
@@ -15,7 +15,7 @@
 			"text": "感谢！"
 		},
 		"description": {
-			"text": "嘿，那边那个年轻的探险家！"
+			"text": "拿去吧，冒险家！"
 		}
 	},
 	"tasks": [
@@ -24,12 +24,12 @@
 				"item": "minecraft:emerald"
 			},
 			"id": "quest_giver:gift",
-			"times": 18
+			"times": 25
 		}
 	],
 	"rewards": [
 		{
-			"command": "give @p epicfight:skillbook{skill:\"wom:latent_retribution\"}",
+			"command": "give @p epicfight:skillbook{skill:\"sword_soaring:rain_cutter\"}",
 			"id": "quest_giver:command"
 		}
 	]

@@ -1045,7 +1045,7 @@
 				{
 					id: "0C1F100CD4CF90F8"
 					type: "item"
-					item: "ars_nouveau:wilden_horn"
+					item: "irons_spellbooks:cinder_essence"
 					count: 5L
 					consume_items: true
 				}

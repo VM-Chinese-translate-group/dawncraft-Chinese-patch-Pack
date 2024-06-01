@@ -1,8 +1,8 @@
 {
-	"item.epicfight.infernal_gainer": "伊芙利特",
-	"item.epicfight.infernal.tooltip": "一位武器制造大师将武器交给了克洛诺斯·卡斯托德，而后者却否认了武器的意图，流放了创造者。在仇恨的驱使下，恶魔的武器踏上了复仇之路。流落在世间的它们等待着一位相配的持用者来施展它们幽怨的力量。",
-	"skill.epicfight.infernal_gainer_innate": "时空宿敌/岩浆魔便",
-	"skill.epicfight.infernal_gainer_innate.tooltip": "岩浆魔便：一旦特殊攻击充能完成，玩家将释放出焚烧一切的熔岩之力。\n\n时空宿敌：升龙拳或真·升龙拳",
+	"item.epicfight.infernal_gainer": "地狱收集者",
+	"item.epicfight.infernal.tooltip": "武器制造大师时空是所有热衷于战斗的时间旅行战士们的监督者。是他将这些武器交给了克洛诺斯·卡斯托德，但思想封闭的卡斯托德否认了武器的用途，并且将制造者流放到了遥远的领域。在制造者的仇恨与嫉妒的驱使下，恶魔的武器踏上了复仇之路。曾用于寻求自由的武器被剥去了初心，流落在错综复杂的Minecraft世界，等待着一位相配的主人来施展它们幽怨的力量。",
+	"skill.epicfight.infernal_gainer_innate": "时空恶源/岩浆魔便",
+	"skill.epicfight.infernal_gainer_innate.tooltip": "岩浆魔便：一旦特殊攻击充能完成，玩家将释放出焚烧一切的熔岩之力。\n\n时空恶源：升龙拳或真·升龙拳",
 	"skill.epicfight.royal_guard": "皇家防守",
 	"skill.epicfight.royal_guard.tooltip": "格挡任何攻击都会使你的耐力消耗、动作加快，并且此时你可以进行皇家冲撞。若要使用皇家冲撞，只需在按住格挡键的同时按下攻击键即可。可造成很高的伤害和击退。"
 }

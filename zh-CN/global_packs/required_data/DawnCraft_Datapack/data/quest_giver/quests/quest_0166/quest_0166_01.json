@@ -1,0 +1,32 @@
+{
+	"parent": "quest_giver:root",
+	"reputation": 15,
+	"icon": "minecraft:iron_sword",
+	"start": {
+		"title": {
+			"text": "所以？"
+		},
+		"description": {
+			"text": "我可以教你这个技能——星斗归位，价格为25个绿宝石。"
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "感谢！"
+		},
+		"description": {
+			"text": "我的荣幸。"
+		}
+	},
+	"tasks": [{
+		"item": {
+			"item": "minecraft:emerald"
+		},
+      "id": "quest_giver:gift",
+      "times": 25
+	}],
+	"rewards": [{
+		"command": "give @p epicfight:skillbook{skill:\"sword_soaring:stellar_restoration\"}",
+		"id": "quest_giver:command"
+	}]
+}

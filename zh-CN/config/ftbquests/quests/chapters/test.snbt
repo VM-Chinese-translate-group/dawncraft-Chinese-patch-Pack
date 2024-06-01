@@ -1400,10 +1400,10 @@
 							Decorations: [
 								{
 									type: 26b
-									x: 3840.0d
+									rot: 180.0d
 									id: "+"
 									z: 32.0d
-									rot: 180.0d
+									x: 3840.0d
 								}
 							]
 							map: 4
@@ -1443,10 +1443,10 @@
 							Decorations: [
 								{
 									type: 26b
-									x: -4400.0d
+									rot: 180.0d
 									id: "+"
 									z: 736.0d
-									rot: 180.0d
+									x: -4400.0d
 								}
 							]
 							map: 3
@@ -1485,10 +1485,10 @@
 							Decorations: [
 								{
 									type: 26b
-									rot: 180.0d
+									x: -1456.0d
 									id: "+"
 									z: -416.0d
-									x: -1456.0d
+									rot: 180.0d
 								}
 							]
 							map: 2
