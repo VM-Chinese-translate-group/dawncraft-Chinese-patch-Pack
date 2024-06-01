@@ -1,6 +1,6 @@
 autoSwitchLanguage = false
 checkModPackTranslationUpdate = true
-autoDownloadVMTranslationPack = false
+autoDownloadVMTranslationPack = true
 autoInstallVMTranslationPack = false
 displayTips = true
 playerNameCheck = true
