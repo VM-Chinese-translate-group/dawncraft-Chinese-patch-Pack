@@ -3,9 +3,9 @@
 ## 说明
 此仓库为VM汉化组工作自用仓库，并无有用资源，如想贡献汉化看下方的翻译工作平台，如想下载汉化看B站[专栏](https://www.bilibili.com/read/cv22580986)
 
-CurseForge|Modrinth|Modpack Version|状态
+CurseForge|Modrinth|整合包版本|状态
 :-|:-|:-|:-
-[Modpack](https://www.curseforge.com/minecraft/modpacks/dawn-craft)|[Modpack]()|1.27|*Active*|
+[Modpack](https://www.curseforge.com/minecraft/modpacks/dawn-craft)|[Modpack]()|2.0.9_f2|*Active*|
 # 作者
 查看贡献者列表以获得完整列表
 # 鸣谢

@@ -20,11 +20,11 @@
   },
   "tasks": [
     {
-      "id": "afptweaks:advancement",
+      "id": "dawncraft:advancement",
       "advancement": "habitat:husbandry/fae_whisperer"
     },
     {
-      "id": "afptweaks:advancement",
+      "id": "dawncraft:advancement",
       "advancement": "biomemakeover:biomemakeover/witch_quest"
     }
   ],

@@ -20,11 +20,11 @@
   },
   "tasks": [
     {
-      "id": "afptweaks:advancement",
+      "id": "dawncraft:advancement",
       "advancement": "biomemakeover:biomemakeover/poltergeist"
     },
     {
-      "id": "afptweaks:advancement",
+      "id": "dawncraft:advancement",
       "advancement": "cloudstorage:cloudstorage/angry_cloud_in_a_bottle"
     }
   ],

@@ -20,11 +20,11 @@
   },
   "tasks": [
     {
-		"id": "afptweaks:advancement",
+		"id": "dawncraft:advancement",
 		"advancement": "ecologics:husbandry/sandcastle"
     },
     {
-		"id": "afptweaks:advancement",
+		"id": "dawncraft:advancement",
 		"advancement": "alexsmobs:alexsmobs/leafcutter_ant_pupa"
     }
   ],

@@ -19,7 +19,7 @@
 		}
 	},
 	"tasks": [{
-		"id": "afptweaks:follow_quest",
+		"id": "dawncraft:follow_quest",
 		"structure": "#minecraft:village"
 	}],
 	"rewards": [{

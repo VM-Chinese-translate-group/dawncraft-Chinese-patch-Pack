@@ -20,11 +20,11 @@
   },
   "tasks": [
     {
-      "id": "afptweaks:advancement",
+      "id": "dawncraft:advancement",
       "advancement": "alexsmobs:alexsmobs/laviathan_four_passengers"
     },
     {
-      "id": "afptweaks:advancement",
+      "id": "dawncraft:advancement",
       "advancement": "friendsandfoes:husbandry/shear_a_moobloom"
     }
   ],

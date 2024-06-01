@@ -20,11 +20,11 @@
   },
   "tasks": [
     {
-      "id": "afptweaks:advancement",
+      "id": "dawncraft:advancement",
       "advancement": "alexsmobs:alexsmobs/bald_eagle_challenge"
     },
     {
-      "id": "afptweaks:advancement",
+      "id": "dawncraft:advancement",
       "advancement": "mutantmonsters:spider_pig_spider_pig"
     }
   ],

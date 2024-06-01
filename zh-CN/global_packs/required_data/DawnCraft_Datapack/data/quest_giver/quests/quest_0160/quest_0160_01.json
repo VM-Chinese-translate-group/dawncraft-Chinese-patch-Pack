@@ -20,11 +20,11 @@
   },
   "tasks": [
     {
-      "id": "afptweaks:advancement",
+      "id": "dawncraft:advancement",
       "advancement": "incendium:infernal_dunes/pipeline/kill_sentry"
     },
     {
-      "id": "afptweaks:advancement",
+      "id": "dawncraft:advancement",
       "advancement": "farmersdelight:main/get_mushroom_colony"
     }
   ],
