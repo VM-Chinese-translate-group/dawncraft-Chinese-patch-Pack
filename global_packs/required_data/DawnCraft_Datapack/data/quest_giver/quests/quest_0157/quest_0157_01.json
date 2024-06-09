@@ -20,11 +20,11 @@
   },
   "tasks": [
     {
-		"id": "afptweaks:advancement",
+		"id": "dawncraft:advancement",
 		"advancement": "mutantmonsters:frosty_the_snow_golem"
     },
     {
-		"id": "afptweaks:advancement",
+		"id": "dawncraft:advancement",
 		"advancement": "alexsmobs:alexsmobs/sunbird_blessing"
     }
   ],

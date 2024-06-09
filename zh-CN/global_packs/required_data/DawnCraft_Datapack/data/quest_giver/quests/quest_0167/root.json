@@ -1,0 +1,12 @@
+{
+  "reputation": 15,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "嘿！"
+    },
+    "description": {
+      "text": "我有一个来自东方的古老技能可以教你，要25颗绿宝石……"
+    }
+  }
+}

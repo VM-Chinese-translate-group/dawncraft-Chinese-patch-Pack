@@ -1,12 +1,12 @@
 autoSwitchLanguage = false
 checkModPackTranslationUpdate = true
-autoDownloadVMTranslationPack = false
+autoDownloadVMTranslationPack = true
 autoInstallVMTranslationPack = false
 displayTips = true
 playerNameCheck = true
 modPackTranslationUpdateCheckUrl = "https://vmct-cn.top/modpacks/dawn/update.txt"
 modPackTranslationUrl = "https://vmct-cn.top/modpacks/dawn/"
 tipsUrl = "https://vmct-cn.top/tips.txt"
-modPackTranslationVersion = "1.1"
+modPackTranslationVersion = "2.0.9_f2"
 tipsMinutes = 20
 nameUrl = "https://vmct-cn.top/name.json"

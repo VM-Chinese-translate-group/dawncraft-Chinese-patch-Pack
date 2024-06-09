@@ -6,7 +6,7 @@
 	title: "{ftbquests.chapter.enchanting.title}"
 	icon: "apotheosis:blazing_hellshelf"
 	default_quest_shape: ""
-	default_hide_dependency_lines: "false"
+	default_hide_dependency_lines: false
 	quests: [
 		{
 			title: "{ftbquests.chapter.enchanting.quests0.title}"

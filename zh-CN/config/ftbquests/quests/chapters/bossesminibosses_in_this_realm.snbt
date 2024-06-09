@@ -7,7 +7,7 @@
 	icon: "apotheosis:boss_summoner"
 	subtitle: ["{ftbquests.chapter.bossesminibosses_in_this_realm.subtitle}"]
 	default_quest_shape: ""
-	default_hide_dependency_lines: "false"
+	default_hide_dependency_lines: false
 	quests: [
 		{
 			title: "{ftbquests.chapter.bossesminibosses_in_this_realm.quests0.title}"
@@ -386,7 +386,7 @@
 			x: -0.5d
 			y: -8.0d
 			shape: "square"
-			hide: "false"
+			hide: false
 			id: "30E6359CC2E8F7A6"
 			tasks: [
 				{
@@ -680,7 +680,7 @@
 			x: -5.5d
 			y: -16.0d
 			shape: "square"
-			hide: "false"
+			hide: false
 			id: "7DC5F1EFE3DE5709"
 			tasks: [
 				{
@@ -913,7 +913,7 @@
 			y: -12.0d
 			shape: "square"
 			description: ["{ftbquests.chapter.bossesminibosses_in_this_realm.quests33.description}"]
-			hide: "false"
+			hide: false
 			id: "0CE38C187D08EA00"
 			tasks: [
 				{
@@ -1206,8 +1206,8 @@
 										id: 33
 									}
 								]
-								activeSpellIndex: 0
 								spellSlots: 5
+								activeSpellIndex: 0
 							}
 						}
 					}
@@ -1287,13 +1287,7 @@
 						Count: 1b
 						tag: {
 							RepairCost: 1
-							affix_data: {
-								name: "{\"color\":\"#808080\",\"translate\":\"%s %s\",\"with\":[{\"translate\":\"affix.apotheosis:ironforged\"},\"\",\"\"]}"
-								affixes: {
-									"apotheosis:ironforged": 0.058177173f
-								}
-								rarity: "common"
-							}
+							Damage: 0
 							BlockEntityTag: {
 								Base: 15
 								Patterns: [
@@ -1323,9 +1317,29 @@
 									}
 								]
 							}
-							Damage: 0
+							affix_data: {
+								name: "{\"color\":\"#808080\",\"translate\":\"%s %s\",\"with\":[{\"translate\":\"affix.apotheosis:ironforged\"},\"\",\"\"]}"
+								affixes: {
+									"apotheosis:ironforged": 0.058177173f
+								}
+								rarity: "common"
+							}
 							HideFlags: 32
-							CustomModelData: 1450300
+							AttributeModifiers: [
+								{
+									Amount: -0.029904954135417938d
+									Name: "weaken"
+									Operation: 1
+									UUID: [I;
+										112035901
+										1134379090
+										-1220404660
+										-221377395
+									]
+									AttributeName: "minecraft:generic.attack_damage"
+									Slot: "offhand"
+								}
+							]
 							display: {
 								Name: "{\"italic\":false,\"color\":\"#993333\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Necrotic Shield\",{\"translate\":\"incendium.item.necrotic_shield.name\"}]}"
 								Lore: [
@@ -1335,21 +1349,7 @@
 									"{\"italic\":true,\"color\":\"#FF8000\",\"translate\":\"%1$s%4733088$s\",\"with\":[\"Incendium\",{\"translate\":\"incendium\"}]}"
 								]
 							}
-							AttributeModifiers: [
-								{
-									Amount: -0.029904954135417938d
-									Slot: "offhand"
-									Operation: 1
-									UUID: [I;
-										112035901
-										1134379090
-										-1220404660
-										-221377395
-									]
-									AttributeName: "minecraft:generic.attack_damage"
-									Name: "weaken"
-								}
-							]
+							CustomModelData: 1450300
 							incendium: {
 								item: "necrotic_shield"
 							}
@@ -1528,7 +1528,7 @@
 					type: "kill"
 					title: "{ftbquests.chapter.bossesminibosses_in_this_realm.quests53.tasks0.title}"
 					icon: "minecraft:player_head"
-					entity: "simple_mobs:herobrine_flash"
+					entity: "simple_mobs:herobrine"
 					value: 1L
 				}
 			]

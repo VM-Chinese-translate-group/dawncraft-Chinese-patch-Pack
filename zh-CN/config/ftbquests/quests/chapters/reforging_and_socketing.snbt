@@ -6,7 +6,7 @@
 	title: "{ftbquests.chapter.reforging_and_socketing.title}"
 	icon: "apotheosis:gem"
 	default_quest_shape: ""
-	default_hide_dependency_lines: "false"
+	default_hide_dependency_lines: false
 	quests: [
 		{
 			title: "{ftbquests.chapter.reforging_and_socketing.quests0.title}"
@@ -314,7 +314,7 @@
 			x: -7.0d
 			y: 2.1d
 			description: ["{ftbquests.chapter.reforging_and_socketing.quests14.description}"]
-			hide_dependency_lines: "true"
+			hide_dependency_lines: true
 			dependencies: ["2E51B03DF4811F84"]
 			size: 1.4d
 			id: "188EB7B36A79592B"
@@ -324,8 +324,8 @@
 					type: "item"
 					title: "{ftbquests.chapter.reforging_and_socketing.quests14.tasks0.title}"
 					item: "minecraft:brewing_stand"
-					consume_items: "false"
-					match_nbt: "false"
+					consume_items: false
+					match_nbt: false
 				}
 			]
 		}

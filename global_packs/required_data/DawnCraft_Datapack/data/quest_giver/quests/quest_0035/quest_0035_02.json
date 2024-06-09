@@ -20,7 +20,7 @@
   },
   "tasks": [
     {
-		"id": "afptweaks:advancement",
+		"id": "dawncraft:advancement",
 		"advancement": "custom:scarlet_rot"
     }
   ],

@@ -1,0 +1,21 @@
+{
+  "block.snuffles.snuffle_fluff": "魄罗绒毛",
+  "block.snuffles.frosty_fluff": "霜冻绒毛",
+  "block.snuffles.snuffle_fluff_carpet": "魄罗绒毛地毯",
+  "block.snuffles.frosty_fluff_carpet": "霜冻绒毛地毯",
+
+  "item.snuffles.snuffle_spawn_egg": "魄罗刷怪蛋",
+  
+  "entity.snuffles.snuffle": "魄罗",
+
+  "snuffles.subtitles.block.frosty_fluff.thaw": "绒毛：解冻",
+  
+  "snuffles.subtitles.entity.snuffle.ambient": "魄罗：嗅嗅",
+  "snuffles.subtitles.entity.snuffle.death": "魄罗：死亡",
+  "snuffles.subtitles.entity.snuffle.eat": "魄罗：进食",
+  "snuffles.subtitles.entity.snuffle.hurt": "魄罗：受伤",
+  "snuffles.subtitles.entity.snuffle.shake": "魄罗：抖动",
+  "snuffles.subtitles.entity.snuffle.step": "魄罗：脚步声",
+  "snuffles.subtitles.entity.snuffle.style": "魄罗：挤压",
+  "snuffles.subtitles.entity.snuffle.thaw": "魄罗：解冻"
+}

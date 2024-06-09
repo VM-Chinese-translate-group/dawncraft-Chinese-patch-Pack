@@ -20,7 +20,7 @@
   },
   "tasks": [
     {
-      "entity": "ob_aquamirae:captain_cornelia",
+      "entity": "aquamirae:captain_cornelia",
       "id": "quest_giver:kill",
       "times": 1
     }

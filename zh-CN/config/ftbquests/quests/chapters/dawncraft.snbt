@@ -6,7 +6,7 @@
 	title: "{ftbquests.chapter.dawncraft.title}"
 	icon: "minecraft:writable_book"
 	default_quest_shape: ""
-	default_hide_dependency_lines: "false"
+	default_hide_dependency_lines: false
 	quests: [
 		{
 			title: "{ftbquests.chapter.dawncraft.quests0.title}"
@@ -138,7 +138,7 @@
 							Damage: 0
 						}
 					}
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "18654BE8C4BDBDF7"
@@ -150,7 +150,7 @@
 							Damage: 0
 						}
 					}
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "4C0E6D4FF6E99229"
@@ -162,7 +162,7 @@
 							Damage: 0
 						}
 					}
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "777655C59705BBFB"
@@ -174,21 +174,21 @@
 							Damage: 0
 						}
 					}
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "3A7BA1022D007F5A"
 					type: "item"
 					item: "minecraft:iron_ingot"
 					count: 64L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "3DF5355168BC064B"
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
-					consume_items: "true"
+					consume_items: true
 				}
 			]
 			rewards: [
@@ -215,35 +215,35 @@
 					type: "item"
 					item: "minecraft:cooked_beef"
 					count: 30L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "2D4997C8008DFFB0"
 					type: "item"
 					item: "minecraft:egg"
 					count: 16L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "1BBBF9660DC96346"
 					type: "item"
 					item: "minecraft:cooked_porkchop"
 					count: 30L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "57183F11F7F38AE9"
 					type: "item"
 					item: "minecraft:cooked_mutton"
 					count: 30L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "206EA451FBA5DFC4"
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
-					consume_items: "true"
+					consume_items: true
 				}
 			]
 			rewards: [
@@ -270,35 +270,35 @@
 					type: "item"
 					item: "minecraft:ink_sac"
 					count: 32L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "7D404077140E3D07"
 					type: "item"
 					item: "minecraft:map"
 					count: 10L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "177944DEEF781BD1"
 					type: "item"
 					item: "minecraft:paper"
 					count: 64L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "2F0E964609E2FA01"
 					type: "item"
 					item: "minecraft:glow_ink_sac"
 					count: 16L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "7F7A1C5585DA4F69"
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
-					consume_items: "true"
+					consume_items: true
 				}
 			]
 			rewards: [
@@ -325,34 +325,34 @@
 					type: "item"
 					item: "minecraft:blaze_powder"
 					count: 64L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "265CC53AC61037AF"
 					type: "item"
 					item: "minecraft:glass_bottle"
 					count: 16L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "745E80B81BBA5D13"
 					type: "item"
 					item: "minecraft:brewing_stand"
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "2104F2CFC02A2F26"
 					type: "item"
 					item: "minecraft:spider_eye"
 					count: 32L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "2DF5465A55304193"
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
-					consume_items: "true"
+					consume_items: true
 				}
 			]
 			rewards: [
@@ -379,49 +379,49 @@
 					type: "item"
 					item: "minecraft:wheat"
 					count: 64L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "0F659F94639F01C0"
 					type: "item"
 					item: "farmersdelight:tomato"
 					count: 64L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "01833FABD153A05F"
 					type: "item"
 					item: "minecraft:beetroot"
 					count: 64L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "57EBA590AE59CA43"
 					type: "item"
 					item: "farmersdelight:cabbage"
 					count: 64L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "42EEE95E2A460203"
 					type: "item"
 					item: "minecraft:potato"
 					count: 64L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "1CF080D9A46AA3D9"
 					type: "item"
 					item: "minecraft:carrot"
 					count: 64L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "2C3CA37A998C4904"
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
-					consume_items: "true"
+					consume_items: true
 				}
 			]
 			rewards: [
@@ -454,35 +454,35 @@
 					type: "item"
 					item: "minecraft:cod"
 					count: 64L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "364D08486A5EDB1E"
 					type: "item"
 					item: "minecraft:salmon"
 					count: 64L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "2461F14608B83F17"
 					type: "item"
 					item: "minecraft:tropical_fish"
 					count: 5L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "3672E3DBABFACBA4"
 					type: "item"
 					item: "minecraft:pufferfish"
 					count: 5L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "1B83946686F2EF7C"
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
-					consume_items: "true"
+					consume_items: true
 				}
 			]
 			rewards: [
@@ -509,7 +509,7 @@
 					type: "item"
 					item: "minecraft:arrow"
 					count: 64L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "687BB7F1FD1572FF"
@@ -522,7 +522,7 @@
 						}
 					}
 					count: 10L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "76118F003E5D0B65"
@@ -535,21 +535,21 @@
 						}
 					}
 					count: 10L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "4E64674D09D3AFB9"
 					type: "item"
 					item: "minecraft:flint"
 					count: 32L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "406A2A72C5447737"
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
-					consume_items: "true"
+					consume_items: true
 				}
 			]
 			rewards: [
@@ -576,14 +576,14 @@
 					type: "item"
 					item: "minecraft:leather"
 					count: 64L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "7FC26951B604D88A"
 					type: "item"
 					item: "minecraft:iron_ingot"
 					count: 32L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "233D040CAF68AA22"
@@ -595,7 +595,7 @@
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
-					consume_items: "true"
+					consume_items: true
 				}
 			]
 			rewards: [
@@ -622,35 +622,35 @@
 					type: "item"
 					item: "minecraft:bookshelf"
 					count: 32L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "2C720F67D320F52E"
 					type: "item"
 					item: "minecraft:writable_book"
 					count: 10L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "4A8E59DD6361C620"
 					type: "item"
 					item: "minecraft:lapis_lazuli"
 					count: 32L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "2158CDBE932B4790"
 					type: "item"
 					item: "minecraft:diamond"
 					count: 10L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "1B8A65DB7F1CA619"
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
-					consume_items: "true"
+					consume_items: true
 				}
 			]
 			rewards: [
@@ -677,28 +677,28 @@
 					type: "item"
 					item: "minecraft:stone"
 					count: 200L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "6636C4A13F2C27AD"
 					type: "item"
 					item: "minecraft:obsidian"
 					count: 10L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "610D6A953D487182"
 					type: "item"
 					item: "minecraft:deepslate"
 					count: 64L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "34F20D005C76CD7E"
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
-					consume_items: "true"
+					consume_items: true
 				}
 			]
 			rewards: [
@@ -731,7 +731,7 @@
 					type: "item"
 					item: "minecraft:white_wool"
 					count: 64L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "2644BCC4C3012D5F"
@@ -744,21 +744,21 @@
 						}
 					}
 					count: 10L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "18DACA14A26E756F"
 					type: "item"
 					item: "minecraft:mutton"
 					count: 32L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "7CA9F521A72A189D"
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
-					consume_items: "true"
+					consume_items: true
 				}
 			]
 			rewards: [
@@ -835,7 +835,7 @@
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
-					consume_items: "true"
+					consume_items: true
 				}
 			]
 			rewards: [
@@ -862,21 +862,21 @@
 					type: "item"
 					item: "minecraft:ender_pearl"
 					count: 24L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "70F1A671FBE3A6EF"
 					type: "item"
 					item: "minecraft:grass_block"
 					count: 5L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "73B11EA0BF7DE102"
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
-					consume_items: "true"
+					consume_items: true
 				}
 			]
 			rewards: [
@@ -903,28 +903,28 @@
 					type: "item"
 					item: "create:large_cogwheel"
 					count: 10L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "1E134D911C379A6A"
 					type: "item"
 					item: "create:iron_sheet"
 					count: 32L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "3C9C15D58B97C259"
 					type: "item"
 					item: "create:andesite_alloy"
 					count: 10L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "37EAF2E91CD52939"
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
-					consume_items: "true"
+					consume_items: true
 				}
 			]
 			rewards: [
@@ -951,70 +951,70 @@
 					type: "item"
 					item: "minecraft:cornflower"
 					count: 10L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "3F9485BB353822D5"
 					type: "item"
 					item: "hexerei:mugwort_flowers"
 					count: 10L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "4319DE2DE3A4D773"
 					type: "item"
 					item: "hexerei:yellow_dock_flowers"
 					count: 10L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "6292AC22FA01C637"
 					type: "item"
 					item: "hexerei:belladonna_flowers"
 					count: 10L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "1F61A4298117DA7D"
 					type: "item"
 					item: "hexerei:mandrake_flowers"
 					count: 10L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "690FAD0D37FB4244"
 					type: "item"
 					item: "minecraft:rose_bush"
 					count: 10L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "5C36D70F54B0A026"
 					type: "item"
 					item: "minecraft:dandelion"
 					count: 10L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "761876D83D3BD113"
 					type: "item"
 					item: "minecraft:poppy"
 					count: 10L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "0A98554CC902FECB"
 					type: "item"
 					item: "minecraft:azure_bluet"
 					count: 10L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "751B2F5F802B8765"
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
-					consume_items: "true"
+					consume_items: true
 				}
 			]
 			rewards: [
@@ -1045,37 +1045,37 @@
 				{
 					id: "0C1F100CD4CF90F8"
 					type: "item"
-					item: "ars_nouveau:wilden_horn"
+					item: "irons_spellbooks:cinder_essence"
 					count: 5L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "01E7D5BC4277EF50"
 					type: "item"
 					item: "minecraft:bone"
 					count: 32L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "51B97160577A9B53"
 					type: "item"
 					item: "minecraft:leather"
 					count: 64L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "556EA1A76F5B2ED3"
 					type: "item"
 					item: "minecraft:feather"
 					count: 64L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "7FF649BE9EF10C79"
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
-					consume_items: "true"
+					consume_items: true
 				}
 			]
 			rewards: [
@@ -1113,14 +1113,14 @@
 					type: "item"
 					item: "minecraft:quartz"
 					count: 200L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "2985D1601A6DA868"
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
-					consume_items: "true"
+					consume_items: true
 				}
 			]
 			rewards: [
@@ -1147,14 +1147,14 @@
 					type: "item"
 					item: "minecraft:prismarine_shard"
 					count: 10L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "1D6A2CD6508CDBE4"
 					type: "item"
 					item: "minecraft:cod"
 					count: 10L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "1A3329098BEC8FC0"
@@ -1166,7 +1166,7 @@
 					type: "item"
 					item: "minecraft:sea_lantern"
 					count: 2L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "0F282799DBBAA06D"
@@ -1179,14 +1179,14 @@
 					type: "item"
 					item: "minecraft:seagrass"
 					count: 10L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "1E8FDD13A0B1017B"
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
-					consume_items: "true"
+					consume_items: true
 				}
 			]
 			rewards: [
@@ -1219,14 +1219,14 @@
 					type: "item"
 					item: "minecraft:oak_log"
 					count: 64L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "31FD701B206B71FD"
 					type: "item"
 					item: "minecraft:birch_log"
 					count: 64L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "11EB7D320C3C5009"
@@ -1238,21 +1238,21 @@
 							Damage: 0
 						}
 					}
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "7DDD397D5F8C19E6"
 					type: "item"
 					item: "minecraft:stripped_spruce_log"
 					count: 16L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "0172ADD25BF645E3"
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
-					consume_items: "true"
+					consume_items: true
 				}
 			]
 			rewards: [
@@ -1285,41 +1285,41 @@
 					type: "item"
 					item: "minecraft:raw_iron"
 					count: 64L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "7864BB7068B55F26"
 					type: "item"
 					item: "minecraft:raw_gold"
 					count: 32L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "25150A8D4F789287"
 					type: "item"
 					item: "minecraft:redstone"
 					count: 64L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "12DDD4E7BDB78D4C"
 					type: "item"
 					item: "minecraft:diamond"
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "6F231C239988FD6F"
 					type: "item"
 					item: "minecraft:tnt"
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "3B25D96BA9E697B7"
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
-					consume_items: "true"
-					only_from_crafting: "false"
+					consume_items: true
+					only_from_crafting: false
 				}
 			]
 			rewards: [
@@ -1346,21 +1346,21 @@
 					type: "item"
 					item: "minecraft:honeycomb"
 					count: 32L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "1A89AF14E538A72C"
 					type: "item"
 					item: "minecraft:honey_bottle"
 					count: 10L
-					consume_items: "true"
+					consume_items: true
 				}
 				{
 					id: "58B9E3CF79073742"
 					type: "item"
 					item: "minecraft:emerald"
 					count: 20L
-					consume_items: "true"
+					consume_items: true
 				}
 			]
 			rewards: [
