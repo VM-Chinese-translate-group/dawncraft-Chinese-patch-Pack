@@ -5,10 +5,9 @@
 
 CurseForge|Modrinth|整合包版本|状态
 :-|:-|:-|:-
-[Modpack](https://www.curseforge.com/minecraft/modpacks/dawn-craft)|[Modpack]()|2.0.9_f2|*Active*|
+[Modpack](https://www.curseforge.com/minecraft/modpacks/dawn-craft)|[Modpack]()|2.0.9_f3|*Active*|
 # 作者
 查看贡献者列表以获得完整列表
-# 鸣谢
 
 # 仓库统计数据
   ![Alt](https://repobeats.axiom.co/api/embed/d3dd1ee16c00c1cf444f82b6af13ca25e7036101.svg "Repobeats analytics image")
@@ -17,7 +16,7 @@ CurseForge|Modrinth|整合包版本|状态
   [crowdin](https://crowdin.com/project/dawncraft-chinese-patch-pack)
   进度：[![Crowdin](https://badges.crowdin.net/dawncraft-chinese-patch-pack/localized.svg)](https://crowdin.com/project/dawncraft-chinese-patch-pack)
 # 关于我们
-  [![Website](https://shields.io/website?up_message=vmct-cn.top&url=http://vmct-cn.top&label=Website)](http://vmct-cn.top)
+  [![Website](https://shields.io/website?up_message=vmct-cn.top&url=https://beta.vmct-cn.top/modpacks/dawn&label=Website)](https://beta.vmct-cn.top/modpacks/dawn)
   [![Bilibili](https://shields.io/website?up_message=Space&url=https://space.bilibili.com/2085089798/&label=Bilibili)](https://space.bilibili.com/2085089798/)
   
 <!--
