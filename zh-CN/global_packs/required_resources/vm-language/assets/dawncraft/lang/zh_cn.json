@@ -86,6 +86,7 @@
 	"waypoint.dawncraft.cultist": "信徒监狱",
 	"waypoint.dawncraft.cultist_2": "神父教会",
 	"entity.dawncraft.fallen": "亡灵冒险家",
+	"entity.dawncraft.quest_player": "冒险家",
 	"message.dawncraft.invasions_enabled_0": "感知到多位红灵的逼近，准备迎接即将到来的入侵……",
 	"message.dawncraft.invasions_enabled_1": "%1$s秒后发动第一次入侵",
 	"message.dawncraft.invasion": "你被 %1$s 入侵了",
