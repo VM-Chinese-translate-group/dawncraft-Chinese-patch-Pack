@@ -1,5 +1,0 @@
-{	
-    "ars_nouveau.glyph_desc.break": "A spell you start with. Breaks blocks of an average hardness. Can be amplified to increase the harvest level. Sensitive will simulate breaking blocks with Shears instead of a pickaxe.",
-	"ars_nouveau.glyph_desc.phantom_block": "Creates a temporary block that will disappear after a short time. Amplify will cause the block to be permanent. ",
-	"ars_nouveau.glyph_desc.summon_steed": "Summons a saddled horse that will vanish after a few minutes. AOE will increase the amount summoned, while Extend Time will increase the duration of the summon. Applies Summoning Sickness to the caster, and cannot be cast while afflicted by this Sickness."
-}

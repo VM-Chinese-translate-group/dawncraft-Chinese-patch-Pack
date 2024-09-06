@@ -1,25 +1,53 @@
-# DawnCraft 汉化补丁
+<div style="display: flex">
+  <img src="https://media.forgecdn.net/attachments/634/417/fire-giant.png" style="width:50%" alt="图片1">
+  <img src="https://s1.ax1x.com/2023/07/22/pCqigqU.jpg" style="width:50%" alt="图片2">
+</div>
 
-## 说明
-此仓库为VM汉化组工作自用仓库，并无有用资源，如想贡献汉化看下方的翻译工作平台，如想下载汉化看B站[专栏](https://www.bilibili.com/read/cv22580986)
+> [!IMPORTANT]
+> 必须下载Vault Patcher（VP）模组才能完整汉化！
+> **汉化支持整合包版本2.0.9f3，不支持最新版！**
 
-CurseForge|Modrinth|整合包版本|状态
+
+- 需要为DawnCraft分配至少6GB运行内存，建议8-12G
+- 请确保已安装 Java 18 或 17，否则可能会导致崩溃
+- 如果你是MacOS用户，请[查看此文档](https://vmhanhuazu.lanzouo.com/Dawncraft-mac)
+
+整合包下载地址|加载器|支持整合包版本|状态
 :-|:-|:-|:-
-[Modpack](https://www.curseforge.com/minecraft/modpacks/dawn-craft)|[Modpack]()|2.0.9_f3|*Active*|
-# 作者
-查看贡献者列表以获得完整列表
+[下载链接](https://www.curseforge.com/minecraft/modpacks/dawn-craft)|Forge|1.18.2 2.0.9f3|**停止维护**|
 
-# 仓库统计数据
-  ![Alt](https://repobeats.axiom.co/api/embed/d3dd1ee16c00c1cf444f82b6af13ca25e7036101.svg "Repobeats analytics image")
+<DownloadLinks :methods="[
+  { id: 'lanzou', text: '下载汉化', icon: '/imgs/svg/lanzou.svg', link: 'https://vmhanhuazu.lanzoui.com/s/DawnCraft-VMct' },
+  { id: 'bilibili', text: '宣传片', icon: '/imgs/svg/bilibili.svg', link: 'https://www.bilibili.com/video/BV1Ju4m1T719/' },
+  { id: 'bilibili', text: '汉化教程', icon: '/imgs/svg/bilibili.svg', link: 'https://www.bilibili.com/video/BV1ZU411f7FA' },
+  { id: 'curseforge', text: '下载VP模组', icon: '/imgs/svg/curseforge.svg', link: 'https://www.curseforge.com/minecraft/mc-mods/vault-patcher/download/5472024' },
+  { id: 'lazy', text: '懒汉下载', icon: '/imgs/logo/logo_64.png', link: '/lazy/' }
+]" />
 
-# 翻译工作平台  
-  [crowdin](https://crowdin.com/project/dawncraft-chinese-patch-pack)
-  进度：[![Crowdin](https://badges.crowdin.net/dawncraft-chinese-patch-pack/localized.svg)](https://crowdin.com/project/dawncraft-chinese-patch-pack)
-# 关于我们
-  [![Website](https://shields.io/website?up_message=vmct-cn.top&url=https://beta.vmct-cn.top/modpacks/dawn&label=Website)](https://beta.vmct-cn.top/modpacks/dawn)
-  [![Bilibili](https://shields.io/website?up_message=Space&url=https://space.bilibili.com/2085089798/&label=Bilibili)](https://space.bilibili.com/2085089798/)
-  
-<!--
-  仓库统计数据等都需要自己填写，只是个模板而已，不会写那么细。
-  仓库统计数据的表格来这里获取https://repobeats.axiom.co/ 然后将链接填写至空格当中
--->
+## 整合包介绍
+
+⚔️数十个带有独特攻击模式/动画的boss
+
+⚔️数百个全新的动物和怪物
+
+⚔️数百个新结构
+
+⚔️一个完整的任务线和高度自定义的任务系统
+
+⚔️独特的成就系统
+
+⚔️魂类战斗系统
+
+## 整合包下载与授权
+
+你可以在[CurseForge](https://www.curseforge.com/minecraft/modpacks/dawn-craft)或启动器内下载整合包，并下载汉化补丁，通过解压覆盖文件的方法完成汉化。
+
+本整合包汉化已获得作者授权。本汉化补丁不违反任何社区规则。
+
+## 支持我们
+
+您的支持与鼓励是我们前进的动力！我们一直在用爱发电。如果在您条件允许的情况下，可以在爱发电支持我们！还可以在B站免费关注我们的账号！
+
+## 加入我们
+
+加入我们的QQ交流群，可以进一步了解翻译进度等最新消息。通过加入翻译外部志愿者群，可以参与最新的汉化项目，为翻译贡献自己的力量。质量优异表现突出的还有机会被正式邀请进VM汉化组！
