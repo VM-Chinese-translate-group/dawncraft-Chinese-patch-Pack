@@ -205,7 +205,7 @@
     "gui.sophisticatedcore.error.add.battery_exists": "已加装一个电池升级",
     "gui.sophisticatedcore.error.add.upgrade_not_allowed": "%s不能加装于%s",
     "gui.sophisticatedcore.error.add.only_single_upgrade_allowed": "仅可加装单个%s于%s",
-    "gui.sophisticatedcore.error.add.only_x_upgrades_allowed": "仅可加装%d个%s于%s",  
+    "gui.sophisticatedcore.error.add.only_x_upgrades_allowed": "仅可加装%d个%s于%s",
     "gui.sophisticatedcore.narrate.tab_button": "升级标签页开/关按钮",
     "gui.sophisticatedcore.narrate.context_button": "上下文切换设置为：%s",
     "gui.sophisticatedcore.narrate.context_button.usage": "单击以切换上下文",

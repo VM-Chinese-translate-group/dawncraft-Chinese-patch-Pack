@@ -156,7 +156,7 @@
 	"item.minecraft.potion.effect.blooming": "绽放",
 	"item.minecraft.splash_potion.effect.blooming": "喷溅型绽放药水",
 	"item.minecraft.lingering_potion.effect.blooming": "滞留型绽放药水",
-	"item.epicfight.uchigatana.tooltip": "5秒不攻击后收刀，下次的攻击将会强化.",
+	"item.epicfight.uchigatana.tooltip": "5秒不攻击后收刀，下次的攻击将会强化。",
 	"itemGroup.epicfight.items": "史诗战斗物品",
 	"key.epicfight.gui": "史诗战斗界面",
 	"key.epicfight.combat": "史诗战斗模式",
